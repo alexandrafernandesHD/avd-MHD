@@ -14,7 +14,7 @@
         * Entrevistas
           * Novas entrevistas
           * Museu da Pessoa
-          * Entrevistas dos 30 anos da Universidade      
-        * Inquéritos
+          * Entrevistas dos 30 anos da Universidade
+        * Inquéritos    
         * _Web scraping_
           * _Websites_ que podemos utilizar para recolher dados 
