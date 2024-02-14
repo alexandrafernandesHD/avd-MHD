@@ -5,10 +5,10 @@
 ### Sumário
 
 * Apresentação da Unidade Curricular
-  * Apresentação dos docentes.
+  * Apresentação dos docentes
   * Apresentação do programa
-  * Breve discussão sobre a avaliação.
-* O que é a lematização.
+  * Breve discussão sobre a avaliação
+* O que é a lematização?
 * Discusão e _Brainstorming_ sobre o "Projeto Sombra"
    * Possíveis temas
         * Entrevistas
