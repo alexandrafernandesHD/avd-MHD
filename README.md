@@ -1,3 +1,3 @@
-# Diários de Bordo de Análise e Visualização de Dados
+# Repositório de Análise e Visualização de Dados 2023/2024
 
-Os apontamentos de Análise e Visualização de Dados estão neste repositório.
+<p>O presente repositório servirá para os alunos colocarem os "diários de bordo" e outros documentos relevantes para a disciplina</p>
