@@ -1,6 +1,6 @@
 # Análise e Visualização de Dados 2023/2024
 
-## Aula de 9 de Fevereiro de 2024 - Manhã
+## Aula de 9 de Fevereiro de 2024 - Manhã (09:00 - 11:00) 
 
 ### Sumário
 
