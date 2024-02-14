@@ -1,8 +1,8 @@
-#Análise e Visualização de Dados 2023/2024
+# Análise e Visualização de Dados 2023/2024
 
-##Aula de 9 de Fevereiro de 2024 - Manhã
+## Aula de 9 de Fevereiro de 2024 - Manhã
 
-###Sumário
+### Sumário
 
 * Apresentação da Unidade Curricular
   * Apresentação dos docentes.
@@ -12,9 +12,9 @@
 * Discusão e _Brainstorming_ sobre o "Projeto Sombra"
    * Possíveis temas
         * Entrevistas
-              * Novas entrevistas
-              * Museu da Pessoa
-              * Entrevistas dos 30 anos da Universidade      
+          * Novas entrevistas
+          * Museu da Pessoa
+          * Entrevistas dos 30 anos da Universidade      
         * Inquéritos
         * _Web scrapping_
                * _Websites_ que podemos utilizar para recolher dados.   
