@@ -1,1 +1,21 @@
+###Diário de Bordo
+
+Relativamente ao trabalho de casa da aula anterior, dividimos pelos alunos os artigos do jornal NOS e cada um fez a extração de todos os artigos desde Junho de 2015 até Dezembro de 2023. Todos estes ficheiros encontram-se no seguinte link do Drive: https://drive.google.com/drive/folders/1wMFEWdMwxv8tgrQ8VXqCBMVi1oaUGiFA
+UMDicas / NOS / ComUM
+1.	O NOS foi o que conseguimos melhor extrair informações – edição, artigos, entrevistas “UM de nós” (Metadados (ex: quem foi o entrevistado – Quem, quando, profissão, organização, cursos, etc)).
+O objetivo principal, neste momento, é extrair as entrevistas. 
+Se conseguirmos extrair os artigos todos, depois podemos extrair as entrevistas. Os artigos e entrevistas depois de devidamente limpos, colocamos no nosso repositório. 
+
+2.	Ver as “entrevista” do ComUM.
+
+3.	Para UM Dicas, podemos usar um webscrapping mais “manual”, cut&paste. Tem uma secção de entrevistas, com 21 páginas de entrevistas.
+Wget -r -l 1 : Vai buscar só o primeiro caminho
+-? Jpg, mp3, etc…
+
+Usamos o winget em vez do (Requests )e 
+bs4 - para fazer limpeza dos dados extraídos (artigos e entrevistas). Que arrumação vamos dar?
+Entrevistas - histórias das pessoas com relação à universidade (celebração dos 50 anos).
+1. Retirar os artigos dos zips
+2. Fazer um programa com pyhton
+3. Para cada uma desses artigos utilizar o bs4, para separar o que precisamos
 
