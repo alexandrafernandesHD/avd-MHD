@@ -1,0 +1,21 @@
+Sumário AVD 
+2024/03/08
+
+  - Lexicometria;
+  
+  - Lexicometria paradigmatica ou descontextualizada;
+    	- extração de itens lexicais isolados;
+  	- Independentemente do contexto em que ocorrem;
+  	- Contagem de frequência 
+   	- frequência absoluta/relativa;
+  	- coeficiente de lexicalidade / funcionalidade (palavras lexicais vs. palavras funcionais);
+  	- coeficiente de repetição geral (nº de palavras únicas / nº total de palavras): Tokens, tipos e lemas ({O João comeu o frango com as mãos})
+  	- diversidade lexical
+
+  - Lexicometria de coocorrência ou contextualizada;
+  	- Semântica Distribucional;
+  	- Algoritmo Word2vec;
+  	- Cosseno do ângulo entre dois vectores;
+  	- Testes com o algoritmo Word2vec;
+  
+  - Análise lexicométrica entrevistas Caminho de Santiago;
