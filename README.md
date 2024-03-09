@@ -5,7 +5,7 @@
 
 <h2>Pastas que compõem o Repositório</h2>
 <p><strong>Diários de Bordo/Fevereiro:</strong> Contém os diários de bordo e os sumários de cada aula, devidamente indentificados por datas e organizados por meses. </p>
-<p><strong>UmSombra/HV-ProjectoUM:</strong>Contém documentosem XML relativos às entrevistas realizadas no âmbito do projeto relacionado com os 30 anos da Universidade do Minho (Museu da Pessoa).</p>
+<p><strong>UmSombra/HV-ProjectoUM:</strong> Contém documentosem XML relativos às entrevistas realizadas no âmbito do projeto relacionado com os 30 anos da Universidade do Minho (Museu da Pessoa).</p>
 <p><strong>Arquivo_UMSombra</strong></p>
 <p></p>
 <h2>Restantes Documentos</h2>
