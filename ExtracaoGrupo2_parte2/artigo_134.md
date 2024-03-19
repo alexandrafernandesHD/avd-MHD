@@ -1,0 +1,47 @@
+
+==========
+16Mar2022
+Maria João Alves
+https://www.comumonline.com/wp-content/uploads/2022/03/AEDUM-Moldura.jpg
+---
+:title: Morte do Associativismo Académico: a solução está nas mãos dos estudantes
+:url: https://www.comumonline.com/2022/03/morte-do-associativismo-academico-a-solucao-esta-nas-maos-dos-estudantes/
+:site: ComUM
+:description: O associativismo é uma manifestação da própria cidadania individual na sociedade. O associativismo está em queda e a solução está nas mãos dos dirigentes.
+:tags: cidadania, UMinho, Academia, sociedade, Associativismo Académico, Morte do associativismo
+:type: article
+==========
+
+
+# **Morte do Associativismo Académico: a solução está nas mãos dos estudantes**
+
+## None
+
+16Mar2022 | Maria João Alves
+
+Quando o tema é o associativismo académico e o movimento estudantil, gosto sempre de começar por relembrar os envolvidos no debate de que a prática associativa nasce da necessidade de negociação e de que surge embebida na ideia de luta pelos interesses e direitos de um grupo de cidadãos, inseridos numa determinada comunidade política. O associativismo é, assim, uma manifestação da própria cidadania individual na sociedade civil.
+
+Ora, quando os movimentos sociais liderados por estudantes começam a ganhar força em Portugal, a prática reivindicatória e a representação do corpo estudantil torna-se um importante elemento a ter em conta, tanto na Academia, como no plano político nacional. Esse dinamismo onde grupos de indivíduos – no caso, estudantes – se formam para vocalizar as vontades específicas comuns de cidadãos de determinados grupos sociais, opõe-se diametralmente à vivência comunitária experimentada, por exemplo, durante o Estado Novo, onde a livre associação era interdita e onde o movimento associativo não detinha poder de intervenção crítica.
+
+Por estes motivos, importa começar a difundir entre os dirigentes associativos que detêm um papel fundamental nas respetivas comunidades e na própria sociedade. É preciso relembrar-lhes, da mesma forma, que os lugares administrativos de que dispõem, carregam com eles o símbolo da própria liberdade de participação cívica, que é uma conquista recente na democracia portuguesa. E estas simples lições, nas quais se poderia incluir também a história da resistência estudantil à opressão, poderiam fazer a diferença naquele que é o destino futuro do associativismo académico português.
+
+Embora as marcas da luta estudantil sejam ainda recentes, a verdade é que as formas atuais de fazer associativismo não as têm refletido. Da mesma forma, é verdade que o movimento estudantil está a perder força nas nossas Academias e que se pode tornar irreconhecível. Entristece-me constatar que pode até mesmo desaparecer ou apenas continuar a sobreviver numa feição mais débil. Ora, a morte do associativismo ‘forte’, se acontecer, terá como culpados, justamente, os próprios dirigentes, as Universidades e os estudantes.
+
+Os dirigentes, para começar, porque têm ignorado deliberadamente as suas responsabilidades cuja origem social, simbólica e histórica já acima foi mencionada. Ao invés de cumprirem o seu papel, têm optado por afastar as estruturas associativas do seu original propósito. Assim, comum é verificar que os dirigentes têm concentrado os seus vigorosos esforços em converter as associações de estudantes em meras prestadoras de serviços e/ou ‘mega comissões de festas’. O motivo por detrás do surgimento de novas formas de associativismo merece de nós uma reflexão profunda para a identificação das causas. Contudo, se tivesse que apontar um fator que não abona a favor da edificação de um associativismo comunitariamente forte, seria à difusão da narrativa de que o Associativismo Estudantil deve ser apolítico.
+
+Ora, a moda da despolitização dos movimentos estudantis, nasce da preocupação em representar todos os indivíduos da comunidade estudantil e com a mesma intensidade. Uma ideia que é, a meu ver, bem-intencionada, todavia, absolutamente impraticável. Isto porque as estruturas representativas não necessitam – nem, sequer, conseguem – representar as vontades detodos; pelo contrário, os núcleos estudantis devem ser, como qualquer outro órgão político, representativos da vontade de umamaioria. É para isso, aliás, que servem os momentos eleitorais: para que os indivíduos representados possam escolher a alternativa que melhor os representa. Aqueles que eventualmente simbolizarem de melhor forma os pensamentos comunitários irão ser escolhidos pelo voto e, a partir daí, sobre os dirigentes eleitos irá pender a responsabilidade de exteriorização de posições políticas vincadas, utilizando como plataforma as Direções Associativas e praticando um associativismo sem medo – sem medo de ser político, sem medo de ser crítico, sem medo de deixar impacto social.
+
+Em sentido contrário, tem se dado a proliferação de Associações cujos estatutos proíbem a tomada de posições políticas, o que, para ser honesta, pouco sentido faz – ainda para mais, quando consideramos que tudo e toda a ação têm, inevitavelmente, um pouco de político. Mas pior, tenho verificado que existem equipas que dirigem associações e que se esforçam voluntariamente por não desenvolver qualquer tipo de posicionamento. E a verdade é que, cada vez que os dirigentes se abstêm de escolher um lado nas atuais questões sociais ou naquelas que dizem respeito à comunidade representada, fazem a escolha de abdicar de um pouco do poder que a democracia lhes confere. E é, no fundo, esta tendência que tem ditado a mudança paradigmática que vos tenho vindo a falar: o medo de não representar a vontade de todos, foi transformando, em alternativa, as associações estudantis em entidades que não são representativas de rigorosamente nada.
+
+Concluído este ponto, passo a prestar contas com a própria Academia, representada pelos órgãos de governação das Universidades e Escolas. Comecemos por notar que a Academia tem, desde sempre, ditado rumos coletivos, através das discussões que nela têm palco. Nesse sentido, os elementos académicos devem espelhar aquilo que é pretendido nas relações comunitárias. Ora, a exclusão dos jovens estudantes de centros de decisão e discussão, tais como Comissões de Curso e Conselhos Pedagógicos, a falta de auscultação, as reações violentas a quaisquer contestações ou a sinais de resistência a decisões tomadas de forma unilateral, apenas contribuem para um associativismo manietado ou inapto a fazer movimentações e agitações.
+
+O silêncio estudantil que se faz sentir nos órgãos decisórios, cerimónias e fóruns de debate da Universidade Minhota contribui ainda para o fortalecimento da ideia de que os estudantes não são uma das células essenciais do nosso sistema universitário. Por outro lado, a falta de apoio financeiro, logístico, material e até às vezes, tão-somente moral, referente às atividades desenvolvidas pelas Associações, constitui um dos maiores obstáculos à prossecução dos nossos objetivos associativos. Torna-se difícil convencer os estudantes de que as iniciativas oferecidas têm valor quando as próprias Escolas não lhes reconhecem qualquer importância.
+
+Por último, a minha mensagem vai para os estudantes, já que também eles têm vindo a esquecer o seu papel. O abandono, por parte dos estudantes, dos fóruns de discussão, a falta de vontade de fazer frente ao sistema onde se encontram, a ausência sentida nas Assembleias Gerais, onde se deveriam determinar as linhas gerais de atividade das Associações Estudantis, a preferência por atividades sem interesse comunitário – mas que trazem o diploma pago como recompensa -, a predileção por iniciativas de turismo glorificado – vestidas de voluntariado – ou por clubes de glorificação doburnoutempresarial, torna difícil a tarefa de recordar às estruturas associativas o seu papel reivindicativo e de defesa dos interesses dos jovens e dos estudantes.
+
+Este ligeiro julgamento com que perceciono a atual postura estudantil vem, contudo, atenuado por um sentimento de compreensão. Assim, vale notar que é para mim compreensível a dificuldade em participar na oferta associativa, quando esta não é apoiada e/ou valorizada pelo corpo docente, quando a pressão do mercado nos sufoca ou quando não sentimos ter poder relativamente ao que nos rodeia. Compreendo, da mesma forma, que o associativismo se tornou elitista e que a distância entre estudantes e direções, a baixa disputa eleitoral e a frequente ausência de oposição, que solidifica as dinastias de dirigentes, tenham afastado os estudantes do seu papel, enquanto construtores do paradigma associativo.
+
+No entanto, a solução está nas mãos dos mesmos. A eles cabe voltar a democratizar a Academia e colocá-la nas mãos estudantis. A eles cabe fazer pressão para que as associações recoloquem as grandes questões em cima da mesa, sem medo de ser polémicas ou pouco conciliatórias. Para os estudantes da Universidade do Minho deixo, portanto, esta mensagem: é imperativo pensar no futuro da nossa representação estudantil. É preciso eleger estruturas politicamente fortes e presentes, em detrimento de um associativismolightque não reserva lugar para a política educativa.
+
+Hoje, mais do que nunca, é necessário que os estudantes relembrem às associações estudantis o seu verdadeiro propósito e os interesses que devem defender. Aos estudantes, cabe forçar essa aproximação, participando nas estruturas, ainda que indiretamente. À representação estudantil, cabe relembrar quem verdadeiramente representam e o que verdadeiramente representam.
+
