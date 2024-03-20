@@ -1,1 +1,0 @@
-Elaboração de um código que lê um ficheiro de uma entrevista, a normaliza e limpa, coloca cada entidade numa linha diferente e extrai lemas de verbos.
