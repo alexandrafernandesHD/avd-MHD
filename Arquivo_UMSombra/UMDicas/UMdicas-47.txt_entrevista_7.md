@@ -2,182 +2,232 @@
 Jornal: UMdicas
 Issue: Número 47
 University: Universidade do Minho
-Interviewee(s): 
+Interviewee(s): ELSA UMinho 
+Topic: a sua expansão e objectivos
 Date: 31 de Dezembro de 2006
+Title: ELSA UMinho  a sua expansão e objectivos
+Interviewer: Michael Ribeiro
 ---
-Onde, quando e porquê o nascimento da
-Azeituna Tuna de Ciências da Universidade do
+
+ELSA UMinho  a sua expansão e objectivos
+Em 2000, um grupo de estudantes juntou-se e formou a comissão instaladora da ELSA UMinho, sendo mais tarde (2002)
+reconhecida como núcleo efectivo da ELSA Portugal. Em 2003 este grupo notarialmente constituído, passou a ter
+personalidade jurídica, e, consequentemente, um maior grau de autonomia. A associação vai neste momento na sua VIII
+direcção e segundo Pedro Gonçalves, finalista do curso de Direito, “este um é ano lectivo decisivo para a ELSA UMinho,
+onde pretendemos ampliar e diversificar o âmbito das nossas actividades, de maneira a que a ELSA seja definitivamente
+reconhecida como uma das melhores associações desta academia”.
+
+UMdicas: O que é a ELSA?
+Pedro Gonçalves: A ELSA (European Law
+Students Association) é uma associação de
+estudantes de Direito fundada em 1981 em Viena
+por um grupo de quatro estudantes, divididos pelo
+muro de Berlim, mas unidos pelo estudo do
+Direito. Desde então, a associação cresceu,
+alargando exponencialmente a sua actividade,
+estando neste momento representada em mais
+de 200 universidades, espalhadas por 35 países.
+É também membro observador da ONU e do
+Conselho da Europa, sendo considerada neste
+momento a maior associação de estudantes do
+mundo! Podem verificar tudo isto no site oficial da
+ELSA: www.elsa.org.
+
+“A ELSA (European Law Students
+Association) é uma associação
+de estudantes de Direito fundada
+em 1981 em Viena por um grupo
+de quatro estudantes, divididos
+pelo muro de Berlim, mas unidos
+pelo estudo do Direito”
+
+U: Tem estatutos próprios? Em que países em
+que está sedeada?
+P: - Tal como referimos, e ELSA encontra-se
+representada em 35 países, desde Portugal até
+ao Cazaquistão, passando pela Alemanha,
+Turquia, Reino Unido, etc. Tendo em conta a sua
+dimensão, a ELSA é, obviamente, regida por
+estatutos e regulamentos próprios, que
+disciplinam a sua estrutura federalista, sendo que
+também os representantes nacionais e locais são
+obrigados a ter os seus próprios estatutos.
+
+U: Onde está sedeada a Sede da ELSA?
+P: A ELSA Internacional está sedeada em
+Bruxelas, naquilo a que designamos de ELSA
+House, sendo também aí que habitam todo ano
+os dirigentes eleitos. Quanto às ELSA's
+nacionais, têm normalmente a sua sede nas
+capitais dos respectivos países. Relativamente à
+ELSA UMinho, a sua sede situa-se na
+Universidade do Minho, em Braga, Mais
+propriamente no Campus de Gualtar, cp2, sala
+3.16.
+
+U: Quais as suas competências?
+P: O grande objectivo da nossa associação é o
+enriquecimento cultural e científico dos
+estudantes de Direito. Nesse sentido,
+desenvolvemos uma série de iniciativas que
+visam proporcionar oportunidades de plena
+aprendizagem de outras culturas e sistemas
+legais, num espaço de diálogo crítico e de
+cooperação científica. Para prosseguir estes
+objectivos, a ELSA divide-se em três áreas chave:
+Seminários e Conferências, Actividades
+Académicas e STEP (Students Trainee Exchange
+Programme), que têm competências específicas
+e que conferem a tal vertente internacionalista,
+que é uma imagem de marca da ELSA, e que a
+diferencia de outras associações de
+estudantes…
+
+“O grande objectivo da nossa
+associação é o enriquecimento
+cultural e científico dos
+estudantes de Direito”
+
+U: Como surgiu a ELSA na Universidade do
 Minho?
-A Azeituna surgiu de um grupo de amigos da
-Universidade do Minho, estreando-se oficialmente
-em Maio de 1992 nas Monumentais Festas do
-Enterro da Gata. No entanto já antes dessa
-actuação, a Azeituna realizou no IPJ um espectáculo
-de antestreia que revelou antecipadamente ao
-público o que viria a ser a Azeituna. Desde logo
-começamos a adquirir uma forma própria de encarar
-a música, tocando e cantando pelo puro prazer de o
-fazer, animando a Academia minhota nas cidades de
-Braga e Guimarães, em ruas, praças e avenidas, por
-janelas e varandas, com música de outros tempos e
-não só.
-Porquê o nome Azeituna?
-Bem, o nome Azeituna surgiu enquanto os
-fundadores organizavam o início de uma nova tuna
-na UMinho. Como desde sempre todos os membros
-se revelaram brincalhões e com muita “Azeitice”,
-entre as piadas, partidas e gargalhadas, alguém se
-lembrou de Azeituna.
-Em que se diferencia a Azeituna das outras tunas
+P: Quando surgiu a ideia da criação de um núcleo
+na Universidade do Minho, já outros tinham sido
+formados e integravam a ELSA Portugal. Assim,
+em 2000, um grupo de estudantes juntou-se e
+formou a comissão instaladora da ELSA UMinho,
+sendo mais tarde (2002) reconhecida como
+núcleo efectivo da ELSA Portugal. Em 2003
+fomos notarialmente constituídos, passando a ter
+personalidade jurídica, e, consequentemente, um
+maior grau de autonomia.
 
-resultou no aparecimento da primeira tuna nas ilhas
-britânicas, a Preservatuna Tuna Universitária de
-Cork, apadrinhada pela Azeituna.
-O que fazem para cativar elementos novos?
-Esta é uma grande preocupação nossa, para que
-não se perca este espírito, procuramos todos os
-anos captar novos elementos na Universidade para
-continuarem este projecto. Fazemos para isso,
-várias festas, materiais de divulgação, utilizamos o
-nosso site (www.azeituna.pt), e todos os anos
-procuramos fazer uma actividade diferente. Este
-ano, montamos um touro mecânico e um Mega
-churrasco no Campus de Gualtar para dar as boasvindas aos novos alunos da UMinho. Para ser
-Caroço (Caloiro da Azeituna), não é necessário mais
-do que a vontade de aprender música, divertir e viajar
-por Portugal e Estrangeiro. Qualquer pessoa que
-entra para a Azeituna aprende um instrumento
-mesmo que não saiba tocar nada. Nós costumamos
-dizer que entrar na Azeituna da a possibilidade única
-de, mesmo quando acabares o curso, poderes
-continuar a viver este mundo boémio e encantador
-da vida de estudante, pois mantém-se sempre o elo
-de ligação com a Academia.
+U: Qual o papel que a ELSA tem na Universidade
+do Minho e no curso de Direito?
+P: O papel da ELSA na UM tem sido amplamente
+reconhecido pelos variados quadrantes
+académicos e estudantis. Como associação de
+cariz internacional, procura despertar os alunos
+para a necessidade de uma visão mais global dos
+problemas, mas também do próprio mercado de
+trabalho. No contexto actual, um aluno ou recém-licenciado em Direito tem de encarar a Europa
+como o seu espaço privilegiado de actuação, e
+não apenas o nosso país. Com as nossas
+iniciativas, procuramos contribuir um pouco para
+isto, consciencializando os futuros juristas para
+esta realidade. Para além disso, temos uma
+ampla oferta de actividades que, temos a certeza,
+contribuem para a formação técnica e jurídica dos
+estudantes.
 
-portuguesas.
-Por falar em CELTA, a Azeituna organizou o XIII
-Celta. Qual o balanço que fazem deste festival?
-O XIII CELTA decorreu conforme esperado: foi
-fantástico! Todos os anos tentamos trazer a Braga
-das melhores tunas portuguesas que, além da
-música, trazem o espírito tunal que tanto alegra as
-ruas desta cidade. Este XIII CELTA ficou
-especialmente marcado pelo lançamento de um CD
-duplo que regista “os melhores momentos” de todos
-os CELTAS até hoje.
-E projectos para o futuro?
-Pretendemos organizar o XIV CELTA e que este se
-realize no Theatro Circo, casa que nos acolheu
-desde o I CELTA e que é desejada quer pelo público,
-quer pelas tunas, que relembram os momentos
-fantásticos e únicos que viveram naquela sala.
-Pretendemos actuar onde nos quiserem ouvir, e
-organizar uma Grande Digressão à América do Sul.
-Qual o vosso grande sonho… o grande sonho da
-Azeituna?
-Um dos grandes sonhos da Azeituna é construir a
-“Casa da Azeituna”, que servirá não só como sede
+U: Qual o apoio que a ELSA oferece aos
+estudantes de direito?
+P: O apoio dado pela ELSA não se resume a
+iniciativas pontuais. Procuramos criar algo de
+mais duradouro. Daí a preocupação em editar,
+com o contributo dos professores, elementos de
+apoio para diversas unidades curriculares. Dos
+relatos que nos chegam, este objectivo está a ser
+amplamente cumprido, havendo uma recepção
+muito positiva por parte dos estudantes. Para
+além disso, todas as iniciativas que realizamos,
+quer sejam conferências, visitas ou mesmo
+fóruns de discussão, visam sempre servir os
+alunos de Direito.
 
-cultura desta augusta
-cidade.
+U: E abrange outras universidades do país?
+P: Sim. Existem neste momento sete núcleos
+activos (FDL, Lusófona, Católica Lisboa e Porto,
+Internacional da Figueira da Foz, Portucalense e
+Minho), para além da ELSA Portugal.
 
-Celta e a sua História
-O CELTA, Certame Lusitano de Tunas Académicas,
-surgiu no ano de 1993, um ano após se ter fundado a
-Azeituna no sentido de realizar em Braga um Festival
-de Tunas Académicas Portuguesas, onde se
-privilegiasse a boa disposição, o espírito académico
-e a boa música portuguesa.
-Este festival realiza-se anualmente em Dezembro,
-tradicionalmente pobre em eventos deste género, o
-CELTA desde o seu primeiro ano tentou trazer as
-melhores Tunas nacionais, assim como algumas
-Tunas menos conhecidas mas com muita qualidade,
-que trouxeram a alegria e os acordes de musica e
-instrumentos portugueses á cidade de Braga.
-Com o decorrer dos anos o CELTA tornou-se um
-marco no panorama nacional de Tunas, não só pela
-qualidade das Tunas presentes em cada edição, mas
-também pelo magnifico público que todos os anos
-enche a sala de espectáculos criando uma simbiose
-gratificante, não só para o público que ali se
-encontra, mas também para as diversas tunas que ali
-actuam.
-O CELTA torna-se assim um ponto de encontro
-anual, não só para tunos e tunas que vão criando
-laços de amizade durante os tempos, como também
-para estudantes e ex estudantes de várias
-academias, que encontram no CELTA um pretexto
-para rever caras amigas e um bom momento para
-repartir algumas confidencias e memórias de tempos
-passados.
-É assim com imensa alegria que verificamos que o
-CELTA ocupa já um lugar de destaque no roteiro
-cultural da cidade de Braga e no seio dos festivais de
-tunas portuguesas.
+U: Na Universidade do Minho, quem representa a
+ELSA?
+P: Foi eleita em Outubro a VIII Direcção, presidida
+por mim, Pedro Gonçalves, e que tem como
+Secretário-geral, João Leite, e como VicePresidentes, Pedro Bastos (STEP), Samuel
+Estrada (Sem. E Conf.), João Costa (Act.
+Académicas) e Pedro Barros (marketing). Para
+além disso, temos uma vasta equipa de
+colaboradores, que são indispensáveis para o
+bom funcionamento da associação.
 
-da UMinho?
-A Azeituna é uma tuna diferente de todas as outras
-em geral, pelo seu espírito irreverente e único, mas
-nunca deixando de parte a música, que é a razão da
-nossa existência e à qual dedicamos especial
-atenção. Existe no entanto uma relação muito
-especial entre a Azeituna e uma tuna em particular: a
-Tuna Académica da Universidade Lusíada do Porto.
-Devido ao espírito similar de ambas, esta relação
-levou os tunos de ambas as Tunas a geminarem-se,
-passando, desde então, a considerar-se a existência
-não de duas mas de uma só Tuna.
-A Azeituna já realizou várias digressões ao
-estrangeiro, onde exactamente?
-Desde a sua fundação, a Azeituna reconheceu a
-importância de levar a música portuguesa além
-fronteiras. Em qualquer digressão, pretendemos
-mostrar a outras culturas, a música popular
-portuguesa e este espírito único de Tuno. Logo
-desde o nascimento, a Azeituna actuou em
-importantes eventos no estrangeiro como a
-EXPO'92 em Sevilha, o Salão Europeu do Estudante
-em Bruxelas, a Festa Anual do Instituto das
-Universidades Europeias, entre outros, e por países
-como Espanha, França, Itália, Luxemburgo, Bélgica,
-Holanda, Alemanha, Croácia, Eslovénia, Hungria,
-Eslováquia, Rep. Checa, Polónia, três visitas ao
-Brasil, e em 2006, EUA e Canadá. Nos anos
-seguintes à sua fundação, a Azeituna realizou um
-grande intercâmbio cultural com a Irlanda e que
+U: Quais os objectivos e planos da ELSA na
+Universidade do Minho?
+P: Este é um ano lectivo decisivo para a ELSA
+UMinho. Queremos ampliar e diversificar o
+âmbito das nossas actividades, de maneira a que
+a ELSA seja definitivamente reconhecida como
+uma das melhores associações desta academia.
+Neste sentido, iremos organizar uma grande
+Semana da ELSA, de 16 a 20 de Abril de 2007,
+isto para além da realização de diversas Aulas
+Abertas, que tão importantes são para os alunos,
+e da continuação do Cine ELSA, um clássico da
+nossa associação. Para além disso, iremos
+efectuar uma visita à Assembleia da República,
+ao estabelecimento prisional de Santa Cruz do
+Bispo, e também idas a julgamentos, naquilo a
+que podemos caracterizar como uma
+componente prática essencial para qualquer
+jurista. Temos também agendada a realização de
+tertúlias nocturnas sobre variadas temáticas, e
+que serão feitas fora da Universidade, abrindo
+assim a ELSA à cidade e à região. Queremos
+igualmente desenvolver o espírito crítico, dando a
+possibilidade a todos de participar com a sua
+opinião no nosso blog
+(casinodaelsa.blogspot.com). Por último, não
+posso deixar de mencionar a realização, já
+garantida, do Conselho Geral Nacional de
+Primavera da ELSA Portugal em Braga, o que
+muito nos orgulha e responsabiliza.
 
-Qual tem sido o vosso percurso e quais as
-participações mais importantes?
-Para além de actuarmos nos mais diversos eventos
-como casamentos, festas populares, festas de
-beneficência, divórcios, funerais, (Risos) Festivais
-de Tunas onde fomos galardoados com múltiplos
-prémios, já actuamos também nas melhores casas
-de espectáculos do país tais como Coliseus de
-Lisboa e Porto, Teatro Camões, CCB, Casa da
-Música, Theatro Circo, entre outras. Já participamos
-em diversos eventos importantes, e já cantamos
-serenatas, quer à primeira-dama, quer às peixeiras
-da ria de Aveiro, e isso é o importante, gostar de
-cantar para todos e qualquer público.
-Tiveram algum momento menos bom, durante
-Vossa existência?
-Não sei, julgo que o momento menos bom da
-Azeituna foi quando embarcou no projecto de
-realizar por três anos seguidos, digressões ao Brasil.
-(Risos) Este foi um grande projecto, um sucesso à
-partida, e percorremos o Brasil de norte a sul,
-naquela que se viria a revelar uma experiência única
-e inesquecível. Vamos repetir, com certeza!
-E o momento mais alto desta Tuna?
-O momento alto é todos os anos, em Dezembro,
-quando organizamos o CELTA Certame Lusitano de
-Tunas Académicas, que com agrado vemos que
-ocupa já um lugar de destaque no roteiro cultural da
-cidade de Braga e no seio dos festivais de tunas
+U: O que se pode esperar para o futuro e em que
+pode ajudar os alunos de direito no futuro?
+P: Como já referi, temos um conjunto vasto de
+actividades previstas, que com certeza ajudarão
+os alunos na sua vida académica e profissional.
+Para além disso, temos em agenda a edição do 2º
+Volume da Sebenta de Direito das Obrigações e o
+lançamento de uma outra sebenta de Direito
+Administrativo, que serão elementos de apoio
+essenciais para os nossos colegas. Temos
+também um programa de STEP, que proporciona
+a realização de estágios remunerados por toda a
+Europa, e que é um projecto que pretendo
+desenvolver este ano, dando-lhe maior
+visibilidade junto dos estudantes e recémlicenciados.
 
-mas também como um ponto no roteiro cultural da
-cidade. É um projecto recente mas que terá grande
-importância não só pelas múltiplas utilizações que
-pode ter, mas também pelo impacto que dará
+U: Que tipo de apoios é que vocês têm?
+P: Podemos dizer que a ELSA não depende de
+ninguém para sobreviver. De facto, temos um
+forte departamento de foundraising, que angaria
+diversos apoios e patrocínios por toda a região.
+Para além disso, fazemos parte do RNAJ e temos
+também o apoio institucional da Escola de Direito.
+Temos ainda em vista a elaboração de um
+protocolo de colaboração com a AAUM, que vai
+ser importantíssimo para nós.
+
+U:Qual o vosso grande objectivo aqui na
+Universidade do Minho?
+P: O grande objectivo desta direcção é
+desenvolver um conjunto de iniciativas que
+fiquem na memória de todos nesta academia, e
+em particular dos alunos de Direito! Note-se, no
+entanto, que não o fazemos por gozo pessoal,
+mas tendo em vista os interesses dos estudantes!
+Só assim seremos vistos como uma associação
+respeitosa, com projecto, mas também com
+trabalho feito. Só assim deixaremos um legado
+para as futuras gerações elsianas.
+
+“O grande objectivo desta
+direcção é desenvolver um
+conjunto de iniciativas que
+fiquem na memória de todos
+nesta academia, e em particular
+dos alunos de Direito!”
+
+Michael Ribeiro
+Mika@sas.uminho.pt

@@ -2,9 +2,19 @@
 Jornal: UMdicas
 Issue: Número 46
 University: Universidade do Minho
-Interviewee(s): 
+Interviewee(s): Eva Sousa
+Topic: o 1º de Dezembro
+Role: Directora Departamento Comercial e Relações Externas
 Date: 14 de Dezembro de 2006
+Interviewer: Michael Ribeiro
 ---
+
+Tradição e história do 1º de Dezembro
+
+Numa a conversa com Eva Sousa, Directora Departamento Comercial e Relações Externas, sobre o 1º de Dezembro, a sua importância na Academia, a sua história e
+tradição. Eva Sousa, defende o 1º de Dezembro como uma das grandes tradições da Academia Minhota, tradições que são a alma de toda uma história que se constrói
+ao longo dos tempos.
+
 UMdicas: Qual o significado do 1º de Dezembro?
 Eva Sousa: Historicamente, o 1º Dezembro, tal como
 todos sabemos, representa a Restauração da
@@ -37,6 +47,7 @@ tenda em conta não só a recuperação da tradição a que se
 associa esta data, mas também como forma de
 homenagear os antigos e actuais alunos da Cidade e da
 Academia, assim como, naturalmente, os Heróis de 1640.
+
 UMDicas: Qual foi o principal objectivo da AAUM este
 ano na organização do 1ºde Dezembro?
 E.S.: Tal como nos anos anteriores, o principal objectivo da
@@ -52,6 +63,7 @@ esta data e aos estudantes. Assim, a AAUM organiza a
 chamada "Récita" para que todos os alunos saibam o que
 é o 1º de Dezembro e todo o espírito académico que o
 envolve.
+
 UMdicas: As tradições académicas são como a alma
 de uma academia e as suas raízes. Nesse sentido, o 1
 de Dezembro é já uma tradição importante ou achas
@@ -77,8 +89,8 @@ importância que merecem, por isso, a AAUM tem feito
 um grande esforço para que tal aconteça. Apesar do UM
 ser uma Universidade ainda "jovem”, acolhe já uma
 série de Tradições que merecem o respeito e carinho de
-
 toda a comunidade, não só académica como civil.
+
 UMdicas: Qual o verdadeiro espírito da Academia em
 relação a estas Tradições?
 E.S.: O espírito dos Grupos culturais e da AAUMinho face a
@@ -97,6 +109,7 @@ não termos tido tempo para darmos às tradições
 académicas o estatuto que estas merecem de facto. Mas
 isto é uma batalha constante, que cabe não só à AAUM e
 aos Grupos, mas também, aos próprios alunos.
+
 UMdicas: Achas que os estudantes sentem e vivem
 essas tradições ou estão afastados da nossa tradição
 Académica?
@@ -128,23 +141,6 @@ consequentemente, um maior
 interesse pelas Tradições
 Académicas.
 
-estudantes, as Tradições Académicas vivem-se pelo
-significado das mesmas, pela forma como nos podemos
-sentir orgulhosos de pertencer a uma Academia tão
-fantástica, capaz de ter tradições ao nível das mais antigas
-Universidades do Pais. Posso confirmar que há momentos
-únicos que se vivem neste tipo de actividades, como o
-simples facto de assistir a uma Monumental Serenata
-trajado de capa traçada. São momentos memoráveis na
-vida de estudante. Aquilo que levamos da Academia
-depois de acabar o curso não é apenas um "canudo" ou
-lembranças de um Enterro da Gata. São momentos únicos
-como uma Serenata, um desfile nocturno nas Terças-feiras
-Académicas ou o orgulho de ter visto em palco todos os
-Grupos Culturais no 1º de Dezembro que fazem com que
-mais tarde possamos recordar com orgulho que fomos
-alunos da Melhor Academia da Pais.
-
 A palavra
 “Academia”
 contém em
@@ -167,4 +163,33 @@ confirmar que são sem dúvida
 momentos únicos da vida de
 estudante, que jamais irão ter o
 mesmo significado quando
-deixarmos de o ser.
+deixarmos de o ser. Enquanto
+estudantes, as Tradições Académicas vivem-se pelo
+significado das mesmas, pela forma como nos podemos
+sentir orgulhosos de pertencer a uma Academia tão
+fantástica, capaz de ter tradições ao nível das mais antigas
+Universidades do Pais. Posso confirmar que há momentos
+únicos que se vivem neste tipo de actividades, como o
+simples facto de assistir a uma Monumental Serenata
+trajado de capa traçada. São momentos memoráveis na
+vida de estudante. Aquilo que levamos da Academia
+depois de acabar o curso não é apenas um "canudo" ou
+lembranças de um Enterro da Gata. São momentos únicos
+como uma Serenata, um desfile nocturno nas Terças-feiras
+Académicas ou o orgulho de ter visto em palco todos os
+Grupos Culturais no 1º de Dezembro que fazem com que
+mais tarde possamos recordar com orgulho que fomos
+alunos da Melhor Academia da Pais.
+
+O 1º de
+Dezembro
+pode e tem
+potencial para
+se tornar uma
+das mais
+importantes
+Tradições
+Académicas.
+
+Michael Ribeiro
+mika@sas.uminho.pt

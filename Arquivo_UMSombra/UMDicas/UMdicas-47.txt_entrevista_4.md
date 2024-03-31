@@ -2,9 +2,15 @@
 Jornal: UMdicas
 Issue: Número 47
 University: Universidade do Minho
-Interviewee(s): 
+Interviewee(s): Roque Teixeira
+Topic: 2 anos à frente da AAUM
 Date: 31 de Dezembro de 2006
+Interviewer: Ana Marques
 ---
+
+Roque Teixeira, últimos dias à frente
+da AAUM
+
 Depois de 2 anos à frente da AAUM, que
 balanço fazes?
 Sem dúvida que o balanço destes dois
@@ -40,10 +46,10 @@ pedagógica à desportiva, passando pelas
 saídas profissionais e pelo recreativo,
 social e cultural faz destes mandatos sem
 dúvida dois mandatos muito positivos.
+
 O que significou para ti seres presidente
 da AAUM?
-Ser presidente da segunda maior
-
+Ser presidenteda segunda maior
 academia do país, responsável por
 serviços tão importantes como as
 reprografias ou os transportes Braga
@@ -56,6 +62,7 @@ poderíamos ver a diversão ou
 responsabilidade dos nossos colegas dá
 uma sensação inexplicável a todos os que
 as organizaram.
+
 Quais foram os ganhos em termos
 pessoais desta experiência?
 Sem dúvida a experiência de gerir uma
@@ -70,6 +77,7 @@ diferenças daquilo que eu era para aquilo
 que sou. Na maneira de falar, escrever,
 reagir. Tudo isto só é possível no
 associativismo.
+
 Quais foram as acções mais
 emblemáticas da tua gerência?
 Poderíamos falar das mais de 500
@@ -81,13 +89,6 @@ campeonato mundial universitário de
 badminton, as mais de 100 medalhas nos
 campeonatos nacionais universitários das
 quais 28 de ouro, a organização do
-
-15
-
-“Representar os colegas da MELHOR ACADEMIA
-DO PAÍS foi sem dúvida uma das melhores
-experiências que tive”.
-
 Campeonato Europeu Universitário de
 Basquetebol, a criação da UNIVA (Unidade
 de Inserção na Vida Activa), a entrega de 6
@@ -101,6 +102,7 @@ verdadeiros líderes e pessoas de
 responsabilidade que me acompanharam
 nestes 2 anos em que estive à frente dos
 destinos da AAUM.
+
 Porquê a decisão de deixar a AAUM?
 Tudo tem um fim e tudo chega ao fim. O
 meu trabalho na AAUM está feito e sem
@@ -110,6 +112,7 @@ tomarem o rumo desta instituição. Isto
 conjugado com a mudança de objectivos a
 nível pessoal, cria as condições para que
 as minhas funções cessem aqui.
+
 Queres deixar algumas palavras a esta
 nova direcção?
 Não duvido que esta nova direcção fará um
@@ -122,3 +125,10 @@ sua equipa estão em condições de assumir
 as suas responsabilidades e elevar ainda
 mais a posição e o nome desta grande
 instituição.
+
+“Representar os colegas da MELHOR ACADEMIA
+DO PAÍS foi sem dúvida uma das melhores
+experiências que tive”.
+
+Ana Marques
+anac@sas.uminho.pt

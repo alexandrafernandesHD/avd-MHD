@@ -2,14 +2,28 @@
 Jornal: UMdicas
 Issue: Número 46
 University: Universidade do Minho
-Interviewee(s): 
-Role: Presidente
+Interviewee(s): Miguel Araújo Rodrigues
+Topic: Associação de Estudantes de Direito da Universidade do Minho (AEDUM)
+Role: residente
 Date: 14 de Dezembro de 2006
+Title: AEDUM, a voz dos alunos de direito
+Interviewer: Michael Ribeiro
 ---
+
+AEDUM, a voz dos alunos de direito
+A Associação de Estudantes de Direito da Universidade do Minho (AEDUM) tem um papel importante no curso
+de Direito e na própria Universidade do Minho, sendo a voz de todos os alunos junto da Escola de Direito, esta
+associação é presidida por Miguel Araújo Rodrigues que frequenta o 5º ano da Licenciatura de Direito.
+
+UMDicas -O que é a AEDUM?
+Miguel Rodigues: É a Associação de
+Estudantes de Direito da Universidade do
+Minho.
+
 UMDicas - Quem faz parte da AEDUM
 (direcção)?
 M.R.: Actualmente a AEDUM é composta por
-15 pessoas: Presidente: Miguel Rodrigues,
+15 pessoas: residente: Miguel Rodrigues,
 Vice-Presidente: José Castro, Tesoureiro:
 João Silva, Secretária: Marta Silva, Vogal:
 Hugo Xavier, Directora do Departamento.
@@ -28,6 +42,7 @@ Freitas, Directora do Departamento Editorial:
 Cristina Sousa, Director do Departamento
 Apoio ao Trabalhador Estudante: José Carlos
 Oliveira,
+
 UMDicas -Qual o grande objectivo desta
 direcção?
 M.R.: O grande objectivo desta direcção
@@ -35,6 +50,7 @@ sempre foi representar da melhor forma todos
 os estudantes de Direito da Universidade do
 Minho, assim como fazer valer os seus
 direitos.
+
 UMDicas Qual o papel que a AEDUM tem
 no curso e na UM?
 M.R.: A AEDUM tem um papel importante no
@@ -66,12 +82,14 @@ pontos de contacto com o Direito (A.P.,
 Gestão, Economia, Medicina, etc.) e nesse
 sentido é também para estes que as nossas
 actividades se destinam.
+
 UMDicas -Quais as áreas em que AEDUM
 pode e deve trabalhar?
 M.R: Qualquer assunto que seja do interesse
 dos alunos de Direito da Universidade do
 Minho está englobado num assunto que a
 AEDUM pode e deve trabalhar.
+
 UMdicas: Qual o apoio que é dado aos
 alunos / sócios e quem pode ser sócio da
 AEDUM?
@@ -84,7 +102,6 @@ Os associados de pleno direito têm desconto
 em qualquer sebenta/livro por nós publicado,
 desconto em qualquer actividade que exija o
 pagamento para a participação e ainda
-
 prioridade em qualquer actividade que tenha
 inscrições limitadas. Ao nível de
 representatividade todos os alunos de Direito,
@@ -97,6 +114,7 @@ Direito material pedagógico a preços
 acessíveis, esta acaba por ser uma das
 nossas iniciativas mais reconhecida pelos
 nossos associados.
+
 UMDicas -Esse apoio é só aos alunos que
 ainda estão na UM ou aos ex alunos
 também?
@@ -109,6 +127,7 @@ adquirida deve ser vista como uma mais valia
 por todos nós.
 No entanto a prioridade é e será sempre os
 alunos que ainda estão na UM.
+
 UMDicas -Existe algum tipo de contacto ou
 actividade (intercambio) com outros
 cursos de outras Universidades?
@@ -122,6 +141,7 @@ valer os interesses dos estudantes de Direito
 do ensino superior público, de certa forma
 exercer a função de grupo de pressão em prol
 dos estudantes de Direito.
+
 UMDicas -Qual o grande evento ou
 actividade que a AEDUM realiza e em que
 consiste?
@@ -140,6 +160,7 @@ principalmente a última edição onde
 apostamos mais forte. Neste sentido
 organizamos um grande evento em cada
 semestre.
+
 UMDicas - O jornal/revista da AEDUM, que
 nos podes falar sobre isso?
 M.R.: Desde Março de 2005 que
@@ -158,6 +179,7 @@ uma função completamente distinta da do
 jornal e pode-se dizer que até já ganhou fama
 não só na Universidade do Minho mas
 também noutras faculdades de Direito.
+
 Semana da Cultural de AEDUM
 Na passada semana teve lugar a IV Semana
 da Cultura da AEDUM. Este ano, a AEDUM
@@ -199,3 +221,37 @@ alunos, professores, ex - alunos e
 funcionários, visto que esta era uma
 actividade que juntava todos estes
 elementos.
+Miguel Rodrigues, presidente da AEDUM
+mostrou-se “estou muito satisfeito pela
+organização desta Semana da Cultura, quero
+aproveitar para agradecer a todos os que
+participaram nas nossas actividades e
+prometer que esta Semana Cultural foi muito
+boa, mas que para o ano faremos ainda
+melhor”.
+Agenda da AEDUM
+Dezembro:
+Dia 5
+Aula Aberta de Direito do Desporto leccionada pelo Prof. Doutor Meirim auditório 1.01 EEG
+Dia 7
+- Apoio no Ciclo de Conferências "30 anos
+do poder local" organizada pela Escola de
+Direito e CEJUR - Auditório B1 CP2
+Dia 11
+- "Direito ao Cinema" com o filme "O
+Coleccionador de Ossos" - escolhido pelo
+Dr. Dantas Mendes, coordenador da PJ Espaço Já do IPJ de Braga
+- Assembleia Geral da FNED em Coimbra
+Dia 12
+- Publicação da edição de Dezembro do
+Vox Iuris
+Dia 15
+- Publicação da revista Derectum
+Todo o mês Torneio de Futsal Feminino
+data a definir
+- Publicação do livro de Direito Fiscal
+- conferência em colaboração com o
+NEMUM ao abrigo do protocolo celebrado
+Texto:  Michael Ribeiro 
+Mika@sas.uminho.pt
+Fotografia: Nuno Gonçalves

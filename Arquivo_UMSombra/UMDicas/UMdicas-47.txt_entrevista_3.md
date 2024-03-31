@@ -2,9 +2,21 @@
 Jornal: UMdicas
 Issue: Número 47
 University: Universidade do Minho
-Interviewee(s): 
+Interviewee(s):  Engª. Maria Helena Campos 
+Topic: Serviços Técnicos
+Role: directora dos Serviços Técnicos da Universidade do Minho (ST)
 Date: 31 de Dezembro de 2006
+Interviewer: Ana Marques
 ---
+
+Entrevista – Serviços
+
+Estudo dos Serviços Técnicos mostra
+a necessidade de se organizar de forma mais eficaz o uso das instalações.
+
+ Engª. Maria Helena Campos  é a directora dos Serviços Técnicos da Universidade do Minho (ST) desde 17 de Janeiro de 2003.
+Licenciada na área da engenharia civil, tem especial interesse pela gestão dos projectos de construção.
+
 Quais são as competências do
 Director dos ST?
 Nos termos da definição constante no
@@ -27,9 +39,29 @@ actividades, os resultados obtidos e a
 eficiência dos serviços dependentes;
 d)assegurar e dirigir a elaboração do
 relatório de actividades e de contas
-
+anuais, a submeter à apreciação do
+Reitor;
+e)assegurar a administração e a gestão
+dos recursos humanos e materiais
+afectos aos ST, promovendo o melhor
+aproveitamento e desenvolvimento dos
+mesmos, tendo em conta os objectivos e
+as actividades dos ST;
+f)promover, em articulação com a
+Direcção de Recursos Humanos da
+Universidade, a formação e a
+actualização profissional dos
+funcionários que integram os ST;
+g)assegurar e supervisionar as
+actividades, os procedimentos técnicos e
+operacionais das divisões de serviço e
+das secções administrativas, tendo em
+atenção o cumprimento dos objectivos de
+actuação definidos;
+h)assegurar a coordenação e articulação
 entre as actividades dos ST e as restantes
 unidades orgânicas da Universidade.
+
 O que mais a motiva nesta função?
 Tenho uma formação académica na área
 da engenharia civil e conclui entretanto o
@@ -50,7 +82,26 @@ de construção ao longo de todo o ciclo de
 vida destes. O mais frequente é que os
 técnicos desta área conheçam com
 detalhe os procedimentos numa
+determinada fase do ciclo de vida dos
+projectos, seja ela o planeamento, a
+construção ou outra. O trabalho que se
+desenvolve nos Serviços Técnicos
+permite conhecer a grande maioria dos
+procedimentos ao longo de todo o ciclo de
+vida dos projectos, desde o planeamento
+até à demolição, caso ela exista, o que
+não é muito frequente em Portugal, mas
+pelo menos, até à fase de utilização e
+durante esta.
 
+Como poderá definir os ST e qual o seu
+papel na Universidade?
+A definição constante no regulamento
+orgânico dos Serviços Técnicos, refere
+que os ST exercem as suas
+competências nos domínios do
+planeamento e gestão dos projectos de
+construção da Universidade, bem como
 na manutenção, conservação,
 reabilitação e requalificação dos edifícios,
 equipamentos e espaços exteriores da
@@ -62,6 +113,7 @@ cedência para eventos, nos termos do
 Despacho RT-55/2003, para além de
 outras competências em matéria de
 gestão dos autocarros da Universidade.
+
 Quais têm sido as principais
 intervenções dos ST na UM e em que
 áreas?
@@ -73,6 +125,25 @@ planeamento e da construção dos novos
 projectos. Nesta área os serviços
 asseguram a grande maioria de todos os
 procedimentos que decorrem entre o
+momento em que se decide a
+necessidade de um novo edifício e o
+momento em que este entra em
+funcionamento. Actualmente estão em
+curso duas empreitadas, com contratos
+da ordem dos 17 milhões de euros, e ao
+mesmo tempo temos dois edifícios, um
+em funcionamento há menos de um ano e
+outro que irá abrir ao público a curto
+prazo.
+Penso que as tarefas que temos prestado
+com maior relevância para a
+Universidade se relacionam com este
+trabalho. Que aliás tem sido assegurado
+desde os primórdios da Instituição, em
+grande parte pelos actuais colaboradores
+dos Serviços Técnicos, que antes faziam
+parte do Gabinete das Instalações
+Definitivas.
 
 Sabemos que foi feito um estudo sobre
 os encargos com a exploração dos
@@ -114,6 +185,30 @@ função principal dos espaços da
 Universidade quer nos aspectos
 pedagógicos quer de investigação.
 
+Quais foram as áreas estudadas?
+Este estudo procura fazer uma
+abordagem do consumo dos principais
+recursos: água, electricidade e gás.
+
+Quem foram os responsáveis pelo
+estudo e como foi posto em prática?
+Não deveremos falar talvez em
+responsáveis. O estudo é o resultado de
+um trabalho desenvolvido em equipa,
+juntando as pessoas de cada
+especialidade e coordenando a análise
+de forma cruzada entre especialidades,
+para que a eficiência da gestão que se
+procura, não se faça numa especialidade
+à custa do aumento de encargos em outra
+especialidade.
+
+Quais são as principais conclusões
+que se podem retirar deste?
+Do ponto de vista dos ST, entendemos, e
+julgo que isso transparece do resumo que
+fizemos, que os consumos gerais destes
+recursos, isto é, os consumos associados
 aos espaços de utilização geral, não
 incluindo áreas departamentais como
 laboratórios de investigação ou
@@ -132,94 +227,11 @@ Outra das conclusões que julgo resultar
 deste trabalho é a da necessidade de
 organizar de forma mais eficaz o uso das
 instalações.
+
 Qual a necessidade e o benefício de
 uma maior eficiência na gestão destes
 recursos?
 O benefício evidente é a redução dos
-
-Quais foram as áreas estudadas?
-Este estudo procura fazer uma
-abordagem do consumo dos principais
-recursos: água, electricidade e gás.
-anuais, a submeter à apreciação do
-Reitor;
-e)assegurar a administração e a gestão
-dos recursos humanos e materiais
-afectos aos ST, promovendo o melhor
-aproveitamento e desenvolvimento dos
-mesmos, tendo em conta os objectivos e
-as actividades dos ST;
-f)promover, em articulação com a
-Direcção de Recursos Humanos da
-Universidade, a formação e a
-actualização profissional dos
-funcionários que integram os ST;
-g)assegurar e supervisionar as
-actividades, os procedimentos técnicos e
-operacionais das divisões de serviço e
-das secções administrativas, tendo em
-atenção o cumprimento dos objectivos de
-actuação definidos;
-h)assegurar a coordenação e articulação
-
-determinada fase do ciclo de vida dos
-projectos, seja ela o planeamento, a
-construção ou outra. O trabalho que se
-desenvolve nos Serviços Técnicos
-permite conhecer a grande maioria dos
-procedimentos ao longo de todo o ciclo de
-vida dos projectos, desde o planeamento
-até à demolição, caso ela exista, o que
-não é muito frequente em Portugal, mas
-pelo menos, até à fase de utilização e
-durante esta.
-Como poderá definir os ST e qual o seu
-papel na Universidade?
-A definição constante no regulamento
-orgânico dos Serviços Técnicos, refere
-que os ST exercem as suas
-competências nos domínios do
-planeamento e gestão dos projectos de
-construção da Universidade, bem como
-
-momento em que se decide a
-necessidade de um novo edifício e o
-momento em que este entra em
-funcionamento. Actualmente estão em
-curso duas empreitadas, com contratos
-da ordem dos 17 milhões de euros, e ao
-mesmo tempo temos dois edifícios, um
-em funcionamento há menos de um ano e
-outro que irá abrir ao público a curto
-prazo.
-Penso que as tarefas que temos prestado
-com maior relevância para a
-Universidade se relacionam com este
-trabalho. Que aliás tem sido assegurado
-desde os primórdios da Instituição, em
-grande parte pelos actuais colaboradores
-dos Serviços Técnicos, que antes faziam
-parte do Gabinete das Instalações
-Definitivas.
-
-Quem foram os responsáveis pelo
-estudo e como foi posto em prática?
-Não deveremos falar talvez em
-responsáveis. O estudo é o resultado de
-um trabalho desenvolvido em equipa,
-juntando as pessoas de cada
-especialidade e coordenando a análise
-de forma cruzada entre especialidades,
-para que a eficiência da gestão que se
-procura, não se faça numa especialidade
-à custa do aumento de encargos em outra
-especialidade.
-Quais são as principais conclusões
-que se podem retirar deste?
-Do ponto de vista dos ST, entendemos, e
-julgo que isso transparece do resumo que
-fizemos, que os consumos gerais destes
-recursos, isto é, os consumos associados
 
 “O papel de uma
 unidade deste tipo
@@ -235,14 +247,6 @@ a utilização das suas
 infra-estruturas e das
 suas instalações. “
 
-UM
-
-31 de Dezembro de 2006
-
-Entrevista – Serviços
-
-dicas
-
 encargos anuais de exploração dos
 edifícios. Mas existem muitos outros
 benefícios que se associam ao conceito
@@ -256,6 +260,7 @@ com vantagens reconhecidas para a
 saúde dos seus ocupantes para o
 conforto destes e para a melhoria da
 produtividade.
+
 Relativamente às actuais despesas
 com estes recursos, e caso as
 recomendações referidas neste
@@ -273,7 +278,6 @@ outros consumos.
 Penso que relativamente às medidas de
 curto prazo que considerámos no estudo,
 na sua maioria isentas de encargos ou
-
 com investimentos iniciais muito
 reduzidos, a poupança pode significar
 uma redução entre 5% e 10% no
@@ -293,6 +297,7 @@ estudo realizado, sobretudo nas
 questões relacionadas com os consumos
 específicos associados à utilização
 destes espaços.
+
 Este tipo de estudo consiste apenas
 em recomendações no papel ou um
 grande passo para a acção?
@@ -303,13 +308,13 @@ implementadas e no conjunto será
 possível concluir a sua implementação no
 primeiro trimestre de 2007.
 O estudo tem no capítulo das conclusões
-
 um carácter muito pragmático e
 caracteriza detalhadamente as tarefas a
 executar e como devem ser cumpridas.
 Assim, não se trata de um documento
 teórico mas, pelo contrário, muito realista
 e concreto.
+
 Para a Eng. Helena quais seriam as
 medidas mais urgentes a serem
 colocadas em prática?
@@ -329,3 +334,6 @@ avaliar o desempenho dos sistemas e
 propor metodologias de actuação que
 permitam corrigir os desvios e assegurar
 a melhoria contínua.
+
+Ana Marques
+anac@sas.uminho.pt
