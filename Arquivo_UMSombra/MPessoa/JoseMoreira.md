@@ -10,11 +10,10 @@ notes:
  
 ---
 
-# entrevista a José Manuel Branco Marado Moreira
+# entrevista de José Manuel Branco Marado Moreira
 
 
 Tag: **mp**
-
 tipo: **editado**
 
 versao: **edicao**
@@ -208,13 +207,11 @@ E isto foi sempre o tipo, a maneira como eu encarei, desde sempre, desde pequeno
 No caso das explorações de petróleo na África, os americanos, os ingleses vão lá buscar o petróleo e trazem-no para cá ao preço da chuva, depois refinam, tiram dali os produtos essenciais, gasolinas e não sei quê, depois vendem muito mais caro. Porque é que não se ajudam, não se faz o contrário. Por exemplo, o problema da dívida externa dos países pobres. Dizem que se deve acabar com a dívida externa dos países pobres, mas não se deve acabar, alguns dizem não se deve porque senão eles gastam o dinheiro à toa e ficam sem desenvolvimento na mesma. Lá está, deviam chegar a um consenso, dizer assim: "Eu perdoo-te a tua dívida, mas tu tens que arragar nesse dinheiro que me ias pagar a mim e tens que o investir para fazer hospitais, fábricas, etc, para desenvolveres. Porque se não fizeres isso, começas-me a pagar outra vez. Eu perdoo-te mas tu tens que fazer isto e daqui a um ano tens que me mostrar o que fizeste. Se fizeste alguma coisa, eu continuo-te a perdoar senão não te perdoo." Devia haver outro tipo de relação entre os vários países, entre as várias comunidades A sociedade devia desenvolver-se de outra maneira. Isso é que é importante.
 
 Tag: **identificacao**
-
-titulo: **José Moreira**
+titulo: **                                                                                                                                                                                                                                                                                                                       José Moreira**
 
 O meu nome é José Manuel Branco Marado Moreira. Nasci cá em Braga, em S.Vitor, no dia 16 de Junho de 1950.
 
 Tag: **ascendencia**
-
 titulo: **"Origem bastante curiosa"**
 
 O meu pai chama-se José Moreira Rodrigues e minha mãe Irene Branco de Almeida Marado. O meu avô paterno chamava-se Auspício Rodrigues e a minha avó era Maria da Conceição Moreira. O meu  avô materno era  Manuel Carneiro da Cunha Marado e a minha avó era Maria da Conceição Duarte de Almeida.
@@ -239,7 +236,6 @@ A ASPA tem algumas publicações, quinzenalmente tem uma página no Diário do M
 Quanto à minha mãe, sempre foi uma mulher de extraordinária capacidade de trabalho. Aliás, eu lembro-me de, nos meus tempos de miúdo, a minha mãe ser assistente social e ter a cargo dela bastantes Casas do Povo, da zona de Braga, tais como: Lago, Pico de Regalado, Rulães, Arcos de Valdevez, Fafe, Arões. Muitas vezes ia trabalhar e levava três filhos com ela: um pela mão, outro ao colo e o terceiro na barriga. Portanto a minha mãe foi uma moura de trabalho. Agora já está reformada, ainda cá está, felizmente, mas foi uma moura de trabalho, que deu como fruto uma família bastante diversificada. Somos todos bastante diferentes no que diz respeito ao temperamento, feitio, carácter, mas quando toca a reunir estamos todos prontos, tipo três mosqueteiros "um por todos e todos por um". É muito isso que nos marca, quando toca a rebate estamos todos unidos.
 
 Tag: **casa**
-
 titulo: **Saltando de casa em casa**
 
 Da casa onde nasci, não guardo grandes recordações, sei que era cá em Braga, na Rua de S. Victor. Embora me contem episódios dos meus tempos de miúdo, com 2 anos, não tenhos grandes recordações. Aliás, na casa onde eu nasci vivemos muito pouco tempo. Eu nasci naquela casa, mas passado um ano já estávamos noutra. O irmão que nasceu a seguir a mim, que é mais novo que eu ano e meio, já nasceu noutro sítio. Portanto, a partir daí fomos sempre saltando de casa porque a família foi crescendo e a casa também tinha que crescer, senão não cabia lá ninguém. De modo que eu não me lembro da casa. Lembro-me de alguns episódios, como por exemplo, na Rua de S. Victor, há alguns anos, passava o eléctrico, vinha do Bom Jesus e ia até ao Turismo, ao Banco de Portugal, seguia para baixo, para Maximinos. Então, o meu pai, todos os dias, apanhava o eléctrico e ia para o trabalho. Eu não sabia onde é que era o trabalho dele, mas sabia que ele ia no eléctrico. Então, contam-me que eu um dia, tinha para aí ano e meio, tinha aprendido a andar há pouco tempo, e foram dar comigo junto à Arcada, ao Banco de Portugal. Eu tinha ido a pé pela rua do eléctrico fora e foi uma senhora, que depois veio a ser madrinha de uma das minhas irmãs, que me encontrou  no meio da linha do eléctrio e me disse:
@@ -248,7 +244,6 @@ Eu disse que ia ter com o meu pai ao trabalho. Quer dizer, nunca mais lá chegav
 Lembro-me melhor da casa onde começaram a nascer os meus irmãos, a partir doterceiro irmão. Nós morávamos na Avenida da Liberdade, naqueles prédios da Previdência, numa casa que faz esquina na Avenida da Liberdade, antiga Avenida Marchal Gomes da Costa, com a Rodovia que vai para o Porto. Ainda me lembro de nós irmos viver para lá, eu teria 3 anos e meio. Lembro-me que, naquela altura, ainda não havia Rodovia, a saída para o Porto era pela estação. Aquilo tinha um becozinho sem saída. E lembro-me que quando o meu pai chegava do trabalho, nas tardes de Verão, nós íamos jogar à bola e brincávamos nas traseiras da casa porque não havia problema nenhum, não havia trânsito. Era uma casa normal. Eu agora já não me lembro bem, mas acho que tinha dois quartos, uma cozinha, duas casas de banho, uma delas pequenina, uma sala grande, uma sala comum, uma sala de jantar com sala comum grande. Lembro-me de jogar à bola com o meu pai dentro da sala. Nessa casa morava eu, os meus pais e os meus irmãos. Lembro-me que nessa casa vivemos eu, o Luís, o Miguel, o Fernando e a Leonor. Até ao quinto irmão vivemos naquela casa, depois quando nasceu a sexta (nós somos quatro rapazes seguidos e depois três meninas e depois um rapaz para acabar, que é o "rapa-tacho"), a segunda das raparigas, portanto, o sexto filho, já nasceu na Avenida 31 de Janeiro. Portanto, eu nasci em S.Victor, o meu irmão seguinte já nasceu em Guadalope. Nós fomos viver para uma casa na zona de Guadalope. Depois o terceiro, quarto e quinto nasceram na Avenida da Liberdade. A Isabel, que é a sexta, nasceu na Avenida 31 de Janeiro, a Cecília e o João, que são os últimos, já nasceram na Rua Bernardo Sequeira, onde mora o meu pai e eu. Ele mora no nº 454, no lado de cima da Rodovia, e eu moro no lado de baixo. Estamos tão pertinho, mas para irmos a casa um do outro ou vamos a pé, e temos que passar a passagem aérea, ou temos que dar a volta à cidade.
 
 Tag: **costumes**
-
 titulo: **"Natal e Páscoa em família"**
 
 Os momentos mais marcantes da minha família eram, sem dúvida, as reuniões de Natal e Páscoa, quando os meus avós estavam connosco. Os meus avós vinham de Cêtos passar uns dias connosco. Lembro-me de na altura da Páscoa o meu avô vir para nossa casa porque gostava de assistir às cerimónias da Semana Santa, já eu tinha feito a 4ª classe na aldeia com o meu avô, devia ter para aí 12/13 anos, e de trazer presentes. Houve um ano que trouxe um cabritinho e, então, Jesus! Aqueles meus irmãos mais novitos, ui minha Nossa Senhora, fizeram uma festa ao cabritinho:
@@ -256,7 +251,6 @@ Os momentos mais marcantes da minha família eram, sem dúvida, as reuniões de 
 O meu avô tinha trazido o cabrito para o almoço do dia de Páscoa. Então a família costumava ver todos as procissões de Quinta-feira Santa e Sexta-feira Santa. Lembro-me que eu e o meu avô combinámos que não íamos à procissão porque ele estava doente. De maneira que foi toda a gente para a procissão e nós ficamos os dois sozinhos. O meu avô tinha experiência e eu estava sempre pronto a ajudar nessas coisas, de maneira que, matámos o cabrito e pusemo-lo no frigorífico. Quando eles chegaram o cabrito estava no frigorífico. Fizeram uma choradeira daquelas, zangaram-se connosco, mas aquilo passou.
 
 Tag: **infancia**
-
 titulo: **"Muito sossegado"**
 
 Das actividades em família, lembro-me quando era miúdo, entre os 7 e os 10 anos, de ir ao futebol com o meu pai porque ele era correspondente do Comércio do Porto e do Jornal de Notícias e tinha de fazer as reportagens sobre os jogos. Então nós íamos com ele ver os jogos.
@@ -270,7 +264,6 @@ Como já disse, eu nunca fui de muitas tropelias, de muitas correrias com bicicl
 Lembro-me de aos 7 anos o meu pai me dar uma bicicleta. Eu andava bastante, mas sempre fui muito cuidadoso. Lembro-me que a bicicleta tinha duas rodinhas atrás, depois uma das rodinhas partiu, portanto, aquilo ficou só com uma rodinha de um lado e eu acabei por aprender a andar de bicicleta sozinho porque uma delas partiu. Lembro-me, por exemplo, de ter 13/14 anos, de irmos para a Póvoa de Varzim passar férias e de ter ido de bicicleta da Póvoa até Esposende, pela estrada. Fui e vim. Mas quer dizer, fui nas minhas calmas, com muito cuidado. Naquela altura, o trânsito não era o que é hoje. Era "Lá vai um carro", passava  um de meia em meia hora. Eu tinha as minha aventurazinhas, só que eram aventurinhas, não eram aventuras.
 
 Tag: **educacao**
-
 titulo: **"Já sabia ler"**
 
 Até aos 4 anos andei muito com a minha mãe e o meu pai. A partir dos 4 anos comecei a frequentar o ensino pré-primário. Lembro-me que estive uns tempos no Colégio do Bulim, que é na Igreja do Carmo, ainda funciona hoje. Estive também no colégio D.Pedro V, que é na Avenida Central, perto dos Congregados e depois fui para a escola primária de S. Lázaro, que era relativamente perto da casa onde nós morávamos.
@@ -293,7 +286,6 @@ E então, nessa altura, eu não quero dizer nem que sim nem que não, mas eu  te
 Eu entrei para o Instituto, que é agora o Instituto Superior de Engenharia, no Porto, que naquele tempo era o Instituto Industrial do Porto, onde se tiravam cursos de agente técnico, era um curso médio, não um curso superior. Mas que me dava, pelo facto de eu estar lá, a possibilidade de adiamento de incorporação. Aconteceque eu fui para lá e não me adaptei àquilo, e mal chumbei o primeiro ano, os gajos chamaram-me logo para a tropa. De maneira que eu tinha 22 anos, tinha acabado de fazer 22 anos, e fui para as Caldas da Rainha fazer a recruta. Lembro-me que foram três meses bastante durinhos porque, naquela altura, a tropa era uma coisa séria. Agora é uma brincadeira, agora são quatro meses a brincar. Mas lembro-me de ter três meses bastantes duros nas Caldas da Rainha. Aliás tudo era duro naquele tempo, as dificuldades eram muitas.
 
 Tag: **namoro**
-
 titulo: **"No meu tempo de namoro era diferente"**
 
 A minha mulher pelos vistos dáva-se muito bem com o irmão mais novo do meu pai, o meu tio, a quem eu chamava o meu irmão mais velho, que era o meu tio mais novo, dáva-se muito bem com ele. Ele dizia-lhe:
@@ -313,7 +305,6 @@ Ela não podia sair da beira da avó, senão ai Jesus, que ela ... Da primeira v
 E ai de nós se não estivessemos à meia-noite em casa, era o cabo dos trabalhos. Pronto, de maneira que foi assim, foi um namoro em que ao fim e ao cabo fomos criando uma relação, consolidando certos pontos. Hoje em dia é muito fácil, acho engraçado como é que se pode casar hoje e daqui a três meses descasar.
 
 Tag: **casamento**
-
 titulo: **"Casámos no Bom Jesus"**
 
 O casamento é uma coisa muito séria. Ao aceitar casar com a minha mulher, o que é que eu tenho que pensar?
@@ -325,13 +316,11 @@ Então, casámos 18 de Junho, no Bom Jesus, em Braga. Quem me casou foi um grand
 Actualmente, moro com a minha mulher e o meu filho cá em Braga, na Rua Bernardo Sequeira, nº 99.
 
 Tag: **descendencia**
-
 titulo: **"Tenho um filho"**
 
 Tenho um filho que se chama Rui Ângelo, vai fazer 22 anos em Abril. Estuda Direito na Universidade do Minho, está no 3º ano. Ele é o presidente da Juventude Popular, CDS-PP, Partido da Democracia Cristã.
 
 Tag: **percursoprofissional**
-
 titulo: **"Do Ultramar à Universidade do Minho"**
 
 Eu saí de casa dos meus pais quando fui parao Ultramar, quando fui para a tropa. Quando tinha 19/20 anos fui à inpecção militar e fiquei aprovado para a tropa. Só não ficava aprovado quem não tivesse o dedo direito para disparar. Esses ficavam livres. A minha preocupação era o ensino superior, porque se eu estivesse a estudar no ensino que fosse considerado médio ou superior, eu podia pedir adiamento da incorporação militar, que foi o que aconteceu, embora eu tenha chumbado no exame de admissão à universidade, talvez pelos motivos que já mencionei ou talvez não.
@@ -369,7 +358,6 @@ Eu vinha com sapatos desapertados porque não conseguia meter os pés lá dentro
 E acabou. Comecei a  trabalhar em Janeiro de 1977 nos Serviços Médico Sociais aqui de Braga. Estive desde Janeiro de 1977 a Fevereiro de 1982, até ao dia 12 de Fevereiro, a trabalhar nos Serviços Médico Sociais. No dia 15 de Fevereiro de 1982 vim para a Universidade do Minho, para o Centro de Informática.
 
 Tag: **episodio**
-
 titulo: **Memórias**
 
 Lembro-me de alguns episódios engraçados do tempo que estava na tropa, por exemplo: nós tínhamos bastantes exercícios  físicos de corrida. Primeiro era passar o dia inteiro com uma metralhadora de 7kg em cima de nós, ou dependurada no braço ou então à tricote. Depois eu, a partir de uma certa idade, comecei a ter um problema na perna esquerda, na zona do joelho esquerdo, então havia exercícios, como por exemplo, de salto, que eu, devido à minha limitação física, não conseguia fazer. Mas lembro-me que nós tínhamos um exercício de corrida em que depois tínhamos uns obstáculos, um dos obstáculos era um grande buraco no chão, mas com uma amplitude de mais de 2 metros, eu não conseguia saltar aquilo de maneira nenhuma. Acontece que eram  as provas do tempo de recruta. Lembro-me de antes de fazer a prova ver aquilo e dizer:
@@ -379,7 +367,6 @@ Pronto, comecei a correr e fiz a corrida no meu ritmo, no ritmo que conseguia ag
 E eu saltei para dentro do buraco. Depois tiraram-me de lá. Portanto era uma coisa que eu não ia conseguir fazer, eles sabiam perfeitamente que eu não fazia.
 
 Tag: **oficio**
-
 titulo: **O fascínio da Informática**
 
 Entrei na Universidade do Minho por concurso. Um concurso aberto pelo professor Valença, que era o chefe do departamento de Informática, nos Serviços de Computação, como era chamado naquela altura. Eu vi o anúncio no Comércio do Porto e concorri. Entrei eu e um outro rapaz, que agora já não está a trabalhar cá. Entrámos dois nessa altura.
@@ -414,13 +401,11 @@ Assim na brincadeira fui fazendo, porque eu gostava de fazer, punha aquilo a fun
 Acho que não há nada mais que eu queira realçar. Estes 20 anos na universidade, no Centro de Informática, foram bastante gratificantes para mim, não só por aquilo que eu consegui dar, transmitir às pessoas com quem trabalhei, mas também por tudo aquilo que eu consegui aprender à minha custa ou através do contacto com várias pessoas. Foram 20 anos bastante gratificantes e que proporcionaram a realização da minha carreira profissional, daquela que foi permitida. Podia ter sido médico,engenheiro, mas não, estava destinado a ser operador de computadores, trabalhar no Centro de Informática. Eupenso que nestes 20 anos, não sei se terei sido um trabalhador exemplar, também não me compete a mim julgar o meu trabalho. Agora uma coisa lhe posso dizer, em tudo aquilo que fiz pus o meu empenho, dediquei-me à causa com todas as minhas capacidades. E se não pude fazer mais "coitadinho" é porque não posso dar mais. E quem dá o que tem não pode dar mais.
 
 Tag: **episodio**
-
 titulo: **Falha de electricidade**
 
 Recordo-me de um episódio à noite na Gulbekian, uma noite, eram talvez 2h da manhã quando eu saí de serviço e quando me vinha embora, passados dois minutos de eu ter saído do Centro de Informática falhou a luz na cidade toda. Ficou a cidade toda às escuras. Então eu pensei: "Eh pá e agora o que é que eu vou fazer! Não vejo nada, não vejo um palmo à minha frente. Não sei o que faça." Então, abriguei-me um bocadinho num canto, porque estava a chover, e às tantas apareceu o camião do lixo. Os homens que andavam a recolher o lixo sabiam qual era o percurso que eu fazia e então vieram sempre atrás de mim a alumiar-me pelo caminho até à minha casa. E foi assim que eu consegui chegar a casa, senão tinha ficado mais duas horas à espera que voltasse a luz. Foi o que aconteceu.
 
 Tag: **quotidiano**
-
 titulo: **"Dia muito cheio"**
 
 Actualmente, o meu dia é geralmente muito cheio, faço muitas coisas. Levanto-me cerca das 8h/8h15 da manhã e faço aquelas coisas normais: tomar banho, fazer a barba, levar a mulherpara a escola. Tem que lá estar às 9h e eu, geralmente, nunca trabalho da parte da manhã, ou faço o turno da tarde ou faço o turno da noite. De maneira que como fico com a manhã livre sou eu que faço o almoço para nós todos, para mim, para a mulher e para o filho. Portanto, faço o almoço, dou um jeito na casa, faço as camas, dou um jeito naquilo que é preciso. Isto da parte da manhã. Trato de assuntos que tenho a tratar e assim passo o período da manhã. Da parte de tarde, quando tenho a tarde livre, a seguir ao almoço, levo a mulher outra vez para a escola, depois geralmente vou a casa dos meus pais, porque a minha relação com os meus pais, e sobretudo com o meu pai, é uma relação de amizade profunda, que nos leva a um contacto praticamente quotidiano, haverá excepções como por exemplo hoje. Hoje não fui lá, não pude. É praticamente assim que passo a tarde até à hora de vir para aqui trabalhar. Amanhã faço o turno da tarde, por exemplo, mas à noite tenho uma reunião com uns amigos na casa do meu pai. Portanto é precisamente este o motivo pelo qual faço o turno da tarde à quinta-feira porque à noite tenho uma reunião com os amigos.
@@ -432,7 +417,6 @@ Sinto-me optimamente com a vida que hoje tenho. A minha vida é aquilo que Deus 
 Se voltasse o tempo atrás, não sei se mudaria alguma coisa, isso não sei, mas também não penso nisso. O momento presente chega. Não me preocupa o facto de poder ter sido assim ou assado, é o que é. E  eu sinto-me bem com aquilo que sou e que tenho.
 
 Tag: **religiao**
-
 titulo: **"Voluntário da Obra de Maria"**
 
 Presto serviço voluntário à Obra de Maria, movimentos populares, e colaboro com várias instituições ligadas à igreja, na paróquia de S. Lázaro, ligada à de S.Victor.
@@ -462,7 +446,6 @@ E disse-lhe eu assim:
 Passado uma semana recebi um cheque a devolver uns descontos de um dinheiro que eu tinha descontado a mais, há uma data de anos atrás. Digo eu assim: "Estás a ver, paga ou não paga?!". Portanto, tenho esta predisposição para estar ao serviço do outro desinteressadamente. Dar com a mão esquerda sem a direita saber, porque há muita gente que dá muita coisa, mas quer que apareça na primeira página do jornal, "Foi fulano de tal  que deu e que fez e que aconteceu". Dar para aparecer nas páginas dos jornais não tem grande valor.
 
 Tag: **episodio**
-
 titulo: **"Dai e recebereis"**
 
 Eu posso-lhe contar algumas coisas que me aconteceram. Por exemplo, há uns anos, eu lembro-me que estava em casa e tinha para lá umas lâmpadas que estavam fundidas,  e então disse assim: "Bem, vou ali a uma loja e vou comprar as lâmpadas, trazer para casa e arranjar isto." Tinha lá um interruptor avariado e eu tinha que comprar umas coisas para substituir umas peças. Então saí de casa e fui à loja para comprar esse material que me fazia falta. Então cheguei à loja e passado um bocado entrou uma senhora de idade, muito aflita, porque tinha ficado sem luz em casa:
@@ -478,21 +461,18 @@ E falei com a senhora:
 Fui a casa da senhora e consegui resolver o problema, a senhora ficou... Oi Jesus! Foi uma alegria. E era a coisa mais simples do mundo resolver aquilo. O problema é que ela se fosse lá um electricista resolvia o problema e ia pagar um dinheirão. Eu fui lá e resolvi o problema à senhora. Mas ao resolver o problema à senhora fiquei sem poder resolver o meu. Eu assim "E agora? Já não vou poder resolver o problema!". Era um sábado e a loja de tarde estava fechada, e eu já não tinha hipóteses de resolver o meu problema. Quando cheguei a casa tinha o problema resolvido. Tinha lá estado uma pessoa de família que me tinha resolvido o problema. Portanto,  isto só prova aquilo que Deus diz no Envangelho "Dai e recebereis".
 
 Tag: **lazer**
-
 titulo: **Convívio com pessoas**
 
 Nas horas de lazer faço muitas coisas: convivo com pessoas, com amigos, leio, divirto-me porque também preciso, e acompanho, por exemplo, a minha mulher.
 Aos fins de semana costumo estar em família, com os amigos, na minha grande família que é a Obra de Maria. Ttemos encontro geralmente uma vez por mês. O nosso grupinho encontra-se uma vez por semana à quinta-feira, mas geralmente temos sempre encontros e visitamo-nos uns aos outros. Convivemos bastante entre nós, trocamos experiências, leituras.
 
 Tag: **sonhos**
-
 titulo: **" Paz no mundo, ver toda gente em paz."**
 
 O meu maior desejo é ver toda a gente em paz. Talvez o meu maior desejo fosse ver a paz no mundo, só que para isso é preciso dar muito. Nós não podemos fazer manifestações a pedir a paz, temos que a construir porque esse é que é o grande problema. A paz tem que ser construída por cada um de nós. E  a grande dificuldade para a paz universal é precisamente o homem ainda não ter percebido que o primeiro obreiro da paz é ele próprio e não as instituições, digamos, os governos que decretam a paz. Se eu não fizer a paz na minha casa com a família, com os filhos, com a mulher, não adianta eu andar para aí com bandeiras a pedir a paz ao governo. Se eu não crio a paz, não deixo de levantar problemazinhos, às vezes, mesquinhices, o puxar a brasa para a minha sardinha, em vez de deixar estar a brasa, dizer assim: - "Pronto, dá para a minha sardinha, mas também dá para a tua. E agora vamos ajeitar a coisa. Dámos a volta às sardinhas e ficam as duas.". Agora se eu quero só para mim e "agora a tua come-a crua" , eu não construo nada. Construo cada vez mais a divisão entre os homens, porque cada vez mais só trato dos meus interesses e não me preocupo com o interesse do próximo. Esse é que é o grande problema.
 Não tenho sonhos em termos pessoais, disponho-me a ajudar o mais possível na construção da paz e da harmonia entre os homens, esse sim, poderei dizer que é o meu grande sonho: a construção da paz e da harmonia.
 
 Tag: **filosofiavida**
-
 titulo: **"Não tive decepções"**
 
 Da vida espero poder continuar sempre a agir da maneira que estou a agir, porque penso que é a maneira mais correcta. Penso poder ter o discernimento para poder continuar sempre assim e espero também ser compreendido por todas as pessoas que me rodeiam. De resto, não tenho grandes ambições de possuir vivendas, iates. Não, não. Eu costumo dizer, e as pessoas que me conhecem sabem, eu sou capaz de dar a roupa que tenho no meu corpo se for preciso. Se for preciso eu dar a  minha roupa eu dou. Agora, é evidente que não é a qualquer um que venha cá contar uma história, mas sou um indivíduo que dou tudo. Estar pronto a dar, o simples facto de estar disposto, sem interesse nenhum, a resolver o problema tanto da outra senhora de idade, como ajudar a pessoa de família, como outros casos do género,leva a que depois recebas a recompensa e recebes cem vezes mais do que estavas à espera. Tenho esta certeza de que não adianta estar a guardar tudo para mim, mantenho uma atitude de abertura, de estar pronto a repartir tudo aquilo que tenho. Aliá, coisa que já vem desde os meus tempos de miúdo, na terra da minha mãe, onde as casas estavam todas abertas, ninguém fechava a porta à chave. É um estilo de vida em que pode não haver a fortuna, o bem estar, mas há a felicidade, que é o mais importante.
@@ -507,4 +487,3 @@ E isto foi sempre o tipo, a maneira como eu encarei, desde sempre, desde pequeno
 No caso das explorações de petróleo na África, os americanos, os ingleses vão lá buscar o petróleo e trazem-no para cá ao preço da chuva, depois refinam, tiram dali os produtos essenciais, gasolinas e não sei quê, depois vendem muito mais caro. Porque é que não se ajudam, não se faz o contrário. Por exemplo, o problema da dívida externa dos países pobres. Dizem que se deve acabar com a dívida externa dos países pobres, mas não se deve acabar, alguns dizem não se deve porque senão eles gastam o dinheiro à toa e ficam sem desenvolvimento na mesma. Lá está, deviam chegar a um consenso, dizer assim: "Eu perdoo-te a tua dívida, mas tu tens que arragar nesse dinheiro que me ias pagar a mim e tens que o investir para fazer hospitais, fábricas, etc, para desenvolveres. Porque se não fizeres isso, começas-me a pagar outra vez. Eu perdoo-te mas tu tens que fazer isto e daqui a um ano tens que me mostrar o que fizeste. Se fizeste alguma coisa, eu continuo-te a perdoar senão não te perdoo." Devia haver outro tipo de relação entre os vários países, entre as várias comunidades A sociedade devia desenvolver-se de outra maneira. Isso é que é importante.
 
 Tag: **avaliacao**
-
