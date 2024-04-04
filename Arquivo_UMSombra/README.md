@@ -103,6 +103,8 @@ Algumas tags são iguais mas estão a começar por maiúscula)
 
 - Sempre que for relevante podemos adicionar estes metadados aos ficheiros:
   
+| TAG      | Definição   |     
+|----------| ---------|
 | job| ocupação da pessoa que foi entrevistada|
 | place of birth|  local de nascimento da pessoa entrevistada|
 | date of birth |data de nascimento da pessoa entrevistada (circa)|
