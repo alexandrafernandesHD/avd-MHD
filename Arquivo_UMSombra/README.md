@@ -79,3 +79,32 @@ Algumas tags são iguais mas estão a começar por maiúscula)
 | date| data da entrevista |
 | **notes** | notas sobre a entrevista|
 
+#### Proposta de Metadados gerais
+
+| TAG      | Definição   |     
+|----------| ---------|
+| date| data da publicação |
+| author| autor do artigo|
+| interviewee|  pessoa a ser entrevistada |
+| interviewer | pessoa que conduziu a entrevista|
+| image |  a imagem utilizada no artigo |
+| title | título do artigo |
+| url | url onde se localiza o artigo (quando não faz sentido, omitir)|
+| site | site de onde foi retirado o artigo ex:UmDicas |
+| description |  descrição do artigo (opcional) |
+| tags | tags associadas ao artigo (_keywords_)|
+| issue | número da publicação (opcional)|
+| type | tipo de documento|
+
+
+### Entrevistas
+
+#### BI da pessoa entrevistada 
+
+- Sempre que for relevante podemos adicionar estes metadados aos ficheiros:
+  
+| job| ocupação da pessoa que foi entrevistada|
+| place of birth|  local de nascimento da pessoa entrevistada|
+| date of birth |data de nascimento da pessoa entrevistada (circa)|
+| date_interview  | data da entrevista|
+| notes | notas sobre a entrevista|
