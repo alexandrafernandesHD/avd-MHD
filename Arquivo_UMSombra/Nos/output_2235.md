@@ -1,0 +1,48 @@
+---
+date: 18-11-2016
+author: Pedro Costa
+image: http://www.nos.uminho.pt/Images/destaques/20161116123012_PresidentedosEUADonaldTrumpthedurancom.jpg
+title: "Administração Trump terá uma postura mais protecionista"
+url: http://www.nos.uminho.pt/Article.aspx?id=2235
+site name: Jornal Online UMINHO "Administração Trump terá uma postura mais protecionista"
+description: 
+type: article
+
+---
+# "Administração Trump terá uma postura mais protecionista"
+
+
+  
+
+Helena Guimarães, da Escola de Economia e Gestão, analisa o impacto da nova Presidência dos EUA e os acordos transatlânticos TTIP e CETA.
+
+Helena Guimarães é professora associada com agregação da Escola de Economia e Gestão (EEG) da UMinho. Fez a licenciatura em Relações Internacionais e o mestrado em Estudos Europeus pela UMinho, concluído em 1990. Obteve depois o grau de mestre em Ciência Política e o doutoramento em Economia Política Internacional pela Universidade de Cincinnati, nos EUA. É detentora de uma chair Jean Monnet da União Europeia, foi Fulbright scholar na American University em Washington DC e já recebeu bolsas de investigação da Comissão Europeia, do American Consortium for European Studies e da Fundação para a Ciência e Tecnologia, entre outras, que lhe conferem prestígio internacional na sua área de investigação. Neste âmbito, recebeu ainda financiamento da UE para realizar o International Seminar "Product Market Integration" na UMinho, em 2008.
+
+"Economia Política do Comércio Internacional” é um livro da sua autoria que pretende fazer uma abordagem ao comércio internacional de diferentes perspetivas teóricas, gerando assim novas oportunidades de interpretação da política comercial, do sistema de comércio internacional e das relações comerciais internacionais. O NÓS colocou-lhe um conjunto de questões, para que, à luz das teorias, explicasse as dinâmicas que cruzam a economia, a política e o comércio internacional, nomeadamente as que resultarão da recente assinatura do CETA (Canada-EU Trade Agreement) e da eventual conclusão das negociações do Acordo Transatlântico sobre Comércio e Investimento, conhecido por TTIP, ou do Trade in Services Agreement (TiSA) que podem representar um novo marco nas relações do comércio internacional.
+
+**Que desafios principais vivem os mercados ocidentais, face à competitividade que outros mercados vêm impondo no comércio internacional?** 
+Um dos principais desafios respeita à necessidade de ultrapassar as vulnerabilidades da indústria europeia e americana face a concorrentes mais competitivos da economia mundial, em particular a China e, no caso dos EUA, também o México. Mas a resolução destas vulnerabilidades, que deveria ocorrer no quadro de mercados tanto quanto possível abertos, pode suscitar tentações de proteção de interesses específicos de setores menos competitivos. Este é outro desafio que se coloca no desenho das políticas comerciais dos países e dos espaços integrados como a União Europeia.
+ 
+**Será o TTIP uma resposta adequada aos fenómenos de globalização e aos seus efeitos sobre os mercados?** 
+O acordo é uma forma de melhor posicionar os EUA e a UE para responderem mais eficazmente aos desafios da crescente concorrência no mercado global. Em particular, visa configurar-se como uma oportunidade para que os EUA e a UE reafirmem a sua liderança no desenvolvimento de novas regras de comércio globais, fazendo com que outros países adotem compromissos similares de abertura do comércio. Esta estratégia decorre do facto de as negociações de compromissos multilaterais no âmbito da Organização Mundial de Comércio estarem num impasse há já vários anos. Se, e quando, as negociações forem bem-sucedidas, o mercado transatlântico ficará mais integrado. No entanto, há países – em especial, os que não são parte desta parceria – que receiam que o acordo configure uma fortaleza transatlântica destinada a responder aos desafios da globalização, de forma a melhor captar os seus ganhos e evitar os seus efeitos nefastos.
+ 
+**Do ponto de vista político, que conquistas e que barreiras derrubadas este acordo vai proporcionar?** 
+Os objetivos que o TTIP procura alcançar são político-económicos. Estão no cruzamento entre a procura de benefícios económicos e a necessidade de consolidar uma estratégia política de posicionamento da UE e dos EUA na economia política global. Politicamente, o acordo visa cimentar as relações entre os EUA e a UE, criando um relacionamento reforçado e estrategicamente mais holístico. Economicamente, o TTIP não é estritamente um acordo bilateral de comércio. Se, por um lado, pretende reduzir barreiras tradicionais ao comércio transatlântico – os direitos aduaneiros –, os maiores ganhos poderão decorrer da abertura da economia dos serviços – onde mais emprego poderia ser criado. O acordo visa também criar regras para o investimento, mas esta é uma das suas dimensões mais controversas, já que o sistema de resolução de conflitos neste domínio deixa antever uma posição de vantagem para as empresas, em detrimento das capacidades regulatórias dos governos.
+ 
+**Considera que poderá haver uma franca abertura de mercados, nomeadamente um aliviar dos mecanismos de proteção às empresas do Norte da América?** 
+A proteção nos EUA decorre sobretudo de barreiras regulatórias. O acordo pretende eliminar regulamentações redundantes e criar uma aproximação regulatória entre os dois lados do Atlântico que facilite o comércio. O desafio é conseguir, simultaneamente, elevar os standards de proteção dos consumidores, do ambiente e dos trabalhadores. Nesta matéria, e dada a importância da economia transatlântica, os standards acordados iriam, assim, ser aplicados à escala mundial, fazendo dos EUA e da UE os rule-makers da economia global, e evitando que se tornem meros rule-takers. Uma das barreiras politicamente mais difíceis de ultrapassar é os direitos aduaneiros sobre produtos agrícolas, pois este setor é tradicionalmente muito protegido quer na UE, quer nos EUA.
+
+**Setor automóvel da UE pode crescer 40% nas exportações** 
+
+**O que pode implicar o resultado das eleições presidenciais norte-americanas?** 
+Os termos de um futuro acordo vão certamente refletir a postura mais protecionista do novo Presidente Donald Trump, que entende mesmo que importa renegociar os acordos comerciais bilaterais vigentes, incluindo o NAFTA com o México e Canadá, de forma a melhor servir os interesses da indústria americana. Por outro lado, a política comercial oficial da próxima presidência não vai implementar à la lettre a retórica protecionista da campanha eleitoral, pois as alterações nos acordos normalmente acabam por não ser significativas. Além disso, dada a complexidade das matérias em negociação e os desentendimentos que têm suscitado, é possível que um futuro acordo não consiga atingir todo o seu potencial em matéria de abertura de mercados.
+ 
+**São anunciados no TTIP ganhos bilaterais importantes, mas quem ganha mais?** 
+Alguns estudos do impacto de uma “versão ambiciosa” do acordo estimam que o impacto anual seria de 0,5% no PIB da UE e de 0,4% no dos EUA. Na UE, o setor com mais potencial de crescimento das exportações é o automóvel, que poderia aumentar 40%. A Comissão Europeia calcula que o efeito do acordo sobre o emprego possa ser, ao longo dos próximos anos, da ordem de alguns milhões de novos empregos nos setores exportadores europeus. Espera-se que os consumidores, por seu turno, obtenham vantagens pela redução dos preços. Relativamente aos parceiros comerciais da UE e dos EUA, teriam também ganhos decorrentes do  maior crescimento na economia transatlântica (que levaria ao aumento da procura de produtos desses outros países). Mas também seriam possíveis ganhos decorrentes da aproximação regulatória, pois os custos de acesso a um mercado transatlântico para os exportadores dos mercados externos se reduziriam - as chamadas externalidades positivas. Deve dizer-se, no entanto, que a avaliação da distribuição dos ganhos não é consensual.
+ 
+**Relativamente ao CETA, há quem “acuse” que o Canadá é quem ganha mais mercado, no caso, na UE. Concorda?** 
+Na verdade, o CETA dá acesso às empresas canadianas a um mercado de 500 milhões de pessoas, que é o maior da economia mundial - e que não é comparável aos menos de 37 milhões de cidadãos canadianos a que as empresas europeias poderão aceder. De notar que a UE é já o segundo maior parceiro comercial do Canadá, mas o Canadá é apenas o 12º parceiro comercial da UE. A importância do CETA para a UE deve-se em grande medida ao facto de ter estabelecido um processo de mais profunda integração internacional, que a UE vai usar como modelo para definir os seus interesses negociais com os EUA no âmbito do TTIP. Outra vantagem diz respeito à possibilidade de as empresas europeias poderem concorrer aos contratos públicos governamentais canadianos, quer a nível federal quer a nível das províncias, o que lhes poderá trazer ganhos significativos.
+ 
+**E o mercado português, que papel terá nesta reorganização política?** 
+A reorganização é sobretudo económica, dado que estes tratados de comércio e investimento visam manter e reforçar as alianças políticas transatlânticas existentes entre os blocos UE-EUA e UE-Canadá. Portugal, como pequeno país, pode vocalizar de forma mais audível os seus interesses comerciais como membro da UE do que conseguiria num hipotético cenário de país da Europa não pertencente ao mercado único europeu. A este propósito, veja-se o impacto que teve a posição da Valónia, uma mera região da UE, no desenho final do CETA.
+
