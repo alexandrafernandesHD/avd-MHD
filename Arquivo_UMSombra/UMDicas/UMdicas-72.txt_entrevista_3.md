@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Não encontrado
-University: Universidade do Minho
-Interviewee(s): João Monteiro
-Role: Pró-reitor
-Date: 15 de Setembro de 2009
-Title: Plano de Contingência da UMinho contra a gripe, informa-te e previne-te
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 72 - Ano 4
+university: Universidade do Minho
+interviewee: João Monteiro
+role: Pró-reitor
+date: 15 de Setembro de 2009
+title: Plano de Contingência da UMinho contra a gripe, informa-te e previne-te
+interviewer: Ana Marques
 ---
+
 
 Plano de Contingência da UMinho contra a gripe, informa-te e previne-te
 Segundo Nota Informativa, foi criado por despacho Reitoral de
@@ -18,10 +19,8 @@ de Saúde e Direcção Geral de Saúde. O grupo de trabalho coordenado pelo
 Pró-reitor João Monteiro, tem o Plano feito desde Julho, cujo objectivo é
 assegurar o funcionamento da instituição nas melhores condições em
 caso de pandemia
-
 Ana Marques
 anac@sas.uminho.pt
-
 O UMdicas foi conversar com o
 responsável e saber do que consta
 este Plano, o que já foi e está a ser
@@ -39,7 +38,6 @@ responsável “não devem haver
 atitudes alarmistas, pois apenas
 contribuem para instalar o
 pânico”.
-
 UMdicas - A UMinho tem
 preparado algum plano de
 contingência de combate à gripe
@@ -68,7 +66,6 @@ ano ainda não matou ninguém em
 Portugal. O único problema desta
 gripe é que se transmite com
 alguma facilidade.
-
 Quais são os principais
 objectivos do Plano?
 Garantir que tudo funcione, dentro
@@ -85,7 +82,6 @@ instalações não está previsto e
 uma decisão de encerrar resultará
 sempre de uma determinação
 superior.
-
 Quais foram as linhas de
 orientação seguidas?
 Temos permanentemente um
@@ -130,7 +126,6 @@ anteriormente, será sempre a
 Reitoria a decidir, conforme
 especificações do Ministério da
 Saúde.
-
 Em termos de actuação, quais
 são ou vão ser as principais
 medidas adoptadas?
@@ -168,7 +163,6 @@ para as mãos poderão também vir
 a ser utilizados mas, nesta fase,
 ainda não vemos a necessidade de
 recorrer a essas medidas.
-
 Está prevista alguma medida de
 emergência?
 Medidas de emergência adicionais
@@ -209,7 +203,6 @@ docentes) da enfermagem e da
 medicina, para administrar
 vacinas, fazer algumas
 intervenções, etc.
-
 Temos para a semana o
 Acolhimento aos novos alunos.
 Vão haver medidas específicas
@@ -227,7 +220,6 @@ distribuídos, não só aos novos
 alunos, mas a toda a comunidade
 académica, incluindo alunos e não
 alunos.
-
 Em relação às praxes, há alguma
 proibição ou alteração imposta?
 Para evitar na recepção aos novos
@@ -246,7 +238,6 @@ parte de qualquer docente ou
 funcionário, porque se trata de
 uma questão que exige
 responsabilidade colectiva.
-
 Tem conhecimento dos casos
 existentes até agora na UMinho?
 Até agora, o único caso
@@ -273,7 +264,6 @@ mas o nível de perigosidade é dos
 mais baixos que há. A pior coisa
 que pode haver é pânico; não
 serve de nada.
-
 Que mensagem quer deixar à
 Academia?
 Acredito que não há qualquer
@@ -288,7 +278,7 @@ das entidades e personalidades
 ligadas aos sectores da saúde vão
 no sentido de combater o
 alarmismo.
-Mais informações em:
-http://www.uminho.pt/Default.as
+Mais informações em: 
+http: //www.uminho.pt/Default.as
 px?tabindex=9&tabid=25&lang=
-pt-PT&pageid=1183
+pt-PT&pageid=1183pt-PT&pageid=1183pt-PT&pageid=1183pt-PT&pageid=1183

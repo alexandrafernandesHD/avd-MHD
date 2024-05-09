@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 89 - Ano 6
-University: Universidade do Minho
-Interviewee(s): 
-Topic: ICS
-Date: 19 de Fevereiro de 2011
-Title: Entrevista ao Presidente do Instituto de Ciências Sociais (ICS)
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 89 - Ano 6
+university: Universidade do Minho
+interviewee: Miguel Bandeira
+topic: ICS
+date: 19 de Fevereiro de 2011
+title: Entrevista ao Presidente do Instituto de Ciências Sociais (ICS)
+interviewer: Ana Marques
 ---
+
 
 Entrevista ao Presidente do Instituto de Ciências Sociais (ICS)
 O Instituto está organizado em Centros/Núcleos de
@@ -17,10 +18,8 @@ distribuídos por cinco licenciaturas - Arqueologia; Ciências da
 Comunicação; Geografia e Planeamento; História e Sociologia. Tem
 ainda sob a sua responsabilidade 446 estudantes de pós-graduação, 340
 de Mestrado e 106 de doutoramento.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Miguel Bandeira, presidente do
 Instituto de Ciências Sociais (ICS),
 afirma que a escola tem na sua
@@ -30,7 +29,6 @@ Sendo os recursos humanos e
 algumas instalações o "calcanhar de
 Aquiles" para a plena realização da
 missão do ICS.
-
 Como caracteriza a função de
 Presidente da Escola?
 É um misto de desafio e de aventura
@@ -49,7 +47,6 @@ mediação de vontades e
 testemunho de confiança, para
 continuar a desempenhar a nossa alta
 missão de serviço público.
-
 É um desafio ser Presidente do
 Instituto de Ciências Sociais?
 É mais do que isso, sobretudo,
@@ -84,7 +81,6 @@ memória, da cultura e da história, das
 ciências da comunicação, da
 sociedade e das suas organizações, do
 desenvolvimento do território.
-
 Quais são as maiores dificuldades
 que sente no cumprimento da sua
 função?
@@ -101,7 +97,6 @@ principal dificuldade, a prioridade ia
 direitinha para a falta de recursos
 humanos, tanto docentes como não
 docentes.
-
 Quais são na sua opinião os pontos
 fortes do Instituto de Ciências
 Sociais?
@@ -132,7 +127,6 @@ estudantes, especialmente, nos
 espaços europeu mediterrânico,
 ibero-americano e lusófono tem
 aumentado todos os anos.
-
 Se tivesse que escolher um destes
 pontos fortes como o mais
 importante, aquele que melhor
@@ -155,7 +149,6 @@ arte, do jornalismo (imprensa escrita,
 rádio, televisão e multimédia), da
 psicologia social, da publicidade e das
 relações públicas, entre outros.
-
 E os pontos fracos?
 Algumas das preocupações presentes
 do ICS: os recursos humanos docentes
@@ -173,7 +166,6 @@ algumas áreas do ICS ; ou a
 insuficiente valorização das carreiras,
 que trespassa a universidade
 portuguesa.
-
 Qual tem sido a evolução do ICS no
 decorrer destes anos? O que na sua
 opinião mais o tem feito evoluir?
@@ -202,7 +194,6 @@ de projectos de interacção com a
 sociedade através de investigações
 que apresentam um impacte real na
 vida das populações.
-
 O que o caracteriza relativamente às
 outras escolas/institutos do país?
 O ICS da Universidade do Minho é mais
@@ -217,7 +208,6 @@ potencial gerado pelo sistema
 orgânico da UM que facilita a
 articulação de projectos com outras
 Escolas.
-
 Estes elementos diferenciadores
 serão motivos suficientes para que
 os alunos escolham o ICS da
@@ -231,7 +221,6 @@ temos consciência que os estudantes
 que nos procuram vêm em busca dos
 créditos nacionais e internacionais
 que temos firmado.
-
 O que podem esperar os nossos
 estudantes do ICS, em termos de
 qualidade de ensino e de inserção no
@@ -281,14 +270,13 @@ profissionalizantes e de pensamento,
 beneficiando de um corpo
 diversificado de especialistas
 residentes.
-
 O Instituto, como a própria
 Universidade tem sofrido alterações
 a vários níveis nos últimos tempos.
 Qual a estratégia do ICS para os
 próximos anos?
 As orientações estratégicas para os
-próximos anos são:
+próximos anos são: 
 - para o ensino (1) consolidação da
 oferta formativa da escola,
 particularmente no que se refere aos
@@ -302,7 +290,7 @@ científica em Ciências Sociais; e (2)
 desenvolvimento da ligação dos
 investigadores a projectos e redes de
 pesquisa nacionais e transnacionais.
-- para a interacção com a sociedade:
+- para a interacção com a sociedade: 
 (1) aprofundamento das relações
 com as empresas, instituições e ONGs
 da região e do país, em sectores de
@@ -312,7 +300,6 @@ especializados e de qualidade à
 comu n idade, numa lógica de
 contribuição para o desenvolvimento
 do país.
-
 Números de docentes da Escola a
 trabalhar a tempo integral?
 O ICS constitui uma Escola de média
@@ -322,4 +309,4 @@ docentes/investigadores,
 correspondendo a 77 docentes em
 tempo integra (81% com grau de
 doutor); e 15 trabalhadores não
-docentes.
+docentes.docentes.docentes.docentes.

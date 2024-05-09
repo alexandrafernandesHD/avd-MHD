@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 85 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Eduardo Rodrigues
-Role: Atleta Masculino do Ano da UMinho
-Date: 19 de Outubro de 2010
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 85 - Ano 5
+university: Universidade do Minho
+interviewee: Eduardo Rodrigues
+role: Atleta Masculino do Ano da UMinho
+date: 19 de Outubro de 2010
+interviewer: Nuno Gonçalves
 ---
 
 “O Taekwondo tornou-me mais organizado e disciplinado”
@@ -18,10 +18,8 @@ títulos de campeão nacional sénior, dois de campeão nacional
 universitário, bronze no europeu universitário e bronze no mundial
 universitário. Vamos então agora conhecer um pouco melhor um dos
 grandes campeões do Taekwondo da UMinho.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Com que idade é que iniciaste a
 prática competitiva do
 Taekwondo e onde?
@@ -37,13 +35,11 @@ com o meu treinador Joaquim
 Peixoto e Pedro Campaniço no
 Konceito Fitness (Sporting Clube
 de Braga).
-
 Quantas vezes treinas por
 semana, e quanto tempo?
 Actualmente estou a treinar duas
 vezes por dia, numa média de uma
 hora e meia por treino.
-
 Como é que se deu essa entrada
 para o Taekwondo? Quais foram
 as motivações?
@@ -56,7 +52,6 @@ Taekwondo. Passado um ano a
 história foi diferente e aí superei a
 vergonha e comecei a treinar
 nesse dia.
-
 Achas que o taekwondo ajudou no
 teu desenvolvimento enquanto
 indivíduo?
@@ -71,7 +66,6 @@ mais organizado e
 disciplinado e com um
 espírito de superação
 ainda maior.
-
 Algumas pessoas associam as
 artes marciais a
 comportamentos violentos. O
@@ -97,7 +91,6 @@ perder força e o
 taekwondo é já um
 desporto respeitado por
 muitos.
-
 A maneira como tu lidas com a
 pressão e a ansiedade antes dos
 combates é algo que tuu
@@ -117,7 +110,6 @@ mais um peso mais importante no
 sucesso de um atleta. Como tal,
 acredito que este aspecto deva ser
 tão trabalhado quanto os outros.
-
 Este ano lectivo de 2009/2010 foi
 um ano em que atingiste
 resultados de grande relevo nas
@@ -134,7 +126,6 @@ treinarmos bem,
 encarando as
 dificuldades como
 meros desafios.
-
 Que diferenças notaste entre o
 Europeu e o Mundial?
 Apesar do Europeu ter tido atletas
@@ -150,7 +141,6 @@ numa prova ou noutra, a sensação
 de representar o país é
 indescritível e motivo de bastante
 orgulho.
-
 Em Julho foste eleito na Gala do
 Desporto da UMinho como o
 Atleta do Ano, e agora em Outubro
@@ -166,7 +156,6 @@ feitos alcançados e é gratificante
 saber que tanto a UMinho como a
 FADU reconhecem o empenho e
 esforço dos seus atletas.
-
 O facto de viveres e treinares em
 Braga condicionou a tua escolha
 de Universiidade quando 
@@ -184,7 +173,6 @@ que apoiava bastante
 os seus atletas, com
 projectos como o
 Programa TUTORUM.
-
 Como é consegues conciliar os
 estudos com a prática de uma
 modalidade de alta competição?
@@ -193,7 +181,6 @@ consegue fazê-lo. Temos que
 aproveitar todo o tempo livre que
 temos para estudar e ter a matéria
 em dia.
-
 Em Dezembro, conjuntamente
 com mais umas dezenas de
 atletas da UMinho, recebeste das
@@ -214,7 +201,6 @@ prova que a UM está
 preocupada e atenta
 aos seus alunos e
 atletas.
-
 A UMinho iniciou em Portugal um
 programa pioneiro no que diz
 respeito ao apoio aos atletas de
@@ -236,7 +222,6 @@ concentrados nos nossos
 objectivos desportivos nunca
 prejudicando/esquecendo as
 nossas metas académicas.
-
 Para este novo ano lectivo de
 2010/2011, quais são os teus
 grandes objectivos?
@@ -253,4 +238,4 @@ participação na prova de
 qualificação para os
 jogos olímpicos e
 conseguir a qualificação
-para os mesmos.
+para os mesmos.para os mesmos.para os mesmos.para os mesmos.

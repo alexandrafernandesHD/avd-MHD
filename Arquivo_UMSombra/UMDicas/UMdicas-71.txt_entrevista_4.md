@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 71 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Jorge Martins
-Topic: um projecto patenteado direccionado para a área de mecânica
-Role: professor e investigador
-Date: 24 de Julho de 2009
-Interviewer: José Carlos Bragança
+journal: UMdicas
+issue: Edição nº 71 - Ano 4
+university: Universidade do Minho
+interviewee: Jorge Martins
+topic: um projecto patenteado direccionado para a área de mecânica
+role: professor e investigador
+date: 24 de Julho de 2009
+interviewer: José Carlos Bragança
 ---
 
 Invenção do DEM protegida por patente
@@ -17,10 +17,8 @@ seu trabalho no que toca à investigação, desta feita através de
 um projecto patenteado direccionado para a área de mecânica. O UMdicas
 esteve à conversa com o professor e investigador, Jorge Martins, que com
 esta tem já duas invenções protegidas por patente.
-
 José Carlos Bragança
 dicas@sas.uminho.pt
-
 Com a necessidade
 premente de
 procura de soluções
@@ -32,7 +30,6 @@ uma área de
 investigação com
 um grande
 potencial.
-
 O Instituto Nacional de
 Propriedade Industrial (INPI)
 concedeu no passado dia 9 de
@@ -66,7 +63,6 @@ aplicado a motores a 4 tempos.
 A ideia dos carros de baixo
 consumo rola cada vez melhor
 nas estradas portuguesas.
-
 Sendo esta é a segunda
 invenção patenteada a nível
 nacional, o que representa para
@@ -81,7 +77,6 @@ ambas as patentes são nesta área.
 A denominação da outra patente é
 “motor com ciclo sobreexpandido com taxa de
 compressão efectiva constante”
-
 Que objectivos tinha com esta
 invenção?
 Foi uma forma de mostrar mais
@@ -89,7 +84,6 @@ uma ideia, antes de a desenvolver.
 A outra patente foi pedida após o
 motor ter sido desenvolvido e
 haver resultados.
-
 A preocupação tem sido a
 ecologia dos veículos, qual a
 valorização que têm obtido da
@@ -116,7 +110,6 @@ façamos o
 desenvolvimento
 deste tipo de motor
 para comercialização.
-
 O comércio destas patentes é
 uma meta?
 Como disse, existe a possibilidade
@@ -129,7 +122,6 @@ comercialização. Este projecto
 ainda está em fase de preparação
 de proposta, incluindo a escolha
 de parceiros.
-
 O que é a Maratona Shell?
 É uma prova de consumos, com
 liberdade total de desenho e
@@ -143,7 +135,6 @@ este carro (que foi apoiado por um
 outro projecto Fundação para
 Ciência e Tecnologia) também com
 esta filosofia.
-
 Participaram ainda há pouco
 tempo em duas provas do
 Maratona Shell (Alemanha e
@@ -156,7 +147,6 @@ Bosch), este tipo de eventos
 permite um envolvimento de
 alunos em projectos muito
 interessantes.
-
 Qual tem sido a evolução dos
 carros desde o inicio deste
 evento?
@@ -183,7 +173,6 @@ para uso rodoviário,
 além de entrar
 nestas
 competições.
-
 Qual foi a melhor posição
 conseguida pela equipa da
 UMinho?
@@ -194,4 +183,4 @@ carros com motores a gasolina.
 Este ano a Universidade de
 Coimbra ganhou a competição
 inglesa, o que nos agradou
-muitíssimo.
+muitíssimo.muitíssimo.muitíssimo.muitíssimo.

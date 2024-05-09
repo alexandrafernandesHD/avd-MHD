@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 85 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Cristina Sousa
-Date: 19 de Outubro de 2010
-Title: Sector da Tesouraria dos SASUM
-Interviewer: Ana MArques
+journal: UMdicas
+issue: Edição nº 85 - Ano 5
+university: Universidade do Minho
+interviewee: Cristina Sousa
+date: 19 de Outubro de 2010
+title: Sector da Tesouraria dos SASUM
+interviewer: Ana Marques
 ---
 
 Sector da Tesouraria dos SASUM
@@ -17,10 +17,8 @@ como “um desafio que exige uma extrema responsabilidade”, pois é uma
 esteve à conversa com a responsável para saber mais pormenores sobre o
 ST, como é o seu dia-a-dia, como está organizado e seu papel no seio dos
 SASUM.
-
-Ana MArques
+Ana Marques
 anac@sas.uminho.pt
-
 O que significa para si trabalhar
 nesta área?
 Trabalhar na Tesouraria é um
@@ -35,7 +33,6 @@ tarefas. Esta área é vital para o
 bom funcionamento de qualquer
 instituição, uma vez que é
 transversal a toda a organização.
-
 Como está organizado este
 sector?
 Este sector está integrado no
@@ -44,13 +41,10 @@ Financeiro dos SASUM e é
 composto pelo Sector da
 Tesouraria e pelo sector da
 Facturação e Controlo de Senhas.
-
 Qual a função e importância
 deste sector no seio do
-Departamento Administrativo e
 Financeiro dos SASUM?
 No enquadramento do
-Departamento Administrativo e
 Financeiro cabe-nos garantir o
 pagamento atempado a todos os
 fornecedores e credores, controlar
@@ -101,9 +95,7 @@ consumidas em cada unidade e
 assegurar o controlo das verbas
 recebidas de senhas e de
 facturação.
-
 Quais os principais objectivos do
-sector?
 O principal objectivo deste sector é
 controlar todos os procedimentos
 a si afectos eficientemente, de
@@ -117,7 +109,6 @@ mantendo desta forma um prazo
 médio de pagamento abaixo do
 estipulado legalmente, que são 30
 dias.
-
 Qual o modo de funcionamento?
 O funcionamento diverge com a
 actividade a desenvolver, por
@@ -131,7 +122,6 @@ na emissão de facturas, vendas a
 dinheiro e recibos - a actividade
 inicia-se pela recepção dos
 documentos, conferência,
-introdução na aplicação
 informática, arquivo e envio do
 documento original para o cliente;
 na liquidação das facturas dos
@@ -157,7 +147,6 @@ unidades, recepção das senhas de
 refeição, respectiva introdução
 informática e emissão de
 controlos mensais.
-
 Ser responsável por este sector é
 um desafio?
 É um desafio interessante, porque
@@ -169,7 +158,6 @@ unidades, quer solicitando
 informação, quer cooperando
 perante necessidades que vão
 surgindo.
-
 Quais as tarefas diárias do
 responsável do sector?
 Como já referi, as funções estão
@@ -191,7 +179,6 @@ através da verificação das
 facturas e da situação contributiva
 e tributária do respectivo
 fornecedor.
-
 Quais as principais dificuldades
 que encontra no
 desenvolvimento do seu
@@ -221,7 +208,6 @@ dificultando assim o
 procedimento de pagamento e
 aumentando os prazos médios de
 pagamento
-
 Como é liderar esta equipa?
 É óptimo, pois é um grupo de
 pessoas empen hadas no
@@ -230,4 +216,4 @@ sempre capazes de se adaptarem
 às mudanças, pois o
 departamento está em constante
 procura de melhoria nos seus
-resultados.
+resultados.resultados.resultados.resultados.

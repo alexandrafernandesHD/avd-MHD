@@ -1,14 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 87 - Ano 5
-University: Universidade do Minho
-Interviewee(s): 
-Role: Carlos Silva
-Date: 31 de Dezembro de 2010
+journal: UMdicas
+issue: Edição nº 87 - Ano 5
+university: Universidade do Minho
+interviewee: Carlos Silva
+role: Administrador dos SASUM
+date: 31 de Dezembro de 2010
+interviewer: Ana Marques
 ---
 
-Entrevista ao Eng.º Carlos Silva, Administrador dos SASUM
 
+Entrevista ao Eng.º Carlos Silva, Administrador dos SASUM
 “Plano de actividades dos SASUM para 2011, Qualidade na prestação dos serviços e aposta nos Recursos Humanos”
 O UMdicas esteve à conversa com Carlos Silva, Administrador dos
 SASUM para saber mais pormenores sobre Plano de actividades
@@ -16,10 +17,8 @@ dos SASUM para 2011. Entre as muitas coisas o Administrador
 refere que são grandes linhas estratégicas para 2011 a renovação das
 duas Certificações de Qualidade e a aposta na qualificação dos recursos
 humanos.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Quais são as grandes linhas
 estratégias do Plano de
 Actividades dos SASUM para
@@ -32,8 +31,8 @@ SASUM, destacamos a
 renovação das duas
 Certificações de
 Qualidade pela Norma
-ISO 9001:2008 e ISO
-22000:2005 para o
+ISO 9001: 2008 e ISO
+22000: 2005 para o
 final do ano, a aposta
 na qualificação dos
 recursos humanos
@@ -60,7 +59,6 @@ contribuiu para uma poupança de
 cerca de 12% do gasto total em
 relação ao ano anterior (cerca de
 650.000 euros).
-
 Qual o orçamento dos SASUM para
 2011? O OE aprovado
 recentemente impõe cortes aos
@@ -142,17 +140,15 @@ passar pelo aumento dos preços e
 taxas dos produtos e serviços para
 manter o funcionamento e a oferta
 de serviços com qualidade.
-
 Quais os objectivos e prioridades
 dos SASUM para 2011? Quais
 serão os projectos mais
 importantes a implementar em
-2011?
 Após a definição dos objectivos
 estratégicos, os departamentos
 dos SASUM desenvolverão uma
 actividade significativa e da qual
-se destaca:
+se destaca: 
 No âmbito do Gabinete do
 Administrador (GA), pretende-se
 reduzir os tempos médios da
@@ -240,7 +236,7 @@ estrutura dos SASUM, o DA,
 partilha o objectivo da renovação
 da certificação integrada da ISO
 90 01 : 20 0 8 c o m a IS O
-22000:2005.
+22000: 2005.
 O plano de Actividades do
 Departamento Desportivo e
 Cultural (DDC), para o ano de 2011,
@@ -350,7 +346,6 @@ psicológico aos estudantes não
 bolseiros da Universidade do
 Minho, a implementar no ano de
 2011.
-
 Potenciar fontes de
 financiamento próprias e
 aumento da captação de receitas
@@ -394,7 +389,6 @@ sustentabilidade e também para
 as taxas de execução dos
 programação nacional, que como
 se sabe é muito baixa.
-
 Quais são/serão no seu entender
 as maiores dificuldades dos
 SASUM para o novo ano que se
@@ -421,7 +415,6 @@ aumento das
 contribuições para a
 Caixa Geral de
 Aposentações.
-
 Prevêem-se cortes a nível de
 recursos humanos nos SASUM?
 Não, a equipa dos SASUM é neste
@@ -438,7 +431,6 @@ nosso quadro de pessoal, mas
 estamos muito limitados face a
 todas as medidas recentemente
 tomadas pelo Governo.
-
 Na sua opinião, a passagem da
 UMinho a fundação seria boa?
 Qual o impacto que teria a nível
@@ -458,4 +450,4 @@ seja feita em consciência e em
 benefício da Universidade, dos
 seus serviços e das pessoas,
 sejam os alunos, os funcionários
-ou os docentes.
+ou os docentes.ou os docentes.ou os docentes.ou os docentes.

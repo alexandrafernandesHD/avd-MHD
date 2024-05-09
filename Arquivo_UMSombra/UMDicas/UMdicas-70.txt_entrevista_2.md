@@ -1,13 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 70 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Filipa Martins
-Topic: mercado de trabalho
-Role: Vice-Presidente da AAUM para as Saídas Profissionais
-Date: 27 de Junho de 2009
-Title: Filipa Martins, Vice-Presidente da AAUM para as Saídas Profissionais
-Interviewer: José Carlos Bragança
+journal: UMdicas
+issue: Edição nº 70 - Ano 4
+university: Universidade do Minho
+interviewee: Filipa Martins
+topic: mercado de trabalho
+role: Vice-Presidente da AAUM para as Saídas Profissionais
+date: 27 de Junho de 2009
+title: Filipa Martins, Vice-Presidente da AAUM para as Saídas Profissionais
+interviewer: José Carlos Bragança
 ---
 
 Filipa Martins, Vice-Presidente da AAUM para as Saídas Profissionais
@@ -18,10 +18,8 @@ mercado de trabalho. Os recém-licenciados estão entre os mais atingidos
 pelo desemprego e perante um quadro tão negro o UMdicas esteve à
 conversa com a Vice-Presidente da AAUM para as Saídas Profissionais,
 Filipa Martins.
-
 José Carlos Bragança
 dicas@sas.uminho.pt
-
 Que balanço faz da VII Feira de
 Emprego?
 Bastante positivo. Embora
@@ -34,7 +32,6 @@ não faltam, pelo menos durante
 estes três dias. Quanto ao número
 de visitantes superou as nossas
 expectativas.
-
 AAUM está satisfeita com a
 Feira?
 A AAUM é composta por alunos,
@@ -49,7 +46,6 @@ Realizamos actividades de temas
 importantes e de interesse a
 todos nós, sim, estamos
 satisfeitos.
-
 Qual é o feedback que os
 expositores deixam à AAUM?
 Gostamos sempre de saber a
@@ -72,7 +68,6 @@ uma população de grande peso,
 que já deveria estar mais atenta
 para actividades relacionadas
 com um futuro tão próximo.
-
 Nos próximos anos este tipo de
 iniciativa é para levar a cabo?
 Sem dúvida que sim. Considero
@@ -81,10 +76,9 @@ necessárias e quase
 imprescindíveis na orientação e
 preparação dos alunos para a
 realidade.
-
 Nos mesmos moldes ou com
 alterações?
-A ideia principal mantém-se:
+A ideia principal mantém-se: 
 trazer empresas / organizações /
 instituições com empregos,
 estágios e formações. Contudo,
@@ -96,7 +90,6 @@ actividade em si. Os alunos estão
 em primeiro lugar, logo, a alterar o
 que quer que seja, é sempre em
 seu próprio benefício.
-
 Nunca pensaram convidar
 empresas da Galiza face à
 proximidade geográfica?
@@ -115,7 +108,6 @@ processo carece de uma resposta
 pronta por parte de algumas
 entidades, o que nem sempre é
 possível.
-
 Os alunos procuram auxílio
 junto do Departamento de
 Saídas Profissionais?
@@ -132,7 +124,6 @@ da sua licenciatura / mestrado /
 doutoramento sentem mais
 urgência em conhecer Técnicas
 de Procura Activa de Emprego.
-
 Que projectos tem a AAUM para
 este departamento?
 Workshops sobre Técnicas de
@@ -144,7 +135,6 @@ departamento. Apostamos na
 diversificação, centrando-nos
 sempre na satisfação profissional
 dos estudantes.
-
 As empresas estão receptivas à
 assinatura de protocolos com a
 associação?
@@ -161,10 +151,8 @@ empresas que manifestem
 interesse e que se mostrem à
 altura das capacidades e
 ambições dos nossos alunos.
-
 Que avaliação fazes deste ano à
 frente do Departamento de
-Saídas Profissionais?
 Enquanto aluna, penso que se tem
 feito bastante pelos interesses
 dos alunos. Como responsável
@@ -173,7 +161,6 @@ os alunos estivessem mais
 motivados e optimistas em
 relação às suas saídas
 profissionais.
-
 As estatísticas dizem que pelo
 menos um terço dos portugueses
 já dorme mal por causa da crise.
@@ -186,4 +173,4 @@ mudar a nossa posição em
 relação à crise, procurando
 soluções e não justificações para
 esta fase menos boa, que há já
-tanto tempo nos acompanha.
+tanto tempo nos acompanha.tanto tempo nos acompanha.tanto tempo nos acompanha.tanto tempo nos acompanha.

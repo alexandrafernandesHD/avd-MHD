@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 77 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Nuno Pinto
-Date: 04 de Fevereiro de 2010
-Title: ARCUM, sonhos,  projectos e vivências
-Interviewer: João Dias
+journal: UMdicas
+issue: Edição nº 77 - Ano 5
+university: Universidade do Minho
+interviewee: Nuno Pinto
+date: 04 de Fevereiro de 2010
+title: ARCUM, sonhos,  projectos e vivências
+interviewer: João Dias
 ---
 
 ARCUM, sonhos,  projectos e vivências
@@ -14,10 +14,8 @@ também, à disposição dos seus alunos, todo um conjunto de
 actividades extra-curriculares. Dentro desse conjunto, a cultura
 assume um papel de relevo, existindo vários grupos que têm como
 objectivo divulgar a cultura e as tradições da região.
-
 João Dias
 dicas@sas.uminho.pt
-
 Falar nessa divulgação é falar na
 Associação Recreativa e Cultural
 Universitária do Minho (ARCUM).
@@ -39,7 +37,6 @@ também deixar uma mensagem
 que convide todos os alunos a
 procurarem ingressar num dos
 grupos da associação.
-
 Como se deu a formação da
 ARCUM?
 Primeiro apareceram os grupos e
@@ -52,7 +49,6 @@ Entretanto surgiram novos
 grupos, como os Bomboémia, o
 Grupo de Fados, e o Grupo de
 Poesia e Flauta.
-
 Os membros mais antigos da
 associação ainda mantêm
 contacto?
@@ -73,7 +69,6 @@ exemplo, há cerimónia de
 desvinculação. Na nossa tuna isso
 não acontece. Já tivemos 90 tunos
 em cima do palco.
-
 Quantas pessoas são
 representadas por esta
 associação?
@@ -84,7 +79,6 @@ existência, mais de
 Actualmente,
 representará à volta
 de 100 pessoas.
-
 Que momentos da história da
 ARCUM é capaz de recordar?
 Já estou há dez anos nesta
@@ -113,7 +107,6 @@ tinha sido feito por nenhuma tuna.
 Estes são alguns marcos
 importantes das actividades que
 gostamos de realizar.
-
 Como é que vocês são recebidos
 no estrangeiro?
 Somos muito bem recebidos. As
@@ -136,7 +129,6 @@ do Minho, como a
 própria cultura da
 nossa região e do
 nosso país.
-
 A procura dos estudantes pela
 participação nestes grupos tem-se 
 alterado com os anos?
@@ -174,7 +166,6 @@ apenas com o lado material da vida
 e procuram as raízes e os
 movimentos culturais, para terem
 outro tipo de experiências.
-
 E as alterações relacionadas com
 o processo de Bolonha?
 No meu entender, falar no
@@ -206,7 +197,6 @@ mais velhos dos grupos. Eu já
 passei muitas tardes, aqui na
 associação, a estudar com colegas
 meus de outros cursos.
-
 Como é a vossa relação
 institucional com a Universidade
 do Minho?
@@ -218,7 +208,6 @@ Na parte financeira, por vezes é
 complicado, mas conversando
 acabamos por conseguir chegar a
 bom porto.
-
 Qual o vosso plano de
 actividades para 2010?
 Vamos organizar o FITU, em Abril, e
@@ -233,9 +222,7 @@ ARCUM. Pretendemos ainda
 realizar um sarau ARCUM, no qual
 faremos um espectáculo com
 todos os grupos da associação.
-
 Como encara o futuro da
-associação?
 A ARCUM será o que as pessoas
 quiser em fazer dela. Esta
 associação não continua ou acaba
@@ -251,7 +238,6 @@ actividade cultural pode ser um
 bom escape. Sinceramente, penso
 que vamos continuar por muitos
 anos.
-
 Há espaço para novos grupos,
 dentro da ARCUM?
 Sim. Temos vontade que isso
@@ -264,7 +250,6 @@ pessoas podem entrar num grupo
 e depois pertencer a vários. Eu
 faço parte da TUM, mas já pertenci
 a vários grupos.
-
 Existe espaço para projectos
 individuais, dentro da ARCUM?
 Existe sempre espaço, pois os
@@ -281,7 +266,6 @@ Uma pessoa é um projecto. A
 ARCUM está aberta a apoiar
 qualquer pessoa que queria
 produzir um produto cultural.
-
 Que mensagem quer deixar aos
 nossos alunos?
 A cultura não e um
@@ -347,4 +331,4 @@ Para os novos alunos, digo que se
 quiserem estar envolvidos numa
 actividade cultural e entrar numa
 associação, a ARCUM é uma boa
-aposta.
+aposta.aposta.aposta.aposta.

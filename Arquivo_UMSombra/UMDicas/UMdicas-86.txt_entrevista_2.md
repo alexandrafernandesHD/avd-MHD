@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 86 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Paulo Pereira
-Topic: Escola de Engenharia (EEUM)
-Date: 29 de Novembrode 2010
-Title: “A empregabilidade dos nossos alunos é de 100%”
-Interviewer: Claudia Fernandes
+journal: UMdicas
+issue: Edição nº 86 - Ano 5
+university: Universidade do Minho
+interviewee: Paulo Pereira
+topic: Escola de Engenharia (EEUM)
+date: 29 de Novembrode 2010
+title: “A empregabilidade dos nossos alunos é de 100%”
+interviewer: Claudia Fernandes
 ---
 
 “A empregabilidade dos nossos alunos é de 100%”
@@ -18,10 +18,8 @@ ronda os cem por cento. O professor catedrático, que substituiu António
 Cunha na presidência da EEUM há cerca de seis meses, salienta um ensino
 de excelência, projectos de investigação inovadores e relevantes das
 parcerias com as empresas.
-
 Claudia Fernandes
 dicas@sas.uminho.pt
-
 Como caracteriza a função do
 Presidente de Escola?
 A função de Presidente de Escola, e
@@ -37,7 +35,6 @@ de recursos humanos, altamente
 qualificados como são os
 docentes, investigadores e
 funcionários desta escola.
-
 É um desafio ser presidente de
 uma escola com a dimensão da
 Escola de Engenharia (EEUM)?
@@ -47,7 +44,6 @@ naturalmente o faz com
 satisfação, sabendo das
 responsabilidades que assume ao
 iniciar o mandato.
-
 Quais são, na sua opinião, os
 pontos fortes da EEUM?
 Os pontos fortes da Escola de
@@ -60,7 +56,6 @@ excelência e inovação, o que,
 naturalmente, tem reflexos na
 transferência de conhecimento
 para a sociedade.
-
 Qual o ponto forte que melhor
 projecta a Escola de Engenharia?
 É, precisamente, a relação com o
@@ -78,7 +73,6 @@ voltadas. Temos dez centros de
 investigação, a grande maioria
 classificados entre “muito bom” e
 “excelente”.
-
 E os pontos fracos?
 Vivemos numa situação de
 carência de recursos,
@@ -91,7 +85,6 @@ também, naturalmente,
 necessidade de mais e melhores
 instalações para apoiar os
 projectos e os cursos de ensino.
-
 Qual tem sido a evolução da
 Escola no decorrer destes 35
 anos?
@@ -112,7 +105,6 @@ forma muito ágil, promover novos
 projectos sobretudo na interacção
 entres Escolas e Departamentos
 dentro da própria universidade.
-
 O que na sua opinião mais a tem
 feito evoluir?
 Naturalmente, a pró-actividade da
@@ -129,7 +121,6 @@ doutoramento, que trouxeram
 ideias novas, desafiaram a
 sociedade e a forma de estar na
 universidade em Portugal.
-
 O que a caracteriza relativamente
 às outras escolas/faculdades do
 país?
@@ -151,7 +142,6 @@ indústria para resolver problemas
 concretos. No fundo, a engenharia
 está ao serviço da indústria, dos
 serviços e de toda a sociedade.
-
 Estes elementos diferenciadores
 serão motivos suficientes para
 que os alunos escolham a Escola
@@ -180,7 +170,6 @@ engenharia, com o ambiente que
 vão encontrar quando passarem
 para futura actividade 
 profissional.
-
 O que podem esperar os nossos
 estudantes de EEUM, em termos
 de qualidade de ensino?
@@ -200,8 +189,6 @@ empresas, garante que os alunos
 não saem daqui apenas com um
 “canudo”, mas com uma sólida
 preparação para o seu futuro
-profissional.
-
 O prestígio da Escola tem-se
 projectado em oportunidades de
 emprego?
@@ -210,9 +197,7 @@ empregabilidade dos nossos
 alunos é próxima dos 100%,
 conforme os projectos. Temos
 verificado a globalização da
-empregabilidade dos nossos
 alunos.
-
 A Escola, como a própria
 universidade tem soffrido várias
 alterações a vários níveis nos
@@ -256,7 +241,6 @@ onde tems competências
 diferenciadoras.
 Decorreu recentemente a Semana
 da Escola de Engenharia 2010.
-
 Para além da comemoração do seu
 aniversário, quais foram os
 objectivos?
@@ -279,7 +263,6 @@ capacidades através da nossa
 interacçã o com o projecto
 “Guimarães Capital Europeia da
 Cultura 2012”.
-
 Englobada no programa realizou-
 se a “Mesa Redonda: Guimarães
 Capital Europeia da Cultura 2012”.
@@ -300,7 +283,6 @@ continue com a nossa cooperação,
 promovendo Guimarães, através
 deste evento, a nível nacional e
 internacional.
-
 A que se deveu o tema
 “Engenharia para a Qualidade de
 Vida ”?
@@ -327,4 +309,4 @@ humano. Há um enorme interface
 entre a Escola de Engenharia e
 outras Escolas, como a Escola de
 Medicina. Trata-se da procura de
-uma investigação de ponta.
+uma investigação de ponta.uma investigação de ponta.uma investigação de ponta.uma investigação de ponta.

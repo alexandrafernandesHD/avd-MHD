@@ -1,14 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 90 - Ano 6
-University: Universidade do Minho
-Interviewee(s): 
-Topic: Luís Braga da Cruz
-Role: Presidente do Conselho Geral da Universidade do Minho
-Date: 24 de Março de 2011
-Title: Entrevista ao Presidente do Conselho Geral da UMinho – Eng.º Luís Braga da Cruz
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 90 - Ano 6
+university: Universidade do Minho
+interviewee: Eng.º Luís Braga da Cruz
+topic: Luís Braga da Cruz
+role: Presidente do Conselho Geral da Universidade do Minho
+date: 24 de Março de 2011
+title: Entrevista ao Presidente do Conselho Geral da UMinho – Eng.º Luís Braga da Cruz
+interviewer: Ana Marques
 ---
+
 
 Entrevista ao Presidente do Conselho Geral da UMinho – Eng.º Luís Braga da Cruz
 Presidente do Conselho Geral da Universidade do Minho, Luís
@@ -16,10 +17,8 @@ Braga da Cruz é um engenheiro jubilado que já fez muitas coisas
 na vida e que por amor à terra dos seus maiores decidiu aceitar
 dar um contributo ao desenvolvimento de uma das mais interessantes
 Universidades do País – a Uminho.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Luís Braga da Cruz é um político
 português. Ocupou o cargo de
 Ministro da Economia no XIV
@@ -38,7 +37,6 @@ Fundação de Serralves e
 actualmente Presidente do
 Conselho Geral da Universidade do
 Minho.
-
 Quem é o Presidente do Conselho
 Geral (CG) da Universidade do
 Minho?
@@ -49,7 +47,6 @@ decidiu aceitar dar um contributo
 ao desenvolvimento de uma das
 mais interessantes Universidades
 do País – a UM.
-
 Quais as principais funções deste
 órgão da Universidade?
 Depois da aprovação do novo RJIES
@@ -73,7 +70,6 @@ acção. Pode também ter iniciativa
 própria no que seja convergente
 com o desenvolvimento da missão
 da UM.
-
 Quais têm sido os grandes
 desafios neste primeiro mandato
 à frente do CG?
@@ -102,7 +98,6 @@ mundo académico, para que as
 questões associadas a esta
 eventual transição f ossem
 tratadas com profundidade.
-
 Principais dificuldades sentidas
 no exercício da sua função à frente
 deste órgão?
@@ -125,7 +120,6 @@ antecipação as questões e os
 documentos que deveriam ser
 submetidas ao Plenário do
 Conselho Geral.
-
 O CG é composto por 12
 representantes de professores e
 investigadores, quatro
@@ -150,7 +144,6 @@ académica uma atitude mais
 conforme com os desafios que se
 colocam à sociedade
 contemporânea.
-
 O CG é o órgão máximo da
 Universidade. Este tem estado à
 altura das suas
@@ -170,7 +163,6 @@ sem excepção, têm perfeita
 consciência das suas
 responsabilidades perante a
 academia e a sociedade.
-
 A coexistência dos membros do CG
 tem sido salutar?
 Não encontro razões para que a
@@ -185,7 +177,6 @@ para trazer para a Universidade a
 voz exterior que, por vezes, a
 Universidade persiste em não
 ouvir.
-
 Como tem sido a relação entre o CG
 e a equipa reitoral?
 Normal e correcta. Diz a
@@ -208,7 +199,6 @@ na iniciativa própria do Conselho,
 mas tem facultado as condições
 para que o CG funcione com
 autonomia e independência.
-
 Está ligado à actividade cultural,
 nomeadamente através da
 Fundação Serralves onde é
@@ -216,7 +206,6 @@ Presidente do Conselho de
 Administração, qual a sua opinião
 sobre a actividade cultural
 produzida e desenvolvida pela
-Universidade?
 Estatutariamente, a UM tem
 reconhecida a capacidade para
 definir livremente as suas políticas
@@ -248,8 +237,6 @@ Espero, sinceramente, que o CG da
 UM venha ainda a reflectir e a
 propor alguma pensamento sobre
 a relação da UM com a cultura
-contemporânea.
-
 Em que medida as universidades,
 e a UMinho em particular, podem
 contribuir para que o país e a
@@ -280,7 +267,7 @@ da formação ao exercício
 profissional, etc. Cada uma destas
 situações veio revelar disfunções
 de natureza mais geral, com
-implicações mais vastas emúltiplas interdependências. As
+implicações mais vastas e múltiplas interdependências. As
 soluções passam pela alteração
 de muitos dos nossos
 comportamentos em sociedade e
@@ -295,7 +282,6 @@ reflexão e reclamam racionalidade
 na aplicação do conhecimento às
 soluções e por isso se espera
 muito dela.
-
 Quais são actualmente, na sua
 opinião os maiores desafios do
 ensino superior?
@@ -333,7 +319,6 @@ institucionais inevitáveis, perante
 as quais a universidade terá de ter
 pensamento estr uturado e
 repostas ajustadas.
-
 O que pensa da politica que tem
 vindo a ser seguida pelo
 Ministério da Ciência, Tecnologia
@@ -354,7 +339,6 @@ que não sabemos ainda onde vai
 estabilizar. O que é importante é
 que por cada avanço se consolide
 a sua autonomia e independência.
-
 É da opinião de que os jovens
 licenciados portugueses
 adquirem as competências
@@ -385,7 +369,6 @@ para a universidade é fazer isto em
 conjugação com a atitude mais
 clássica de busca do novo
 conhecimento.
-
 A regionalização seria boa para a
 nossa região e para a Uminho?
 Numa sociedade democrática e
@@ -433,7 +416,6 @@ instituto nacional com
 argumentos de racionalidade
 económica… Os resultados estão à
 avista!
-
 As Universidades devem procurar
 mais ser mais autónomas
 relativamente ao Estado?
@@ -470,7 +452,6 @@ sociedade. Daqui resulta que se
 devem premiar as que melhorem
 se ajustarem a estes propósitos
 públicos.
-
 Como têm decorrido os debates
 em redor da passagem da UMinho
 a Fundação?
@@ -491,7 +472,6 @@ elevada participação dos
 membros do Conselho Geral,
 justamente aqueles que vão ser
 chamados a decidir.
-
 A comunidade académica tem
 estado activa neste processo?
 Não sou a pessoa mais habilitada
@@ -504,7 +484,6 @@ acompanhar as sessões por
 acesso digital, porém não tenho o
 número exacto desses
 frequentadores.
-
 Este é um passo muito
 importante para a Universidade.
 Qual a sua opinião pessoal?
@@ -528,7 +507,6 @@ da sua i mplementaç ã o,
 nomeadamente a
 contratualização que a UM terá de
 estabelecer com o Governo.
-
 Se for decidida a passagem a
 fundação, que mudanças antevê
 para a Uminho?
@@ -540,7 +518,6 @@ Universidade e uma superior
 capacidade de revelar a sua
 autonomia, em relação ao modelo
 tradicional.
-
 Com a passagem a Fundação as
 competências do CG serão as
 mesmas?
@@ -555,10 +532,9 @@ cometidas ao Governo, atribuindo-
 as a este novo órgão. O CG
 continua a ser o órgão de governo
 que emergente da universidade.
-
 Para quando uma decisão sobre a
 passagem da Universidade do
 Minho a fundação?
 A decisão será tomada, de acordo
 com o calendário definido, no dia
-30 de Maio de 2011.
+30 de Maio de 2011.30 de Maio de 2011.30 de Maio de 2011.30 de Maio de 2011.

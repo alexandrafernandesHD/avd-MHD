@@ -1,16 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 81 - Ano 5
-University: Universidade do Minho
-Interviewee(s): 
-Topic: José F. Mendes, Vice-Reitor da UMinho
-Role: Vice-reitor para a Infra-estrutura, Inovação e Projectos Especiais
-Date: 28 de Maio de 2010
-Interviewer: Ana MArques
+journal: UMdicas
+issue: Edição nº 81 - Ano 5
+university: Universidade do Minho
+interviewee: José F. Mendes
+topic: José F. Mendes, Vice-Reitor da UMinho
+role: Vice-reitor para a Infra-estrutura, Inovação e Projectos Especiais
+date: 28 de Maio de 2010
+interviewer: Ana Marques
 ---
 
 Entrevista com José F. Mendes, Vice-Reitor da UMinho
-
 “Os Campi são duas pequenas cidades que é preciso gerir”
 Vice-reitor para a Infra-estrutura, Inovação e Projectos Especiais,
 José Mendes é Professor Catedrático de Nomeação Definitiva do
@@ -18,10 +17,8 @@ Departamento de Engenharia Civil da Escola de Engenharia da
 Universidade do Minho (UMinho), desde 2003. É licenciado (1987) e
 doutorado (1993) em Engenharia Civil pela UMinho, onde obteve o grau de
 Agregado na especialidade de Planeamento e Arquitectura em 2001.
-
-Ana MArques
+Ana Marques
 anac@sas.uminho.pt
-
 É Vice-Reitor para a Infraestrutura, Inovação e Projectos
 Especiais. Qual é a essência desta
 pasta?
@@ -73,7 +70,6 @@ envolvendo entidades externas,
 nacionais e estrangeiras, que se
 destinam a projectar a acção e
 imagem da Universidade.
-
 Quais são os principais objetivos
 do pelouro que lidera para
 próximos quatro anos?
@@ -109,7 +105,6 @@ práticas sustentáveis, pretende-se
 desenvolver projectos no
 âmbito da mobilidade e da energia,
 por exemplo.
-
 Quais os projectos a nível de
 Infra-estruturas, mais
 impor tantes a curto/médio
@@ -145,7 +140,6 @@ campus de Azurém,
 a nova biblioteca
 central e os arranjos
 exteriores.
-
 A Inovação é uma arma contra o
 desemprego? Como pensa a
 UMinho ajudar nesta questão o
@@ -188,7 +182,6 @@ empresas Spin-off. Trata-se, tanto
 quanto sei, do mais avançado
 programa das Universidades
 Portuguesas.
-
 Na sua perspectiva que medidas
 adicionais, além das existentes,
 deveriam ser implementadas
@@ -205,7 +198,6 @@ melhor que muitos países da sua
 gama de concorrência . A
 Universidade tem, neste campo,
 um papel coadjuvante.
-
 Como avalia o desempenho da
 UMinho na área da inovação
 nestes últimos anos?
@@ -232,7 +224,6 @@ nacional, sendo que
 nalgumas áreas é
 mesmo referência
 internacional.
-
 O Alargamento do horário de
 abertura dos campi decorrente da
 abertura dos cursos pós-laborais
@@ -255,7 +246,6 @@ Pedagógico até mais
 tarde, para além de
 um conjunto de
 serviços básicos.
-
 A Agência UM para a Energia e o
 Ambiente (AUMEA) foi criada em
 2007. Qual foi o objectivo da sua
@@ -280,7 +270,6 @@ energético da Universidade, mas
 também pela articulação com
 outras entidades ao nível regional
 e nacional.
-
 Queremos ser uma instituição de
 referência no domínio da energia
 e do ambiente. Como está a ser
@@ -301,7 +290,6 @@ Universidade está de corpo e alma
 a participar nas organizações que
 vão definir os padrões daqui para a
 frente, isso já podemos dizê-lo.
-
 O que está a ser feito no âmbito do
 desenvolvimento da mobilidade
 sustentável nos campi?
@@ -331,7 +319,7 @@ Há ainda duas
 outras áreas onde
 estamos a trabalhar,
 em articulação com
-a Câmara Municipal:
+a Câmara Municipal: 
 a mobilidade
 eléctrica e o estudo
 de uma possível
@@ -339,7 +327,6 @@ solução de metro de
 superfície num
 grande eixo da
 cidade.
-
 A mobilidade eléctrica dos campi
 de Gualtar e Azurém será uma
 realidade?
@@ -364,7 +351,6 @@ lançar um projecto de mobilidade
 eléctrica, que será articulado com
 o projecto nacional e das cidades
 onde se situam os campi.
-
 Melhorar as acessibilidades para
 os alunos com necessidades
 especiais é uma das medidas
@@ -386,7 +372,6 @@ instalação de escadas rolantes,
 etc. O que se pretende é manter
 essa infra-estrutura a funcionar e,
 nalguns casos, melhorá-la.
-
 Em termos de projectos
 especiais, o que pode esperar a
 comunidade académica nos
@@ -414,7 +399,6 @@ do Instituto de
 Biosustentabilidade e Construção,
 que terá expressão nos dois
 campi.
-
 Muito se tem falado de
 insegurança. Os Campi estão
 inseridos num ambiente seguro?
@@ -448,4 +432,4 @@ também a trabalhar connosco
 nesta questão da segurança,
 tendo já disponibilizado os seus
 ser viços para apoiar os
-estudantes.
+estudantes.estudantes.estudantes.estudantes.

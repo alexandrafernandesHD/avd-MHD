@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Não encontrado
-University: Universidade do Minho
-Interviewee(s): Drª. Luísa Santos
-Topic: “Férias Low Cost”
-Role: Chefe de Divisão do Departamento Social dos SASUM
-Date: 15 de Setembro de 2009
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 72 - Ano 4
+university: Universidade do Minho
+interviewee: Drª. Luísa Santos
+topic: “Férias Low Cost”
+role: Chefe de Divisão do Departamento Social dos SASUM
+date: 15 de Setembro de 2009
+interviewer: Ana Marques
 ---
+
 
 UMinho abriu portas das residências em
 Agosto e proporcionou férias ao resto do País
@@ -18,10 +19,8 @@ internacionais vivenciarem uma experiência única na cidade de Braga a
 preços reduzidos. O UMdicas esteve à conversa com a Drª. Luísa Santos,
 Chefe de Divisão do Departamento Social dos SASUM para fazer um balanço
 desta iniciativa inédita, levada a cabo pela primeira vez este ano.
-
 Ana Marques
 anac@sas.uminho.pt
-
 A iniciativa que foi divulgada nos
 meios de comunicação social
 como “Férias Low Cost” na UMinho
@@ -50,7 +49,6 @@ Surf. O país aderiu e aproveitou as
 condições oferecidas para
 conhecer Braga e a Região do
 Minho.
-
 Que balanço nos pode fazer sobre
 o “Verão na UMinho”?
 Inicialmente o objectivo do “Verão
@@ -72,7 +70,6 @@ desportiva, mas sim usufruir de
 alojamento a preços
 relativamente baixos para gozar
 férias em Braga.
-
 A que é que as pessoas tiveram
 acesso nas residências?
 Às condições gerais que qualquer
@@ -89,7 +86,6 @@ sabiam que vinham para uma
 residência universitária e os
 nossos alunos também não têm
 este serviço na Residência.
-
 Qual foi o principal objectivo
 desta iniciativa?
 A ideia surge de poder alojar as
@@ -107,7 +103,6 @@ esta iniciativa tivemos 450
 pessoas alojadas o que
 proporcionou uma ótima
 rentabilização das instalações.
-
 Qual foi a rentabilidade desta
 iniciativa para o sector do
 Alojamento?
@@ -137,7 +132,6 @@ estender isto a outras residências,
 não nos limitarmos apenas a uma,
 nem só a Braga, mas abrirmos
 também a ofertas em Guimarães.
-
 De que zonas eram
 principalmente as pessoas que
 aderiram à iniciativa?
@@ -148,7 +142,6 @@ A nível internacional não tivemos
 solicitações, mas a nossa
 divulgação também foi mais
 direccionada a nível nacional.
-
 Qual foi o feedback das pessoas
 que aderiram ao “Verão na
 UMinho”?
@@ -171,7 +164,6 @@ Correu muito bem e vamos
 trabalhar no sentido de colmatar
 lacunas e reforçar aspectos que
 possam ser melhorados.
-
 O que levou as pessoas a aderir?
 Do que me apercebi, a principal
 razão foi querer conhecer a cidade
@@ -188,4 +180,4 @@ visitar, iniciativas na cidade, etc.
 Tem que se apostar na vertente do
 turismo, pois uma das conclusões
 é que as pessoas querem visitar e
-conhecer a cidade de Braga.
+conhecer a cidade de Braga.conhecer a cidade de Braga.conhecer a cidade de Braga.conhecer a cidade de Braga.

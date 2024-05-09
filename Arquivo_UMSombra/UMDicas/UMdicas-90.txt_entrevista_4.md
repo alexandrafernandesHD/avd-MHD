@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 90 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Paula Alves
-Role: Presidente da direcção
-Date: 24 de Março de 2011
-Title: Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenkian
-Interviewer: Mika Ribeiro
+journal: UMdicas
+issue: Edição nº 90 - Ano 6
+university: Universidade do Minho
+interviewee: Paula Alves
+role: Presidente da direcção
+date: 24 de Março de 2011
+title: Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenkian
+interviewer: Mika Ribeiro
 ---
 
 Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenkian
@@ -15,10 +15,8 @@ república desde 1987, teve como principal objectivo “alcançar a
 verdadeira integração da Escola de enfermagem na academia e
 por conseguinte alcançar a integração dos estudantes na academia junto
 da restante comunidade estudantil
-
 Mika Ribeiro
 mika@sas.uminho.pt
-
 A AEESECG tem como objectivo
 primordial representar e defender os
 interesses dos estudantes da ESE-
@@ -35,7 +33,6 @@ cooperação e solidariedade entre os
 estudantes da ESE-UM, promovendo
 uma política de igualdade de
 oportunidades.
-
 O grande objectivo da Associação é
 alcançar a verdadeira integração da
 Escola de enfermagem na academia
@@ -43,7 +40,6 @@ e por conseguinte alcançar a
 integração dos estudantes na
 academia junto da restante
 comunidade estudantil.
-
 Com várias actividades durante o
 ano lectivo, entre elas: as Jornadas
 de Enfermagem, seminários,
@@ -55,7 +51,6 @@ tem também actividades lúdicas e
 festas temáticas como; Carnaval,
 Rally das Tascas, Recepção ao
 caloiro etc.
-
 Entrevista à nova direcção
 Os novos órgãos sociais da
 Associação de Estudantes da Escola
@@ -63,14 +58,12 @@ Superior de Enfermagem Calouste
 Gulbenkian recentemente eleitos
 tomaram posse no passado dia 3 de
 Janeiro de 2011.
-
 O UMdicas esteve à conversa com a
 Presidente da direcção, Paula Alves,
 que nos deu conta dos novos
 projectos, objectivos e desafios para
 o futuro desta Associação.
-
-UMdicas: O que levou esta direcção
+UMDicas O que levou esta direcção
 a querer presidir à Associação de
 Estudantes da Escola Superior de
 Enfermagem Calouste Gulbenkian?
@@ -84,8 +77,7 @@ estudos que exigem num curso tão
 intensivo como o nosso e os
 desafios que enfrentamos ao estar
 numa Associação de Estudantes.
-
-UMdicas: Quais os objectivos para
+UMDicas Quais os objectivos para
 o vosso mandato?
 Definimos como grandes objectivos
 para este mandato a formação
@@ -112,8 +104,7 @@ físicos para a ministração curricular
 com excelência, com a qual se
 caracteriza a Escola de
 Enfermagem.
-
-UMdicas: Qual ou quais são os
+UMDicas Qual ou quais são os
 grandes desafios para a vossa
 Associação?
 Podemos destacar como grandes
@@ -138,8 +129,7 @@ informação que permitam
 consciencializar para a necessidade
 de participar hoje para decidir o
 futuro.
-
-UMdicas: Sabemos que têm várias
+UMDicas Sabemos que têm várias
 actividades durante o ano. Podem
 falar-nos sobre isso? Qual a
 actividade com maior impacto?
@@ -206,8 +196,7 @@ conhecimentos em enfermagem,
 através da discussão aberta de um
 tema pré-estabelecido, abordando
 também uma componente prática.
-
-UMdicas: Quem quiser fazer parte
+UMDicas Quem quiser fazer parte
 da Associação o que deverá fazer?
 E quais as vantagens em ser sócio
 da AEESECG?
@@ -223,5 +212,5 @@ ao espaço físico, apesar de limitado,
 mas que possui imensos
 instr umentos com os quais
 podemos trabalhar.
-Mais informação em:
-http://esecg.blogspot.com
+Mais informação em: 
+http: //esecg.blogspot.comhttp: //esecg.blogspot.comhttp: //esecg.blogspot.comhttp: //esecg.blogspot.com

@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 79 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Prof. António Maria Vieira Paisana
-Date: 25 de Março de 2010
-Title: António Paisana: Provedor do Estudante da Universidade do Minho
-Interviewer: José Carlos Bragança
+journal: UMdicas
+issue: Edição nº 79 - Ano 5
+university: Universidade do Minho
+interviewee: Prof. António Maria Vieira Paisana
+date: 25 de Março de 2010
+title: António Paisana: Provedor do Estudante da Universidade do Minho
+interviewer: José Carlos Bragança
 ---
 
 António Paisana: Provedor do Estudante da Universidade do Minho
@@ -15,7 +15,6 @@ a palavra alunos e/ou estudantes saiu da boca do Provedor. Depois da
 conversa e da leitura do extenso currículo do Professor chega-se a uma
 conclusão: trata-se duma pessoa dedicada ao ensino e à defesa dos
 alunos.
-
 Tem 55 anos, nasceu em Moçambique e começa agora a aventura de ser
 Provedor do Estudante na Universidade do Minho. Os dedos das duas mãos
 não chegam para contar os anos dedicados à academia minhota, muito
@@ -23,10 +22,8 @@ menos para enumerar as obras publicadas. Passou pela Universidade Nova
 de Lisboa, mas é no Minho que diz sentir-se bem. Nesta entrevista traça o
 desafio, fala das expectativas, estende as mãos aos alunos e diz que
 podem contar com ele.
-
 José Carlos Bragança
 dicas@sas.uminho.pt
-
 Que expectativas tem para
 esta tarefa?
 As expectativas são boas já que
@@ -36,7 +33,6 @@ alunos vêem de bom grado a
 criação de um provedor para os
 auxiliar. Quero ser uma ajuda para
 resolver os problemas.
-
 Como é que os alunos
 podem c ontactar ou
 solicitar a ajuda ao Provedor
@@ -52,7 +48,6 @@ Mas realço que a
 presença física junto
 dos alunos vai ser
 fundamental.
-
 Ser Provedor do Estudante é
 um desafio maior para si ou
 para os alunos?
@@ -79,13 +74,11 @@ disponível para
 acolher todas as suas
 preocupações e
 sugestões.
-
 “Vou prestar o máximo
 de informações já que
 em muitos casos o
 problema é mesmo a
 falta de informação”
-
 A figura do provedor surge
 como uma necessidade
 para resolver problemas
@@ -114,7 +107,6 @@ as questões com os professores e
 no círculo mais directo do curso
 podem então solicitar a ajuda do
 provedor.
-
 Os alunos vão ter um
 provedor presente no
 campus?
@@ -127,10 +119,8 @@ pessoal com os alunos. Sei que há
 diversos meios de contacto, mas
 quero dar primazia ao contacto
 pessoal.
-
 “Quero dar primazia ao contacto
 pessoal com os alunos”
-
 Que tipo de questões podem
 ser alvo de uma sugestão do
 provedor?
@@ -155,7 +145,6 @@ provedor tenho a tarefa de propor e
 não de obrigar, mas o bom senso
 vai sempre imperar entre as
 partes.
-
 Onde julga que os alunos
 sentem maiores injustiças
 durante o ciclo de estudos?
@@ -174,7 +163,6 @@ passa por ajudar a percorrer
 melhor os canais próprios já
 existentes na resolução de
 problemas.
-
 Sendo a primeira pessoa a
 ocupar este cargo e não
 existindo uma experiencia
@@ -204,7 +192,6 @@ verdadeira universidade, têm de
 se sentir bem aqui. Vamos tentar
 aperfeiçoar o funcionamento da
 universidade.
-
 O papel do Provedor do
 Estudante não tem um
 conjunto de normas
@@ -228,7 +215,6 @@ se habituar a esta nova figura, mas
 no curto prazo a adaptação vai
 estar concluída e tudo vai ser
 melhor.
-
 O processo de eleição...
 O Prof. António Maria Vieira Paisana
 foi eleito, em reunião do Conselho
@@ -240,7 +226,6 @@ Geral, dos quais quatro eram
 estudantes, acabou por colher 14
 votos favoráveis, quatr o
 abstenções e dois votos nulos.
-
 Missão
 "O Provedor do Estudante [...] tem
 como função a defesa e promoção
@@ -252,4 +237,4 @@ arbitrando situações de conflito, e
 a elaboração de recomendações
 internas contribuindo para a
 qualidade do ambiente académico
-da Universidade."
+da Universidade."da Universidade."da Universidade."da Universidade."

@@ -1,26 +1,24 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 89 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Prof. Doutor António M. Cunha
-Topic: A UMinho
-Date: 19 de Fevereiro de 2011
-Title: Entrevista com o Prof. António Cunha
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 89 - Ano 6
+university: Universidade do Minho
+interviewee: Prof. Doutor António M. Cunha
+topic: A UMinho
+date: 19 de Fevereiro de 2011
+title: Entrevista com o Prof. António Cunha
+interviewer: Ana Marques
 ---
 
-“Acredito que é pelo conhecimento que se constrói uma sociedade melhor e se assegura a sustentabilidade do nosso futuro”
 
+“Acredito que é pelo conhecimento que se constrói uma sociedade melhor e se assegura a sustentabilidade do nosso futuro”
 Entrevista com o Prof. António Cunha
 O UMdicas esteve à conversa com o Reitor da Universidade do
 Minho (UMinho), Prof. Doutor António M. Cunha numa altura em
 que a Academia comemorou os seus 37 anos de existência. Uma
 conversa onde foram feitos balanços, pensou-se o presente e
 perspectivou-se o futuro.
-
 Ana Marques
 anac@sas.uminho.pt
-
 A UMinho embora considerada
 uma Universidade jovem, celebra
 agora o seu 37º aniversário.
@@ -70,7 +68,6 @@ crescer, reforçando a
 afirmação e a
 atractividade no
 contexto internacional.
-
 Ser Reitor da UMinho é para si
 uma missão profissional ou um
 prazer pessoal?
@@ -101,7 +98,6 @@ melhor do meu esforço
 diário e com uma
 disponibilidade
 permanente.
-
 Em que se alterou a sua vida com
 o abraçar deste projecto?
 Abandonei diversas actividades a
@@ -128,7 +124,6 @@ de diferentes especialistas.
 Certamente, que o tempo para a
 esfera privada ficou ainda mais
 reduzido.
-
 Está desde 2009 à frente dos
 destinos da UMinho. Que balanço
 faz desta viagem?
@@ -193,7 +188,6 @@ nessa adversidade,
 oportunidades de
 consolidação do nosso
 projecto.
-
 Na prossecução da sua tarefa
 enquanto Reitor, quais têm sido
 as maiores dificuldades com que
@@ -249,7 +243,6 @@ oportunidades neste
 quadro adverso e estão
 empenhados na sua
 construção.
-
 Para além da equipa reitoral
 inicial, foi recentemente
 empossado um Pró-reitor com a
@@ -282,7 +275,6 @@ Importa ainda referir que a
 nomeação do Prof. Paulo Ramísio
 vai reforçar a presença da equipa
 reitoral em Azurém.
-
 Numa anterior entrevista referiu-
 nos que a prioridade para o
 quadriénio 2009-2013 seria
@@ -356,7 +348,6 @@ Unidades, bem como com diversão
 acções promovidas pelos
 estudantes e pela sua Associação
 Académica.
-
 O alargamento dos horários de
 funcionamento de vários
 serviços e a abertura da oferta
@@ -382,7 +373,6 @@ de alunos vai duplicar e criar massa
 crítica para viabilizar o
 funcionamento em regime ainda
 mais alargado daqueles serviços.
-
 Tomou as “rédeas” da Academia
 numa altura não muito favorável.
 Em termos da relação com a
@@ -437,7 +427,6 @@ Neste domínio, houve
 uma alteração muito
 positiva nos últimos
 dezoito meses.
-
 Qual a sua opinião sobre a
 actuação do ministro Mariano
 Gago e a aposta que tem sido feita
@@ -459,7 +448,6 @@ sector um relevo na agenda política
 e uma visibilidade na sociedade
 por tuguesa nunca antes
 conseguida.
-
 Durante este seu mandato tem
 promovido o diálogo entre a
 Reitoria e a comunidade
@@ -480,7 +468,6 @@ informal entre os seus
 participantes e o reitor. A minha
 expectativa é que esta experiência
 se consolide em 2011.
-
 A Reitoria tem feito uma grande
 aposta na área da comunicação
 em diversas vertentes. No seu
@@ -514,7 +501,6 @@ adequada estratégia de
 comunicação só pode
 consolidar esse
 processo de afirmação.
-
 Ainda com dois anos pela frente
 neste seu mandato. Pensa que
 serão suficientes para
@@ -538,7 +524,6 @@ campi, na procura de soluções
 adequadas para o Arquivo Distrital
 de Braga e para a Biblioteca
 Pública.
-
 Há também, grandes e
 desafiantes projectos que serão
 estruturantes para o
@@ -556,7 +541,7 @@ se coaduna com a sinalização de
 um único projecto. De facto, estão
 hoje em desenvolvimento
 projectos de grande importância
-estratégica, nomeadamente:
+estratégica, nomeadamente: 
 a) A conclusão da construção e o
 início da implementação do
 projecto Campurbis em Guimarães,
@@ -604,7 +589,6 @@ regularmente indicadores sobre
 qualidade ambiental e informação
 sobre intervenções a efectuar nos
 campi.
-
 De que forma é que as
 universidades podem ajudar as
 sociedades a ultrapassar a
@@ -645,7 +629,6 @@ ajudando a encontrar soluções
 para novas realidades,
 nomeadamente as novas formas
 de exclusão.
-
 De que é que a universidade
 portuguesa precisa?
 A universidade portuguesa e
@@ -670,7 +653,6 @@ dessas
 responsabilidades e
 desses desafios,
 assumindo as suas
-responsabilidades e
 evoluindo para quadros
 de maior autonomia. A
 actual legislação permite
@@ -680,7 +662,6 @@ Estamos firmemente
 empenhados em
 evidenciar as vantagens
 deste regime.
-
 Um dos temas mais actuais na
 Academia, e que tem vindo a ser
 debatido é a possibilidade da
@@ -694,7 +675,7 @@ regime. Por isso, apresentei uma
 proposta ao Conselho Geral nesse
 sentido.
 Há três tipos de razões que
-justificam esta opção:
+justificam esta opção: 
 i) O reforço da autonomia da
 instituição e por arrasto das suas
 unidades orgânicas, permitindo,
@@ -713,7 +694,6 @@ cultura de responsabilização,
 essen cia l à af i r maç ã o da
 Universidade nos seus diferentes
 sectores de actividade.
-
 Após alguns debates já realizados,
 qual o feedback que a comunidade
 académica tem dado?
@@ -738,7 +718,6 @@ tão só o regime jurídico em que se
 deve movimentar para, mais
 adequadamente, cumprir a sua
 missão.
-
 A acção social escolar tem sido
 motivo de protestos a nível
 nacional, principalmente sobre a
@@ -787,7 +766,6 @@ Reitor e a AAUM e com
 grande atenção e
 profissionalismo por
 parte dos SASUM.
-
 Em 2012 vamos receber dois
 eventos desportivos
 internacionais – os Campeonatos
@@ -815,7 +793,6 @@ grandes eventos em que, nesse ano,
 estarão envolvidas: a Capital
 Europeia da Juventude e a Capital
 Europeia da Cultura.
-
 A UMinho é a Universidade a nível
 nacional que mais eventos
 desportivos internacionais tem
@@ -852,7 +829,6 @@ desenvolvemos o
 espírito de colaboração e
 o espírito ganhador em
 toda a comunidade
-académica.
 Como já referido, o desporto
 também é muito importante na
 promoção da imagem, nacional e
@@ -863,7 +839,6 @@ Acção Social da UMinho e a
 Associação Académica da UMinho
 têm permitido grandes sucessos
 neste domínio.
-
 Que mensagem gostaria de deixar
 à Academia nesta altura?
 Quero deixar uma mensagem de
@@ -888,4 +863,4 @@ vencer.
 Acredito que é pelo conhecimento
 que se constrói uma sociedade
 melhor e se assegura a
-sustentabilidade do nosso futuro.
+sustentabilidade do nosso futuro.sustentabilidade do nosso futuro.sustentabilidade do nosso futuro.sustentabilidade do nosso futuro.

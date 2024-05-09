@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 75 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Rui Bragança
-Role: aluno do 1º ano de medicina e atleta TUTORUM
-Date: 10 de Dezembro de 2009
-Title: Atleta hoje, um médico amanhã
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 75 - Ano 4
+university: Universidade do Minho
+interviewee: Rui Bragança
+role: aluno do 1º ano de medicina e atleta TUTORUM
+date: 10 de Dezembro de 2009
+title: Atleta hoje, um médico amanhã
+interviewer: Nuno Gonçalves
 ---
 
 Atleta hoje, um médico amanhã
@@ -18,10 +18,8 @@ taça de Portugal. Vamos então agora conhecer um pouco melhor este jovem
 lutador que irá representar a UMinho no I Campeonato Europeu
 Universitário de Taekwondo que a UMinho vai organizar nos próximos dias
 11 e 12 de Dezembro.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Com que idade iniciaste a prática
 competitiva do Taekwondo e
 onde?
@@ -36,7 +34,6 @@ casa, o que facilitou imenso a
 iniciação porque podia ir sozinho e
 não tinha de apanhar nenhum
 transporte.
-
 Achas que o taekwondo ajudou no
 teu desenvolvimento enquanto
 indivíduo?
@@ -60,7 +57,6 @@ através dele, e pelo controlo
 emocional que é necessário ter
 quando se está a treinar e a
 combater.
-
 Qual foi o papel da tua família no
 teu percurso enquanto atleta de
 alta competição?
@@ -77,13 +73,11 @@ foi fácil) e para que estivesse nas
 melhores condições possíveis,
 tanto emocional como
 fisicamente.
-
 Quantas vezes treinas por
 semana, e quanto tempo?
 Treino 11 vezes por semana, cerca
 de duas horas por treino, e ao
 domingo é dia de descanso.
-
 Algumas pessoas associam as
 artes marciais a
 comportamentos violentos. O
@@ -99,7 +93,6 @@ parte das pessoas que pratica
 artes marciais controla-se mais,
 tentando nunca levar as coisas
 para a violência.
-
 A maneira como tu lidas com a
 pressão e a ansiedade antes dos
 combates é algo que tu
@@ -114,7 +107,6 @@ ganha com cada competição e
 com cada combate ajuda bastante,
 principalmente a lidar com a
 ansiedade.
-
 No último Campeonato Nacional
 Universitário, apesar de ainda
 não estares na UMinho,
@@ -135,7 +127,6 @@ a mudar com os resultados
 obtidos nas competições
 internacionais nas quais a
 selecção universitária participou.
-
 Recentemente participaste no
 Campeonato da Europa de Sub-21
 que se realizou na cidade
@@ -154,7 +145,6 @@ tenho de treinar para estar melhor
 da próxima vez, ou pelo menos
 para não voltar a cometer os
 mesmos erros.
-
 O Europeu Universitário de
 Taekwondo está ai à porta. Como
 está a decorrer a tua preparação?
@@ -166,7 +156,6 @@ estudos como nos treinos. E as
 condições que a Universidade do
 Minho me tem dado são sem
 duvida uma grande ajuda.
-
 Os jogos Olímpicos de 2012 em
 Londres são um sonho ou uma
 meta?
@@ -175,7 +164,6 @@ pela sua magnitude, mas também
 é uma meta. Ainda falta algum
 tempo, mas treino para conseguir
 lá chegar.
-
 O facto de competires pelo teu
 actual clube condicionou a tua
 esc olha de Uni versidades
@@ -192,7 +180,6 @@ entre outros). Além disso em
 nenhum outro clube em Portugal
 eu teria condições para treinar
 desta maneira.
-
 Para muitos atletas de alta
 competição torna-se difícil
 conciliar os estudos com a
@@ -210,7 +197,6 @@ muito complicado, é preciso
 também ter muita força de
 vontade e acima de tudo, gostar do
 que se faz.
-
 A UMinho iniciou em Portugal um
 programa pioneiro no que diz
 respeito ao apoio aos atletas de
@@ -235,7 +221,6 @@ individual, nós treinamos numa
 equipa o que torna impossível
 fazer um horário de treinos
 perfeito para todos.
-
 Em que áreas já recebeste apoio
 através do Tutorum?
 Como já tive exames a coincidir
@@ -246,7 +231,6 @@ noutra altura. Além disso como os
 treinos da tarde várias vezes
 coincidem com aulas, posso sair
 das aulas mais cedo.
-
 Os teus objectivos pessoais
 passam por uma carreira 
 profissional no taekwondo ou os
@@ -261,4 +245,4 @@ infelizmente, e é sempre bom ter
 um plano de recurso caso alguma
 coisa dê para o torto. E como dá
 para conciliar tudo, porque não
-fazer as duas coisas?
+fazer as duas coisas?fazer as duas coisas?fazer as duas coisas?fazer as duas coisas?

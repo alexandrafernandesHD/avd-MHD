@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 82 - Ano 5
-University: Universidade do Minho
-Interviewee(s): João Sineiro
-Topic: mestrado a participar no Troféu Reitor
-Date: 23 de Junho de 2010
-Title: Mestres no Troféu Reitor
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Edição nº 82 - Ano 5
+university: Universidade do Minho
+interviewee: João Sineiro
+topic: mestrado a participar no Troféu Reitor
+date: 23 de Junho de 2010
+title: Mestres no Troféu Reitor
+interviewer: Michael Ribeiro
 ---
 
 Mestres no Troféu Reitor
@@ -15,10 +15,8 @@ primeiro mestrado a participar no Troféu Reitor. Com a alteração
 do regulamento geral no Troféu Reitor surgiu a oportunidade de
 mais equipas se inscreverem e de antigos alunos voltarem a “pisar os
 palcos” do maior torneio intra-muros da Universidade do Minho
-
 Michael Ribeiro
 mika@sas.uminho.pt
-
 O Mestrado em Economia
 Industrial e da Empresa (MEIE) é
 oferecido pelo Departamento de
@@ -75,7 +73,6 @@ disputou vários Torneios do Reitor
 pelo curso de A. Pública, voltou a
 competir agora pela equipa de
 mestrados.
-
 O que pensa da alteração dos
 Regulamento Geral do Troféu
 Reitor por parte da organização,
@@ -92,7 +89,6 @@ injusto os mestrados não
 poderem participar, uma vez que
 os seus alunos são também parte
 activa desta instituição.
-
 Sendo a maior parte dos atletas
 trabalhadores, como
 conseguiram conciliar as horas
@@ -113,7 +109,6 @@ interlocutor, o Mica, que sempre
 esteve à disposição para nos
 ajudar a ultrapassar qualquer
 dificuldade.
-
 Que balanço faz da organização
 Troféu Reitor deste ano?
 Excelente organização,
@@ -128,7 +123,6 @@ organização até aos atletas,
 revelando mais uma vez a
 grandeza desta nobre instituição
 que é a Universidade do Minho.
-
 Como vê este regresso a uma
 competição onde já participou e
 onde também faz parte da
@@ -152,4 +146,4 @@ companheirismo e amizade.
 Por último resta-me agradecer ao
 UMdicas e à organização do
 torneio e enviar um grande abraço
-aos meus colegas de equipa.
+aos meus colegas de equipa.aos meus colegas de equipa.aos meus colegas de equipa.aos meus colegas de equipa.

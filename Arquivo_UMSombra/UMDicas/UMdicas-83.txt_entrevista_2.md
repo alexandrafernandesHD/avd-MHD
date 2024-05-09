@@ -1,26 +1,24 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 83 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Rui Vieira de Castro
-Role: Vice-reitor para a Investigação e Ensino
-Date: 18 de Julho de 2010
-Title: Entrevista com Rui Vieira de Castro, Vice-Reitor da UMinho
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 83 - Ano 5
+university: Universidade do Minho
+interviewee: Rui Vieira de Castro
+role: Vice-reitor para a Investigação e Ensino
+date: 18 de Julho de 2010
+title: Entrevista com Rui Vieira de Castro, Vice-Reitor da UMinho
+interviewer: Ana Marques
 ---
 
-Entrevista com Rui Vieira de Castro, Vice-Reitor da UMinho
 
+Entrevista com Rui Vieira de Castro, Vice-Reitor da UMinho
 Vice-reitor para a Investigação e Ensino, Rui Vieira de Castro é
 Professor Catedrático do Instituto de Educação da Universidade
 do Minho (UMinho) desde 2005. Licenciado em Ensino de
 Português e Inglês pela UMinho (1981) e doutorado em Educação, na área
 de conhecimento de Metodologia do Ensino do Português pela UMinho
 (1994), onde obteve o grau de Agregado (2004).
-
 Ana Marques
 anac@sas.uminho.pt
-
 O Professor Doutor Rui Vieira de
 Castro é um dos quatro vice-
 reitores da UMinho. Que funções
@@ -150,11 +148,9 @@ Investigação, da nossa oferta de
 ensino a distância, para lá de
 outras funções que
 desempenhará no apoio ao
-
 “A formação superior é uma das
 armas mais importantes contra o
 desemprego.”
-
 trabalho dos professores, na
 produção de conteúdos e na
 gestão da plataforma de elearning.
@@ -177,7 +173,6 @@ Internacionais, tem dado um
 inestimável contributo e que tem
 de ser consolidada nos próximos
 anos.
-
 Sendo Vice-Reitor para a 
 Investigação e Ensino. Qual é a
 essência desta pasta?
@@ -210,7 +205,6 @@ dimensão importante da
 actividade da Universidade que se
 cruza com o pelouro da
 investigação e do ensino.
-
 No âmbito da sua tutela, quais
 são os projectos mais
 impor tantes a cur to/médio
@@ -233,7 +227,6 @@ mobilidade dos nossos
 estudantes; tornar a UMinho
 atractiva para estudantes
 estrangeiros.
-
 Como avalia o desempenho da
 UMinho na área da Investigação e
 Ensino nestes últimos anos?
@@ -241,7 +234,7 @@ A qualidade do desempenho da
 UMinho nestas áreas está bem
 expresso em indicadores que
 resultam de diagnósticos de
-agências externas a Universidade:
+agências externas a Universidade: 
 temos hoje mais de 80% dos
 nossos investigadores em centros
 classificados com Muito Bom ou
@@ -257,7 +250,6 @@ referência de ensino e
 aprendizagem elevada
 qualidade, sendo pioneira em
 diversas áreas de formação.
-
 A formação superior é uma arma
 contra o desemprego?
 A educação e a formação de
@@ -279,7 +271,6 @@ Proporcionalmente, é entre os
 detentores de formação superior
 que as taxas de desemprego são
 mais baixas.
-
 A UMinho terá a partir de
 Setembro, 17 licenciaturas e
 mestrado integrado e 15 cursos
@@ -312,7 +303,6 @@ contribuir, dentro das suas
 possibilidades, para a melhoria da
 qualificação das nossas
 populações.
-
 Quais pensa serem as
 repercussões disto na
 população?
@@ -329,7 +319,6 @@ puderam prosseguir ou continuar
 os estudos superiores, ou mesmo
 de pessoas que se encontram hoje
 no desemprego.
-
 A UMinho vai ser obrigada a
 investir na adaptação das
 condições dos 'campi' de Gualtar
@@ -370,7 +359,6 @@ nocturnos, o que constitui sem
 dúvida uma mais-valia para o
 acolhimento dos novos públicos
 que esperamos.
-
 Quantos alunos estão previstos
 para iniciarem este período pós-laboral?
 No conjunto dos vários cursos, a
@@ -383,7 +371,6 @@ funcionarão neste regime. Estas
 de 20% das novas vagas que, a
 nível nacional, são oferecidas em
 regime pós-laboral.
-
 Não acha que muitos dos alunos
 trabalhadores-estudantes
 actuais que sentem dificuldades
@@ -399,7 +386,6 @@ representa, só podemos ficar
 satisfeitos se o regime pós-laboral
 contribuir para resolver este
 problema.
-
 Os cursos pós-laborais terão a
 mesma qualidade e exigências
 daqueles que são leccionados no
@@ -430,7 +416,6 @@ de características não vejo como
 podem os cursos pós-laborais ser
 diferentes no que à sua qualidade
 e grau de exigência diz respeito.
-
 A nível de aceitação destes
 licenciados no mercado de
 trabalho. Pensa que será dado o
@@ -445,7 +430,6 @@ valor do diploma,
 independentemente do regime de
 funcionamento do curso em que
 ele foi obtido.
-
 Considera que a Universidade
 tem cursos a mais?
 A minha convicção é que o
@@ -471,7 +455,6 @@ sentido da adopção de algumas
 medidas tendentes a diminuir o
 número de unidades curriculares
 hoje existentes.
-
 Nas duas edições do Fórum
 UMinho surgiram algumas
 sugestões para melhorar as
@@ -504,7 +487,6 @@ as preocupações, os problemas,
 mas também as sugestões de
 melhoria que os estudantes
 entenderam apresentar.
-
 O que espera a UMinho em
 concreto da colaboração com o
 INL?
@@ -521,4 +503,4 @@ pelo desenvolvimento conjunto de
 projectos de investigação, mas
 que dever á ta m b é m ter
 repercussões ao nível dos nossos
-projectos de ensino.
+projectos de ensino.projectos de ensino.projectos de ensino.projectos de ensino.

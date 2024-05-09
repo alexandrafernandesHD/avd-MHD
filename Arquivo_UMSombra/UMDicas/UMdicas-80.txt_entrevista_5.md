@@ -1,13 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 80 - Ano 5
-University: Universidade do Minho
-Interviewee(s): 
-Topic: desporto no NEMUM
-Role: os responsáveis
-Date: 21 de Abril de 2010
-Title: NEMUM e o Desporto
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Edição nº 80 - Ano 5
+university: Universidade do Minho
+interviewee: Ricardo Jorge Fernandes e Joel Monteiro
+topic: desporto no NEMUM
+role: os responsáveis
+date: 21 de Abril de 2010
+title: NEMUM e o Desporto
+interviewer: Michael Ribeiro
 ---
 
 NEMUM e o Desporto
@@ -18,19 +18,17 @@ Jorge Fernandes e Joel Monteiro. Criar actividades recreativas e
 desportivas para os alunos de Medicina e não só, são objectivos do NEMUM.
 O UMdicas conversou com os responsáveis para saber mais sobre o
 desporto no NEMUM
-
 Michael Ribeiro
 mika@sas.uminho.pt
-
 Com a sede no rés-do-chão da ala
 académica da Escola Ciências da
 Saúde, o NEMUM tem várias
 actividades agendadas que podem
 ser consultadas na sede ou em
-http://nemum09.blogspot.com/ e
-http://www.facebook.com/NEMUM
+http: //nemum09.blogspot.com/ e
+http: //www.facebook.com/NEMUM
 .
-UMdicas: Quais os projectos a
+UMDicas Quais os projectos a
 nível desportivo ou actividades
 lúdicas que o NEMUM realiza?
 A nível desportivo temos a liga de
@@ -61,14 +59,12 @@ do ano (Jantar de Carnaval, Jantar
 de Natal. Jantar do cortejo,
 Churrascão) com grande adesão
 dos alunos.
-
-UMdicas: Essas actividades são
+UMDicas Essas actividades são
 só para sócios do NEMUM?
 Não. Todos os alunos de Medicina
 da Universidade do Minho podem
 participar.
-
-UMdicas: De que forma é que o
+UMDicas De que forma é que o
 núcleo tenta cativar os seus
 sócios e restantes alunos para a
 actividade desportiva?
@@ -77,8 +73,7 @@ de actividades previstas no início
 do ano e da publicitação das
 actividades por cartazes afixados
 na escola e por contacto via e-mail.
-
-UMdicas: Com todo o trabalho e
+UMDicas Com todo o trabalho e
 estudo que os alunos têm o tempo
 disponível não é muito. De que
 forma conseguem contornar esta
@@ -93,8 +88,7 @@ realizadas pelos alunos de cada um
 dos anos. O mais importante é a
 oferta depois é uma questão de
 motivação para participar.
-
-UMdicas: Aproxima-se o Troféu
+UMDicas Aproxima-se o Troféu
 Reitor, o mais evento intra-muros
 realizado na Universidade do
 Minho. O NEMUM vai participar?
@@ -102,8 +96,7 @@ O NEMUM participa todos os anos,
 através de uma equipa de futebol e
 este ano tentar-se-á seleccionar
 uma equipa de voleibol.
-
-UMdicas: Como é feita a escolha
+UMDicas Como é feita a escolha
 das equipas ou a selecção dos
 jogadores?
 A equipa vencedora da liga NEMUM
@@ -116,10 +109,9 @@ Relativamente ao voleibol, será
 feito um torneio numa tarde e os
 vencedores poderão representar o
 curso no troféu.
-
-UMdicas: Qual o vosso grande
+UMDicas Qual o vosso grande
 evento ou projecto que gostariam
 de realizar?
 O grande evento para este ano é a
 realização do fim-de-semana
-radical para os alunos de Medicina.
+radical para os alunos de Medicina.radical para os alunos de Medicina.radical para os alunos de Medicina.radical para os alunos de Medicina.

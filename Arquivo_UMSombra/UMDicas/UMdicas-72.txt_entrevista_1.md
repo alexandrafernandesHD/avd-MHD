@@ -1,12 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Não encontrado
-University: Universidade do Minho
-Interviewee(s): 
-Topic: Bar 4
-Date: 15 de Setembro de 2009
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 72 - Ano 4
+university: Universidade do Minho
+interviewee: responsável do bar
+topic: Bar 4
+date: 15 de Setembro de 2009
+interviewer: Ana Marques
 ---
+
 
 Apresentação das Unidades de serviço Alimentar
 Bar IV (EEng/ICS) - Braga
@@ -15,7 +16,6 @@ Instituto de Ciências Sociais, na zona poente do Campus de Gualtar,
 este bar tem capacidade para 48 lugares sentados e está aberto ao
 público das 09h00 às 18h00. O UMdicas esteve à conversa com a responsável
 do Bar para saber como é o dia-a-dia numa unidade alimentar dos SASUM.
-
 Ana Marques
 anac@sas.uminho.pt
 Há quantos anos pertence ao DA?
@@ -27,7 +27,6 @@ Trabalhar no DA é trabalhar numa
 área que gosto, num óptimo
 ambiente, onde vou adquirindo
 conhecimentos todos os dias.
-
 Tem alguma formação específica
 na área da restauração?
 Sim. Antes de vir trabalhar para os
@@ -38,7 +37,6 @@ tenho adquirido formação na área
 da higiene e segurança alimentar,
 o curso profissional de servente
 de bar e mesa, entre outros.
-
 Que funções desempenhou até
 ficar como responsável do Bar 4?
 Já desempenhei várias funções.
@@ -54,7 +52,6 @@ da unidade. Há quatro anos
 vimtrabalhar para o Bar 4, onde
 estou a exercer as funções de
 responsável.
-
 Ser responsável do Bar é para si
 um desafio?
 Sim, é um grande desafio.
@@ -69,7 +66,6 @@ alimentar, tentar satisfazer a
 exigência dos nossos clientes. É
 algo que só com profissionalismo
 e simpatia se consegue.
-
 É fácil coordenar uma unidade
 alimentar? Quais são as maiores
 dificuldades?
@@ -90,7 +86,6 @@ que têm demonstrado uma
 enorme capacidade de
 reconhecimento pelo trabalho dos
 seus funcionários.
-
 Na sua opinião os utentes das
 unidades alimentares são bem
 servidos em termos de qualidade
@@ -110,7 +105,6 @@ melhor forma contribuindo para
 que o serviço global do DA seja o
 melhor. Neste âmbito temos vindo
 a ter formação.
-
 Qual o procedimento quando
 algum utente reclama do
 serviço?
@@ -122,7 +116,6 @@ chegará à responsável do
 Departamento, que fará uma
 avaliação do problema e tentará
 resolver da melhor forma.
-
 Como classifica o Bar 4? Que tipo
 de alimentação pode fazer quem
 aqui se dirige?
@@ -132,7 +125,6 @@ podem fazer uma refeição rápida e
 saudável, onde existem
 grelhados, frutas, sumos
 naturais, sopas, etc.
-
 Por quantos elementos é
 constituída a sua equipa?
 Na minha equipa neste momento
@@ -144,4 +136,4 @@ muito boa com a qual tenho
 contado para desenvolvimento de
 todo o trabalho e melhoramento
 do serviço, sem a contribuição de
-todas tudo seria mais difícil.
+todas tudo seria mais difícil.todas tudo seria mais difícil.todas tudo seria mais difícil.todas tudo seria mais difícil.

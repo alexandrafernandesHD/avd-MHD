@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 88 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Felisbela Lopes
-Topic: Entrevista com a Pró-reitora Felisbela Lopes
-Date: 25 de Janeiro de 2011
-Title: Entrevista com a Pró-reitora Felisbela Lopes
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 88 - Ano 6
+university: Universidade do Minho
+interviewee: Felisbela Lopes
+topic: Entrevista com a Pró-reitora Felisbela Lopes
+date: 25 de Janeiro de 2011
+title: Entrevista com a Pró-reitora Felisbela Lopes
+interviewer: Ana Marques
 ---
+
 
 Entrevista com a Pró-reitora Felisbela Lopes
 “Um dos nossos objectivos é tornar conhecido, a vários níveis, o
@@ -15,10 +16,8 @@ trabalho de qualidade que desenvolvemos”. Pró-reitora para a
 Comunicação e Imagem, Felisbela Lopes é Professora Auxiliar no
 Departamento de Ciências da Comunicação do Instituto de Ciências Sociais
 da Universidade do Minho.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Felisbela Lopes é licenciada em
 Português-Francês, fez Provas de
 Aptidão Pedagógica e Capacidade
@@ -35,7 +34,6 @@ RTP/RTPN, colaboradora do Público,
 cronista do Correio da Manhã e do
 Correio do Minho, etc. Actualmente
 faz parte da equipa reitoral.
-
 É Pró-reitora para a Comunicação
 e Imagem. Qual é a essência desta
 pasta?
@@ -44,7 +42,6 @@ e externa que envolve a
 Universidade do Minho e dos
 principais eventos protocolares
 que aí decorrem.
-
 Quais são os principais objectivos
 do pelouro que lidera até 2013?
 Queremos tornar a comunicação
@@ -74,7 +71,6 @@ Queremos também solidificar a
 imagem da UMinho como uma
 universidade de grande qualidade
 e prestígio.
-
 No Programa de acção para o
 quadriénio 2009-2013 uma das
 medidas transversais propostas
@@ -125,7 +121,6 @@ trabalho a fazer ao nível da
 comunicação é enorme.
 Precisamos ainda de continuar a
 fazer muito caminho…
-
 Quais as conclusões/ilações que
 se podem retirar da acção “Fórum
 UMinho”? Esta é para continuar?
@@ -156,7 +151,6 @@ isto em mente,
 queremos continuar
 a promover estas
 reuniões, querendoas mais participadas.
-
 Para quando a implementação da
 nova linha editorial e novas
 linguagens no Portal de Entrada
@@ -188,7 +182,6 @@ acumulação, tendo subjacente
 uma lógica de optimização da
 navegação por parte dos
 utilizadores.
-
 Quais as alterações/inovações
 previstas para o portal dos
 Alunos. Que mais-valias se
@@ -206,7 +199,6 @@ alunos, esse desígnio é ainda
 mais premente dada a sua
 centralidade na comunidade
 académica.
-
 Em que estado de encontra o
 projecto para a criação de uma
 televisão interna Uminho?
@@ -235,7 +227,6 @@ comunicação
 efectiva com a
 academia e com o
 público externo.
-
 A Universidade do Minho é uma
 instituição de grande prestígio
 nacional e internacional no
@@ -255,7 +246,6 @@ pelouro, há várias
 formas de projectar a
 nossa investigação.
 Dentro dessa
-comunicação
 estratégica, tendo a
 valorizar a acção
 junto dos vários
@@ -278,7 +268,6 @@ Imagem está a trabalhar. É
 importante que todos saibam que
 só se pode divulgar o que é
 conhecido.
-
 A presença da UMinho nas redes
 sociais era uma das acções
 propostas . Isto tem sido
@@ -294,7 +283,6 @@ irreversível, pelo que a
 universidade lhe atribui uma
 grande importância e, nessa
 medida, optou pela adesão.
-
 A Universidade precisa de
 apostar no Marketing? Quais as
 vertentes que na sua opinião
@@ -324,11 +312,9 @@ importante.
 Este ano, faremos outra
 campanha à escala nacional (sem
 custos acrescidos para a UMinho).
-
 Em linhas gerais o que se
 pretende no curto/médio prazo
 que seja o Gabinete de
-Comunicação, Informação e
 Imagem (GCII)?
 O GCII é uma estrutura muito
 pequena, quando comparada com
@@ -357,7 +343,6 @@ conhecido fora dos
 campi. É nisso que
 todos nos
 concentramos.
-
 Se tivesse que comunicar a
 Universidade através de uma
 frase, qual escolheria?
@@ -367,4 +352,4 @@ conhecimento se
 cruza com a
 criatividade para
 formar os
-inovadores do futuro.
+inovadores do futuro.inovadores do futuro.inovadores do futuro.inovadores do futuro.

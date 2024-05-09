@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 82 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Eduardo Couturela Pereira
-Date: 23 de Junho de 2010
-Title: Dep. Saídas Profissionais e Empreendedorismo da AAUM
-Interviewer: Ana Paula Magalhães
+journal: UMdicas
+issue: Edição nº 82 - Ano 5
+university: Universidade do Minho
+interviewee: Eduardo Couturela Pereira
+date: 23 de Junho de 2010
+title: Dep. Saídas Profissionais e Empreendedorismo da AAUM
+interviewer: Ana Paula Magalhães
 ---
 
 Dep. Saídas Profissionais e Empreendedorismo da AAUM
@@ -14,15 +14,12 @@ assumiu, neste ano lectivo, a vice-presidência do Departamento
 de Saídas Profissionais e Empreendedorimo da AAUM. Nesta
 entrevista faz um balanço das iniciativas realizadas, fala de projectos para
 um futuro próximo e analisa a importância da pasta que dirige.
-
 Ana Paula Magalhães
 dicas@sas.uminho.pt
-
 O que é o Departamento de Saídas
 Profissionais e
 Empreendedorismo?
 O Depar tamento de Saídas
-Profissionais e
 Empreendedorismo é um dos oito
 departamentos da Associação
 Académica e tem a seu cargo as
@@ -35,12 +32,8 @@ Profissionais de uma nova
 vertente, o Empreendedorismo,
 passando assim a denominar-se
 de Departamento de Saídas
-Profissionais e
 Empreendedorismo.
-
 Quais são os seus objectivos?
-O Depar tamento de Saídas
-Profissionais e
 Empreendedorismo tem como
 principais objectivos
 auxiliar/apoiar os
@@ -58,7 +51,6 @@ ferramentas e recursos que os
 incentivem e apoiem a colocar em
 prática as suas ideias e os seus
 projectos.
-
 A procura de apoio neste
 Departamento é elevada?
 Podemos identificar dois tipos de
@@ -92,10 +84,8 @@ empreendedorismo, promover
 acções que dê a conhecer e
 sensibilizem os alunos para o
 empreendedorismo.
-
 De que forma são apoiados pelo
 Departamento de Saídas
-Profissionais e
 Empreendedorismo os finalistas
 e recém-licenciados?
 A forma como apoiamos aqueles
@@ -104,7 +94,6 @@ necessidades dos mesmos.
 Mas é sobretudo o Gabinete de
 Inserção Profissional que dá apoio
 aos finalistas e recém-licenciados.
-
 Neste ano lectivo quais têm sido
 os problemas/dúvidas mais
 frequentes, apresentadas pelos
@@ -122,7 +111,6 @@ Apresentação, do
 Curriculum Vitae e da
 preparação das
 entrevistas de emprego.
-
 Recentemente o Departamento
 de Saídas Profissionais da AAUM
 levou a cabo, mais uma vez, a
@@ -190,7 +178,6 @@ Por tudo isto o balanço só podia ser
 positivo, ficando a certeza de que é
 uma actividade para se voltar a
 realizar.
-
 A procura de informações
 aumentou no contexto de crise
 actual?
@@ -209,7 +196,6 @@ necessária a criação do Gabinete
 de Apoio ao Empreendedorismo,
 para dar resposta a essa
 crescente procura.
-
 Que conselhos dão aos finalistas
 que desejam proc urar um
 primeiro emprego?
@@ -228,9 +214,7 @@ Vitae, á preparação das
 entrevistas de emprego para que
 assim possam enfrentarem com
 maior segurança a primeira
-interacção com o mercado de
 trabalho.
-
 O processo de Bolonha
 transformou a maioria dos cursos
 em licenciaturas de três anos.
@@ -280,7 +264,6 @@ opções sobre o curriculum mais
 adequado à sua situação será, de
 uma forma crescente, cada vez
 mais importante.
-
 Os nossos estudantes são
 empreendedores?
 Por vezes tem-se uma ideia errada
@@ -299,13 +282,11 @@ qualquer área do conhecimento
 humano.
 No que diz respeito aos nossos
 estudantes, podemos afirmar que
-
 “Uma das formas para
 contornar a crise
 actual pode passar
 pelo
 empreendedorismo”
-
 são realmente empreendedores e
 que a tendência é para que sejam
 cada vez mais. Encontramos entre
@@ -341,7 +322,6 @@ forma devemos procurar incutir o
 empreendedorismo e de que modo
 devemos apoiar aqueles que já são
 empreendedores.
-
 O que será necessário fazer ou
 está a ser feito para incutir a
 “ veia” empreendedora nos
@@ -357,7 +337,6 @@ Neste momento estamos numa
 fase de preparação de algumas
 das actividades que temos
 programadas, como por exemplo o
-Gabinete de Apoio ao
 Empreendedorismo, o Primeiro
 Guia do Empreendedor, tertúlias
 direccionadas para vertente do
@@ -389,11 +368,9 @@ lançamento para dia 24 de Junho,
 contando com a presença de Sua
 Excelência o Presidente da
 República.
-
 O que o motivou a ocupar a vice-
 presidência da AAUM para a pasta
 de Saídas Pro fissionais e
-Empreendedorismo?
 Considero-me um empreendedor
 e, por isso, quando fui convidado
 pelo actual presidente da AAUM,
@@ -405,7 +382,6 @@ não podia deixar passar a
 oportunidade de ajudar os meus
 colegas a prepararem-se para o
 enfrentar.
-
 Como concilia os estudos com o
 associativismo?
 O associativismo, em particular o
@@ -432,7 +408,6 @@ Apesar de tudo considero-me um
 privilegiado pelas funções que
 exerço e nunca senti
 arrependido pelas opções que fiz.
-
 O que pensa do associativismo no
 percurso de um estudante?
 Não imagino a minha vida sem o
@@ -447,7 +422,6 @@ competências do que as que tinha
 quando o iniciei e por isso
 recomendo o associativismo a
 todos os estudantes.
-
 Que mensagem deixa aos
 alunos...
 Como membro da Direcção da
@@ -470,4 +444,4 @@ que outras se abrirão.
 “Porque a melhor forma de prever o
 futuro é cria-lo”, sejam
 empreendedores. Eu cá estarei
-para os ajudar e felicitar.
+para os ajudar e felicitar.para os ajudar e felicitar.para os ajudar e felicitar.para os ajudar e felicitar.

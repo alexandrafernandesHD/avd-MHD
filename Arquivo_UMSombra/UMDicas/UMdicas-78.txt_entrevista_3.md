@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 78 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Pedro Póvoa
-Role: aluno do 2º ano de Psicologia
-Date: Não encontrado
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 78 - Ano 5
+university: Universidade do Minho
+interviewee: Pedro Póvoa
+role: aluno do 2º ano de Psicologia
+date: 27 de Fevereiro de 2010
+interviewer: Nuno Gonçalves
 ---
 
 Pedro Póvoa: O Olímpico da UMinho/titulo>
@@ -20,17 +20,14 @@ derrota em competições nacionais, que se salda por um igual número de
 títulos nacionais absolutos. Vamos então agora conhecer um pouco melhor
 este jovem lutador que é um exemplo de determinação, perseverança e
 espírito desportivo.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Com que idade iniciaste a
 prática do Taekwondo?
 Iniciei a prática do Taekwondo
 com 10 anos, no A.C.M na Rua
 José Falcão no Porto com o
 Instrutor Jorge Félix.
-
 Achas que o Taekwondo ajudou
 no teu desenvolvimento
 enquanto indivíduo?
@@ -51,7 +48,6 @@ branco ao cinturão negro até
 atingir um grau de controlo tanto
 físico como psicológico dessas
 técnicas.
-
 Qual foi o papel da tua família no
 teu percurso enquanto atleta de
 alta competição?
@@ -65,7 +61,6 @@ guardado um cobertor de quando
 era criança com todos os países
 em que se realizaram os Jogos
 Olímpicos.
-
 Quantas vezes treinas por
 semana, e quanto tempo?
 Treinamos mais ou menos 11
@@ -78,7 +73,6 @@ ciclos, mas normalmente
 treinamos de manhã das 6h30
 até ás 8h30 e à tarde das 17h30
 ás 19h30.
-
 A maneira como tu lidas com a
 pressão e a ansiedade antes
 dos combates é algo que tu
@@ -107,7 +101,6 @@ enfrentamos dentro do tatami e
 nos treinos é difícil de se separar
 de nós, pois já faz parte do nosso
 ser.
-
 Em 2008 foste o primeiro atleta
 português de taekwondo a
 par ticipar nuns Jogos
@@ -139,7 +132,6 @@ A minha vida dedicada à
 concretização destes
 objectivos, fez de mim uma
 pessoa mais forte.
-
 No Europeu Universitário de
 Taekwondo que a UMinho
 organi zou em Dezembro,
@@ -179,7 +171,6 @@ muito jovens como o José
 João “Ratão”. Só espero que eles
 cresçam cada vez mais, e que eu
 possa ajudar nesse processo.
-
 Para muitos atletas de alta
 competição torna-se difícil
 conciliar os estudos com a
@@ -215,7 +206,6 @@ da UMinho, Professor António
 Cunha, no intuito de ajudar e a
 incentivar os atletas de alta
 competição.
-
 A UMinho iniciou em Portugal um
 programa pioneiro no que diz
 respeito ao apoio aos atletas de
@@ -245,7 +235,6 @@ universidades estrangeiras com
 este tipo de iniciativas como
 Universidades Coreanas e
 Americanas.
-
 Em áreas já recebeste apoio
 através do TUTORUM?
 Mesmo antes de entrar na
@@ -273,7 +262,6 @@ Em minha extrema satisfação
 posso dizer que sinto que vivo
 num centro de alto rendimento
 de Taekwondo.
-
 Os teus objectivos pessoais
 passam por uma carreira
 profissional no taekwondo ou
@@ -287,4 +275,4 @@ momento só penso nisso, e no
 futuro também desejo ajudar
 esta equipa da Universidade
 tanto no Taekwondo como na
-Psicologia.
+Psicologia.Psicologia.Psicologia.Psicologia.

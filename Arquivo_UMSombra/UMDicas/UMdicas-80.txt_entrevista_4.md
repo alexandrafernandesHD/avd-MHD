@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 80 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Andreia Ferreira
-Role: Vice-presidente do Departamento Pedagógico AAUM
-Date: 21 de Abril de 2010
-Interviewer: José Carlos Bragança
+journal: UMdicas
+issue: Edição nº 80 - Ano 5
+university: Universidade do Minho
+interviewee: Andreia Ferreira
+role: Vice-presidente do Departamento Pedagógico AAUM
+date: 21 de Abril de 2010
+interviewer: José Carlos Bragança
 ---
 
 Andreia Ferreira: Vice-presidente do Departamento Pedagógico AAUM
@@ -17,10 +17,8 @@ Pedagógico, fala das iniciativas em curso e da ginástica necessária para
 conciliar o último ano do Mestrado Integrado em Engenharia Civil com o
 associativismo. Em 10 respostas percebe-se a existência dum objectivo
 prioritário: os alunos.
-
 José Carlos Bragança
 anac@sas.uminho.pt
-
 Neste ano lectivo quais têm sido
 os problemas/dúvidas mais
 frequentes, apresentados pelos
@@ -71,7 +69,6 @@ particular) os problemas de cada
 curso e de cada escola, porque
 existem problemas específicos de
 cada curso que são aí tratados.
-
 Recentemente o Departamento
 Pedagógico da AAUM levou a cabo
 uma formação Pedagógica para
@@ -110,12 +107,11 @@ encerramento, a Pró-Reitora da
 Universidade do Minho,
 professora Doutora Paula Cristina
 Martins, abordou uma outra
-temática de extrema importância:
+temática de extrema importância: 
 "O perfil do estudante
 universitário no modelo de
 Bolonha - competências e
 mediações".
-
 Qual o balanço dos 10 anos do
 Processo Bolonha?
 O processo de Bolonha apresenta
@@ -138,7 +134,6 @@ necessárias muitas mudanças
 por parte dos docentes, e também
 algum esforço por parte dos
 alunos.
-
 Acredita que o Dia do Estudante é
 ainda passa despercebido aos alunos
 minhotos?
@@ -161,7 +156,6 @@ estatutos que devem ter sempre
 presentes, de forma a conhecer
 os seus direitos (como exemplo o
 RIAPA).
-
 Considera o Departamento
 Pedagógico como um dos mais
 importantes dentro da estrutura
@@ -192,11 +186,9 @@ importantes, cada um dentro das
 suas especificidades até porque
 todas as actividades têm a sua
 importância.
-
 O que a motivou para ocupar a
 vice-presidência da AAUM com a
 pasta do Departamento
-Pedagógico?
 As questões de carácter
 pedagógico sempre me
 interessaram, mesmo quando
@@ -207,7 +199,6 @@ Rodrigues, não tive dúvidas que
 este seria o departamento que
 mais tinha a ver comigo até
 porque já fui delegada de turma.
-
 Como concilias carreira
 académica/profissional com o
 associativismo?
@@ -225,7 +216,6 @@ ver por exemplo o sucesso que a
 Formação Pedagógica teve, esses
 momentos compensam todo o
 esforço.
-
 O que pensa do associativismo
 no percurso de um estudante?
 Sem margem para dúvidas que o
@@ -244,7 +234,6 @@ se não fosse dirigente
 associativa. Também acredito que
 fiz e farei amigos que ficarão para
 a vida.
-
 Que mensagem deixa aos
 alunos...
 Trabalhamos todos os dias para
@@ -254,4 +243,4 @@ forma célere, contem sempre com
 a nossa disponibilidade. Os
 estudantes serão sempre a nossa
 prioridade. Espero que o ano corra
-da melhor forma a todos.
+da melhor forma a todos.da melhor forma a todos.da melhor forma a todos.da melhor forma a todos.

@@ -1,14 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 71 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Topic: Portal AlumniUM
-Role: responsável do projecto
-Date: 24 de Julho de 2009
-Title: Entrevista à Prof. Irene Montenegro, responsável pelo Projecto AlumniUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 71 - Ano 4
+university: Universidade do Minho
+interviewee: Prof. Irene Montenegro
+topic: Portal AlumniUM
+role: responsável do projecto
+date: 24 de Julho de 2009
+title: Entrevista à Prof. Irene Montenegro, responsável pelo Projecto AlumniUM
+interviewer: Ana Marques
 ---
+
 
 Entrevista à Prof. Irene Montenegro, responsável pelo Projecto AlumniUM
 Após a nomeação do Portal AlumniUM para o prémio de Boas
@@ -17,10 +18,8 @@ Processos - Ensino e Prémio Serviço ao Cidadão – Ensino”, o
 UMdicas esteve à conversa com a responsável do projecto, a Prof. Irene
 Montenegro para quem este reconhecimento espelha que o caminho
 escolhido para aproximação aos antigos estudantes foi o acertado
-
 Ana Marques
 anac@sas.uminho.pt
-
 O Portal AlumniUM foi nomeado
 para Prémio de Boas Práticas no
 Sector Público. O que significou
@@ -41,7 +40,6 @@ de que foi percorrido o caminho
 certo para a implementação de
 uma estratégia de aproximação
 aos antigos estudantes.
-
 O que os levou a concorrer?
 Foi a certeza de que estávamos
 em condições de, pelo menos,
@@ -49,7 +47,6 @@ conseguir a nomeação e,
 consequentemente, promover a
 divulgação do portal a novos
 públicos.
-
 O que pensa que foi
 determinante para este
 reconhecimento da parte do júri
@@ -68,7 +65,6 @@ antigos estudantes, no seu
 processo de desenvolvimento
 académico, profissional e
 sociocultural.
-
 Em poucas palavras como define
 o Portal AlumniUM?
 O portal Alumni UM é uma
@@ -87,7 +83,6 @@ mercado ; e favorecer a
 empr egabilidade dos seus
 diplomados, através do acesso a
 uma bolsa de emprego,
-
 Após um ano do seu lançamento
 (feito em Abril) qual o estado
 actual do projecto?
@@ -118,7 +113,6 @@ diplomados já se registaram no
 portal e a bolsa de emprego conta
 com o registo de cerca de 500
 empresas/instituições.
-
 Uma das funcionalidades do
 portal é o Observatório de
 emprego, assente num
@@ -139,7 +133,6 @@ Contudo, no momento presente, já
 conclusões quanto à
 empregabilidade de alguns
 cursos.
-
 Há alguma alteração/inovação a
 implementar futuramente ao
 portal?
@@ -154,4 +147,4 @@ do site. Estas sugestões estão
 actualmente a ser implementadas
 prevendo-se para muito breve
 melhorias significativas na sua
-gestão.
+gestão.gestão.gestão.gestão.

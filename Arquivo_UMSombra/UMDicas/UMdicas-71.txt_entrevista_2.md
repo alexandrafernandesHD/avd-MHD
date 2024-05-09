@@ -1,11 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 71 - Ano 4
-University: Universidade do Minho
-Interviewee(s): <assunto>responsáveis dos bares 1 e 2</assunto>
-Topic: responsáveis dos bares 1 e 2
-Date: 24 de Julho de 2009
-Title: Entrevista aos responsáveis dos bares 1 e 2
+journal: UMdicas
+issue: Edição nº 71 - Ano 4
+university: Universidade do Minho
+interviewee: responsáveis dos bares 1 e 2
+topic: responsáveis dos bares 1 e 2
+date: 24 de Julho de 2009
+title: Entrevista aos responsáveis dos bares 1 e 2
+interviewer: UMdicas
 ---
 
 Entrevista aos responsáveis dos bares 1 e 2
@@ -24,7 +25,6 @@ Sr. António- Sim, tenho um curso
 profissional de servente de mesa,
 bar e snack, a restante formação
 que tenho advém da prática do diaa-dia.
-
 Quais são as funções do
 responsável do bar?
 Sr. Sá- A função que exerço como
@@ -48,7 +48,6 @@ altura em que estamos, ver se o
 momento é propício ou não ao fluxo
 de pessoas aos bares, para ver o
 que é necessário em cada dia.
-
 Quais são as maiores
 dificuldades com que se depara
 no dia-a-dia a nível da gestão do
@@ -66,4 +65,4 @@ não haja excessos nem faltas de
 material face aos clientes que
 temos. Mas tenho uma equipa
 fantástica e por isso a gestão do
-bar torna-se muito mais fácil.
+bar torna-se muito mais fácil.bar torna-se muito mais fácil.bar torna-se muito mais fácil.bar torna-se muito mais fácil.

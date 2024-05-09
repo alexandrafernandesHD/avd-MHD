@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 82 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Ana Paula Machado
-Date: 23 de Junho de 2010
-Title: Sector de Bolsas dos SASUM
-Interviewer: Ana MArques
+journal: UMdicas
+issue: Edição nº 82 - Ano 5
+university: Universidade do Minho
+interviewee: Ana Paula Machado
+date: 23 de Junho de 2010
+title: Sector de Bolsas dos SASUM
+interviewer: Ana Marques
 ---
 
 Sector de Bolsas dos SASUM
@@ -17,10 +17,8 @@ Tendo como principal função, a atribuição do apoio social directo - bolsa de
 estudo aos estudantes economicamente carenciados. O UMdicas esteve à
 conversa com a responsável para saber mais pormenores sobre o SB, como
 é o seu dia-a-dia, como está organizado e seu papel no seio dos SASUM.
-
-Ana MArques
+Ana Marques
 anac@sas.uminho.pt
-
 O que significa para si trabalhar
 neste sector e nos SASUM?
 Trabalhar nos SASUM e no sector
@@ -41,7 +39,6 @@ concessão de benefícios sociais,
 pr omo vendo u ma efec ti v a
 igualdade de oportunidades no
 sucesso escolar.
-
 Como está organizado este
 sector?
 O sector de bolsas é composto pelo
@@ -55,7 +52,6 @@ responsável e quatro funcionários
 administrativos. Esta estrutura
 depende directamente do
 Departamento Social.
-
 Qual a função e importância
 deste sector no seio dos SASUM?
 Configurando o objectivo dos
@@ -77,9 +73,7 @@ que permitam a normal
 prossecução dos estudos em
 contexto de estabilidade
 económica.
-
 Quais os principais objectivos do
-sector?
 Cumprir o estipulado no
 Regulamento de atribuição de
 bolsas de estudo e Regras
@@ -100,7 +94,6 @@ dias subsequentes às matrículas e
 responder aos requerimentos
 apresentados pelos alunos com
 celeridade.
-
 Qual o modo de funcionamento?
 O funcionamento do sector de
 bolsas implica um conjunto de
@@ -125,7 +118,6 @@ dados referentes às situações
 académicas e socioeconómicas e
 no pagamento mensal das bolsas
 de estudo.
-
 Ser responsável por este sector é
 um desafio?
 É um desafio constante ser
@@ -138,7 +130,6 @@ processo de atribuição de bolsas;
 este é um processo que envolve
 actualmente 7201 candidaturas a
 bolsa e 5545 bolseiros.
-
 Quais são as tarefas diárias do
 responsável do sector?
 As tarefas diárias do responsável
@@ -162,7 +153,6 @@ ao Administrador e à Tutela; à
 resposta célere às
 solicitações/questões dirigidas ao
 sector.
-
 Quais as principais dificuldades
 que encontra no desenvolvimento do seu
 trabalho?
@@ -171,7 +161,6 @@ prendem-se com os seguintes
 factores: Falta de uniformização, a
 nível nacional, das regras técnicas
 necessárias à aplicação do
-Regulamento de atribuição de
 bolsas de estudo; Falta de consulta
 das informações constantes nos
 Avisos publicados pelos SASUM,
@@ -188,7 +177,6 @@ colmatadas ou atenuadas graças
 ao empenho e dedicação de toda a
 equipa do sector de bolsas de
 estudo.
-
 Quantas pessoas trabalham
 neste sector?
 Neste sector trabalham onze
@@ -197,4 +185,4 @@ Augusta Duarte, Dora Sousa, Dulce
 Rodrigues, Fernanda Pereira,
 Isabel Baião, Inês Moura, Sandra
 Martins, Susana Miranda, Susana
-Teixeira e Teresa Rios.
+Teixeira e Teresa Rios.Teixeira e Teresa Rios.Teixeira e Teresa Rios.Teixeira e Teresa Rios.

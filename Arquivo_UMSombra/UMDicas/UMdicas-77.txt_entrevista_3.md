@@ -1,14 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 77 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Luís Miguel Rodrigues
-Topic: direcção da AAUM
-Role: presidente da AAUM
-Date: 04 de Fevereiro de 2010
-Title: Entrevista com Luís Rodrigues recentemente eleito Presidente da AAUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 77 - Ano 5
+university: Universidade do Minho
+interviewee: Luís Miguel Rodrigues
+topic: direcção da AAUM
+role: presidente da AAUM
+date: 04 de Fevereiro de 2010
+title: Entrevista com Luís Rodrigues recentemente eleito Presidente da AAUM
+interviewer: Ana Marques
 ---
+
 
 Entrevista com Luís Rodrigues recentemente eleito Presidente da AAUM
 Luís Miguel Rodrigues encabeçou a lista A nas últimas eleições à
@@ -16,10 +17,8 @@ direcção da AAUM, as quais venceu por maioria, não deixando
 margem para dúvidas na preferência dos estudantes. O novo
 presidente da AAUM tomou posse no passado dia 15 de Janeiro e estará à
 frente dos destinos da AAUM durante o ano que agora iniciou.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Aluno do mestrado em Jornalismo
 é dirigente associativo há três
 anos. Tendo dirigido o
@@ -31,7 +30,6 @@ Rodrigues é também um dos
 quatro representantes dos alunos
 no Conselho Geral da Universidade
 do Minho.
-
 Ser presidente da AAUM era um
 sonho ou algo que aconteceu por
 acaso?
@@ -45,7 +43,6 @@ três anos e indo de encontro às
 expectativas das pessoas e das
 equipas com quem fui
 trabalhando.
-
 O que te levou a apresentar a
 candidatura?
 Os estudantes, a
@@ -65,13 +62,11 @@ objectivos, significaram para mim
 factores extraordinários para me
 apresentar como candidato a
 presidente da AAUM.
-
 O que significa para ti ser
 Presidente da AAUM?
 Acima de tudo, uma
 responsabilidade e um
 desafio.
-
 Quais as linhas orientadoras que
 propões para dirigir a AAUM?
 A AAUM tem-se distinguido a vários
@@ -99,7 +94,6 @@ desenvolvimento de práticas
 culturais no seio da academia são
 alguns dos vectores por onde nos
 pretendemos guiar.
-
 Que inovações pretendem incutir
 no seio da AAUM?
 A criação de um Gabinete do
@@ -108,7 +102,6 @@ Departamento de Apoio a Núcleos,
 são duas das novidades das quais
 – a breve trecho – pretendemos
 ver resultados efectivos.
-
 Já era dirigente associativo há
 três anos. Quais as maiores
 dificuldades que encontraste no
@@ -121,7 +114,6 @@ do curso, mas com algum espírito
 de sacrifício e com uma boa
 gestão do tempo, consegue-se
 encontrar o equilíbrio necessário
-
 Na tua opinião quais devem ser as
 atitudes fundamentais do
 Presidente de uma Associação
@@ -134,7 +126,6 @@ ouvir os seus colegas.
 Só assim, pode
 responder às suas
 necessidades.
-
 Pensas que este percurso de
 dirigente associativo será
 relevante para a tua formação
@@ -148,7 +139,6 @@ mercado de trabalho mas,
 fundamentalmente, incutindo
 valores e conferindo experiências
 que marcam qualquer indivíduo.
-
 Este trajecto será fundamental
 para os teus projectos futuros?
 Não necessariamente.
@@ -162,12 +152,10 @@ depende dele o meu
 futuro. O jornalismo
 continua a ser o meu
 projecto futuro.
-
 A área política é uma meta?
 Enquanto representar estudantes,
 a área política numa lógica
 partidária nunca será uma meta.
-
 Falaste no decorrer da campanha
 que esta seria uma direcção de
 continuidade. Em que aspectos?
@@ -184,7 +172,6 @@ direcção renovada, pois conta com
 vários elementos novos
 (delegados, dirigentes de núcleos,
 colaboradores…).
-
 Uma das apostas feitas foi uma
 política de aproximação aos
 estudantes. Como é que isso será
@@ -214,7 +201,6 @@ optimizar algumas plataformas
 como a AAUMTV, o Site
 www.aaum.pt e a comunicação
 através das redes sociais.
-
 Foi anunciada a criação do
 Gabinete do Empreendedor. Qual
 será a função deste e de que
@@ -230,7 +216,6 @@ necessárias para que possam
 capitalizar os seus projectos e
 competências adquiridas ao longo
 do percurso académico.
-
 Este ano houve um aumento de
 16 milhões de euros para as
 bolsas de estudo, anunciado pelo
@@ -245,7 +230,6 @@ precisam, e isso prova-o o estudo
 encomendado pela AAUM sobre o
 custo de vida de um estudante na
 Universidade Minho.
-
 Quanto ao reforço de cem milhões
 de euros no financiamento das
 universidades e politécnicos
@@ -259,7 +243,6 @@ despesas, penalizaram
 sucessivamente os seus
 estudantes. É altura de se repor
 alguma justiça social.
-
 A AAUM já há muito ambiciona vir a
 ter uma nova sede. Prevês o seu
 lançamento para o teu mandato?
@@ -280,7 +263,6 @@ parceria com a reitoria
 a curto prazo se
 consiga materializar
 esta prioridade.
-
 Qual a tua opinião em relação à
 actual Reitoria?
 A Associação Académica sempre
@@ -296,4 +278,4 @@ responsável e com um sentido
 institucional muito forte, que não
 só defenderá os interesses dos
 estudantes, como da
-Universidade.
+Universidade.Universidade.Universidade.Universidade.

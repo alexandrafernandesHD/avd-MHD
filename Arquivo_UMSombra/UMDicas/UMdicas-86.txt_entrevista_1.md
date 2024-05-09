@@ -1,14 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 86 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Graciete Dias
-Topic: Entrevista Vice-Reitora Graciete Dias
-Role: Vice-reitora para a Qualidade, Avaliação e Ética Académica
-Date: 29 de Novembrode 2010
-Title: Entrevista Vice-Reitora Graciete Dias
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 86 - Ano 5
+university: Universidade do Minho
+interviewee: Graciete Dias
+topic: Entrevista Vice-Reitora Graciete Dias
+role: Vice-reitora para a Qualidade, Avaliação e Ética Académica
+date: 29 de Novembrode 2010
+title: Entrevista Vice-Reitora Graciete Dias
+interviewer: Ana Marques
 ---
+
 
 Entrevista Vice-Reitora Graciete Dias 
 Vice-reitora para a Qualidade, Avaliação e Ética Académica,
@@ -19,10 +20,8 @@ pela Universidade de Lourenço Marques (Moçambique) e pela UMinho
 respectivamente. Realizou Provas de Agregação em 2004 na Universidade
 do Minho. Exerceu as funções de Presidente da Escola de Ciências de Maio
 de 2006 a Outubro de 2009, fazendo actualmente parte da equipa reitoral.
-
 Ana Marques
 anac@sas.uminho.pt
-
 É Vice-Reitora para a Qualidade,
 Avaliação e Ética Académica.
 Qual é a essência desta pasta?
@@ -39,7 +38,6 @@ neste vector que se enquadram as
 competências e
 responsabilidades do pelouro a
 meu cargo.
-
 Quais são os principais
 objectivos do pelouro que lidera
 até 2013?
@@ -72,7 +70,6 @@ designadamente os Serviços para
 a Garantia da Qualidade e o
 Gabinete para a Inclusão, que
 coordeno.
-
 Quais os projectos a nível de
 Qualidade, mais importantes a
 curto/médio prazo?
@@ -113,7 +110,6 @@ Comissão de Acompanhamento
 que é responsável pela
 coordenação estratégica e meta-
 avaliação do SIGAQ-UM.
-
 O SIGAQ-UM já foi implementado e
 certificado?
 Está a ser
@@ -136,7 +132,6 @@ e Acreditação do Ensino Superior
 (A3ES), dependente
 naturalmente do calendário da
 Agência.
-
 Quais as principais mudanças
 que a implementação do sistema
 de qualidade irá trazer a nível do
@@ -173,7 +168,6 @@ inquéritos on-line e a preparação
 on-line de relatórios, será
 supor tada pelo Sistema de
 Informação do SIGAQ-UM.
-
 Que resultados se podem retirar
 da monitorização da qualidade do
 ensino? O que podem esperar
@@ -220,7 +214,6 @@ e sistemática, a
 qualidade do ensino e
 actuar no sentido da
 sua melhoria contínua.
-
 A publicitação das práticas de
 mérito tem sido feita? De que
 forma?
@@ -232,7 +225,6 @@ sugestões apresentadas nos
 relatórios de auto-avaliação dos
 cursos e informação
 complementar relevante, a
-Comissão de Acompanhamento
 do SIGAQ - UM promover á a
 elaboração e actualização
 periódica de um portefólio de
@@ -244,7 +236,6 @@ portefólio será amplamente
 difundido. As primeiras jornadas
 com e s te objecti vo e s t ã o
 previstas para Maio de 2011.
-
 Projecto AlumniUM. Qual o estado
 ou desenvol vimento deste
 projecto? Quais as suas
@@ -280,14 +271,12 @@ portal encontra-se o observatório
 de emprego, a bolsa de emprego e
 a divulgação/acesso a ofertas de
 formação.
-
 A procura e utilização do portal
 têm ido de encontro às
 expectativas?
 Neste momento, temos
 registados no por tal 5273
 graduados e 728 empresas. Foram
-
 “Gerar
 conhecimento é
 um factor decisivo
@@ -297,7 +286,6 @@ procura de novas
 formas de
 interacção com a
 sociedade”
-
 colocadas 823 ofertas e
 registaram-se 2913 candidaturas.
 O projecto deu os seus primeiros
@@ -312,7 +300,6 @@ temos tido uma boa adesão por
 parte das empresas. Estamos a
 desenvolver estratégias para
 cativar o registo dos graduados.
-
 Uma das funcionalidades do
 portal é o observatório de
 emprego. Já foi possível reunir
@@ -323,7 +310,6 @@ Universidade?
 Está presentemente em curso a
 elaboração do primeiro relatório
 com os dados obtidos.
-
 A UMinho tem conseguido uma
 evolução admirável a nível da
 investigação nos últimos anos.
@@ -358,7 +344,6 @@ diferenciação do ensino
 e na procura de novas
 formas de interacção
 com a sociedade.
-
 A avaliação do desempenho dos
 docentes já foi implementada?
 Como está ou será consumada?
@@ -390,7 +375,6 @@ as vertentes
 Investigação, Ensino,
 Extensão e Gestão
 Universitária.
-
 Quanto à avaliação externa
 periódica. Quais têm sido os
 resultados da Academia?
@@ -411,7 +395,6 @@ cusos junto das A3ES. Os
 resultados constarão de relatório
 que iremos elaborar e divulgar
 após conclusão deste processo.
-
 O que tem sido feito com vista à
 promoção e observância de
 padrões éticos na Instituição?
@@ -432,13 +415,11 @@ ano, a elaboração de um Código de
 Conduta Académica, visando a sua
 adopção como prática de
 referência na academia.
-
-O que tem sido feito com vista à
 melhoria da capacidade de
 intervenção do Gabinete para a
 Inclusão?
 Destaco as seguintes iniciativas,
-desenvolvidas em 2010:
+desenvolvidas em 2010: 
 redefinição do público-alvo e
 competências do GPI (ex-GAED);
 inclusão do GPI, como unidade de
@@ -456,4 +437,4 @@ deficiência ou necessidades
 especiais; o manual de boas
 práticas para a inclusão na
 UMinho, dirigido à comunidade
-académica.
+académica.académica.académica.académica.

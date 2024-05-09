@@ -1,13 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 76 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Topic: direcção da AAUM
-Role: presidente da Direcção da AAUM
-Date: 3 de Janeirode 2010
-Title: Lista A vence eleição para a Direcção da AAUM
-Interviewer: José Carlos Bragança
+journal: UMdicas
+issue: Edição nº 76 - Ano 4
+university: Universidade do Minho
+interviewee: Luís Rodrigues
+topic: direcção da AAUM
+role: presidente da Direcção da AAUM
+date: 3 de Janeirode 2010
+title: Lista A vence eleição para a Direcção da AAUM
+interviewer: José Carlos Bragança
 ---
 
 Lista A vence eleição para a Direcção da AAUM
@@ -17,10 +17,8 @@ eleitoral de 10 de Dezembro. Uma eleição que ditou Luís
 Rodrigues (A) como o novo presidente da Direcção da AAUM, Sérgio Moura
 (D) na mesa da RGA e Iolando Sequeira (G) no Concelho Fiscal e
 Jurisdicional.
-
 José Carlos Bragança
 dicas@sas.uminho.pt
-
 Que ninguém esqueça este
 número: 84,4%. É o valor alcançado
 nas urnas pela lista A encabeçada
@@ -63,7 +61,7 @@ lista B de Eduardo Velosa e anexa
 ao movimento AGIR encaixou
 10,49% das preferências em urna.
 Sobre os resultados Eduardo
-Velosa mostrou-se satisfeito:
+Velosa mostrou-se satisfeito: 
 “estamos muito satisfeitos.
 Aumentamos a percentagem e o
 número de votos em relação ao
@@ -157,4 +155,4 @@ percentuais que nos dois últimos
 anos. Os actos eleitorais de
 escolha dos órgãos sociais da
 AAUM são cada vez menos
-concorridos.
+concorridos.concorridos.concorridos.concorridos.

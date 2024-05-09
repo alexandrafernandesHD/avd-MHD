@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 79 - Ano 5
-University: Universidade do Minho
-Interviewee(s):  Carlos Vieira
-Topic: pormenores sobre o SFM
-Date: 25 de Março de 2010
-Title: Fiscalização e Manutenção dos SASUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 79 - Ano 5
+university: Universidade do Minho
+interviewee:  Carlos Vieira
+topic: pormenores sobre o SFM
+date: 25 de Março de 2010
+title: Fiscalização e Manutenção dos SASUM
+interviewer: Ana Marques
 ---
+
 
 Fiscalização e Manutenção dos SASUM
  Carlos Vieira é o responsável do Sector de Fiscalização e
@@ -17,24 +18,20 @@ no Gabinete do Administrador, sendo constituído por uma equipa de quatro
 elementos. Tendo como principal função a gestão da manutenção dos
 equipamentos dos vários Departamentos afectos aos SASUM bem como a
 fiscalização de empreitadas.
-
 Ana Marques
 anac@sas.uminho.pt
-
 O UMdicas esteve à conversa com
 o responsável para saber mais
 pormenores sobre o SFM, como é o
 seu dia-a-dia, como está
 organizado e seu papel no seio dos
 SASUM.
-
 Qual a sua área de formação?
 Sempre estive ligado à área da
 construção civil, quer na
 elaboração de projectos, quer
 orçamentação e fiscalização de
 obras.
-
 Esteve sempre na área da
 Fiscalização e Manutenção?
 Sim. Numa primeira fase, estive a
@@ -55,7 +52,6 @@ Fiscalização e Manutenção, que
 veio aliar a fiscalização à
 manutenção das infra-estruturas
 e equipamentos.
-
 O que significa para si trabalhar
 neste sector e nos SASUM?
 É gratificante saber que todos os
@@ -70,7 +66,6 @@ desenvolvimento e o crescimento
 dos SASUM. É por isso normal, que
 neste momento, sinta orgulho em
 fazer parte desta grande equipa.
-
 Como está organizado este
 sector?
 Neste momento, o sector é
@@ -95,7 +90,6 @@ pelo esforço, dedicação e
 empenho demonstrado nas
 tarefas individuais que
 diariamente desenvolvem.
-
 Qual a função e importância
 deste sector no seio dos SASUM?
 O sector tem como função, a
@@ -120,7 +114,6 @@ supervisionadas directamente
 pelo sector. Assim, se demonstra a
 importância transversal do sector
 na organização.
-
 Quais os principais objectivos
 deste sector?
 Coadjuvar o administrador na
@@ -132,7 +125,6 @@ estabelecidas para os objectivos
 traçados, nomeadamente no
 tempo de resposta e realização
 dos pedidos de manutenção,
-
 Qual o modo de funcionamento?
 O sector está focalizado em duas
 vertentes. A primeira está
@@ -173,7 +165,6 @@ que se desenvolve a programação
 anual das actividades preventivas
 estabelecidas, para todos os
 departamentos.
-
 Ser responsável por este sector é
 um desafio?
 Sim! É um desafio ao saber, ao
@@ -181,7 +172,6 @@ desenvolvimento, à experiencia, à
 inovação, temos de estar sempre
 na linha da frente para tentar
 antecipar futuro.
-
 Quais são as tarefas diárias do
 responsável do sector?
 A gestão de tarefas dos recursos
@@ -197,16 +187,14 @@ como membro da Equipa de
 Segurança Alimentar (ESA),
 colaborar no acompanhamento
 das unidades alimentares.
-
 Quais as principais dificuldades
 que encontra no desenvolvimento do seu
 trabalho?
 Na conjuntura actual, sem dúvida
 a contenção financeira a que os
 serviços públicos estão sujeitos.
-
 Quantas pessoas trabalham
 neste sector?
 Somos 4! A Nicole Campos, o
 Miguel Alves e o Marco Monteiro e
-eu como responsável.
+eu como responsável.eu como responsável.eu como responsável.eu como responsável.

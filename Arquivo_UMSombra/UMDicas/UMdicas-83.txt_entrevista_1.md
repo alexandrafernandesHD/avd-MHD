@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 83 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Pedro Miguel Dias
-Topic: pormenores sobre o GTD
-Date: 18 de Julho de 2010
-Title: Sector de Gestão Técnica e Desportiva do DDC
-Interviewer: Ana MArques
+journal: UMdicas
+issue: Edição nº 83 - Ano 5
+university: Universidade do Minho
+interviewee: Pedro Miguel Dias
+topic: pormenores sobre o GTD
+date: 18 de Julho de 2010
+title: Sector de Gestão Técnica e Desportiva do DDC
+interviewer: Ana Marques
 ---
 
 Sector de Gestão Técnica e Desportiva do DDC
@@ -20,10 +20,8 @@ principal responsabilidade, desenvolver e implementar a oferta de
 actividades desportivas disponibilizada à comunidade académica pelos
 SASUM através do DDC.O UMdicas esteve à conversa com o responsável
 para saber mais pormenores sobre o GTD.
-
-Ana MArques
+Ana Marques
 anac@sas.uminho.pt
-
 Esteve sempre na área da Gestão
 Técnica e Desportiva?
 Sim, iniciei a minha carreira
@@ -33,7 +31,6 @@ despor ti v a e gest ã o das
 instalações entre 1995 e 1998, em
 1998 ingressei nos SASUM, até
 hoje.
-
 O que significa para si trabalhar
 nesta área?
 O Desporto teve um espaço muito
@@ -102,7 +99,7 @@ desportivo que é uma referência a
 nível nacional e internacional. Este
 facto está intrinsecamente
 relacionado com 4 aspectos
-fundamentais:
+fundamentais: 
 A aposta estratégica da UMinho,
 considerando o Desporto uma
 área estratégica de
@@ -155,7 +152,6 @@ r efer ê n cias i nternaciona i s
 números, estão muito afastados
 dos indicadores e índices
 naturais.
-
 Como está organizado o Sector da
 Gestão Técnica e Desportiva?
 O Sector de Gestão Técnica e
@@ -174,7 +170,6 @@ composta pelos gabinetes de
 competição e recreação
 desportiva, serviços desportivos e
 eventos desportivos.
-
 Qual a função e importância
 deste sector no seio do
 Departamento Desportivo e
@@ -186,43 +181,32 @@ implementar oferta de
 actividades disponibilizada à
 comunidade académica pelos
 SASUM através do DDC.
-
 Quais os principais objectivos do
 sector?
 Os principais objectivos de gestão
-do sector são:
-l
-Aumentar em 20% o número de
+do sector são: 
+-Aumentar em 20% o número de
 usos das actividades de ritmo;
-l
-Aumentar em 5% o número de
+-Aumentar em 5% o número de
 usos das Instalações Desportivas;
-l
-Aumentar em 5% o número de
 usos na musculação e cardio
 fitness;
-l
-Aumentar em 60% o número de
+-Aumentar em 60% o número de
 usos do Campo de Práticas de
 Golfe;
-l
-Organizar e promover a
+-Organizar e promover a
 organização de 125 eventos
 desportivos;
-l
-Promover a inscrição de 9.000
+-Promover a inscrição de 9.000
 utentes nos serviços desportivos;
-l
-Promover a realização de
+-Promover a realização de
 230.000 usos nas instalações
 desportivas;
-l
-Promover os resultados
+-Promover os resultados
 desportivos de excelência de
 modo a alcançar 49 medalhas nos
 Campeonatos nacionais
 Universitários.
-
 Qual o modo de funcionamento?
 O modo de funcionamento do
 sector está intrinsecamente
@@ -242,7 +226,6 @@ responsabilidades estão
 distribuídas, realizam-se reuniões
 periódicas, com frequência
 mínima quinzenal.
-
 Ser responsável por este sector é
 um desafio?
 É um desafio muito interessante e
@@ -252,7 +235,6 @@ dedicação dos colaboradores do
 DDC é indescritível, é um factor
 crítico para o sucesso do sector e
 departamento.
-
 Quais são as tarefas diárias do
 responsável do sector?
 O responsável do sector tem de
@@ -261,79 +243,59 @@ e assegurar que as competências
 que lhe estão cometidas são
 realizadas.
 Ao sector de Gestão Técnica e
-Desportiva compete:
-l
-Supervisionar e gerir as
+Desportiva compete: 
+-Supervisionar e gerir as
 instalações desportivas;
-l
-Garantir o cumprimento das
+-Garantir o cumprimento das
 normas legais e de qualidade para
 os equipamentos desportivos,
 materiais e sistemas de apoio à
 prática desportiva;
-l
-Garantir o cumprimento do
+-Garantir o cumprimento do
 regulamento de utilização de
-instalações desportivas;
-l
-Propor alterações aos
+-Propor alterações aos
 regulamentos em vigor;
-l
-Elaborar os mapas estatísticos
+-Elaborar os mapas estatísticos
 mensais, semestrais e anuais de
 usos e ocupação das instalações e
 actividades desportivas;
-l
-Participar nos inventários de
+-Participar nos inventários de
 bens das instalações e
 contabilizar as existências, em
 articulação com o DAF;
-l
-Arrecadar as receitas dos
+-Arrecadar as receitas dos
 serviços desportivos e apresentar
 as receitas diárias ao DAF;
-l
-Assegurar o secretariado e as
+-Assegurar o secretariado e as
 funções de atendimento ao
 público;
-l
-Garantir a manutenção e
+-Garantir a manutenção e
 limpeza dos espaços,
 equipamentos e materiais
-desportivos;
-l
-Planear e gerir a oferta das
-actividades desportivas;
-l
-Planear e coordenar a
+-Planear e gerir a oferta das
+-Planear e coordenar a
 competição desportiva
 universitária;
-
-l
-Promover a celebração de
+-Promover a celebração de
 protocolos com entidades
 externas no âmbito da oferta
 formativa e de desenvolvimento
 desportivo;
-l
-Organizar os eventos
+-Organizar os eventos
 despor tivos de carácter
 compe titi vo e r ecr eati vo
 intramuros, de carácter nacional e
 internacional;
-l
-Manter actualizado o sistema de
+-Manter actualizado o sistema de
 informação dos estudantes com
 estatuto de estudante atleta e
 elegíveis para efeitos de
 suplemento ao diploma no âmbito
 da actividade desportiva;
-l
-Apoiar a implementação do
+-Apoiar a implementação do
 programa de acompanhamento
 tutorial aos estudantes/atletas de
 alto rendimento desportivo.
-
 Quais as principais dificuldades
 que encontra no
 desenvolvimento do seu
@@ -357,27 +319,23 @@ melhoria dos indicadores de
 gestão financeira do DDC, através
 do aumento da capacidade de auto
 financiamento.
-
 Quantas pessoas trabalham
 neste sector?
-O Sector de Gestão Técnica e
 Desportiva é composto por 39
 colaboradores (45% em regime de
 tempo parcial). Na área de
 instalações desportivas temos 15
 colaboradores, distribuídos pela
-gestão e manutenção das
 instalações e secretariado. Na
 área de actividades desportivas
 temos 24 colaboradores
 distribuídos competição e
 recreação desportiva, serviços
 desportivos e eventos desportivos
-
 Como é liderar esta equipa?
 É excepcional, a dedicação dos
 colaboradores do DDC é
 indescritível, considero que este é
 o principal factor crítico de
 sucesso do sector e
-departamento.
+departamento.departamento.departamento.departamento.

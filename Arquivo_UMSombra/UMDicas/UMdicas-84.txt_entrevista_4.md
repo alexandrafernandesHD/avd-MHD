@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 84 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Ana Gabriela Macedo
-Topic: Festival de Outono
-Date: 14 de Setembro de 2010
-Title: FESTIVAL DE OUTONO PROMOVE CULTURA
-Interviewer: João Nogueira Dias
+journal: UMdicas
+issue: Edição nº 84 - Ano 5
+university: Universidade do Minho
+interviewee: Ana Gabriela Macedo
+topic: Festival de Outono
+date: 14 de Setembro de 2010
+title: FESTIVAL DE OUTONO PROMOVE CULTURA
+interviewer: João Nogueira Dias
 ---
 
 FESTIVAL DE OUTONO PROMOVE CULTURA
@@ -17,10 +17,8 @@ Estabelecer pontes entre a Academia e as cidades que a acolhem
 vai ser mostrado não é novo, será apenas condensado num festival.
 “Concentrar para evidenciar, fazer mais e melhor” são as ideias-chave do
 Conselho Cultural da UMinho, para promover a cultura.
-
 João Nogueira Dias
 dicas@sas.uminho.pt
-
 Irá decorrer, entre os dias 29 de
 Setembro e 2 de Outubro, o
 Festival de Outono, organizado
@@ -90,7 +88,6 @@ aos novos alunos. Uma feira do
 livro académico procurará ainda
 divulgar a produção científica da
 universidade.
-
 Ana Gabriela Macedo, presidente
 do Conselho Cultural da
 Universidade do Minho, aceitou
@@ -98,7 +95,6 @@ responder a algumas questões
 colocadas pelo UMDicas,
 traçando assim as ideias-chave
 deste festival.
-
 O que espera deste evento?
 Pretendemos atrair e sensibilizar
 os estudantes da UM, sobretudo
@@ -151,7 +147,6 @@ também como um tubo de ensaio.
 Dos seus resultados e da adesão
 que vier a ter, tiraremos as ilações
 necessárias.
-
 O festival está aberto ao público
 em geral?
 Claramente. A consciência não
@@ -186,7 +181,6 @@ a decorrer nas duas cidades. São
 iniciativas abertas ao público,
 ta nto de B raga c omo de
 Guimarães.
-
 Os grupos culturais também
 serão promovidos?
 A Associação de Estudantes tem
@@ -211,7 +205,6 @@ Setembro e, portanto, no Outono,
 tem mais um intuito primaveril, de
 renovação, do que propriamente
 outonal.
-
 Um bom motivo para que ninguém
 falte?
 Convido todos os alunos a
@@ -248,4 +241,4 @@ mais novos, será mais uma forma
 de integração. Para os mais
 velhos, poderá ser uma forma de
 redescobrir Braga e Guimarães. A
-não perder, portanto.
+não perder, portanto.não perder, portanto.não perder, portanto.não perder, portanto.

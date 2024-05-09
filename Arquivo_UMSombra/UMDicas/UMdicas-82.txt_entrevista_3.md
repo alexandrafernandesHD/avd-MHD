@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 82 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Estelita Rodrigues Vaz
-Role: presidente da Escola
-Date: 23 de Junho de 2010
-Title: “A qualidade da investigação é o nosso emblema”
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 82 - Ano 5
+university: Universidade do Minho
+interviewee: Estelita Rodrigues Vaz
+role: presidente da Escola
+date: 23 de Junho de 2010
+title: “A qualidade da investigação é o nosso emblema”
+interviewer: Ana Marques
 ---
+
 
 “A qualidade da investigação é o nosso emblema”
 Estelita Rodrigues Vaz, é professora catedrática do
@@ -17,10 +18,8 @@ posse do cargo a 8 de Fevereiro 2010, a actual presidente da Escola
 considera que esta é uma função muito “abrangente e diversificada”.
 Sendo preciso ter muitos “braços” para poder ter capacidade de resposta
 em tantas áreas diferentes e complementares.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Como caracteriza a função do
 Presidente de Escola?
 Todos os dias descubro novas
@@ -39,7 +38,6 @@ constituição dos órgãos de
 governo da Escola e suas
 subunidades - os departamentos e
 os centros de investigação.
-
 É um desafio ser presidente de
 uma escola com a dimensão da
 Escola de Ciências?
@@ -67,7 +65,6 @@ a apostar em temas tão actuais
 como biofísica , materiais
 inteligentes, ambiente, sem
 esquecer as nanociências.
-
 Quais são na sua opinião os
 pontos fortes da escola de
 Ciências?
@@ -98,7 +95,6 @@ investigação quer no que respeita
 à mobilidade de docentes e
 alunos, bem como as
 colaborações com outras Escolas.
-
 Se tivesse de escolher um destes
 pontos fortes como o mais
 importante, aquele que melhor
@@ -110,7 +106,6 @@ de investigação. Entendo que esta
 vertente é fundamental, uma vez
 que dela decorre a qualidade das
 restantes áreas de intervenção.
-
 E os pontos fracos?
 Os pontos fracos são
 essencialmente dificuldades de
@@ -152,7 +147,6 @@ novas áreas continua
 condicionado pela tutela ao
 encerramento de cursos já
 existentes.
-
 Qual tem sido a evolução da
 Escola no decorrer deste anos? O
 que na sua opinião mais a tem
@@ -178,7 +172,6 @@ frequentando cursos de mestrado
 e doutoramento, ficando assim
 com uma melhor preparação para
 integrar o mercado de trabalho.
-
 O que a caracteriza relativamente
 às outras escolas/faculdades do
 país?
@@ -194,13 +187,11 @@ ensino pouco “tradicional” no
 sentido em que favorece a
 proximidade entre docentes e
 alunos.
-
 Estes elementos diferenciadores
 serão motivos suficientes para
 que os alunos escolham a Escola
 de Ciências da UMinho?
 Acreditamos que sim!
-
 O que podem esperar os nossos
 estudantes da Escola de
 Ciências, em termos de qualidade
@@ -217,7 +208,6 @@ ensino fortemente orientado para
 o desenvolvimento de
 competências por parte dos
 alunos está presente na Escola.
-
 A escola, como a própria
 Universidade tem sofrido
 alterações a vários níveis nos
@@ -256,7 +246,6 @@ aprofundada, envolvendo os seu
 Centros de Investigação e os seus
 Departamentos, que está já a
 decorrer.
-
 Números de docentes e
 funcionários da Escola a
 trabalhar a tempo integral?
@@ -267,4 +256,4 @@ termos de funcionários no total
 dos 7 centros de investigação, 5
 departamentos e serviços da
 Presidência perfazem um total de
-48.
+48.48.48.48.

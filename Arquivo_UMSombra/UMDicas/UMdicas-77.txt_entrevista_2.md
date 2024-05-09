@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 77 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Jorge Castro
-Topic: canoagem
-Date: 04 de Fevereiro de 2010
-Title: Jorge Castro, o homem do leme
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 77 - Ano 5
+university: Universidade do Minho
+interviewee: Jorge Castro
+topic: canoagem
+date: 04 de Fevereiro de 2010
+title: Jorge Castro, o homem do leme
+interviewer: Nuno Gonçalves
 ---
 
 Jorge Castro, o homem do leme
@@ -18,10 +18,8 @@ internacionais a conquista de uma medalha de prata em K2 (1000m) no
 Campeonato Europeu de Juniores de 2007 e o 1º lugar em K4 (500m) no
 Festival Olímpico da Juventude Europeia. Vamos então conhecer um pouco
 melhor este estudante atleta TUTORUM.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Com que idade iniciaste a prática
 competitiva da canoagem e
 onde?
@@ -30,7 +28,6 @@ A praticar canoagem comecei com
 nível competitivo, foi aos 13 anos a
 nível nacional e aos 15 anos a nível
 internacional.
-
 O facto de teres nascido nos
 Açores foi importante no teu
 trajecto na canoagem?
@@ -46,7 +43,6 @@ pois agora consigo dar mais valor
 às condições de treino que
 disponho e assim aplicar-me com
 mais motivação.
-
 Achas que a canoagem ajudou no
 teu desenvolvimento enquanto
 indivíduo?
@@ -61,7 +57,6 @@ autocontrolo e a um “saber estar”
 perante várias situações de stress
 e tenção, o desporto serve de
 grande professor.
-
 Qual foi o papel da tua família no
 teu percurso enquanto atleta de
 alta competição?
@@ -76,7 +71,6 @@ Também apoiaram-me
 incondicionalmente aquando a
 minha mudança para o continente
 com apenas 17 anos.
-
 "Sem a minha
 estrutura familiar
 nunca poderia pensar
@@ -85,7 +79,6 @@ atleta de alta
 competição. Eles
 tornaram isso uma
 realidade."
-
 Quantas vezes treinas por
 semana, e quanto tempo?
 Normalmente faço 6 sessões de
@@ -96,7 +89,6 @@ de ginásio rondando os 100min
 rondando os 40min (por sessão) e
 por fim 3 sessões de natação
 rondando os 50min (por sessão).
-
 A maneira como tu lidas com a
 pressão e a ansiedade antes das
 provas é algo que tu consegues
@@ -116,7 +108,6 @@ sentido de encontrar a
 meu coeficiente de
 stress e ansiedade
 óptimo.
-
 O facto de competires pelo teu
 actual clube condicionou a tua
 esc olha de Uni versidades
@@ -124,7 +115,6 @@ quando concorreste? Porque?
 Claro, pois conciliar estudos e
 treinos sempre foi algo que tento
 cumprir.
-
 Para muitos atletas de alta
 competição torna-se difícil
 conciliar os estudos com a
@@ -143,13 +133,11 @@ muito elevada. Mas isso já nos leva
 para outro problema, há atletas de
 alta competição e há “atletas” de
 alta competição.
-
 Os Jogos Olímpicos de 2012 são
 uma meta ou um sonho?
 São uma meta, na medida em que
 no querer fala a força e no
 desejo/sonho fala a fraqueza.
-
 A UMinho iniciou em Portugal um
 programa pioneiro no que diz
 respeito ao apoio aos atletas de
@@ -159,7 +147,6 @@ programa em si?
 Os atletas de alta competição têm
 necessariamente de obter ajuda
 no âmbito universitário,
-
 "é de louvar que a
 UMinho tenha tido a
 capacidade de se
@@ -170,7 +157,6 @@ avançado com um
 programa que ajuda e
 acolhe os atletas no
 ambiente académico."
-
 Em áreas já recebeste apoio
 através do TUTORUM?
 O meu tutor do programa TUTORUM
@@ -182,7 +168,6 @@ preciosas dicas sobre como
 estudar e formular objectivos
 tanto académicos como
 desportivos.
-
 Os teus objectivos pessoais
 passam por uma carreira
 profissional na canoagem ou os
@@ -192,4 +177,4 @@ prazo tenho, a minha carreira
 desportiva, pelo menos até 2012.
 Após esse período os restantes
 estudos e carreira profissional
-tomam a dianteira da minha vida.
+tomam a dianteira da minha vida.tomam a dianteira da minha vida.tomam a dianteira da minha vida.tomam a dianteira da minha vida.

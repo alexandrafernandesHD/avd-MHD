@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 83 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Maria Eduarda Keating
-Role: Presidente do Instituto de Letras e Ciências Humanas (ILCH)
-Date: 18 de Julho de 2010
-Title: Entrevista à Presidente do Instituto de Letras e Ciências Humanas (ILCH)
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 83 - Ano 5
+university: Universidade do Minho
+interviewee: Maria Eduarda Keating
+role: Presidente do Instituto de Letras e Ciências Humanas (ILCH)
+date: 18 de Julho de 2010
+title: Entrevista à Presidente do Instituto de Letras e Ciências Humanas (ILCH)
+interviewer: Ana Marques
 ---
+
 
 Entrevista à Presidente do Instituto de Letras e Ciências Humanas (ILCH)
 Maria Eduarda Keating é docente da Universidade do Minho.
@@ -18,10 +19,8 @@ Presidente do Instituto de Letras e Ciências Humanas (ILCH) considera
 como pontos fortes do “seu” Instituto, a transdisciplinaridade e
 multilinguismo, tendo como características diferenciadoras a
 versatilidade e capacidade de inovação.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Eduarda Keating foi eleita em 2008
 Presidente da Escola, tendo sido
 reeleita, já no quadro dos novos
@@ -53,7 +52,6 @@ integrar as diferentes forças que
 constituem a Escola num projecto
 que seja coerente e enriquecedor
 para todos.
-
 É um desafio ser presidente do
 Instituto de Letras e Ciências
 Humanas (ILCH)?
@@ -86,7 +84,6 @@ esta componente fundamental,
 capaz de integrar e de desenvolver
 a diversidade de experiências das
 outras áreas.
-
 Quais são na sua opinião os
 pontos fortes do ILCH?
 O ILCH tem vários pontos fortes,
@@ -147,7 +144,6 @@ grande na vertente artística, até
 agora limitada à literatura, e que
 esperamos que se venha a
 desenvolver com novos projectos.
-
 Se tivesse de escolher um destes
 pontos fortes como o mais
 importante, aquele que melhor
@@ -162,7 +158,6 @@ maior reconhecimento
 e projecção, tanto
 nacional como
 internacional.
-
 E os pontos fracos?
 Há dois problemas essenciais: a
 taxa de abandono por um lado e a
@@ -177,7 +172,6 @@ uma politica consistente tanto de
 desenvolvimento do
 multilinguismo como do ensino
 artístico.
-
 Qual tem sido a evolução do ILCH
 no decorrer deste anos? O que na
 sua opinião mais o tem feito
@@ -207,7 +201,6 @@ adaptarem às
 exigências do
 mercado de trabalho e
 ao seu carácter
-internacional.
 Para isso contribuiu a consciência
 da necessidade de adaptação às
 novas realidades sociais por um
@@ -222,7 +215,6 @@ consolidação a nível da
 investigação e pela abertura a
 novas áreas, como é o caso das
 Artes.
-
 O que o caracteriza relativamente
 às outras escolas/institutos do
 país?
@@ -241,13 +233,11 @@ com outras Escolas da área de
 Letras, com estruturas mais
 rígidas e mais estritamente
 disciplinares.
-
 Estes elementos diferenciadores
 serão motivos suficientes para
 que os alunos escolham o ILCH da
 UMinho?
 Sem dúvida.
-
 O que podem esperar os nossos
 estudantes do ILCH, em termos
 de qualidade de ensino e inserção
@@ -278,7 +268,6 @@ empreendedor permitem aos
 estudantes encontrar
 oportunidades profissionais em
 contextos muito diversos.
-
 O Instituto, como a própria
 Universidade tem sofrido
 alterações a vários níveis nos
@@ -296,7 +285,6 @@ consolidação da área da Música e
 da criação de mais um projecto na
 área das Artes, a nível do Teatro e
 das Artes Performativas.
-
 Números de docentes da Escola a
 trabalhar a tempo integral?
 Temos cerca de 80 docentes a
@@ -305,4 +293,4 @@ de carreira, leitores e docentes
 convidados, e cerca de 10
 colaboradores a tempo parcial,
 sobretudo na área da Música e
-nalguns leitorados.
+nalguns leitorados.nalguns leitorados.nalguns leitorados.nalguns leitorados.

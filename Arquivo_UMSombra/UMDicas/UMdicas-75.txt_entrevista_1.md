@@ -1,18 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 75 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Sr. José Pereira
-Date: 10 de Dezembro de 2009
-Interviewer: Luciana Silva
+journal: UMdicas
+issue: Edição nº 75 - Ano 4
+university: Universidade do Minho
+interviewee: Sr. José Pereira
+date: 10 de Dezembro de 2009
+interviewer: Luciana Silva
 ---
 
 Apresentação das Unidades de serviço Alimentar
 Bar dos Congregados - Braga
-
 Luciana Silva
 dicas@sas.uminho.pt
-
 Situada no Centro da Cidade de Braga, esta unidade presta serviços
 de alimentação subsidiada durante o período de almoço, com
 capacidade para servir 50 a 100 refeições por hora (com cerca de
@@ -24,8 +22,6 @@ Bar/Cafetaria, praticando o horário das 08h30 às 18h30. As horas de maior
 pico de atendimento situam-se das 11h00 às 14h00 e das 16h30 às 17h30. O
 UMdicas esteve à conversa com o responsável do Bar, o Sr. José Pereira para
 saber como é trabalhar nesta unidade alimentar.
-
-
 Há quantos anos pertence ao DA?
 Pertenço aos recursos humanos do
 Departamento Alimentar há 8 anos,
@@ -39,7 +35,6 @@ para lá também como responsável.
 Depois o curso de Enfermagem passou
 para o edifício dos Congregados e vim
 para este bar.
-
 O que significa para si trabalhar no
 Departamento Alimentar?
 Significa muito. Trabalhar para os
@@ -50,7 +45,6 @@ todos orgulho em ser funcionários dos
 SASUM. Eu tenho orgulho em dizer a
 outros colegas que trabalho numa
 empresa certificada.
-
 Tem alguma formação específica na
 área da restauração?
 Já tive várias formações nesta área da
@@ -60,14 +54,12 @@ algumas formações. Fizemos
 formações de Higiene Pessoal,
 Segurança Alimentar, e eu também
 tenho formações em informática.
-
 Ser responsável do Bar é para si um
 desafio?
 Todos os dias enfrentámos desafios.
 Tentar chegar ao fim do dia com a
 equipa unida e sem problemas é um
 desafio e fico feliz com isso.
-
 É fácil coordenar uma unidade
 alimentar? Quais são as maiores
 dificuldades?
@@ -81,7 +73,6 @@ também um objectivo dos SASUM: que
 haja sempre espírito de equipa para
 que o trabalho corra melhor em todas
 as suas unidades.
-
 Na sua opinião os utentes das
 unidades alimentares são bem
 servidos em termos de qualidade
@@ -91,7 +82,6 @@ todos os possíveis para os servir bem.
 As refeições e os alimentos têm
 qualidade. Felizmente nunca tive uma
 reclamação.
-
 Qual o procedimento quando algum
 utente reclama do serviço?
 Como já disse, nunca tive uma
@@ -101,7 +91,6 @@ para resolver o problema, porque são
 os erros que nos permitem fazer cada
 vez melhor. Mas sugestões tenho tido
 algumas.
-
 Como classifica o Bar ? Que tipo de
 alimentação pode fazer quem aqui se
 dirige?
@@ -117,7 +106,6 @@ que foram tiradas. No bar tenho
 sempre sopa, baguetes,
 hambúrgueres, cachorros, tostas
 mistas, etc.
-
 Quantas refeições servem por dia?
 Há um mês atrás servia cerca de 200
 refeições por dia. Neste momento
@@ -134,7 +122,6 @@ sempre sabem onde vão almoçar, mas
 também percebo as dificuldades dos
 cozinheiros para ter tantas refeições
 prontas a horas.
-
 Que produtos são mais vendidos
 neste bar?
 Vendo muitas torradas neste bar.
@@ -145,7 +132,6 @@ sandes. Bolos vendem-se pouco. O
 número de refeições servidas baixou,
 mas o serviço de bar aumentou muito,
 principalmente na hora do almoço.
-
 Por quantos elementos é constituída
 a sua equipa?
 Somos quatro. Esta é uma boa equipa,
@@ -158,4 +144,4 @@ de mim, porque eu sou uma pessoa
 passiva, deixo trabalhar e não
 complico. E quando digo alguma coisa,
 elas percebem que é sempre para
-melhorar.
+melhorar.melhorar.melhorar.melhorar.

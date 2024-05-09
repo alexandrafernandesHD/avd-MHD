@@ -1,24 +1,21 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 73 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Madalena Alves
-Topic: sua carreira e interesses
-Date: 20 de Outubro de 2009
-Interviewer: Francisca Fidalgo
+journal: UMdicas
+issue: Edição nº 73 - Ano 4
+university: Universidade do Minho
+interviewee: Madalena Alves
+topic: sua carreira e interesses
+date: 20 de Outubro de 2009
+interviewer: Francisca Fidalgo
 ---
 
 Entrevista a Madalena Alves, distinguida com Doutoramento Honóris Causa
-
 “Temos que ir à procura de novos desafios e sonhar um bocadinho!”
 No âmbito da distinção com Doutoramento Honóris Causa da
 Professora Madalena Alves, docente do departamento de
 Engenharia Biológica da Universidade do Minho (UM), o UMDicas
 procurou saber mais sobre a sua carreira e interesses.
-
 Francisca Fidalgo
 dicas@sas.uminho.pt
-
 Licenciada em Engenharia
 Química pela Universidade do
 Porto, em 1987, iniciou a sua
@@ -179,4 +176,4 @@ docente, fica a ideia de que este é
 apenas o início de um longo
 caminho a percorrer na área da
 investigação, não só na UMinho,
-mas também em Portugal.
+mas também em Portugal.mas também em Portugal.mas também em Portugal.mas também em Portugal.

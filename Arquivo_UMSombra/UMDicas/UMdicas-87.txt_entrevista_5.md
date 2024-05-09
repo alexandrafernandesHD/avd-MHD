@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 87 - Ano 5
-University: Universidade do Minho
-Interviewee(s): José António Oliveira Rocha
-Topic: Escola de Economia e Gestão da Universidade do Minho
-Date: 31 de Dezembro de 2010
-Title: Entrevista ao Presidente Escola de Economia e Gestão (EEG)
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 87 - Ano 5
+university: Universidade do Minho
+interviewee: José António Oliveira Rocha
+topic: Escola de Economia e Gestão da Universidade do Minho
+date: 31 de Dezembro de 2010
+title: Entrevista ao Presidente Escola de Economia e Gestão (EEG)
+interviewer: Ana Marques
 ---
+
 
 Entrevista ao Presidente Escola de Economia e Gestão (EEG)
 A Escola de Economia e Gestão da Universidade do Minho oferece cursos de graduação e de pós-graduação nas áreas das ciências
@@ -15,15 +16,12 @@ empresariais, económicas e políticas. Ali lecciona uma equipa
 jovem no auge da sua actividade científica que faz um acompanhamento
 constante dos alunos, uma preparação com qualidade para que a inserção
 no mercado de trabalho seja mais fácil e com resultados positivos.
-
 José António Oliveira Rocha, <cargo<presidente da Escola de Economia e Gestão
 (EEG), afirma que a Escola se transformou numa escola de referência na
 área da investigação mas que tem de alargar a prestação de serviços para
 fazer face à crise e preparar o futuro da Escola.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Como caracteriza a função do
 Presidente de Escola?
 É uma função difícil de
@@ -47,7 +45,6 @@ possibilidade da Universidade se
 converter em fundação. Se isto
 acontecer os presidentes de escola
 não vão ser eleitos mas nomeados.
-
 É um desafio ser Presidente da
 Escola de Economia e Gestão
 (EEG)?
@@ -62,7 +59,6 @@ mudanças impostas, a
 característica mais importante de
 um Presidente de Escola é a
 Liderança.
-
 Quais são as maiores dificuldades
 que sente no cumprimento da sua
 função?
@@ -74,7 +70,6 @@ como os docentes, não se sabe
 como vai ficar a abertura de
 concursos, por isso adivinho
 grandes dificuldades.
-
 Quais são na sua opinião os
 pontos fortes da EEG?
 Esta Escola é uma escola jovem
@@ -102,7 +97,6 @@ a outras escolas do país nós temos
 Ciência Política e isso só se vê em
 algumas escolas a nível
 internacional.
-
 Se tivesse de escolher um destes
 pontos fortes como o mais
 importante, aquele que melhor
@@ -113,7 +107,6 @@ mesmo género, a investigação
 científica é que define o ponto forte
 desta escola nas três áreas –
 Economia, AP e RI.
-
 E os pontos fracos?
 Há um ponto fraco e difícil de
 ultrapassar. A escola, sendo
@@ -148,7 +141,6 @@ com empresas, e naturalmente
 com a Administração pública já que
 esta Escola tem cá dentro essa
 valência.
-
 Na sua opinião, qual a razão
 porque tem sido descurada a
 relação com as empresas?
@@ -199,7 +191,6 @@ uma ponderação de tarefas para
 que a escola tenha um melhor
 desempenho em todas as suas
 funções.
-
 Qual tem sido a evolução da EEG
 no decorrer deste anos? O que na
 sua opinião mais a tem feito
@@ -221,7 +212,6 @@ contabilidade e Ciência Politica),
 quadruplicamos desde há quatro
 anos o número de alunos de
 mestrado.
-
 O que a caracteriza relativamente
 às outras escolas/institutos do
 país?
@@ -251,7 +241,6 @@ outras escola (excepto na Nova),
 mas isto está a mudar pois a
 investigação é cada vez mais
 importante.
-
 Estes elementos diferenciadores
 serão motivos suficientes para
 que os alunos escolham a EEG da
@@ -282,7 +271,6 @@ junto dos alunos e mesmo que nos
 permita averiguar o que é ou não
 importante em termos de oferta
 educativa.
-
 O que podem esperar os nossos
 estudantes da EEG, em termos de
 qualidade de ensino e inserção no
@@ -309,7 +297,6 @@ um serviço onde os nossos alunos
 se possam informar e recebam
 informação via e-mail, é uma
 função social da Universidade.
-
 A Escola, como a própria
 Universidade tem sofrido
 alterações a vários níveis nos
@@ -339,7 +326,6 @@ Angola. Esperamos alargar esta
 colaboração a outros países, quer
 na área do ensino, quer na área dos
 projectos de investigação.
-
 Números de docentes da Escola a
 trabalhar a tempo integral?
 A escola tem 86 docentes de
@@ -348,4 +334,4 @@ doutorados, e 35 docentes
 convidados dos quais 4 são
 doutorados. Mas estamos a tentar
 ter predominantemente
-doutorados.
+doutorados.doutorados.doutorados.doutorados.

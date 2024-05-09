@@ -1,15 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 83 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Luzia Carmo
-Role: gestora de loja
-Date: 18 de Julho de 2010
-Title: Luzia Carmo, 34 anos e gestora de loja
+journal: UMdicas
+issue: Edição nº 83 - Ano 5
+university: Universidade do Minho
+interviewee: Luzia Carmo
+role: gestora de loja
+date: 18 de Julho de 2010
+title: Luzia Carmo, 34 anos e gestora de loja
+interviewer: UMdicas
 ---
 
 Luzia Carmo, 34 anos e gestora de loja
-
 Por que razão decidiu
 candidatar-se aos maiores
 de 23?
@@ -29,7 +29,6 @@ a pessoas que, como eu, já
 tenham um percurso
 profissional mais
 desenvolvido.
-
 Como teve conhecimento
 do processo?
 Inicialmente tive
@@ -53,7 +52,6 @@ desde a pré-decisão até
 todo o mecanismo de
 planeamento de exames e
 respectivos resultados.
-
 Qual foi o método de
 preparação para o exames
 de ingresso?
@@ -71,12 +69,10 @@ mais um passo – a
 entrevista que está
 marcada para a próxima
 semana.
-
 Que curso pretende
 ingressar?
 Línguas e Literaturas
 Europeias
-
 Quais os principais
 objetivos, desafios e 
 expectativas?
@@ -98,4 +94,4 @@ conseguir levar da melhor
 forma através de organização
 pessoal e talvez alguma
 flexibilidade por parte da
-minha entidade patronal.
+minha entidade patronal.minha entidade patronal.minha entidade patronal.minha entidade patronal.

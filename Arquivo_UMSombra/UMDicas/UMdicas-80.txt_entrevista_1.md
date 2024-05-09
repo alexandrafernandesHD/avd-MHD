@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 80 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Sr. Carlos Cerqueira
-Topic: o Grill
-Role: responsável do Grill
-Date: 21 de Abril de 2010
-Interviewer: Luciana Silva
+journal: UMdicas
+issue: Edição nº 80 - Ano 5
+university: Universidade do Minho
+interviewee: Sr. Carlos Cerqueira
+topic: o Grill
+role: responsável do Grill
+date: 21 de Abril de 2010
+interviewer: Luciana Silva
 ---
 
 Apresentação das Unidades de serviço Alimentar - Grill de Gualtar
@@ -17,10 +17,8 @@ Restaurante Panorâmico. Com capacidade para servir
 entre as 12h00 e as 14h00. O UMdicas esteve à conversa com o
 responsável do Grill, o Sr. Carlos Cerqueira, para saber como é trabalhar
 neste serviço alimentar.
-
 Luciana Silva
 dicas@sas.uminho.pt
-
 Há quantos anos pertence ao
 Departamento Alimentar?
 Já trabalhei em Guimarães, depois
@@ -28,7 +26,6 @@ casei e pedi transferência para
 braga. No total, já faço parte do
 Departamento Alimentar há mais
 de 20 anos.
-
 O que significa para si trabalhar
 no Departamento Alimentar?
 Trabalho com gosto. Tentamos
@@ -42,7 +39,6 @@ estão todos satisfeitos. Muitas
 vezes os nossos clientes fazem
 elogios à comida e até pedem as
 receitas.
-
 Tem alguma formação específica
 na área da restauração?
 Sim. Tenho uma formação de
@@ -53,7 +49,6 @@ formação de socorrismo,
 bombeiro e até tive uma formação
 para saber distinguir as notas
 falsas.
-
 Que funções desempenhou até
 ficar como responsável do Bar?
 No inicio, comecei por lavar tachos.
@@ -78,7 +73,6 @@ Restaurante. Depois de seis anos
 no Restaurante passei para a
 cantina. Há cerca de seis anos vim
 para o Grill.
-
 Ser responsável do Grill é para si
 um desafio?
 Estar à frente de alguma coisa é
@@ -89,7 +83,6 @@ faço também alguns serviços fora
 aqui do Grill. Trabalho num
 restaurante e também sou o chefe
 da equipa.
-
 É fácil coordenar uma unidade
 alimentar? Quais são as maiores
 dificuldades?
@@ -106,7 +99,6 @@ depois de tratar disso tudo, fazer
 requisições, pedidos de
 manutenção. Mas às vezes levo
 esse trabalho para casa.
-
 Na sua opinião os utentes das
 unidades alimentares são bem
 servidos em termos de qualidade
@@ -119,7 +111,6 @@ mais natural possível, para os
 nossos clientes ficarem
 satisfeitos. Cozemos tudo a vapor,
 e a comida fica mais saborosa.
-
 Como classifica o Grill? Que tipo
 de alimentação pode fazer quem
 aqui se dirige?
@@ -132,7 +123,6 @@ experimentar coisas novas.
 Normalmente, as receitas novas
 são muito bem aceites por quem
 cá vem.
-
 Qual o procedimento quando
 algum utente reclama do
 serviço?
@@ -144,7 +134,6 @@ coisas mais graves reporto para a
 Eng.ª Celeste. Mas fora estas
 situações temos muitos elogios à
 comida que fazemos aqui.
-
 Como classifica o Grill em relação
 aos serviços alimentares
 ex ternos que circundam a
@@ -158,7 +147,6 @@ guardados fora do frio. Ao rigor e à
 higiene que o Departamento
 Alimentar exige, quem cá vem só
 pode ser bem servido.
-
 Se fosse aluno ou professor, o
 Grill seria o seu local de eleição
 para almoçar ou jantar?
@@ -169,11 +157,10 @@ melhores. Claro que eu vinha cá
 almoçar ou jantar. Também gosto
 muito de grelhados, e isso
 também ajuda.
-
 Por quantos elementos é
 constituída a sua equipa?
 Por seis elementos. Já
 trabalhamos juntos há algum
 tempo. Gosto muito de trabalhar
 com esta equipa. Cumprem todos
-as suas funções.
+as suas funções.as suas funções.as suas funções.as suas funções.

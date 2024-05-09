@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 77 - Ano 5
-University: Universidade do Minho
-Interviewee(s): José Saavedra
-Topic: Sector de Economato e Aprovisionamento dos SASUM
-Date: 04 de Fevereiro de 2010
-Title: Sector de Economato e Aprovisionamento dos SASUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 77 - Ano 5
+university: Universidade do Minho
+interviewee: José Saavedra
+topic: Sector de Economato e Aprovisionamento dos SASUM
+date: 04 de Fevereiro de 2010
+title: Sector de Economato e Aprovisionamento dos SASUM
+interviewer: Ana Marques
 ---
+
 
 Sector de Economato e Aprovisionamento dos SASUM
 José Saavedra é o responsável do Sector de Economato e
@@ -16,17 +17,14 @@ formação complementar na área financeira, trabalha nos SASUM
 desde 2003. Este sector pertencente ao Departamento Administrativo e
 Financeiro tem como função suprimir as necessidades diárias dos vários
 Departamentos/ Sectores no que respeita a existências.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Como está organizado este
 sector?
 Por um responsável de sector, que
 se encontra no armazém central
 em Braga e um armazém de apoio
 às unidades de Azurém.
-
 Qual a função e importância
 deste sector no seio dos SASUM?
 Suprimir as necessidades diárias
@@ -35,26 +33,21 @@ que respeita a existências.
 Estas existências vão desde
 produtos alimentares, higiene e
 limpeza, administrativo, etc.
-
 Quais os principais objectivos
 deste sector?
 Que nunca faltem artigos ou
 produtos de vital importância às
 unidades, que implique o seu bom
 funcionamento diário.
-
 Qual o modo de funcionamento do
-sector?
 As unidades por meio de
 requisições internas fazem os
 pedidos ao armazém, que se tiver
 o artigo em stock envia na hora, se
 não procede á compra no exterior.
-
 Ser responsável por este sector é
 um desafio?
 Sim, constante.
-
 Quais são as tarefas diárias do
 responsável do sector?
 Ver os artigos em falta nos
@@ -63,7 +56,6 @@ proceder á sua reposição.
 Fazer encomendas dos produtos
 do dia aos fornecedores (padaria,
 pastelaria).
-
 Quais as principais dificuldades
 que encontra no desenvol vimento do seu
 trabalho?
@@ -75,7 +67,6 @@ unidades. Outra dificuldade é
 tentar encontrar sempre um
 excelente binómio
 qualidade/preço.
-
 Quantas pessoas trabalham
 neste sector?
 Cinco pessoas directamente, e
@@ -85,7 +76,6 @@ Este é o sector responsável por
 toda a encomenda e controlo da
 recepção dos produtos para as
 várias unidades dos SASUM.
-
 Como se efectua todo o
 processo?
 O objectivo é a aquisição de bens e
@@ -94,7 +84,7 @@ necessidades sentidas por parte
 das várias unidades dos SASUM.
 A enomenda, existem 2
 hipóteses quanto à encomenda da
-parte da unidade requisitante:
+parte da unidade requisitante: 
 O armazém possui produtos em
 stock: O Responsável de cada
 Unidade faz, presencialmente, as
@@ -120,7 +110,7 @@ por correio interno para o
 armazém que expediu a
 mercadoria, para ser arquivada.
 O armazém não possui os
-produtos requisitados em stock:
+produtos requisitados em stock: 
 as unidades podem necessitar de
 artigos que não existem em stock.
 Neste caso tem de proceder à
@@ -139,13 +129,13 @@ administrativo, etc.) as
 encomendas são efectuadas de
 acordo com o calendário
 descriminado em baixo, que foi
-previamente estabelecido:
+previamente estabelecido: 
 Legumes: encomendar no
 armazém às 2ª e 4ª Feiras, onde
 será elaborada electronicamente,
 neste local, uma requisição de
 forma automática;
-Fruta (inclui Laranja para sumo):
+Fruta (inclui Laranja para sumo): 
 encomendar no armazém às 3ª, 5ª
 e 6ª Feiras, onde será elaborada
 electronicamente, neste local,
@@ -153,9 +143,6 @@ uma requisição de forma
 automática;
 Carne + Peixe: encomendar no
 armazém às 4ª e 5ª Feiras, onde
-será elaborada electronicamente,
-neste local, uma requisição de
-forma automática;
  Bebidas: en c omenda r no
 armazém no dia estabelecido para
 unidade comprar.
@@ -188,4 +175,4 @@ pontual para a aquisição de
 produtos / géneros, devem
 contactar o responsável Armazém
 de Gualtar para acordarem a hora
-da compra, no local.
+da compra, no local.da compra, no local.da compra, no local.da compra, no local.

@@ -1,12 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 84 - Ano 5
-University: Universidade do Minho
-Interviewee(s): 
-Role: Presidente da ESSE
-Date: 14 de Setembro de 2010
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 84 - Ano 5
+university: Universidade do Minho
+interviewee: Maria Isabel Gomes de Sousa Lage
+role: Presidente da ESSE
+date: 14 de Setembro de 2010
+interviewer: Ana Marques
 ---
+
 
 Entrevista à Presidente da Escola Superior de
 Enfermagem da Universidade do Minho
@@ -18,10 +19,8 @@ Salazar - Universidade do Porto. Isabel Lage foi eleita em Fevereiro de 2010
 Presidente da ESSE, considerando como ponto forte de mais relevo da “sua”
 Escola a “qualidade do ensino ministrado que assenta fundamentalmente
 numa estrutura modular e que é socialmente reconhecido”.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Como caracteriza a função do
 Presidente de Escola?
 O presidente de Escola tem como
@@ -54,7 +53,6 @@ na resolução dos problemas que
 se colocam no imediato no regular
 funcionamento de uma instituição
 de ensino.
-
 É um desafio ser Presidente da
 Escola Superior de Enfermagem
 (ESE)?
@@ -73,7 +71,6 @@ recursos humanos exige um
 desafio permanente no
 reconhecimento das pessoas e
 valorização dos seus projectos.
-
 Quais são na sua opinião os
 pontos fortes da ESE?
 Um dos pontos mais fortes da ESE
@@ -134,7 +131,6 @@ formação diversificada que a
 Escola oferece constitui também
 um bom indicador da qualidade do
 nosso ensino.
-
 E os pontos fracos?
 Em minha opinião o ponto menos
 forte da ESE é o facto de não
@@ -179,7 +175,6 @@ nossas instalações, dificulta o
 normal funcionamento da
 instituição e impede uma efectiva
 integração na universidade.
-
 Qual tem sido a evolução da ESE
 no decorrer deste anos? O que na
 sua opinião mais a tem feito
@@ -212,7 +207,6 @@ ajudam a garantir e a manter a
 qua l idade do seu projecto
 educativo, no cumprimento da sua
 missão.
-
 O que a caracteriza relativamente
 às outras Escolas/institutos do
 país?
@@ -239,7 +233,6 @@ juízo clínico, o que nos traz a
 certeza de que educamos para o
 cuidado reflectido e não para a
 aprendizagem fortuita.
-
 Estes elementos diferenciadores
 serão motivos suficientes para
 que os estudantes escolham a
@@ -261,7 +254,6 @@ mais elevada do país, o que
 significa que o ensino ministrado
 na nossa Escola atrai os melhores
 estudantes.
-
 O que podem esperar os nossos
 estudantes da ESE, em termos de
 qualidade de ensino e inserção no
@@ -301,7 +293,6 @@ que confirmam que, em média, os
 nossos estudantes conseguem
 emprego seis meses após o
 término da licenciatura.
-
 A Escola, como a própria
 Universidade tem sofrido
 alterações a vários níveis nos
@@ -312,7 +303,7 @@ próximos anos (2010-2012),
 assenta num plano de actividades
 que visa dar resposta a um
 conjunto de objectivos
-estratégicos, nomeadamente:
+estratégicos, nomeadamente: 
 aumentar, diversificar e
 racionalizar a oferta educativa ao
 nível de C1, C2 e cursos de
@@ -339,7 +330,6 @@ mobilidade dos nossos estudantes
 e docentes; e implementar o
 Sistema Interno da Garantia da
 Qualidade.
-
 Números de docentes da Escola a
 trabalhar a tempo integral?
 O número de docente a trabalhar
@@ -350,4 +340,4 @@ convidados nacionais e
 internacionais, de reconhecido
 mérito, nas diferentes
 especialidades da área da saúde e
-enfermagem.
+enfermagem.enfermagem.enfermagem.enfermagem.

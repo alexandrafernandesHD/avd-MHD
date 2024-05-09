@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 87 - Ano 5
-University: Universidade do Minho
-Interviewee(s): 
-Role: Vice-reitora para a área Administrativa e Financeira
-Date: 31 de Dezembro de 2010
-Title: Entrevista com a Vice-reitora Margarida Proença
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 87 - Ano 5
+university: Universidade do Minho
+interviewee: Margarida Proença
+role: Vice-reitora para a área Administrativa e Financeira
+date: 31 de Dezembro de 2010
+title: Entrevista com a Vice-reitora Margarida Proença
+interviewer: Ana Marques
 ---
+
 
 Entrevista com a Vice-reitora Margarida Proença
 Vice-reitora para a área Administrativa e Financeira, Margarida
@@ -18,10 +19,8 @@ vezes Presidente da Escola de Economia e Gestão, e pertenceu à
 Assembleia Estatutária e ao Conselho Geral, tendo ainda a cátedra Jean
 Monnet em Economia Europeia e diversas publicações e prémios.
 Actualmente faz parte da equipa reitoral.
-
 Ana Marques
 anac@sas.uminho.pt
-
 É Vice-Reitora para a área
 Administrativa e Financeira. Qual
 é a essência desta pasta?
@@ -32,7 +31,6 @@ humanos da Universidade, em
 estreita ligação com o Reitor, o
 Conselho de Gestão e o
 Administrador.
-
 Quais são os principais
 objectivos do pelouro que lidera
 até 2013, final deste mandato?
@@ -58,7 +56,6 @@ pública, e reforçar a formação e o
 desenvolvimento profissional e
 pessoal dos recursos humanos
 não-docentes e nãoinvestigadores.
-
 Quais os objectivos e prioridades
 para a gestão financeira de forma
 a garantir a sustentabilidade
@@ -86,7 +83,6 @@ armazenamento e tratamento da
 informação. O sistema de controlo
 interno e auditoria começou
 também já a ser implementado.
-
 Em que aspectos e como está a
 ser feita a diversificação das
 fontes de financiamento e
@@ -107,7 +103,6 @@ As receitas próprias são
 já significativas, mas
 por definição sempre
 poucas!
-
 Um dos vectores do Programa de
 acção para o quadriénio 2009-
 2013 é o equilíbrio financeiro. O
@@ -138,7 +133,6 @@ que diz respeito aos custos fixos
 de funcionamento e a previsões
 consistentes e razoáveis de
 despesas com o pessoal.
-
 Quais as principais fontes
 alternativas de financiamento
 que a UMinho está a potenciar?
@@ -161,13 +155,11 @@ indústrias creativas, cuja
 contribuição para o PIB nacional já
 ronda o da indústria têxtil por
 exemplo.
-
 O que é necessário é ser
 rigoroso e transparente
 na captação de receitas
 e prestar contas
 públicas.
-
 Na sua opinião, será possível as
 Uni versidades atingirem a
 autonomia financeira?
@@ -253,7 +245,6 @@ financeira é menos
 importante; a
 sustentabilidade é
 fundamental.
-
 A UMinho tal como o país, vive
 uma situação grave de crise?
 A Universidade do Minho depende
@@ -281,17 +272,14 @@ continuar a garantir um ensino de
 qualidade a números de alunos
 que, gostaríamos, que
 continuassem a aumentar.
-
 “...é absolutamente fundamental garantir
 sustentabilidade financeira...”
-
 Mas a gestão tem que
 ser rigorosa, como aliás
 deve ser sempre , e
 muito mais quando
 estão envolvidos
 dinheiros públicos.
-
 Quais são as maiores
 dificuldades com que se depara a
 academia?
@@ -309,7 +297,6 @@ ma ior es opor tu n idades de
 progressão numa carreira que é
 muito exigente, mais
 reconhecimento, enfim.
-
 Em relação ao orçamento de
 estado aprovado. Como ficou a
 situação das Universidades?
@@ -322,7 +309,6 @@ Universidades terão
 claramente uma
 situação financeira
 mais complicada.
-
 Qual vai ser a verba do OE para a
 UMinho? O apoio financeiro que
 estava previsto à UMinho
@@ -335,7 +321,6 @@ negociados, e ronda os 61 milhões
 de euros. É insuficiente para fazer
 face a todas as despesas com
 pessoal.
-
 Perante a situação de crise que se
 vive, a UMinho tem capacidade
 para continuar com os
@@ -346,7 +331,6 @@ terão como base receitas próprias
 e apoio comunitário. Neste
 momento, tudo aponta no sentido
 positivo.
-
 Prevêem-se cortes a nível de
 recursos humanos para um maior
 equilíbrio financeiro na UMinho?
@@ -354,7 +338,6 @@ Não se prevêem
 alterações na estrutura
 de recursos humanos
 da Universidade.
-
 A passagem a fundação seria uma
 boa alternati va às frágeis
 situações das universidades?
@@ -364,7 +347,6 @@ processo de gestão
 mais eficiente, e nessa
 medida constituir uma
 boa alternativa.
-
 O que mudaria na UMinho com a
 passagem a fundação?
 A mudança efectiva, no fundo,
@@ -380,7 +362,6 @@ deixará de ser um bem
 público
 constitucionalmente
 definido.
-
 No seu entender a UMinho, tal
 como o País em geral entrará vai
 tem tendência para estagnar?
@@ -417,7 +398,6 @@ China ou a Índia.
 Quanto á Universidade do Minho,
 está ainda numa trajectória de
 crescimento.
-
 Na sua opinião a visita do FMI
 seria boa? O impacto para o
 Ensino Superior seria negativo ou
@@ -426,4 +406,4 @@ O FMI tem como objectivo
 equilibrar as contas públicas,
 eliminar os défices, etc, ou seja,
 remédios por vezes necessários,
-mas que podem doer a sério...
+mas que podem doer a sério...mas que podem doer a sério...mas que podem doer a sério...mas que podem doer a sério...

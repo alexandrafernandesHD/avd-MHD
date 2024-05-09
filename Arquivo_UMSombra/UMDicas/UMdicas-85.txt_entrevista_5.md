@@ -1,24 +1,23 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 85 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Cecília Leão
-Topic: A Escola de Ciências da Saúde (ECS)
-Role: actual presidente da Escola
-Date: 19 de Outubro de 2010
-Title: “Inovação. A palavra-chave que caracteriza a ECS”
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 85 - Ano 5
+university: Universidade do Minho
+interviewee: Cecília Leão
+topic: A Escola de Ciências da Saúde (ECS)
+role: actual presidente da Escola
+date: 19 de Outubro de 2010
+title: “Inovação. A palavra-chave que caracteriza a ECS”
+interviewer: Ana Marques
 ---
+
 
 “Inovação. A palavra-chave que caracteriza a ECS”
 Cecília Leão, é professora catedrática da Escola de Ciências da
 Saúde da UMinho. A actual presidente da Escola considera que a
 sua função é algo que vai para além da sua dimensão estatutária.
 “É estar com todos quantos trabalham na ECS”.
-
 Ana Marques
 anac@sas.uminho.pt
-
 A Escola de Ciências da Saúde (ECS)
 comemorou no passado dia 8 de
 Outubro o seu 10º Aniversário. Qual
@@ -30,7 +29,7 @@ orgulha-se de ser uma realidade com
 história detentora de obra feita,
 pautada por critérios de qualidade
 internacionais, da qual destacaria os
-seguintes princípios e traves mestras:
+seguintes princípios e traves mestras: 
 Inovação. A palavra-chave que
 caracteriza a ECS é,
 inquestionavelmente, a inovação que
@@ -157,7 +156,6 @@ interacção ICVS/ECS se reflectirá na
 qualidade dos médicos aqui
 formados, o que o futuro se
 encarregará de confirmar.
-
 O que a caracteriza relativamente às
 outras escolas/institutos do país?
 Estes elementos diferenciadores
@@ -195,7 +193,6 @@ certeza, na base do seu
 reconhecimento e da opção dos
 alunos na escolha do curso de
 medicina desta Escola.
-
 O que podem esperar os nossos
 estudantes da ECS, em termos de
 qualidade de ensino e inserção no
@@ -242,7 +239,6 @@ Bons Médicos e Médicos bons”, como
 disse e escreveu o Professor Joaquim
 Pinto Machado, Mentor e Fundador do
 Curso de Medicina desta Escola.
-
 Quais são na sua opinião os pontos
 fortes e fracos/fragilidades da ECS?
 Qual aquele que melhor projecta a
@@ -283,7 +279,6 @@ empenhamento sem limites das
 pessoas ligadas à Escola e ao apoio
 que recebemos de toda a
 Universidade.
-
 A Escola, como a própria
 Universidade tem sofrido alterações
 a vários níveis nos últimos tempos.
@@ -332,7 +327,6 @@ nacional de I&D, mas também no
 tecido empresarial, e, sobretudo,
 constituindo uma mais-valia para a
 saúde e bem estar da comunidade.
-
 Qual a dimensão actual da Escola em
 termos de docentes?
 Temos um corpo académico de 70
@@ -346,7 +340,6 @@ regimes de articulação, os quais
 acompanham os alunos no âmbito
 das Residências Hospitalares e em
 Centros de Saúde.
-
 Como caracteriza a função do
 Presidente de Escola? Esta é um
 desafio para si?
@@ -398,4 +391,4 @@ de construção da ECS que é já uma
 referência pelo ensino médico que
 ministra, pela investigação que
 promove e pelo nível de
-internacionalização atingido.
+internacionalização atingido.internacionalização atingido.internacionalização atingido.internacionalização atingido.

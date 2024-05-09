@@ -1,32 +1,29 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 88 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Filipa Oliveira
-Topic: Sector de Contabilidade e Gestão de Stocks SASUM
-Date: 25 de Janeiro de 2011
-Title: Sector de Contabilidade e Gestão de Stocks SASUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 88 - Ano 6
+university: Universidade do Minho
+interviewee: Filipa Oliveira
+topic: Sector de Contabilidade e Gestão de Stocks SASUM
+date: 25 de Janeiro de 2011
+title: Sector de Contabilidade e Gestão de Stocks SASUM
+interviewer: Ana Marques
 ---
 
-Sector de Contabilidade e Gestão de Stocks SASUM
 
+Sector de Contabilidade e Gestão de Stocks SASUM
 Filipa Oliveira é a responsável do Sector de Contabilidade e Gestão
 de Stoks dos SASUM. A trabalhar nos SASUM acerca de 9 anos,
 assume a função neste sector como “uma realização pessoal muito
 grande”. “Um desafio constante... somos obrigados a evoluir para
 acompanhar e conseguir prestar a informação que nos é solicitada”.
-
 Ana Marques
 anac@sas.uminho.pt
-
 O UMdicas esteve à conversa com a
 responsável para saber mais
 pormenores sobre este sector, como
 é o seu dia-a-dia, como está
 organizado e seu papel no seio dos
 SASUM.
-
 Há quantos anos está a trabalhar
 nos SASUM?
 Desde que terminei o curso, ainda
@@ -35,14 +32,12 @@ Licenciei-me aqui na UM, estagiei
 aqui nos SASUM e mais tarde surgiu a
 oportunidade de ficar. Trabalho aqui
 acerca de 9 anos.
-
 Qual a sua área de formação?
 Tenho uma licenciatura em
 Administração Pública, pela
 Universidade do Minho e uma Pós-
 Graduação em Contabilidade Pública
 da Universidade Lusíada.
-
 O que significa para si trabalhar
 neste sector e nos SASUM?
 É a minha “2ª casa”. Adoro a área que
@@ -52,7 +47,6 @@ apresentando ao longo do tempo,
 enfim, é uma realização pessoal
 muito grande. Quanto mais tempo
 passo nesta área mais gosto!
-
 Como está organizado este sector?
 Este sector está intrinsecamente
 ligado ao sector de economato e
@@ -68,7 +62,6 @@ simultâneo com as existências, e
 como o fluxo de trabalho é maior em
 Braga, somos 3 em Braga e em
 Azurém apenas uma.
-
 Qual a função e importância deste
 sector no seio dos SASUM?
 É um sector bastante importante,
@@ -93,7 +86,6 @@ pois este sector funde-se com o
 Departamento Alimentar, somos o
 principal background deste
 departamento.
-
 Quais os principais objectivos do
 sector?
 O principal objectivo é proceder aos
@@ -101,7 +93,6 @@ registos e demais procedimentos
 contabilísticos, permitindo fornecer
 informação adequada de acordo com
 a legislação em vigor.
-
 Qual o modo de funcionamento?
 Existem 2 variantes, que depois se
 reflectem na CGS, ou o armazém tem
@@ -170,7 +161,6 @@ os custos das especificações
 técnicas, a rastreabilidade, controlo
 dos fornecedores, controlo de lotes,
 etc…
-
 Ser responsável por este sector é um
 desafio?
 Um desafio constante, aparecem
@@ -182,7 +172,6 @@ numa instituição, e a Administração
 evoluir para acompanhar e 
 conseguir prestar a informação que
 nos é solicitada.
-
 Quais são as tarefas diárias do
 responsável do sector?
 Vai desde a simples introdução
@@ -196,7 +185,6 @@ concursais, apuramento de custos,
 de margens brutas, análises de
 inventários, pois também sou
 auditora interna dos SASUM, etc.
-
 Quais as principais dificuldades
 que encontra no desenvolvimento
 do seu trabalho?
@@ -211,9 +199,7 @@ excelência. Depois existem entraves
 normais de problemas informáticos,
 ou atrasos na logística, mas tudo se
 resolve!
-
 Quantas pessoas trabalham neste
-sector?
 Somos 4, mas que valemos por 8!
 Aqui em Braga somos 3, eu, a D.
 Fátima Conceição e a Sameiro, e em
@@ -223,4 +209,4 @@ hierárquica a Dra. Susana Silva,
 directora do DAF, que nos auxilia,
 coordena e apoia
 incondicionalmente. Foi ela que nos
-ensinou tudo!
+ensinou tudo!ensinou tudo!ensinou tudo!ensinou tudo!

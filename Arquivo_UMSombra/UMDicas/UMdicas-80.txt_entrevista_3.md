@@ -1,12 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 80 - Ano 5
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2010
-Title: Dinamismo. O segredo da Escola de Direito
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 80 - Ano 5
+university: Universidade do Minho
+interviewee: Prof. Dr. Heinrich Ewald Horster
+date: 21 de Abril de 2010
+title: Dinamismo. O segredo da Escola de Direito
+interviewer: Ana Marques
 ---
+
 
 Dinamismo. O segredo da Escola de Direito
 A Escola de Direito (ED) é presidida pelo Prof. Dr. Heinrich Ewald
@@ -14,10 +15,8 @@ Horster - Professor Catedrático. Eleito no passado mês de Março,
 para o novo Presidente o ponto forte da Escola é o seu dinamismo,
 assente em profissionais qualificados que farão dos objectivos da escola
 realidades.
-
 Ana Marques
 anac@sas.uminho.pt
-
 A Universidade do Minho
 (UMinho) está estruturada por
 Escolas, sendo a Escola de Direito
@@ -49,13 +48,11 @@ uma situação angustiante, uma
 vez que considero este número
 como manifestamente
 insuficiente”.
-
 ENTREVISTA AO
 PRESIDENTE DA
 ESCOLA DE DIREITO DA
 UNIVERSIDADE DO
 MINHO
-
 Quais são na sua opinião os
 pontos fortes da escola de
 Direito?
@@ -103,7 +100,6 @@ associações estudantis,
 sendo um símbolo de
 representativiade e de
 identificação”.
-
 Foi a terceira Escola de Direito
 Pública do País. O que a
 caracteriza relativamente às
@@ -171,7 +167,6 @@ constituem a sua razão de ser –
 sempre têm tido um papel activo
 na evolução e na adaptação às
 novas realidades.”
-
 O que podem esperar os nossos
 estudantes da escola de Direito,
 em termos de qualidade de
@@ -212,7 +207,6 @@ jurista bem preparado,
 mais tarde ou mais
 cedo, acaba por ter
 sucesso.”
-
 Recentemente eleito presidente
 da escola de Direito, qual a
 Estratégia da Escola para os
@@ -282,4 +276,4 @@ característica
 específica da nossa
 Escola o seu
 dinamismo, os
-propósitos concretizarse-ão.”
+propósitos concretizarse-ão.”propósitos concretizarse-ão.”propósitos concretizarse-ão.”propósitos concretizarse-ão.”

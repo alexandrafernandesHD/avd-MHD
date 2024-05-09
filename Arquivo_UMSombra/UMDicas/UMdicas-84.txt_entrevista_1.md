@@ -1,16 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 84 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Eng. Carlos Silva
-Role: Administrador dos SASUM
-Date: 14 de Setembro de 2010
-Title: SASUM, “a tua família na Universidade”
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 84 - Ano 5
+university: Universidade do Minho
+interviewee: Eng. Carlos Silva
+role: Administrador dos SASUM
+date: 14 de Setembro de 2010
+title: SASUM, “a tua família na Universidade”
+interviewer: Ana Marques
 ---
 
-SASUM, “a tua família na Universidade”
 
+SASUM, “a tua família na Universidade”
 No arranque de mais um ano lectivo e com a chegada de cerca de
 2000 novos alunos à Academia Minhota, o UMdicas foi entrevistar
 o Administrador dos SASUM, Eng. Carlos Silva e conhecer melhor
@@ -19,10 +19,8 @@ desta entrevista damos a saber aos novos residentes da UMinho e a toda a
 comunidade com o que podem contar em termos de Acção Social e
 afirmamos que podem contar com “uma extensão da vossa família na
 Universidade”.
-
 Ana Marques
 anac@sas.uminho.pt
-
 O Administrador dos SASUM é uma
 pessoa exigente no trabalho, com
 os seus colaboradores e consigo
@@ -47,7 +45,6 @@ designadamente as áreas dos
 recursos humanos, manutenção,
 informática, apoio jurídico e a
 Medicina do Trabalho.
-
 Como caracteriza os SASUM?
 Os SASUM são uma estrutura que
 tem como missão proporcionar
@@ -60,7 +57,6 @@ ajudar os estudantes a ter sucesso
 na sua vida académica e no tempo
 que passam na Universidade do
 Minho.
-
 Em que se baseia o lema “a tua
 família na Universidade”?
 Os SASUM pretendem ser
@@ -78,7 +74,6 @@ os SASUM fazem os possíveis por
 criar o conforto necessário para
 uma experiência positiva e bem
 sucedida na Universidade.
-
 Quais são os objectivos e
 políticas dos Serviços?
 Na prossecução dos seus
@@ -100,7 +95,6 @@ orientadora ao nível do Sistema de
 Gestão da Qualidade - SGQ e
 abrangendo todos os
 Colaboradores.
-
 Como estão organizados os
 SASUM?
 Os Serviços de Acção Social
@@ -122,7 +116,7 @@ Minho (SASUM) tem como
 dirigente máximo o Reitor da
 Universidade do Minho e tem, na
 sua definição orgânica, como
-órgãos principais:
+órgãos principais: 
 O Conselho de Acção Social (CAS),
 que é o órgão superior de gestão
 da Acção Social da Universidade do
@@ -157,7 +151,7 @@ Director de Serviços ou por um
 técnico superior nomeado por
 despacho do dirigente máximo.
 Os Departamentos são os
-seguintes:
+seguintes: 
 Gabinete do Administrador (GA);
 Departamento Administrativo e
 Financeiro (DAF);
@@ -166,7 +160,6 @@ Depar tamento Despor tivo e
 Cultural (DDC);
 Departamento de Apoio Social
 (DS).
-
 Os últimos anos ficam marcados
 por uma série de obras e
 investimentos dos SASUM na
@@ -211,7 +204,6 @@ qualificaram de forma
 significativa os seus espaços e
 que hoje se servem os estudantes
 com mais e melhor qualidade.
-
 A proximidade com os estudantes
 e com muitos dos seus problemas
 é uma das ver tentes mais
@@ -232,7 +224,6 @@ um dos estudantes é
 fundamental para os
 podermos ajudar de
 forma efectiva.
-
 Os SASUM adquiriram a
 Certificação de Qualidade no ano
 transacto. Quais têm sido as
@@ -249,7 +240,6 @@ forma é reconhecida pelas suas
 opiniões ou pelos resultados dos
 diferentes inquéritos de que
 realizamos anualmente.
-
 Os SASUM têm realizado
 inquéritos de avaliação da
 satisfação dos utentes. Quais os
@@ -280,7 +270,6 @@ trabalhar à velocidade
 que gostaríamos e que
 se sente como
 necessária.
-
 Recentemente as bolsas
 passaram a ser pagas
 directamente pelo MCTES. Quais
@@ -305,7 +294,6 @@ regras de uniformização a nível
 nacional para melhorar o sistema
 em termos de equidade e a justiça
 social.
-
 Quais as novidades para
 2010/2011 no âmbito da Acção
 Social na Universidade do Minho.
@@ -323,4 +311,4 @@ além disso o que podemos
 prometer é a continuidade de um
 trabalho com qualidade e
 direccionado para a satisfação de
-todos os que nos procuram.
+todos os que nos procuram.todos os que nos procuram.todos os que nos procuram.todos os que nos procuram.

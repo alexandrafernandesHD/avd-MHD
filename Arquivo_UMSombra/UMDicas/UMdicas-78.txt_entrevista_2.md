@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 78 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Carla Caçote
-Role: responsável do Sector de Recursos Humanos
-Date: Não encontrado
-Title: Sector de Recursos Humanos dos SASUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 78 - Ano 5
+university: Universidade do Minho
+interviewee: Carla Caçote
+role: responsável do Sector de Recursos Humanos
+date: 27 de Fevereiro de 2010
+title: Sector de Recursos Humanos dos SASUM
+interviewer: Ana Marques
 ---
+
 
 Sector de Recursos Humanos dos SASUM
 Carla Caçote é a responsável do Sector de Recursos Humanos
@@ -18,17 +19,14 @@ funções que desempenha actualmente. O SRH está integrado no Gabinete
 do Administrador, sendo constituído por uma equipa de quatro elementos,
 tem como principal função adoptar as políticas de recursos humanos de
 acordo com a estratégia, missão e objectivos dos Serviços.
-
 Ana Marques
 anac@sas.uminho.pt
-
 O UMdicas esteve à conversa com
 a responsável para saber mais
 pormenores sobre o SRH, como é
 trabalhar lá e papel que
 desempenha na estrutura dos
 SASUM.
-
 Quais são as funções que executa
 como responsável do SRH?
 Além das atribuições que constam
@@ -56,7 +54,6 @@ actividades do sector e
 colaboração no relatório anual de
 actividades e respectivo balanço
 social.
-
 Ser responsável pelo Sector de
 Recursos Humanos é um
 desafio?
@@ -77,7 +74,6 @@ sector, para que o mesmo
 acompanhe as mudanças e possa
 dar resposta atempada a todas as
 solicitações.
-
 Quais as principais dificuldades
 que encontra no
 desenvol vimento do seu trabalho?
@@ -120,7 +116,6 @@ Minho, que com a sua
 disponibilidade e experiência,
 contribuem positivamente para o
 meu desempenho profissional.
-
 O que significa para si trabalhar
 neste sector e nos SASUM?
 É aliciante. Trata-se de um sector
@@ -163,8 +158,7 @@ condicionantes na recente
 obtenção pelos Serviços de Acção
 Social da certificação conjunta
 segundo as normas
-ISO9001:2008 e ISO 22000:2005.
-
+ISO9001: 2008 e ISO 22000: 2005.
 Qual a função e importância
 deste sector no seio dos SASUM?
 Trata-se de um sector transversal
@@ -185,7 +179,6 @@ prossecução da política de
 Qualidade e a promoção da
 motivação e satisfação pessoal
 dos trabalhadores.
-
 Quais os principais objectivos
 deste sector?
 O principal objectivo do sector é
@@ -198,4 +191,4 @@ atempada a todas as solicitações
 dos trabalhadores, não
 descu ra ndo a qua l idade e
 eficiência necessárias ao bom
-funcionamento do mesmo.
+funcionamento do mesmo.funcionamento do mesmo.funcionamento do mesmo.funcionamento do mesmo.

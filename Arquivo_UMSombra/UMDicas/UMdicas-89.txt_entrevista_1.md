@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 89 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Mariana Falcão
-Date: 19 de Fevereiro de 2011
-Title: Nasci e cresci aqui, não fazia sentido escolher outra universidade
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 89 - Ano 6
+university: Universidade do Minho
+interviewee: Mariana Falcão
+date: 19 de Fevereiro de 2011
+title: Nasci e cresci aqui, não fazia sentido escolher outra universidade
+interviewer: Nuno Gonçalves
 ---
 
 Nasci e cresci aqui, não fazia sentido escolher outra universidade
@@ -14,10 +14,8 @@ SCBraga, é uma das grandes esperanças do voleibol português.
 Esta futura médica já representou por diversas vezes a Selecção
 Nacional A, tendo sido uma das figuras em destaque da equipa das Quinas,
 aquando da campanha de qualificação para o Europeu.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Pelo seu clube, o SCBraga, Mariana
 tem como momentos mais altos o
 título nacional de juvenis e a
@@ -25,13 +23,11 @@ presença na final da Taça de
 Portugal. Vamos então agora
 conhecer um pouco melhor esta
 atleta TUTORUM da UMinho.
-
 Com que idade é que iniciaste a
 prática competitiva do voleibol e
 onde?
 Com 12 anos, na Escola Secundária
 de Maximinos.
-
 Achas que o voleibol ajudou no
 teu desenvolvimento enquanto
 indivíduo?
@@ -39,7 +35,6 @@ Sim, foi e continua a ser uma
 prática muito importante na minha
 vida. Aprender a trabalhar em
 equipa é uma mais-valia enorme.
-
 Qual foi o papel da tua família no
 teu percurso enquanto atleta de
 alta competição?
@@ -54,12 +49,10 @@ passaram a acompanhar a minha
 jornada, e agora é costume verem
 os meus jogos e perguntarem
 pelas atletas.
-
 Quantas vezes treinas por
 semana, e quanto tempo?
 Treino cinco vezes por semana,
 cerca de duas horas por dia.
-
 A maneira como tu lidas com a
 pressão e a ansiedade antes dos
 jogos é algo que tu consegues
@@ -76,7 +69,6 @@ penso mais nisso. Ainda sinto
 aquelas borboletas na barriga, mas
 com o decorrer do jogo já nem me
 lembro disso.
-
 Qual foi o momento mais alto da
 tua carreira até ao momento?
 È uma pergunta difícil… Ser campeã
@@ -86,7 +78,6 @@ Confesso que ter jogado na Final da
 Taça de Portugal pelo Sporting
 Clube de Braga foi também uma
 experiência única.
-
 Quando é que foi a tua primeira
 vez de quinas ao peito e contra
 quem? Qual foi a sensação?
@@ -97,7 +88,6 @@ Ouvir o Hino Nacional é um
 momento mágico, mas não
 consigo descrever melhor a
 sensação.
-
 O que é que representa para ti a
 Selecção A?
 Representa, primeiramente, todo o
@@ -110,7 +100,6 @@ pessoal, r epr esenta u m
 reconhecimento do trabalho árduo
 e do suor que investimos em todos
 os treinos.
-
 O facto de competires pelo teu
 SCBraga condicionou a tua
 escolha de Universidades
@@ -119,7 +108,6 @@ Claro, não me imagino a jogar
 noutro clube. Nasci e cresci aqui,
 não fazia sentido escolher outra
 universidade.
-
 Qual é para ti a grande diferença
 entre a competição universitária
 e a federada?
@@ -130,7 +118,6 @@ entro em campo, quero ganhar e
 faço tudo o que estiver ao meu
 alcance para atingir o meu
 objectivo.
-
 A UMinho é campeã universitária
 em voleibol feminino há já quatro
 anos consecutivos e alcançou
@@ -143,7 +130,6 @@ tenho para ajudar a minha equipa.
 Todas (atletas da UMinho)
 queremos que a Universidade
 chegue o mais longe possível.
-
 Para muitos atletas de alta
 competição torna-se difícil
 conciliar os estudos com a
@@ -159,14 +145,12 @@ não estou com a minha família
 tantas vezes como gostaria… Mas
 foi uma decisão minha, e não estou
 arrependida de nada.
-
 O que é que te levou a optar pela
 Licenciatura em Medicina?
 É um curso muitíssimo
 interessante e espero que me traga
 alguma estabilidade no meu
 futuro.
-
 Os teus colegas e professores
 sabem que és atleta de alta
 competição? O que é que eles
@@ -180,7 +164,6 @@ aos professores, penso que não
 estão tão receptivos mas sinto que
 posso contar com a ajuda deles em
 qualquer altura.
-
 A UMinho iniciou em Portugal um
 programa pioneiro no que diz
 respeito ao apoio aos atletas de
@@ -199,16 +182,13 @@ que apostar nestes programas,
 pois a alta competição pode ser
 algo muito enriquecedor na vida
 dos estudantes.
-
 Já recebeste apoio através do
 TUTORUM? Se sim, de que forma?
 Ainda não, mas espero receber no
-futuro.
-
 Os teus objectivos pessoais
 passam por uma carreira
 profissional no voleibol ou os
 estudos vêm em primeiro lugar?
 Neste momento, concentro-me
 nos dois. Acho que prefiro pensar
-no presente...
+no presente...no presente...no presente...no presente...

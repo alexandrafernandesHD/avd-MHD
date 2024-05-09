@@ -1,14 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 76 - Ano 4
-University: Universidade do Minho
-Interviewee(s): António M. Cunha
-Topic: anseios, visões e projectos para o futuro da Academia
-Role: Reitor da UMinho
-Date: 3 de Janeirode 2010
-Title: Entrevista ao Prof. Doutor António M. Cunha
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 76 - Ano 4
+university: Universidade do Minho
+interviewee: António M. Cunha
+topic: anseios, visões e projectos para o futuro da Academia
+role: Reitor da UMinho
+date: 3 de Janeirode 2010
+title: Entrevista ao Prof. Doutor António M. Cunha
+interviewer: Ana Marques
 ---
+
 
 Entrevista ao Prof. Doutor António M. Cunha
 António M. Cunha, Reitor da UMinho desde 27 de Outubro de 2009
@@ -16,10 +17,8 @@ estará à frente dos destinos da Academia até 2013. Nascido no
 coração do Minho o actual reitor formou-se na Academia que
 agora dirige. O UMdicas esteve à conversa com o reitor para saber dos seus
 anseios, visões e projectos para o futuro da Academia.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Do seu curriculum consta já
 uma ampla carreira académica
 e científica, um vasto leque de
@@ -31,7 +30,6 @@ Universidade é um desafio para
 qualquer pessoa. Encaro-o com
 espírito de missão, mas com um
 grande prazer pessoal.
-
 Estará à frente dos destinos da
 UMinho de 2009-2013. Quais
 vão ser as suas prioridades
@@ -39,14 +37,13 @@ durante este período?
 Aprofundar a
 internacionalização da
 Universidade, a partir de três
-ideias-força:
+ideias-força: 
 consolidar a investigação,
 respondendo aos desafios do
 conhecimento; valorizar a
 oferta educativa e a educação
 integral; e aprofundar a
 interacção com a sociedade.
-
 Quais pensa serem as maiores
 dificuldades com que se irá
 deparar?
@@ -57,7 +54,6 @@ fortemente mobilizada em torno
 de objectivos estratégicos,
 todas as dificuldades de
 contexto serão ultrapassadas.
-
 A UM voltou a ter um
 administrador. O que esteve
 por detrás desta decisão?
@@ -67,7 +63,6 @@ existência também
 corresponde ao modelo de
 gestão subjacente à minha
 candidatura.
-
 Qual a contribuição que espera
 deste novo cargo na melhoria
 da administração da UMinho?
@@ -80,7 +75,6 @@ prestação pública de contas.
 Referiu em alguns meios de
 comunicação que a UMinho
 tem algumas fragilidades.
-
 Quais são para si essas
 fragilidades e como espera
 minimiza-las?
@@ -93,7 +87,6 @@ também falar da atractividade
 internacional, quedeverá ser
 generalizada e não estar
 limitada a algumas áreas.
-
 O reforço da interacção com a
 sociedade é uma das suas
 linhas estratégicas. O que está
@@ -110,7 +103,6 @@ nomeadamente cultural e
 científico-técnológico com
 impacto nos tecidos sociais e
 económico-produtivo.
-
 O que pensa sobre a oferta
 educativa existente
 actualmente na UMinho? É
@@ -124,7 +116,6 @@ pós-graduação,
 nomeadamente em áreas
 multidisciplinares e em
 horários pós-laborais.
-
 A UMinho já sente o problema
 da falta de alunos? O que
 pensam fazer para “chamar”
@@ -136,14 +127,12 @@ investigação e o seu
 consequente objectivo de
 afirmaçãoo internacional
 requerem selectividade.
-
 O alargamento dos horários de
 funcionamento das aulas, e a
 abertura da Universidade à
 noite será uma realidade na
 UMinho, para quando?
 Em Setembro de 2010.
-
 Qual será o objectivo desta
 medida, apenas aumentar o nº
 de alunos?
@@ -162,7 +151,6 @@ Universidade não pode
 esquecer que pode ter, a este
 nível, um papel
 importantíssimo.
-
 Neste âmbito teria que haver
 também uma adaptação de
 vários serviços, como
@@ -176,7 +164,6 @@ Orgânicas e Serviços – terão de
 interpretar a respectiva missão
 neste contexto, fazendo as
 necessárias adaptações.
-
 Continuar na melhoria das
 tarefas de ensino,
 investigação e extensão é um
@@ -188,7 +175,6 @@ essencial para o fortalecimento
 da afirmação da Universidade
 como instituição de referência
 nesses domínios.
-
 Um dos desafios estruturais do
 seu programa é “melhorar a
 qualidade de vida nos campi”.
@@ -208,7 +194,6 @@ energias a partir de fontes
 renováveis ou aumentar a
 oferta alimentar em períodos
 nocturnos ou de férias lectivas.
-
 Uma das fontes de receita das
 instituições são as propinas.
 Qual a sua opinião sobre a
@@ -224,7 +209,6 @@ aproveitamento é forçado a
 abandonar a Universidade por
 questões de sustentabilidade
 económica.
-
 Referiu que “É importante e é
 de elementar justiça social que
 não haja nenhum estudante
@@ -248,7 +232,6 @@ internos (sublinho que o
 enquad ra mento lega l é
 bastante restritivo para esta
 possibilidade).
-
 O abandono escolar é uma
 realidade que a conjuntura
 actual tem agravado. No seu
@@ -267,7 +250,6 @@ situações problemáticas e agir
 em conformidade. A este
 respeito, importa referir que
 cada caso é um caso.
-
 Os cortes orçamentais às
 universidades têm sido muitos
 e consequentemente
@@ -293,7 +275,6 @@ sentido, por isso é legítima a sua
 reivindicação de haver um
 reforço do financiamento do
 Estado ao sector.
-
 O desporto é uma das áreas
 com forte desenvolvimento na
 UMinho nos últimos anos,
@@ -312,7 +293,6 @@ orgulhar do seu percurso neste
 domínio, mas deve ser capaz de
 assumir objectivos mais
 ambiciosos.
-
 Foram entregues
 recentemente os Prémios de
 Mérito Desportivo, o que pensa
@@ -322,7 +302,6 @@ que evidencia a possibilidade de
 compatibilizar desempenho
 académico com prestação
 desportiva.
-
 A imagem de excelência da
 Uminho é muitas vezes
 passada através do desporto. A
@@ -334,7 +313,6 @@ Certamente que sim. Neste
 momento, não é possível
 antever o nível do apoio material
 a disponibilizar em 2010.
-
 As competições e eventos
 desportivos organizados pela
 UMinho têm sido muitos,
@@ -352,7 +330,6 @@ afirmarem como um local de
 acolhimento regular de
 competições desportivas
 universitárias internacionais.
-
 Que mensagem gostaria de
 deixar à Academia nesta
 altura?
@@ -360,4 +337,4 @@ Importa acreditar nas
 capacidades da instituição e
 nas nossas capacidades
 pessoais para construirmos o
-nosso futuro.
+nosso futuro.nosso futuro.nosso futuro.nosso futuro.

@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 81 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Paulo Cruz
-Topic: Escola de Arquitectura
-Date: 28 de Maio de 2010
-Title: Humanismo da Escola de Arquitectura permite fazer mais e melhor
-Interviewer: Luciana Silva
+journal: UMdicas
+issue: Edição nº 81 - Ano 5
+university: Universidade do Minho
+interviewee: Paulo Cruz
+topic: Escola de Arquitectura
+date: 28 de Maio de 2010
+title: Humanismo da Escola de Arquitectura permite fazer mais e melhor
+interviewer: Luciana Silva
 ---
 
 Humanismo da Escola de Arquitectura permite fazer mais e melhor
@@ -17,10 +17,8 @@ Arquitectura considera que olhares diferenciados sobre uma mesma área
 pode ser uma fonte de progresso. Defende também que a Arquitectura é
 uma área multidisciplinar, e apesar de ser formado numa área concorrente
 da Arquitectura, admite a urgência de um esforço de aproximação.
-
 Luciana Silva
 dicas@sas.uminho.pt
-
 Em 2004 foi convidado a presidir o
 então Departamento Autónomo de
 Arquitectura e acompanhou o
@@ -29,7 +27,6 @@ Escola de Arquitectura, sendo
 agora um dos responsáveis pela
 sua fase de valorização e
 consolidação.
-
 Como caracteriza a função do
 Presidente de Escola?
 Este é um cargo que exige total
@@ -58,7 +55,6 @@ aposta da UM em
 cursos de Artes
 Plásticas e Visuais e
 mesmo no Design.
-
 É um desafio ser presidente da
 Escola de arquitectura?
 Representa seguramente um
@@ -78,7 +74,6 @@ os mais fáceis, mas
 são mais
 importantes as
 decisões tomadas.
-
 Quais são na sua opinião os
 pontos fortes da Escola de
 Arquitectura?
@@ -108,7 +103,6 @@ elevados níveis de mobilidade
 estudantil; e também um alto nível
 de empregabilidade dos
 licenciados.
-
 Se tivesse de escolher um destes
 pontos fortes como o mais
 importante, aquele que melhor
@@ -126,10 +120,8 @@ permite ultrapassar
 as vicissitudes e
 procurar fazer mais
 e melhor.
-
 A comemorar 14 anos, como tem
 sido a evolução da Escola de
-Arquitectura?
 Os primeiros anos foram de
 instalação, a Escola foi crescendo
 a conta gotas. Essa primeira fase
@@ -154,7 +146,6 @@ serviço, para que também a
 comunidade mais próxima
 reconheça o papel que a Escola
 pode ter.
-
 O que a caracteriza relativamente
 às outras escolas do país?
 Na adequação a Bolon ha
@@ -177,7 +168,6 @@ predisposições que, a par do
 dinamismo do corpo docente,
 permitam que a Escola possa ser
 diferente.
-
 O que podem esperar os
 estudantes de Arquitectura, em
 termos de qualidade de ensino e
@@ -208,7 +198,6 @@ actividades extracurriculares, tais
 como visitas de estudo, ciclos de
 conferências, exposições,
 seminários, workshops e debates.
-
 Qual a Estratégia da Escola de
 Arquitectura para os próximos
 anos?
@@ -240,4 +229,4 @@ ser acreditado. E ainda reforçar os
 mecanismos de interacção com a
 sociedade, valorizando e
 promovendo o papel do Centro de
-Estudos.
+Estudos.Estudos.Estudos.Estudos.

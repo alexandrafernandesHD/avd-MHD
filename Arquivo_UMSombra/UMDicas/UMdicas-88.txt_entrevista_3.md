@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 88 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Leandro Almeida
-Topic: O Instituto de Educação (IE)
-Date: 25 de Janeiro de 2011
-Title: Entrevista ao Presidente do Instituto de Educação (IE)
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 88 - Ano 6
+university: Universidade do Minho
+interviewee: Leandro Almeida
+topic: O Instituto de Educação (IE)
+date: 25 de Janeiro de 2011
+title: Entrevista ao Presidente do Instituto de Educação (IE)
+interviewer: Ana Marques
 ---
+
 
 Entrevista ao Presidente do Instituto de Educação (IE)
 O Instituto de Educação (IE) possui uma oferta formativa
@@ -16,10 +17,8 @@ educação para diversos contextos educativos, escolares e não
 escolares. Ao nível da graduação inclui duas licenciaturas: em educação e
 em educação básica. Ao nível da pós-graduação oferece um leque
 diversificado de mestrados e doutoramentos.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Leandro Almeida, presidente do
 Instituto de Educação (IE), afirma
 que a escola tem no seu corpo
@@ -28,7 +27,6 @@ amplo campo de actuação as suas
 grandes mais-valias, sendo
 necessária uma maior aposta na
 investigação.
-
 Como caracteriza a sua função de
 Presidente da Escola?
 Diria que um misto de mobilizador e
@@ -50,7 +48,6 @@ mobilizá-los para os desafios até
 porque as suas competências em
 várias áreas se sobrepõem às do
 presidente.
-
 É um desafio ser Presidente do
 Instituto de Educação (IE)?
 Vivemos tempos que uns dizem
@@ -81,7 +78,6 @@ docentes e trabalhadores não
 docentes. Motivá-los para mais
 tarefas e responsabilidades é
 desafio para qualquer presidente.
-
 Quais são as maiores dificuldades
 que sente no cumprimento da sua
 função?
@@ -98,7 +94,6 @@ colegas, fui perdendo parcerias no
 país e no estrangeiro, acabando por
 não acompanhar grupos que eu
 ajudei a criar.
-
 Quais são na sua opinião os pontos
 fortes do IE?
 Desde logo é uma Escola nem
@@ -128,7 +123,6 @@ de professores e de outros técnicos
 de educação, e todos eles de
 formação contínua para se
 manterem actualizados.
-
 Se tivesse que escolher um destes
 pontos for tes como o mais
 importante, aquele que melhor
@@ -149,7 +143,6 @@ preside ao IE é uma honra ver esses
 colegas transportar o nome do
 Instituto e da Universidade nos
 serviços relevantes que prestam.
-
 E os pontos fracos?
 Temos também alguns pontos
 fracos. Um deles é a investigação.
@@ -210,7 +203,6 @@ resolver os problemas de serviços e
 funcionários, esperando que em
 2011 consigamos a eficiência e a
 estabilidade necessárias.
-
 Qual tem sido a evolução do IE no
 decorrer destes anos? O que na
 sua opinião mais o tem feito
@@ -242,7 +234,6 @@ completa. Voltando à pergunta, diria
 que a evolução social nos tem feito
 redireccionar os nossos projectos e
 evoluir.
-
 O que a caracteriza relativamente
 às outras escolas/institutos do
 país?
@@ -271,7 +262,6 @@ dificuldades de novos
 recrutamentos e de abertura de
 concursos é evitar perdermos
 docentes para outras instituições.
-
 Estes elementos diferenciadores
 serão motivos suficientes para
 que os alunos escolham o IE da
@@ -292,7 +282,6 @@ pois só nos damos conta da sua
 importância quando se torna muito
 tóxico ou quando não o temos para
 respirar.
-
 O que podem esperar os nossos
 estudantes do IE, em termos de
 qualidade de ensino e de inserção
@@ -317,7 +306,6 @@ com um pouco de
 empreendedorismo se tornam
 profissionais de sucesso na
 sociedade dos nossos dias.
-
 O Instituto, como a própria
 Universidade tem sofrido
 alterações a vários níveis nos
@@ -340,4 +328,4 @@ iremos melhorar a avaliação dos
 Centros de investigação e fortalecer
 a nossa capacidade de atracção de
 alunos internacionais
-doutoramento.
+doutoramento.doutoramento.doutoramento.doutoramento.

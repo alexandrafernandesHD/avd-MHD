@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 71 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Eng. Celeste Pereira
-Topic: O Departamento Alimentar (DA) dos Serviços de Acção Social
-Role: responsável do DA
-Date: 24 de Julho de 2009
-Interviewer: Ana Marques anac
+journal: UMdicas
+issue: Edição nº 71 - Ano 4
+university: Universidade do Minho
+interviewee: Eng. Celeste Pereira
+topic: O Departamento Alimentar (DA) dos Serviços de Acção Social
+role: responsável do DA
+date: 24 de Julho de 2009
+interviewer: Ana Marques
 ---
+ anac
 
 Entrevista a Eng. Celeste Pereira
 Responsável do Departamento Alimentar
@@ -18,10 +19,8 @@ esteve à conversa com a responsável do DA, Eng. Celeste Pereira que nos
 refere, para além de outras coisas que “na Universidade do Minho
 encontramos refeições equilibradas, variadas e com uma enorme garantia de
 segurança alimentar”.
-
 Ana Marques anac
 @sas.uminho.pt
-
 Como responsável pelo
 Departamento Alimentar, como
 define os Serviços Alimentares dos
@@ -35,7 +34,7 @@ alimentação.
 O Departamento Alimentar tem quatro
 objectivos principais relacionados
 com as suas principais áreas de
-responsabilidade:
+responsabilidade: 
  Manter um sistema de gestão de
 s e g u r a nç a a l i menta r ef i ca z ,
 conseguindo assim a confiança dos
@@ -44,7 +43,7 @@ alimentares dos SASUM (o objectivo
 para 2009 é a certificação de TODAS
 AS UNIDADES ALIMENTARES DOS
 SA SUM PELO REFERÊNCIAL
-NORMATICVO ISO 22000:2005);
+NORMATICVO ISO 22000: 2005);
  Outro objectivo importante é o de
 assegurar a formação dos nossos
 colaborador es em á r eas que
@@ -64,7 +63,6 @@ com a performance das unidades, os
 gastos, os desperdícios, etc… são
 também alvo de avaliação e
 acompanhamento.
-
 Qual o balanço que se pode fazer no
 final de mais um ano lectivo?
 A nossa avaliação de objectivos é
@@ -91,10 +89,9 @@ aos nossos clientes, começamos já a
 trabalhar numa solução para
 melhorar este serviço no próximo ano
 lectivo.
-
 Por quantas unidades é composto?
 O Departamento Alimentar é
-composto por 22 Unidades:
+composto por 22 Unidades: 
 Complexo de Braga = Bar do CP1; Bar
 do CP2; Bar dos Professores, Bar do
 CP3; Bar 4 (ENG/ICS); Bar 5 – ECS; Bar
@@ -106,7 +103,6 @@ Engenharia I; Bar Engenharia II; Bar
 Arquitectura; Bar do Auditório; Bar das
 Residências; Cantina; Rampa B; Grill;
 Bar do Grill.
-
 Quais são as suas valências?
 As Cantinas servem refeições, de
 almoço e jantar, completas e
@@ -127,12 +123,10 @@ cafetaria acrescido de sopa e
 servindo, em alguns deles, refeições
 ligeiras de snack, para além das
 sandes de pastas e outras.
-
 Em números, quais são os recursos
 humanos afectos ao DA?
 O DA é composto por 145
 colaboradores.
-
 O DA está a trabalhar para a
 certificação do serviço. Para
 quando a finalização do processo?
@@ -152,11 +146,10 @@ qualidade) em Novembro. Assim, até
 ao final do ano o departamento
 alimentar terá todas as suas unidades
 certificadas pelo Norma ISO
-22000:2005 (gestão da segurança
+22000: 2005 (gestão da segurança
 alimentar) e os SASUM todos os seus
 serviços certificados pela norma ISO
-9001:2008 (gestão da qualidade).
-
+9001: 2008 (gestão da qualidade).
 O que tem abarcado todo este
 processo?
 Acima de tudo muito trabalho! Nada se
@@ -169,7 +162,7 @@ pessoas que conhecem minimamente
 esta área, facilmente compreenderão
 o trabalho envolvido na
 implementação dos requisitos da ISO
-22000:2008 para 22 unidades
+22000: 2008 para 22 unidades
 alimentares em simultâneo.
 Em 2004 começamos por fazer um
 levantamento exaustivo de todas as
@@ -193,7 +186,6 @@ este percurso continuamos a abrir
 novas unidades, inovar em produtos,
 melhorar processos, ementas,
 serviços, etc...
-
 Qual o objectivo desta certificação e
 suas implicações no serviço e na
 vida da comunidade académica?
@@ -219,7 +211,6 @@ conhecem os nossos produtos,
 sentem-se mais próximos para
 sugerir, porque percebem que
 estamos sempre abertos á melhoria.
-
 Assistimos no ano transacto a
 várias mudanças, em termos de
 estrutura de bares e suas valências.
@@ -246,13 +237,11 @@ patamar de exigência acima do limiar
 de satisfação normal já atingido, isto é,
 nota-se que temos clientes cada vez
 mais exigentes.
-
 Como se come na UMinho?
 Na Universidade do Minho
 encontramos refeições equilibradas,
 variadas e com uma enorme garantia
 de segurança alimentar.
-
 Tem sido notória a melhoria da
 qualidade das ementas das
 cantinas. Como são feitas? Têm o
@@ -268,7 +257,6 @@ momento nenhuma alteração é feita
 nas ementas sem a aprovação desta
 equipa e o acompanhamento dos
 responsáveis de refeitórios.
-
 Qual o feedback que têm recebido da
 parte da comunidade académica?
 Uma vez mais, muito bom. Os níveis de
@@ -279,7 +267,6 @@ elogios fazem-se sentir.
 Continuam ainda a pedir as semanas
 temáticas, ao que nós temos dado
 resposta.
-
 Na sua opinião, ainda existe
 resistência ao peixe, verduras,
 leguminosas ou já se nota uma
@@ -290,11 +277,10 @@ uma obrigação fazer esta “educação”
 alimentar dos nossos clientes. Passa
 por eles depois a decisão de comer ou
 não esses alimentos mais saudáveis.
-Mas, como se costuma dizer:
+Mas, como se costuma dizer: 
 “o hábito
 faz o monge”! E nós estamos cá para
 contribuir para essa habituação.
-
 Assistimos à instalação de
 máquinas de venda automática
 pelos campi. Não será um contra
@@ -329,7 +315,6 @@ exemplo.
 Não podemos no entanto esquecer
 que quem procura o vending quer fazer
 um snack e não uma refeição.
-
 Qual a razão para a promoção das
 semanas temáticas como “lasanha”,
 “pizza”, “cachorro quente”, quando
@@ -369,7 +354,6 @@ que este pratos são introduzidos nas
 semanas temáticas como prato
 alternativo à ementa do dia, e nunca
 como prato único.
-
 Para além da refeição “normal”, as
 cantinas oferecem ainda as
 refeições vegetarianas. Qual tem
@@ -387,7 +371,6 @@ tipo de refeições, sendo que a
 expectativa é a de uma melhoria nas
 mesmas e consequente aumento da
 procura.
-
 Em termos de qualidade destas, o
 que nos tem a dizer?
 A qualidade sob o ponto de vista
@@ -402,7 +385,6 @@ tanto esta nova ementa. Percebemos o
 estilo de refeições que agradavam aos
 nossos clientes, e vamos tentar
 reproduzi-las.
-
 Para o novo ano lectivo estão
 previstas algumas novidades?
 Organizamos este ano um seminário
@@ -416,4 +398,4 @@ Achamos que essa é também a nossa
 função nesta comunidade. Por isso a
 realização de seminários relacionados
 com várias temáticas pode ser uma
-das apostas do próximo ano.
+das apostas do próximo ano.das apostas do próximo ano.das apostas do próximo ano.das apostas do próximo ano.

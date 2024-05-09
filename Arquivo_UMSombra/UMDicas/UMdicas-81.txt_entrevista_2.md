@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 81 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Ana Gabriela Osório
-Topic: Sector de Alojamento
-Date: 28 de Maio de 2010
-Title: Sector de Alojamento dos SASUM
-Interviewer: Ana MArques
+journal: UMdicas
+issue: Edição nº 81 - Ano 5
+university: Universidade do Minho
+interviewee: Ana Gabriela Osório
+topic: Sector de Alojamento
+date: 28 de Maio de 2010
+title: Sector de Alojamento dos SASUM
+interviewer: Ana Marques
 ---
 
 Sector de Alojamento dos SASUM
@@ -19,10 +19,8 @@ indirecto aos alunos.
 O UMdicas esteve à conversa com a responsável para saber mais
 pormenores sobre o SA, como é o seu dia-a-dia, como está organizado e seu
 papel no seio dos SASUM.
-
-Ana MArques
+Ana Marques
 anac@sas.uminho.pt
-
 Esteve sempre ligada à área do
 Alojamento?
 Sim. Embora tenha colaborado
@@ -40,7 +38,6 @@ resolver, em articulação com o
 sector de bolsas as questões que
 se colocam associadas às bolsas
 de estudo dos alunos residentes.
-
 O que significa para si trabalhar
 neste sector e nos SASUM?
 Foi uma opção pessoal que se
@@ -52,7 +49,6 @@ alojamento dos alunos, à vertente
 operacional relacionada com o
 funcionamento da Residência e o
 bem-estar dos residentes.
-
 Como está organizado este
 sector?
 O Sector de Alojamento é
@@ -63,7 +59,6 @@ assistentes técnicas e 23
 assistentes operacionais. Esta
 estrutura depende directamente
 do Departamento de Apoio Social.
-
 Qual a função e importância
 deste sector no seio dos SASUM?
 Um dos principais objectivos dos
@@ -89,9 +84,7 @@ quase 24 horas por dia não for
 competente e organizado, toda a
 imagem dos SA SUM fica
 comprometida à partida.
-
 Quais os principais objectivos do
-sector?
 Ao sector de alojamento compete
 atribuir alojamento nas
 Residências Universitárias e
@@ -136,7 +129,6 @@ que permita manter a satisfação
 dos residentes numa taxa acima
 dos 80% e conseguir uma taxa de
 ocupação acima dos 95%.
-
 Qual o modo de funcionamento?
 Embora seja na sede que os
 responsáveis do alojamento
@@ -157,14 +149,12 @@ blocos residenciais em
 Residências Universitárias – 6 em
 Braga e 4 em Guimarães, com uma
 capacidade global de 1401 camas.
-
 Ser responsável por este sector é
 um desafio?
 Com certeza, uma vez que a
 gestão de 1401 camas todos os
 dias nos obriga a ter novas
 soluções para novos problemas.
-
 Quais são as tarefas diárias do
 responsável do sector?
 As tarefas a desenvolver neste
@@ -210,4 +200,4 @@ que concerne à segurança, tem
 vindo a permitir dar uma resposta
 adequada às questões que
 surgem dentro deste âmbito na
-referida Residência.
+referida Residência.referida Residência.referida Residência.referida Residência.

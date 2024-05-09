@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 85 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Luís Rodrigues
-Role: presidência da AAUM
-Date: 19 de Outubro de 2010
-Title: Entrevista com Luís Rodrigues, Presidente da AAUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 85 - Ano 5
+university: Universidade do Minho
+interviewee: Luís Rodrigues
+role: presidência da AAUM
+date: 19 de Outubro de 2010
+title: Entrevista com Luís Rodrigues, Presidente da AAUM
+interviewer: Ana Marques
 ---
+
 
 Entrevista com Luís Rodrigues, Presidente da AAUM 
 Luís Rodrigues assumiu a presidência da AAUM a15 de Janeiro de
@@ -19,10 +20,8 @@ mas que têm vindo a desempenhar um trabalho quase profissional,
 rigoroso, responsável e, acima de tudo, com um sentido de compromisso
 muito forte para com a AAUM, UMinho e para com todos os estudantes que
 os elegeram.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Quais os desafios que lhe
 pareciam, há um ano atrás, mais
 complicados de ultrapassar e
@@ -44,7 +43,6 @@ vieram a reflectir na
 eficácia que cada
 actividade/projecto
 trouxeram consigo.
-
 Sente que este cargo o obrigou a
 um grande crescimento, como
 pessoa? Houve muita
@@ -89,7 +87,6 @@ aprende nas salas de
 aula e cultivam valores
 cada vez mais raros na
 sociedade.
-
 Quais as actividades que mais o
 entusiasmaram, pelo desafio que
 constituíram?
@@ -140,7 +137,6 @@ sempre, são outras actividades,
 que pelo seu carácter lúdico
 despertam outro tipo de
 sentimentos.
-
 Sente que muito ainda está por
 fazer? Se sim, o quê?
 Haverá sempre muito
@@ -185,7 +181,6 @@ E teremos, ainda, dezenas de
 actividades/iniciativas de âmbito
 social, cultural, despor tivo,
 pedagógico...
-
 Muitas vezes encaram-se certas
 actividades, como o Enterro ou a
 Gata na Praia, como, de certa
@@ -208,7 +203,6 @@ desportivas. Em comum terão os
 momentos muito próprios e por
 conseguinte diferentes de
 natureza lúdica.
-
 Como encara o actual panorama
 universitário português, com
 especial incidência na academia
@@ -235,7 +229,6 @@ solidariedade fortes no
 seio do associativismo
 universitário Português
 na sua globalidade.
-
 A Acção social é um assunto ao
 qual é impossível ficar
 indiferente neste início de ano. O
@@ -295,7 +288,6 @@ Director-Geral fazerem algumas
 horas extraordinárias que lhes
 permitam finalizar o regulamento
 de atribuição de bolsas.
-
 Que desafios se deparam no
 caminho de um estudante, no
 contexto de 2010 ? Esses
@@ -316,7 +308,6 @@ desempenhos académicos. Há
 que estar atento a estes
 desenvolvimentos e a AAUM fá-lo-
 á concerteza.
-
 Tem sido difícil adaptar a AAUM a
 esses novos paradigmas?
 Não. A AAUM possui
@@ -331,7 +322,6 @@ problemas. Por
 conseguinte,
 possuímos soluções
 pensadas e planeadas.
-
 Ser dirigente de um órgão como a
 AAUM é mais fácil ou mais difícil
 do que há dez anos? Porquê?
@@ -346,7 +336,6 @@ serem mais arrojadas em outros.
 Por ou tro, e por to da a
 responsabilidade de que já falei,
 mais difícil, certamente.
-
 Considera o seu cargo político?
 É um cargo mais ou
 menos político
@@ -364,7 +353,6 @@ dificuldade em conotar o lugar de
 um dirigente associativo –
 estudantil – voluntário como um
 cargo político.
-
 Consegue elencar-me quais
 poderão ser as "bandeiras" da
 AAUM para um futuro mandato?
@@ -381,7 +369,6 @@ estudantes da UMinho no que diz
 respeito aos seus interesses,
 estaremos sempre onde não
 seremos bem-vindos.
-
 Tem sido notório o crescimento,
 em actividade e estatuto, da
 AAUM na região. Ainda há muito
@@ -421,7 +408,6 @@ eventos nacionais e
 internacionais, ou social, há,
 certamente, muito por onde
 trabalhar e crescer.
-
 Nota-se uma grande
 continuidade nos corpos sociais
 da AAUM. Esse é o segredo do
@@ -436,7 +422,6 @@ renovação. Parece-me que o
 sucesso do crescimento e da
 afirmação da Associação
 Académica reside nesse equilíbrio.
-
 A nova sede da AAUM será uma
 realidade? Para quando?
 A nova sede é um objectivo muito
@@ -445,4 +430,4 @@ várias direcções e pelos últimos
 presidentes que a AAUM conheceu.
 Mais do que um objectivo, será
 uma realidade a curto/médio
-prazo.
+prazo.prazo.prazo.prazo.

@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 80 - Ano 5
-University: Universidade do Minho
-Interviewee(s): José Pedro Ferreira
-Topic: pormenores sobre o SI, como é o seu dia-a-dia
-Date: 21 de Abril de 2010
-Title: Sector de Informática dos SASUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 80 - Ano 5
+university: Universidade do Minho
+interviewee: José Pedro Ferreira
+topic: pormenores sobre o SI, como é o seu dia-a-dia
+date: 21 de Abril de 2010
+title: Sector de Informática dos SASUM
+interviewer: Ana Marques
 ---
+
 
 Sector de Informática dos SASUM
 José Pedro Ferreira é o responsável do Sector de Informática dos
@@ -19,10 +20,8 @@ acesso e uma correcta utilização dos instrumentos informáticos.
 O UMdicas esteve à conversa com o responsável para saber mais
 pormenores sobre o SI, como é o seu dia-a-dia, como está organizado e seu
 papel no seio dos SASUM.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Há quantos anos está a trabalhar
 nos SASUM ?
 Iniciei a minha colaboração com os
@@ -34,17 +33,14 @@ partir daí, uma ligação a estes
 serviços no apoio informático em
 diversas áreas. Ingressei em 1994
 como funcionário dos SASUM.
-
 Qual a sua área de formação?
 Fiz a licenciatura em Engenharia de
 Sistemas e Informática na
 Universidade do Minho.
-
 Esteve sempre na área da
 Informática?
 Sim, sempre exerci a minha
 actividade na área da informática.
-
 O que significa para si trabalhar
 neste sector e nos SASUM?
 É gratificante fazer parte desta
@@ -65,7 +61,6 @@ conhecimento das actividades de
 todos os outros departamentos e
 sectores, contribuindo para o seu
 bom funcionamento.
-
 Como está organizado este sector?
 Este sector é constituído por um
 responsável de sector, 2
@@ -76,7 +71,6 @@ principal no controlo de propinas.
 Esta estrutura depende
 directamente do Gabinete do
 Administrador.
-
 Qual a função e importância deste
 sector no seio dos SASUM?
 A actividade deste sector pretende,
@@ -88,7 +82,6 @@ correcta utilização dos
 instrumentos informáticos que lhe
 permitam atingir os seus objectivos
 com maior eficácia.
-
 Quais os principais objectivos
 deste sector?
 Pretendemos fazer uma gestão
@@ -110,7 +103,6 @@ correcta utilização de todos os
 sistemas instalados, minimizando o
 tempo de resposta aos pedidos de
 apoio técnico.
-
 Qual o modo de funcionamento?
 No dia-a-dia, o sector de informática
 faz uma gestão centralizada de
@@ -125,7 +117,7 @@ Gabinete de Sistemas de
 Informação da Universidade do
 Minho (GSI). Ao longo do ano
 anterior, no âmbito do processo de
-certificação ISO 9001:2008, foram
+certificação ISO 9001: 2008, foram
 registadas taxas de 100% na
 execução de intervenções de
 gestão de consumíveis, e da ordem
@@ -150,7 +142,6 @@ estudantes dos cursos de
 Graduação, em colaboração estreita
 com o Sector de Bolsas, os Serviços
 Académicos e o GSI.
-
 Ser responsável por este sector é
 um desafio?
 É, sem dúvida, um desafio. Poucas
@@ -167,7 +158,6 @@ proporcionar a redução dos custos
 que lhe estão associados e agilizar o
 relacionamento com os cidadãos e
 com as outras entidades.
-
 Quais são as tarefas diárias do
 responsável do sector?
 As tarefas associadas à
@@ -181,7 +171,6 @@ colaboração com o Departamento
 Social no âmbito do processo de
 Bolsas de Estudo e outras tarefas
 associadas ao controlo de propinas.
-
 Quais as principais dificuldades
 que encontra no desenvolvimento
 do seu trabalho?
@@ -198,10 +187,9 @@ têm sido ultrapassadas graças ao
 profissionalismo e generosidade
 dos colaboradores que me
 acompanham nesta equipa.
-
 Quantas pessoas trabalham neste
 sector?
 Actualmente, este sector conta com
 quatro elementos: eu, o Rui Rebelo, o
 Maurício Queiroz e a Ana Paula
-Berenguer.
+Berenguer.Berenguer.Berenguer.Berenguer.

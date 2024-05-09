@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 70 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Eng. Carlos Silva
-Date: 27 de Junho de 2009
-Title: Entrevista ao Administrador dos SASUM, Eng. Carlos Silva
-Interviewer: Redacção
+journal: UMdicas
+issue: Edição nº 70 - Ano 4
+university: Universidade do Minho
+interviewee: Eng. Carlos Silva
+date: 27 de Junho de 2009
+title: Entrevista ao Administrador dos SASUM, Eng. Carlos Silva
+interviewer: Redacção
 ---
 
 Entrevista ao Administrador dos SASUM, Eng. Carlos Silva
@@ -14,10 +14,8 @@ conversa com o Administrador dos Serviços de Acção Social da
 Universidade do Minho (SASUM), para fazer um balanço do que foi
 a actividade dos Serviços neste ano lectivo e apontar alguns caminhos em
 direcção ao futuro.
-
 Redacção
 dicas@sas.uminho.pt
-
 Como Administrador dos SASUM,
 no final de mais um ano lectivo
 que balanço faz dos serviços
@@ -59,7 +57,7 @@ qualidade e segurança alimentar e
 a prossecução do
 acompanhamento do processo de
 certificação de todas as Unidades
-pela Norma ISO 22000:2005, as
+pela Norma ISO 22000: 2005, as
 intervenções efectuadas nas
 Residências Universitárias, tendo
 em vista a melhoria da qualidade
@@ -72,8 +70,8 @@ principais de actuação dos
 Serviços em 2008. Ainda em 2008
 foi dado início ao processo formal
 de certificação global dos SASUM
-pela Norma ISO 9001:2008 e à
-norma ISO 22000:2005.
+pela Norma ISO 9001: 2008 e à
+norma ISO 22000: 2005.
 Como balanço geral,
 posso adiantar que
 têm sido anos de
@@ -96,7 +94,6 @@ Avaliação e Responsabilização),
 ao Relatório de Auto-Avaliação e
 aos Relatório de Actividades e
 Contas.
-
 Face à conjuntura actual,
 verificaram-se mais pedidos de
 bolsa este ano?
@@ -110,7 +107,6 @@ aumentado de forma significativa.
 O Minho é uma das zonas do país
 com o PIB mais baixo, o que
 potencia estes aumentos.
-
 Para o ano lectivo que se
 aproxima, os alunos podem
 contar com melhorias
@@ -140,7 +136,6 @@ aplicação para o próximo ano
 lectivo porque os SAS ainda não
 têm conhecimento das alterações
 legislativas que estão a ser feitas.
-
 Depois das intervenções e
 melhoramentos em vários
 serviços dos SASUM no ano
@@ -179,26 +174,24 @@ debilidades
 expressas pelos
 membros da
 Academia.
-
 Está em curso a certificação dos
 serviços. Para quanto está
 prevista a sua conclusão?
 Tanto a certificação segundo a
-norma ISO 22000:2005 como a
-ISSO 9001:2008 estão em curso e
+norma ISO 22000: 2005 como a
+ISSO 9001: 2008 estão em curso e
 pelo menos a ISO 220000 estará
 concluída em 2009, mas vamos
 tentar superar os nossos
 objectivos e tentar concluir as
 duas ainda este ano.
-
 Qual é a situação actual deste
 processo?
 Actualmente estamos na fase
 terminal da certificação de todas
 as Unidades do Departamento
 Alimentar pela Norma ISO
-22000:2005. O sistema de Gestão
+22000: 2005. O sistema de Gestão
 de Segurança Alimentar, de acordo
 com esta norma, está já acima dos
 80% do seu trabalho global. O
@@ -215,7 +208,7 @@ se a todas as alterações
 técnicas e estruturais
 necessárias.
 Em relação à norma ISO
-9001:2008, o trabalho
+9001: 2008, o trabalho
 desenvolvido este ano
 lectivo e que está a cerca
 de 70% da sua totalidade,
@@ -235,7 +228,6 @@ Informação e Apoio às
 Actividades Desportivas e
 Culturais), com vista à
 certificação. As tarefas
-de senvolvidas pelos
 SASUM foram,
 designadamente,
 estabelecer a rede de
@@ -276,7 +268,6 @@ desejado e de
 forma positiva
 junto daqueles que
 servimos.
-
 Os SASUM candidataram-se a
 vários projectos de
 financiamento no âmbito do
@@ -345,7 +336,6 @@ como uma referência em
 termos de inovação para
 outros serviços similares
 no País.
-
 Com ou sem
 financiamento quais são
 os projectos mais
@@ -380,7 +370,6 @@ concorrer às oportunidades de
 financiamento que forem surgindo
 em função das áreas e dos
 projectos a que for elegível.
-
 Algumas valências dos SASUM,
 tais como alojamento, serviços
 de alimentação e actividades
@@ -416,7 +405,6 @@ iniciativa resulte, alargaremos os
 serviços e também adequaremos
 a oferta com as unidades de
 Guimarães.
-
 Qualquer pessoa se pode
 inscrever?
 Temos como segmento alvo a
@@ -425,4 +413,4 @@ internacional, no entanto,
 estamos preparados para dar
 resposta a procuras no âmbito da
 actividade de lazer e turismo de
-outros públicos.
+outros públicos.outros públicos.outros públicos.outros públicos.

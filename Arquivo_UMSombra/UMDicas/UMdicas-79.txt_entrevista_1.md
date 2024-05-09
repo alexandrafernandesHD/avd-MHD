@@ -1,16 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 79 - Ano 5
-University: Universidade do Minho
-Interviewee(s): Sr. Manuel Rocha
-Topic: Cantina de Sta Tecla
-Date: 25 de Março de 2010
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 79 - Ano 5
+university: Universidade do Minho
+interviewee: Sr. Manuel Rocha
+topic: Cantina de Sta Tecla
+date: 25 de Março de 2010
+interviewer: Ana Marques
 ---
+
 
 Apresentação das Unidades de serviço Alimentar
 Cantina de Sta Tecla- Braga
-
 Esta unidade alimentar, situada no complexo Residencial de Santa
 Tecla, no pólo de Braga, é a mais antiga dos serviços, tendo entrado
 em funcionamento em 1988 e sofrido obras de beneficiação em
@@ -19,30 +19,24 @@ das 19h00 às 20h30. Aos domingos, os utentes que o desejem, utilizam um
 restaurante privado, com o qual os serviços têm um protocolo
 comparticipando parte dos custos da refeição. Esta cantina tem capacidade
 para servir 750 refeições por hora.
-
 Ana Marques
 anac@sas.uminho.pt
-
 O UMdicas esteve à conversa com o
 responsável desta unidade
 alimentar, o Sr. Manuel Rocha para
 saber como é trabalhar e coordenar
 esta unidade alimentar dos SASUM.
-
 Há quantos anos pertence ao
 Departamento Alimentar?
 Estou no Departamento Alimentar há
 29 anos.
-
 O que significa para si trabalhar no
-Departamento Alimentar?
 É bom, é uma satisfação enorme pois
 gosto muito do que faço. Sempre
 trabalhei na restauração desde os
 meus 14 anos. Gosto de trabalhar
 nesta área e de pertencer ao
 Departamento Alimentar.
-
 Tem alguma formação específica na
 área da restauração?
 A formação que tenho é mesmo a
@@ -53,7 +47,6 @@ Depar tamento Alimentar tem
 promovido, que são principalmente
 a nível da higiene e segurança
 alimentar.
-
 Que funções desempenhou até
 ficar como responsável da cantina?
 Como já disse trabalho na área desde
@@ -64,7 +57,6 @@ onde vim trabalhar, primeiro como
 ajudante de cozinheiro e depois
 assumi a responsabilidade de liderar
 esta equipa.
-
 Ser responsável da cantina é para si
 um desafio?
 É um grande desafio mesmo. É muita
@@ -72,7 +64,6 @@ responsabilidade, são muitas as
 tarefas diárias. É preciso uma grande
 responsabilidade, mas gosto muito
 de trabalhar cá.
-
 É fácil coordenar esta unidade
 alimentar? Quais são as maiores
 dificuldades?
@@ -89,7 +80,6 @@ dia, etc. Mas a experiencia já me
 ensinou muito e o que inicialmente
 era complicado agora é muito mais
 fácil.
-
 Na sua opinião os utentes da
 cantina são bem servidos em
 termos de qualidade alimentar e
@@ -100,12 +90,10 @@ acessíveis. A qualidade tem sido
 uma das maiores aposta do serviço e
 tentamos sempre servir os utentes o
 melhor que podemos.
-
 Quais são as reclamações (se as
 houver) mais frequentes?
 A verdade é que nunca tive nenhuma
 reclamação no meu serviço.
-
 Qual o procedimento quando algum
 utente reclama do serviço?
 Se por acaso algum dia houver
@@ -123,14 +111,12 @@ exterior são mais caros, por isso
 compensa os estudantes comerem
 cá pois têm muito boa qualidade e
 um óptimo preço.
-
 Se fosse estudante, a cantina seria
 o seu local de eleição para
 almoçar/jantar? Porque?
 Sim claro. Seria com certeza o local
 onde eu faria as minhas refeições.
-
 Por quantos elementos é
 constituída a sua equipa?
 A minha equipa é constituída por 12
-elementos.
+elementos.elementos.elementos.elementos.

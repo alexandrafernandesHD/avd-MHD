@@ -1,31 +1,28 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 76 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Carlos Silva
-Topic: SASUM alcançam dupla certificação
-Date: 3 de Janeirode 2010
-Title: Os SASUM atingiram um patamar de excelência que lhes conferiu a dupla certificação ISO por parte da APCER. Quais foram essas certificações?
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 76 - Ano 4
+university: Universidade do Minho
+interviewee: Carlos Silva
+topic: SASUM alcançam dupla certificação
+date: 3 de Janeirode 2010
+title: Os SASUM atingiram um patamar de excelência que lhes conferiu a dupla certificação ISO por parte da APCER. Quais foram essas certificações?
+interviewer: Nuno Gonçalves
 ---
 
 SASUM alcançam dupla certificação
 Os SASUM atingiram um patamar de excelência que lhes conferiu a dupla certificação ISO por parte da APCER. Quais foram essas certificações?
-
 Os Serviços de Acção Social da Universidade do Minho (SASUM)
 receberam recentemente uma dupla certificação por parte da
 APCER (Associação portuguesa de certificação), a ISO
-22000:2005 e a ISO 9001:2008. Os SASUM foram o primeiro serviço da
+22000: 2005 e a ISO 9001: 2008. Os SASUM foram o primeiro serviço da
 administração pública que certifica todas as suas actividades segundo as
 duas normas, atingindo assim um patamar de excelência, prova da
 qualidade e eficiência da organização.
 Carlos Silva, recentemente reconduzido no cargo de administrador para a
 Acção Social foi o mentor de todo este processo que culminou no passado
 mês de Dezembro com a atribuição das duas certificações.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Quando iniciaram este processo?
 E quando decorreu a prova final?
 Em termos de certificação o
@@ -39,7 +36,6 @@ fase estávamos muito confiantes
 em relação ao desfecho final dado
 todo o trabalho que decorreu
 anteriormente.
-
 Estava previsto apenas para
 2010. A que se deveu esta
 celeridade no processo?
@@ -53,7 +49,6 @@ processos de concepção,
 planeamento, produção do
 produto ou fornecimento do
 serviço, o que facilitou o processo.
-
 Os SASUM são o primeiro serviço
 da administração pública que
 cer tifica todas as suas
@@ -76,7 +71,6 @@ resultados desta gestão também
 são visíveis na avaliação dos
 nossos serviços e resultados de
 gestão.
-
 Quais são os principais factores a
 considerar no momento de
 decidir procurar a certificação?
@@ -98,7 +92,6 @@ imagem na Administração Pública.
 Isto significa o reconhecimento da
 excelência da gestão nos Serviços
 da Administração Pública.
-
 Qual o caminho percorrido até à
 obtenção desta certificação?
 Como se desenvolveu todo o
@@ -118,7 +111,7 @@ projecto e para além da questão
 legal, decidiram pela certificação
 das suas unidades alimentares
 pela referencial da Norma ISO
-22000:2005.
+22000: 2005.
 Durante a implementação dos
 requisitos da referida norma,
 rapidamente foi percebido pela
@@ -134,7 +127,7 @@ procedimentos e requisitos que
 conduziram rapidamente à
 conclusão de que, seria uma mais-valia 
 uma dupla certificação: ISO
-9001:2005 e ISO 22000:2005,
+9001: 2005 e ISO 22000: 2005,
 pelo facto de existirem
 procedimentos comuns. Sendo a
 visão da gestão por processos já
@@ -145,7 +138,6 @@ processos, revisão do sistema
 documental e adaptação de todos
 os procedimentos de forma
 extensiva à organização.
-
 Quais as vantagens e
 desvantagens desta certificação
 para os SASUM? E para os utentes
@@ -216,7 +208,6 @@ internos e externos, eficazes,
 para comunicar qualquer
 informação respeitante à
 segurança alimentar.
-
 A certificação agora alcançada é
 uma prova da qualidade e
 eficiência da organização?
@@ -224,19 +215,17 @@ Claramente, e este facto também
 se sente na avaliação dos serviços
 e de todos os colaboradores que
 operam nos SASUM.
-
 Que áreas abrange esta
 certificação? Que tipo de
 alterações foram sujeitas estas
 áreas para a obter?
 A Certificação abrange todas as
 áreas dos SASUM, na ISSO
-22000:2005 especificamente a
+22000: 2005 especificamente a
 área alimentar, todos os bares e
-cantinas, e a 9001:2008 em todos
+cantinas, e a 9001: 2008 em todos
 os departamentos e sectores dos
 SASUM.
-
 Um dos objectivos era com isto
 consolidar toda a estrutura dos
 SASUM em todas as vertentes.
@@ -260,7 +249,6 @@ níveis, embora este processo
 esteja sempre em aberto, com
 possibilidades de melhoria
 contínua.
-
 A certificação não é eterna, é
 preciso mantê-la. O que será feito
 no futuro para conseguir este
@@ -275,7 +263,6 @@ desenvolver um trabalho de
 qualidade e dentro do que nos é
 exigido em termos de Certificação
 de Qualidade.
-
 A certificação alcançada implicou
 a adopção de procedimentos que
 serão certamente um caminho
@@ -290,7 +277,6 @@ esta mos, como sempr e, a
 trabalhar para evoluir e sermos
 reconhecidos pelas nossas boas
 práticas.
-
 Esta certificação veio promover a
 imagem dos SASUM?
 Pensamos que vem ajudar,
@@ -306,7 +292,6 @@ que importa consolidar no início de
 2010, pelo facto de contribuir para
 uma imagem muita positiva da
 Administração Pública.
-
 Uma vez concluída a certificação
 dos SASUM, qual é o sentimento
 do mentor de todo este processo?
@@ -325,7 +310,6 @@ colaboradores. Também é
 importante sentir a motivação e
 orgulho dos nossos
 colaboradores.
-
 Este foi certamente um trabalho
 de equipa, sentiu toda a sua
 equipa devidamente envolvida?
@@ -341,7 +325,6 @@ responsáveis de processos que
 foram incansáveis no sentido de
 responderem os desafios que lhe
 eram propostos.
-
 Que sugestão daria a quem tem
 interesse na certificação? Sente
 que este exemplo em termos da
@@ -385,4 +368,4 @@ Universidade do Minho possui os
 primeiros Serviços de Acção Social
 do País certificados
 conjuntamente pelos referenciais
-ISO 22000:205 e ISO 9001:2008.
+ISO 22000: 205 e ISO 9001: 2008.ISO 22000: 205 e ISO 9001: 2008.ISO 22000: 205 e ISO 9001: 2008.ISO 22000: 205 e ISO 9001: 2008.

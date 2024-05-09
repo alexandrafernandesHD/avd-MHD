@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 84 - Ano 5
-University: Universidade do Minho
-Interviewee(s): António Cunha,,  Andreia Ferreira
-Topic: o Acolhimento aos novos alunos
-Date: 14 de Setembro de 2010
-Title: “UMinho foi pioneira neste tipo de iniciativas”
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 84 - Ano 5
+university: Universidade do Minho
+interviewee: António Cunha,,  Andreia Ferreira
+topic: o Acolhimento aos novos alunos
+date: 14 de Setembro de 2010
+title: “UMinho foi pioneira neste tipo de iniciativas”
+interviewer: Nuno Gonçalves
 ---
 
 “UMinho foi pioneira neste tipo de iniciativas”
@@ -18,10 +18,8 @@ Pedagógico da AAUMinho, Andreia Ferreira, para saber o que têm
 programado para o Acolhimento aos novos alunos. Fique agora a conhecer
 todas as actividades que irão fazer parte deste programa que visa a
 integração dos novos alunos na vida académica e social da Universidade.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Existe algum programa de
 acolhimento aos novos alunos
 por parte da Reitoria? Poderia
@@ -50,13 +48,11 @@ diferentes dimensões da vida da
 Universidade, cumprindo esse
 objectivo tendo em conta a
 diversidade das diferentes
-estruturas da Universidade,
 nomeada mente das suas
 Unidades Orgânicas
 (normalmente conhecido pelo
 estudantes como Escolas ou
 Institutos).
-
 Quais são os objectivos da
 Reitoria ao desenvolver este
 programa?
@@ -64,7 +60,7 @@ Como referido são objectivos
 diversos ao nível da Instituição e
 das suas várias estruturas. Os
 objectivos principais são os
-seguintes:
+seguintes: 
 - Criar condições para um mais
 fácil arranque dos trabalhos
 lectivos, suavizando o processo de
@@ -87,7 +83,6 @@ pelo respectivo curso;
 - Potenciar um mais fácil
 entrosamento com outros
 estudantes da Universidade.
-
 Tem conhecimento de outras
 universidades em Portugal que
 desenvolvam este género de
@@ -109,7 +104,6 @@ estrutura e duração é
 diferenciada, tendo em conta as
 especificidades das diferentes
 instituições.
-
 Enquanto antigo aluno da
 UMinho, que diferenças nota
 entre o acolhimento que teve
@@ -122,7 +116,6 @@ poucas centenas e as instalações
 eram pequenas e provisórias. Por
 isso, não é possível fazer qualquer
 comparação.
-
 A AAUMinho tem desde há alguns
 anos um programa próprio que
 envolve diversas actividades
@@ -144,13 +137,11 @@ estudantes de anos mais
 avançados como cicerones da
 instituição é natural e muito
 positiva.
-
 Em relação às praxes, qual é a sua
 opinião sobre estas enquanto
 meio de integração dos novos
-alunos?
 De acordo com os seus Estatutos,
-A Universidade tem como missão:
+A Universidade tem como missão: 
 “gerar, difundir e aplicar
 con heci mento, assente na
 liberdade de pensamento e na
@@ -185,7 +176,6 @@ previstos nos seus estatutos ou
 que se traduzem num
 desvirtuamento da natureza da
 sua missão.
-
 Que mensagem gostaria de deixar
 aos novos alunos da UMinho?
 Bem-vindos à Universidade do
@@ -216,7 +206,6 @@ Universidade, congratulo-me por
 terem escolhido a Universidade do
 Minho como casa da sua formação
 superior.
-
 Que actividades estão
 programadas pela AAUMinho para
 o acolhimento aos novos alunos?
@@ -229,7 +218,6 @@ actividade e queremos manter
 viva esta tradição que tem sido
 muito importante para os alunos
 que todos os anos chegam à
-Universidade.
 O Programa de Acolhimento é
 constituído por um conjunto de
 actividades comuns a todos os
@@ -293,7 +281,6 @@ Guimarães, para que os alunos,
 fiquem a conhecer os locais mais
 importantes de cada uma das
 cidades.
-
 Quais são os objectivos definidos
 pela AAUMinho e que devem ser
 alcançados através do programa
@@ -332,7 +319,6 @@ Universidade e da AAUMinho, de
 forma a que possam ficar a
 conhecer a nova realidade que têm
 pela frente.
-
 Os novos alunos costumam ser
 receptivos à participação nessas
 actividades? Eles sentem que é
@@ -368,7 +354,6 @@ Acolhimento. Isto é sem dúvida um
 bom exemplo da importância que o
 Acolhimento tem no percurso dos
 alunos.
-
 Com Bolonha, na tua opinião, a
 integração tem sido mais
 problemática? Se sim, quais são
@@ -388,7 +373,6 @@ mesmos, dependerá sempre de
 cada aluno a facilidade com que se
 integrará e adaptará a uma nova
 realidade.
-
 A formação pedagógica que tem
 sido dada aos colaboradores da
 AAUMinho em anos anteriores
@@ -418,7 +402,6 @@ importante deixar uma boa
 imagem inicial da Universidade
 quando os novos alunos entram
 na Universidade.
-
 Em relação à praxe, qual é a vossa
 posição relativamente a esta
 como veiculo para a integração?
@@ -439,4 +422,4 @@ Queres deixar uma mensagem
 aos novos alunos?
 BEM-VINDOS À MELHOR ACADEMIA
 DO PAÍS. Que estes sejam os
-melhores anos das vossas vidas.
+melhores anos das vossas vidas.melhores anos das vossas vidas.melhores anos das vossas vidas.melhores anos das vossas vidas.
