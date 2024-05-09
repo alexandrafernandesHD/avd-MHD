@@ -1,10 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 39
-University: Universidade do Minho
-Interviewee(s): 
-Role: Vice-Presidente do departamento de relações publicas no CEAP
-Date: Não encontrado
+journal: UMdicas
+issue: Número 39
+university: Universidade do Minho
+interviewee:  Fernanda Barbosa
+role: Vice-Presidente do departamento de relações publicas no CEAP
+date: 5 de Abril de 2006
+interviewer: Michael Ribeiro
 ---
 O Centro de Estudos de Administração Pública (CEAP) está empenhado na apresentação do livro “
 Estudo da Administração Pública em Portugal”, símbolo da Comemoração dos 25 anos da Licenciatura
@@ -66,7 +67,6 @@ O nosso grande objectivo neste ano
 passa, fundamentalmente pelo sucesso
 das Conferências que decorrerão no
 âmbito da IX Semana de Administração
-
 Pública (1ª semana de Maio), procurando
 uma maior adesão dos alunos às referidas
 Conferências. Por outro lado, estamos
@@ -121,7 +121,6 @@ qualquer aluno possa aceder a matérias
 leccionadas durante todo o semestre.
 Por outro lado, procura-se a realização de
 Tertúlias com temas úteis e interessantes
-
 para os estudantes, facultando também
 alguma informação a nível de estágios.
 Esse acompanhamento é oferecido
@@ -173,4 +172,4 @@ Silencio”.
 O filme da minha Vida é… “Tróia”.
 Já não há paciência para… para a TVI.
 Um livro que não resisto… “Autobiografia
-de Cavaco Silva”.
+de Cavaco Silva”.de Cavaco Silva”.de Cavaco Silva”.de Cavaco Silva”.

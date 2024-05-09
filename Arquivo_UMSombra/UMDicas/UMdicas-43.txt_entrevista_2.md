@@ -1,23 +1,19 @@
 ---
-Jornal: UMdicas
-Issue: Número 43
-University: Universidade do Minho
-Interviewee(s): 
-Date: 05 de Agosto de 2006
+journal: UMdicas
+issue: Número 43
+university: Universidade do Minho
+interviewee: Ricardo Almeida
+date: 05 de Agosto de 2006
+title: Ricardo Almeida Treinador Bi-campeão de Hóquei Patins que nunca praticou!
+interviewer: UMdicas
 ---
+
 Porquê a opção pelo Hóquei Patins?
 Porque em meu entender é uma modalidade muito
 dinâmica, onde a velocidade é um factor
 preponderante, plena de emoção e cujos aspectos
 técnico-tácticos lhe conferem uma beleza plástica
 sem igual.
-
-sagrarem-se campeões?
-É o sentimento do dever cumprido, da aposta ganha,
-do orgulho de elevar o nome da instituição (leia-se
-UM e AAUM) ao patamar mais alto do pódio do
-Desporto Universitário.
-
 Já foste praticante?
 Não, nunca pratiquei hóquei em patins. Mas a lógica
 do jogo é a mesma dos restantes desportos
@@ -58,7 +54,6 @@ podia ter sido melhor, com os atletas a superarem as
 expectativas, vencendo o Open e garantindo,
 praticamente uma presença na fase final. No 2º
 Open, as coisas não correram tão bem. Acabamos
-
 por não passar à fase final, mas garantimos 6
 preciosos pontos, que nos mantiveram no lugar
 cimeiro do ranking nacional. Não queria deixar de
@@ -87,7 +82,6 @@ personalidade, é algo que excede as expectativas de
 qualquer técnico. Quanto mais penso, menos
 palavras me ocorrem... A aquisição do material de
 guarda-redes foi outra vitória. Com o apoio do Clube
-
 Desportivo da Póvoa Póvoa de Varzim, que nos
 cedeu a título gratuito 2 pares de caneleiras, 2 pares
 de luvas e um capacete antigo, mais a aquisição de
@@ -114,7 +108,11 @@ de jovens! A única coisa que me foi necessário fazer
 foi acreditar neles e transmitir-lhes esse sentimento,
 o que de resto não foi difícil!
 Qual foi o sentimento da equipa e do treinador ao
-
+sagrarem-se campeões?
+É o sentimento do dever cumprido, da aposta ganha,
+do orgulho de elevar o nome da instituição (leia-se
+UM e AAUM) ao patamar mais alto do pódio do
+Desporto Universitário.
 Quais são as perspectivas para o ano?
 As perspectivas para o ano são elevadas! A
 Universidade do Porto apresentou uma equipa de
@@ -143,12 +141,11 @@ de treino, equipamentos, etc. Estamos
 presentemente, e em conjunto com o DCC, a tentar
 resolver esses problemas para tentar viabilizar o
 projecto. Para além do acima referido, temos como
-meta o apuramento para a fase final do CNU 06/07
-.
+meta o apuramento para a fase final do CNU 06/07.
 Que mensagem quer deixar à equipa depois de
 mais uma época 5 estrelas e a futuros atletas que
 pretendam integrar a equipa?
-Para os meus atletas:
+Para os meus atletas: 
 Mantenham o espírito de companheirismo e
 camaradagem que imperou no balneário, a
 esperança de que têm ainda uma palavra a dizer no
@@ -156,4 +153,4 @@ Hóquei Patinado, bem como o gosto pela prática da
 modalidade. Isso é o principal, o resto vem por
 acréscimo!
 E... Obrigado! Por terem permitido que fizesse parte
-de um grupo tão especial!
+de um grupo tão especial!de um grupo tão especial!de um grupo tão especial!de um grupo tão especial!

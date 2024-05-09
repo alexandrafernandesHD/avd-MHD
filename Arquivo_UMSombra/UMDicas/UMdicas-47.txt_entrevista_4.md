@@ -1,16 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Número 47
-University: Universidade do Minho
-Interviewee(s): Roque Teixeira
-Topic: 2 anos à frente da AAUM
-Date: 31 de Dezembro de 2006
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Número 47
+university: Universidade do Minho
+interviewee: Roque Teixeira
+topic: 2 anos à frente da AAUM
+date: 31 de Dezembro de 2006
+interviewer: Ana Marques
 ---
+
 
 Roque Teixeira, últimos dias à frente
 da AAUM
-
 Depois de 2 anos à frente da AAUM, que
 balanço fazes?
 Sem dúvida que o balanço destes dois
@@ -46,7 +46,6 @@ pedagógica à desportiva, passando pelas
 saídas profissionais e pelo recreativo,
 social e cultural faz destes mandatos sem
 dúvida dois mandatos muito positivos.
-
 O que significou para ti seres presidente
 da AAUM?
 Ser presidenteda segunda maior
@@ -62,7 +61,6 @@ poderíamos ver a diversão ou
 responsabilidade dos nossos colegas dá
 uma sensação inexplicável a todos os que
 as organizaram.
-
 Quais foram os ganhos em termos
 pessoais desta experiência?
 Sem dúvida a experiência de gerir uma
@@ -77,7 +75,6 @@ diferenças daquilo que eu era para aquilo
 que sou. Na maneira de falar, escrever,
 reagir. Tudo isto só é possível no
 associativismo.
-
 Quais foram as acções mais
 emblemáticas da tua gerência?
 Poderíamos falar das mais de 500
@@ -102,7 +99,6 @@ verdadeiros líderes e pessoas de
 responsabilidade que me acompanharam
 nestes 2 anos em que estive à frente dos
 destinos da AAUM.
-
 Porquê a decisão de deixar a AAUM?
 Tudo tem um fim e tudo chega ao fim. O
 meu trabalho na AAUM está feito e sem
@@ -112,7 +108,6 @@ tomarem o rumo desta instituição. Isto
 conjugado com a mudança de objectivos a
 nível pessoal, cria as condições para que
 as minhas funções cessem aqui.
-
 Queres deixar algumas palavras a esta
 nova direcção?
 Não duvido que esta nova direcção fará um
@@ -125,10 +120,8 @@ sua equipa estão em condições de assumir
 as suas responsabilidades e elevar ainda
 mais a posição e o nome desta grande
 instituição.
-
 “Representar os colegas da MELHOR ACADEMIA
 DO PAÍS foi sem dúvida uma das melhores
 experiências que tive”.
-
 Ana Marques
-anac@sas.uminho.pt
+anac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.pt

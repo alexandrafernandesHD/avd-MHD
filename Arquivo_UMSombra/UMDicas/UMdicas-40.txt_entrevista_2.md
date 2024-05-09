@@ -1,9 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: Rogério Fernando da Silva Neto
+date: 21 de Abril de 2006
+title: O UTENTE Nº 2000 já chegou ao Complexo Desportivo Universitário
+interviewer: Zizina Moreira
 ---
 Qual a modalidade em que se inscreve?
 Rogério: Inicialmente dirigi-me à instalação para me
@@ -36,7 +38,6 @@ com o serviço Desportivo da UMinho?
 Gostei, fui bem atendido, por parte dos funcionários
 administrativos e gostei das instalações da
 Musculação.
-
 O que poderás ou queres praticar na instalação?
 A única modalidade será mesmo o Karate, devido à
 formação que já tenho.
@@ -48,7 +49,6 @@ inscrito nas instalações de Azurém?
 Igual aos outros alunos, com uma componente de
 sorte, mas com a responsabilidade de exemplo para
 os meus colegas.
-
 Tens conhecimento do cartão semestral?
 Tenho. E ainda existe a possibilidade de aderir a esse
-serviço.
+serviço.serviço.serviço.serviço.

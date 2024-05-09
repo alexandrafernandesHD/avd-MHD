@@ -1,22 +1,20 @@
 ---
-Jornal: UMdicas
-Issue: Número 47
-University: Universidade do Minho
-Interviewee(s):  Engª. Maria Helena Campos 
-Topic: Serviços Técnicos
-Role: directora dos Serviços Técnicos da Universidade do Minho (ST)
-Date: 31 de Dezembro de 2006
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Número 47
+university: Universidade do Minho
+interviewee:  Engª. Maria Helena Campos 
+topic: Serviços Técnicos
+role: directora dos Serviços Técnicos da Universidade do Minho (ST)
+date: 31 de Dezembro de 2006
+interviewer: Ana Marques
 ---
 
-Entrevista – Serviços
 
+Entrevista – Serviços
 Estudo dos Serviços Técnicos mostra
 a necessidade de se organizar de forma mais eficaz o uso das instalações.
-
  Engª. Maria Helena Campos  é a directora dos Serviços Técnicos da Universidade do Minho (ST) desde 17 de Janeiro de 2003.
 Licenciada na área da engenharia civil, tem especial interesse pela gestão dos projectos de construção.
-
 Quais são as competências do
 Director dos ST?
 Nos termos da definição constante no
@@ -28,7 +26,7 @@ dinamização dos ST e o cumprimento dos
 planos e orientações traçadas pelos
 órgãos competentes da Universidade.
 Compete, em especial, ao Director de
-Serviços:
+Serviços: 
 a)dirigir as actividades dos ST, definindo
 os objectivos de actuação de acordo com
 a política geral da Universidade;
@@ -61,7 +59,6 @@ actuação definidos;
 h)assegurar a coordenação e articulação
 entre as actividades dos ST e as restantes
 unidades orgânicas da Universidade.
-
 O que mais a motiva nesta função?
 Tenho uma formação académica na área
 da engenharia civil e conclui entretanto o
@@ -93,7 +90,6 @@ até à demolição, caso ela exista, o que
 não é muito frequente em Portugal, mas
 pelo menos, até à fase de utilização e
 durante esta.
-
 Como poderá definir os ST e qual o seu
 papel na Universidade?
 A definição constante no regulamento
@@ -113,7 +109,6 @@ cedência para eventos, nos termos do
 Despacho RT-55/2003, para além de
 outras competências em matéria de
 gestão dos autocarros da Universidade.
-
 Quais têm sido as principais
 intervenções dos ST na UM e em que
 áreas?
@@ -144,7 +139,6 @@ grande parte pelos actuais colaboradores
 dos Serviços Técnicos, que antes faziam
 parte do Gabinete das Instalações
 Definitivas.
-
 Sabemos que foi feito um estudo sobre
 os encargos com a exploração dos
 edifícios da UM Boas Práticas para a
@@ -184,12 +178,10 @@ estes aspectos, sem comprometer a
 função principal dos espaços da
 Universidade quer nos aspectos
 pedagógicos quer de investigação.
-
 Quais foram as áreas estudadas?
 Este estudo procura fazer uma
 abordagem do consumo dos principais
 recursos: água, electricidade e gás.
-
 Quem foram os responsáveis pelo
 estudo e como foi posto em prática?
 Não deveremos falar talvez em
@@ -202,7 +194,6 @@ para que a eficiência da gestão que se
 procura, não se faça numa especialidade
 à custa do aumento de encargos em outra
 especialidade.
-
 Quais são as principais conclusões
 que se podem retirar deste?
 Do ponto de vista dos ST, entendemos, e
@@ -227,12 +218,10 @@ Outra das conclusões que julgo resultar
 deste trabalho é a da necessidade de
 organizar de forma mais eficaz o uso das
 instalações.
-
 Qual a necessidade e o benefício de
 uma maior eficiência na gestão destes
 recursos?
 O benefício evidente é a redução dos
-
 “O papel de uma
 unidade deste tipo
 numa Universidade,
@@ -246,7 +235,6 @@ para o planeamento e
 a utilização das suas
 infra-estruturas e das
 suas instalações. “
-
 encargos anuais de exploração dos
 edifícios. Mas existem muitos outros
 benefícios que se associam ao conceito
@@ -260,7 +248,6 @@ com vantagens reconhecidas para a
 saúde dos seus ocupantes para o
 conforto destes e para a melhoria da
 produtividade.
-
 Relativamente às actuais despesas
 com estes recursos, e caso as
 recomendações referidas neste
@@ -297,7 +284,6 @@ estudo realizado, sobretudo nas
 questões relacionadas com os consumos
 específicos associados à utilização
 destes espaços.
-
 Este tipo de estudo consiste apenas
 em recomendações no papel ou um
 grande passo para a acção?
@@ -314,7 +300,6 @@ executar e como devem ser cumpridas.
 Assim, não se trata de um documento
 teórico mas, pelo contrário, muito realista
 e concreto.
-
 Para a Eng. Helena quais seriam as
 medidas mais urgentes a serem
 colocadas em prática?
@@ -334,6 +319,5 @@ avaliar o desempenho dos sistemas e
 propor metodologias de actuação que
 permitam corrigir os desvios e assegurar
 a melhoria contínua.
-
 Ana Marques
-anac@sas.uminho.pt
+anac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.pt

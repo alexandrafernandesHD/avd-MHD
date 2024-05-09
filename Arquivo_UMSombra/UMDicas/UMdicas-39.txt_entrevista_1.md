@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 39
-University: Universidade do Minho
-Interviewee(s): 
-Date: Não encontrado
+journal: UMdicas
+issue: Número 39
+university: Universidade do Minho
+interviewee: José Mendes
+date: 5 de Abril de 2006
+interviewer: Nuno Gonçalves
 ---
 UMdicas - Com que idade é que iniciaste a prática
 competitiva do ciclismo e onde?
@@ -50,7 +51,6 @@ coisas, ponho o ciclismo em primeiro lugar, pois
 tenho que apostar é agora, enquanto sou novo.
 A UMinho iniciou em Portugal um programa
 pioneiro no que diz respeito ao apoio aos atletas
-
 de alta competição, o TUTORUM. O que pensas
 desta iniciativa e do programa em si?
 É de louvar estas iniciativas, pois só com esforço de
@@ -113,10 +113,6 @@ Ate lá penso que ainda vou evoluir muito como
 ciclista, e quem sabe, numa eventual participação
 possa conseguir uma medalha para a UMinho e para
 Portugal.
-Nuno Gonçalves
-Nunog@sas.uminho.pt
-
-© Fisu – Nicolas Messner
 
 Natural de Guimarães, aluno da UMinho de
 Engenharia Electrónica Indústrial e pertencente ao
@@ -136,4 +132,4 @@ José foi também o melhor português nos
 Campeonatos da Europa de Ciclismo de Estrada
 (Sub 23) - que se disputaram, de 8 a 10 de Julho, em
 Moscovo - ao conquistar a 27º posição na prova de
-contra-relógio individual.
+contra-relógio individual.contra-relógio individual.contra-relógio individual.contra-relógio individual.

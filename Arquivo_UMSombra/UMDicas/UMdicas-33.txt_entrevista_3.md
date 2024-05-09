@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 33
-University: Universidade do Minho
-Interviewee(s): 
-Date: 17 de Novembro de 2005
+journal: UMdicas
+issue: Número 33
+university: Universidade do Minho
+interviewee: Rui Gonçalves
+date: 17 de Novembro de 2005
+interviewer: Michael Ribeiro
 ---
 com Rui
 Gonçalves Presidente
@@ -29,7 +30,6 @@ núcleo também se disponibiliza, caso
 esteve ao seu alcance, a ajudar outros
 alunos. Mas o apoio é prestado
 principalmente aos associados.
-
 Como suiu o Núcleo de estudos em
 Engenharia Biológica?
 este núcleo suiu com um grupo de
@@ -38,7 +38,6 @@ Pereira. O seu aparecimento teve como
 objectivo projectar para o exterior a
 licenciatura de Engenharia Biológica da
 Universidade do Minho.
-
 O que terá de fazer um aluno para se
 tornar sócio do núcleo?
 Não há qualquer tipo de restrição, sendo
@@ -48,7 +47,6 @@ aluno que queira tornar-se sócio, apenas
 terá de se dirigir à sede e pedir um
 boletim de inscrição, a qual será
 efectuada na hora.
-
 Neste momento por quem é
 constituído o núcleo?
 Neste momento o núcleo é presidido por
@@ -78,7 +76,6 @@ O núcleo tenta promover encontros entre
 as empresas e os estudantes, facilitando
 assim a inserção dos recém-licenciados
 no mundo do trabalho.
-
 Onde se situa a vossa sede?
 A nossa sede situa-se no Departamento
 de Biológica. Foi-nos cedido um espaço,
@@ -109,7 +106,6 @@ dos apoios está relacionado aqui com a
 Universidade, mais propriamente na
 nossa sede. Os nossos associados
 podem usufruir dos computadores que
-
 temos à disposição, podendo utilizar a
 sede sempre que queiram para
 realização de trabalhos.
@@ -156,4 +152,4 @@ avancem cada vez mais. São uma mais
 valia para a Universidade do Minho,
 assim como para o Núcleo de Estudos de
 Engenharia Biológica e todos os
-estudantes da licenciatura em geral.
+estudantes da licenciatura em geral.estudantes da licenciatura em geral.estudantes da licenciatura em geral.estudantes da licenciatura em geral.

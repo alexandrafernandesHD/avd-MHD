@@ -1,10 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Número 44
-University: Universidade do Minho
-Interviewee(s): 
-Date: 18 de Outubro de 2006
+journal: UMdicas
+issue: Número 44
+university: Universidade do Minho
+interviewee: Pedro Soares 
+date: 18 de Outubro de 2006
+title: Situa-te, Cultiva-te, Orienta-te...
+interviewer: Nuno Gonçalves
 ---
+
 Qual o papel do vice-presidente da AAUMinho
 para o Dep. Pedagógico?
 O Vice-presidente para o Departamento Pedagógico
@@ -62,7 +65,6 @@ Não Formal rapidamente me fez encontrar uma
 janela de oportunidade para dar início a um projecto
 inovador que se enquadraria num projecto de
 combate ao abandono e insucesso escolar e que
-
 está a ser levado a cabo em
 parceria com a Reitoria da
 Universidade do Minho.
@@ -94,21 +96,18 @@ primeiro grande objectivo passou,
 deste modo, pela construção de
 um acolhimento baseado na
 Educação Não Formal.
-
 Qual foi a resposta dos novos alunos a estas
 solicitações?
 Creio que foi bastante positiva, logo na sala de
 matrículas a resposta foi positiva na maioria dos
 casos. Até os familiares e acompanhantes saudaram
 a AAUM no final das actividades.
-
 homem com uma ideia nova é considerado um
 excêntrico, até que a ideia resulte” Mark Twain…
 Que conclusões tiras?
 Que não vamos ficar por aqui e queremos que nos
 chamem excêntricos mais vezes… até ao dia das
 actividades é claro!
-
 Este é o teu segundo ano como dirigente da
 AAUMinho. Quais as razões para só agora
 levarem a cabo actividades como estas?
@@ -120,7 +119,6 @@ todas as actividades, o objectivo é sempre melhorar
 e aumentar a qualidade. Creio que desta vez
 conseguimos alguma coisa que em Portugal, que eu
 saiba, é a primeira vez que acontece.
-
 Os objectivos propostos para cada actividade
 foram alcançados?
 Sem dúvida, tínhamos consciência do curto espaço
@@ -131,14 +129,12 @@ a esse inquérito está a ser analisada pelos
 formadores que estiveram connosco ao longo do
 acolhimento com bastante rigor, e pelo que sei os
 resultados estão francamente positivos.
-
 Quanto ao futuro, que rumo tens traçado para ti?
 Sou finalista de Biologia Aplicada, naturalmente
 quero acabar o meu curso. Vou também querer
 continuar os estudos e perseguir um objectivo de
 longa data, a criação de uma empresa na área da
 Biologia.
-
 Quais foram as maiores dificuldades sentidas na
 organização e implementação?
 É sempre difícil alterar rotinas. O processo de
@@ -154,19 +150,16 @@ motivação e força de vontade aliadas à ajuda que
 tivemos da Reitoria, a quem na pessoa da
 Professora Irene Montenegro gostava de agradecer,
 não fossem suficientes para ultrapassar.
-
 “Até os familiares e
 acompanhantes saudaram a
 AAUM no final das
 actividades.”
-
 Quais os traços que melhor podem definir estas
 actividades?
 Inovação. Descontracção. Irreverência.
-
 Qual foi o feedback dos novos alunos
 relativamente a estas actividades?
 Os resultados dos inquéritos estão a ser analisados e
 serão em breve divulgados por nós. Mesmo assim na
 maioria dos casos os que participaram saíram
-bastante satisfeitos das actividades.
+bastante satisfeitos das actividades.bastante satisfeitos das actividades.bastante satisfeitos das actividades.bastante satisfeitos das actividades.

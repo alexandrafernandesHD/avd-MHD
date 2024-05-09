@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Número 47
-University: Universidade do Minho
-Interviewee(s): ELSA UMinho 
-Topic: a sua expansão e objectivos
-Date: 31 de Dezembro de 2006
-Title: ELSA UMinho  a sua expansão e objectivos
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Número 47
+university: Universidade do Minho
+interviewee: ELSA UMinho 
+topic: a sua expansão e objectivos
+date: 31 de Dezembro de 2006
+title: ELSA UMinho  a sua expansão e objectivos
+interviewer: Michael Ribeiro
 ---
+
 
 ELSA UMinho  a sua expansão e objectivos
 Em 2000, um grupo de estudantes juntou-se e formou a comissão instaladora da ELSA UMinho, sendo mais tarde (2002)
@@ -16,8 +17,7 @@ personalidade jurídica, e, consequentemente, um maior grau de autonomia. A asso
 direcção e segundo Pedro Gonçalves, finalista do curso de Direito, “este um é ano lectivo decisivo para a ELSA UMinho,
 onde pretendemos ampliar e diversificar o âmbito das nossas actividades, de maneira a que a ELSA seja definitivamente
 reconhecida como uma das melhores associações desta academia”.
-
-UMdicas: O que é a ELSA?
+UMDicas O que é a ELSA?
 Pedro Gonçalves: A ELSA (European Law
 Students Association) é uma associação de
 estudantes de Direito fundada em 1981 em Viena
@@ -32,7 +32,6 @@ Conselho da Europa, sendo considerada neste
 momento a maior associação de estudantes do
 mundo! Podem verificar tudo isto no site oficial da
 ELSA: www.elsa.org.
-
 “A ELSA (European Law Students
 Association) é uma associação
 de estudantes de Direito fundada
@@ -40,7 +39,6 @@ em 1981 em Viena por um grupo
 de quatro estudantes, divididos
 pelo muro de Berlim, mas unidos
 pelo estudo do Direito”
-
 U: Tem estatutos próprios? Em que países em
 que está sedeada?
 P: - Tal como referimos, e ELSA encontra-se
@@ -52,7 +50,6 @@ estatutos e regulamentos próprios, que
 disciplinam a sua estrutura federalista, sendo que
 também os representantes nacionais e locais são
 obrigados a ter os seus próprios estatutos.
-
 U: Onde está sedeada a Sede da ELSA?
 P: A ELSA Internacional está sedeada em
 Bruxelas, naquilo a que designamos de ELSA
@@ -64,7 +61,6 @@ ELSA UMinho, a sua sede situa-se na
 Universidade do Minho, em Braga, Mais
 propriamente no Campus de Gualtar, cp2, sala
 3.16.
-
 U: Quais as suas competências?
 P: O grande objectivo da nossa associação é o
 enriquecimento cultural e científico dos
@@ -74,7 +70,7 @@ visam proporcionar oportunidades de plena
 aprendizagem de outras culturas e sistemas
 legais, num espaço de diálogo crítico e de
 cooperação científica. Para prosseguir estes
-objectivos, a ELSA divide-se em três áreas chave:
+objectivos, a ELSA divide-se em três áreas chave: 
 Seminários e Conferências, Actividades
 Académicas e STEP (Students Trainee Exchange
 Programme), que têm competências específicas
@@ -82,12 +78,10 @@ e que conferem a tal vertente internacionalista,
 que é uma imagem de marca da ELSA, e que a
 diferencia de outras associações de
 estudantes…
-
 “O grande objectivo da nossa
 associação é o enriquecimento
 cultural e científico dos
 estudantes de Direito”
-
 U: Como surgiu a ELSA na Universidade do
 Minho?
 P: Quando surgiu a ideia da criação de um núcleo
@@ -100,7 +94,6 @@ núcleo efectivo da ELSA Portugal. Em 2003
 fomos notarialmente constituídos, passando a ter
 personalidade jurídica, e, consequentemente, um
 maior grau de autonomia.
-
 U: Qual o papel que a ELSA tem na Universidade
 do Minho e no curso de Direito?
 P: O papel da ELSA na UM tem sido amplamente
@@ -118,7 +111,6 @@ esta realidade. Para além disso, temos uma
 ampla oferta de actividades que, temos a certeza,
 contribuem para a formação técnica e jurídica dos
 estudantes.
-
 U: Qual o apoio que a ELSA oferece aos
 estudantes de direito?
 P: O apoio dado pela ELSA não se resume a
@@ -133,13 +125,11 @@ além disso, todas as iniciativas que realizamos,
 quer sejam conferências, visitas ou mesmo
 fóruns de discussão, visam sempre servir os
 alunos de Direito.
-
 U: E abrange outras universidades do país?
 P: Sim. Existem neste momento sete núcleos
 activos (FDL, Lusófona, Católica Lisboa e Porto,
 Internacional da Figueira da Foz, Portucalense e
 Minho), para além da ELSA Portugal.
-
 U: Na Universidade do Minho, quem representa a
 ELSA?
 P: Foi eleita em Outubro a VIII Direcção, presidida
@@ -150,7 +140,6 @@ Académicas) e Pedro Barros (marketing). Para
 além disso, temos uma vasta equipa de
 colaboradores, que são indispensáveis para o
 bom funcionamento da associação.
-
 U: Quais os objectivos e planos da ELSA na
 Universidade do Minho?
 P: Este é um ano lectivo decisivo para a ELSA
@@ -181,7 +170,6 @@ posso deixar de mencionar a realização, já
 garantida, do Conselho Geral Nacional de
 Primavera da ELSA Portugal em Braga, o que
 muito nos orgulha e responsabiliza.
-
 U: O que se pode esperar para o futuro e em que
 pode ajudar os alunos de direito no futuro?
 P: Como já referi, temos um conjunto vasto de
@@ -197,7 +185,6 @@ a realização de estágios remunerados por toda a
 Europa, e que é um projecto que pretendo
 desenvolver este ano, dando-lhe maior
 visibilidade junto dos estudantes e recémlicenciados.
-
 U: Que tipo de apoios é que vocês têm?
 P: Podemos dizer que a ELSA não depende de
 ninguém para sobreviver. De facto, temos um
@@ -208,9 +195,7 @@ também o apoio institucional da Escola de Direito.
 Temos ainda em vista a elaboração de um
 protocolo de colaboração com a AAUM, que vai
 ser importantíssimo para nós.
-
-U:Qual o vosso grande objectivo aqui na
-Universidade do Minho?
+U: Qual o vosso grande objectivo aqui na
 P: O grande objectivo desta direcção é
 desenvolver um conjunto de iniciativas que
 fiquem na memória de todos nesta academia, e
@@ -221,13 +206,11 @@ Só assim seremos vistos como uma associação
 respeitosa, com projecto, mas também com
 trabalho feito. Só assim deixaremos um legado
 para as futuras gerações elsianas.
-
 “O grande objectivo desta
 direcção é desenvolver um
 conjunto de iniciativas que
 fiquem na memória de todos
 nesta academia, e em particular
 dos alunos de Direito!”
-
 Michael Ribeiro
-Mika@sas.uminho.pt
+Mika@sas.uminho.ptMika@sas.uminho.ptMika@sas.uminho.ptMika@sas.uminho.pt

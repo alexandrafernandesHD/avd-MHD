@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: Claudio Mesquita
+date: 21 de Abril de 2006
+interviewer: UMdicas
 ---
 UMdicas - Em que ano entraste para o Desporto
 Universitário, e como se deu essa entrada?
@@ -65,7 +66,6 @@ Neste último open, realizado em Braga, com todo o
 plantel disponível para esta época, conseguimos
 vencer, com exibições bastante positivas.
 
-UMd - Qual foi o percurso da equipa até ao CNU?
 MG - Infelizmente este ano não tivemos os torneios de
 apuramento habituais, pois dois deles foram
 cancelados. O nosso apuramento limitou-se, desta
@@ -76,7 +76,6 @@ participar neste tipo de iniciativas, pois perde-se
 competitividade e a oportunidade de convívio entre as
 universidades, características muito próprias destes
 torneios.
-
 UMd - E para o CNU, como está a equipa e quais
 são as expectativas?
 CM - Espero que a equipa esteja na máxima força…
@@ -90,9 +89,6 @@ convocados para a fase final, podem ter a certeza que
 a equipa vai com o pensamento de vitória, e com o
 espírito de luta e vontade de reconquistar o titulo que
 nos escapou o ano transacto. Queremos ganhar!!!
-
-UMd - E para o CNU, como está a equipa e quais
-são as expectativas?
 MG - A equipa está sempre motivada para jogar e para
 participar nos torneios que são organizados. Como
 referi anteriormente, penso que será difícil superar o
@@ -101,7 +97,6 @@ atletas de outras universidades têm um nível
 competitivo significativamente superior ao nosso. No
 entanto, também sabemos que se jogarmos bem
 colectivamente podemos anular algumas vantagens
-
 UMd - Uma mensagem para o grupo…
 CM - Em primeiro lugar, uma mensagem de apreço
 pela dedicação daqueles que treinam semanalmente
@@ -111,4 +106,4 @@ espírito, pela amizade, camaradagem e respeito, e
 que continuem pois esta é mais uma etapa das
 nossas vidas que ficará sempre marcada na nossa
 retina. Termino frisando novamente a NOSSA
-vontade: “Ser Campeões Nacionais!!!!”
+vontade: “Ser Campeões Nacionais!!!!”vontade: “Ser Campeões Nacionais!!!!”vontade: “Ser Campeões Nacionais!!!!”vontade: “Ser Campeões Nacionais!!!!”

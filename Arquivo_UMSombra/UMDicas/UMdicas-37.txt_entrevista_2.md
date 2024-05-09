@@ -1,11 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 37
-University: Universidade do Minho
-Interviewee(s): Luís Covas
-Topic: Desporto Escolar
-Role: Atleta
-Date: Não encontrado
+journal: UMdicas
+issue: Número 37
+university: Universidade do Minho
+interviewee: Luís Covas
+topic: Desporto Escolar
+role: Atleta
+date: 25 de Fevereiro de 2006
+interviewer: Ana Marques
 ---
 Luís Covas
  Desporto Escolar  
@@ -56,7 +57,25 @@ aderem, pois isso depende muitas vezes dos recursos. O D. E. tem
 alguns problemas, mais de âmbito funcional, ou seja, aquilo que é o seu
 desenvolvimento no dia a dia. As escolas, principalmente na nossa área
 educativa, estão super lotadas, esse é actualmente o maior problema,
-
+pois para que possa haver treinos é necessário que haja espaços, como 
+também disponibilidade, nomeadamente a nível de transportes para as 
+crianças irem para casa fora do horário escolar. O D. E. tem as 
+características de poder formar naquilo que é o desenvolvimento integral 
+do aluno na sua plenitude, formando melhor os cidadãos, criando espaço 
+de convívio e confraternização, e por isso entendemos que o D.E. é um 
+veículo e um meio para o desenvolvimento desportivo e pessoal.
+Como surgiram estes torneios em parceria com a UMinho?
+Os torneios nasceram à 8 anos, através do Prof. Fernando Parente, 
+responsável pelo desporto na UMinho que nos incentivou para uma 
+abertura da universidade aos alunos pré-universitários. Começamos 
+com um torneio de Voleibol masculino, com o sucesso obtido a dimensão 
+alongou-se ao escalão feminino. Posteriormente experimentamos o 
+Futsal masculino e mais tarde abrimos ao feminino. Depois foi 
+introduzida a modalidade do Badminton e este ano pela primeira vez 
+realizou-se o Torneio de Basquetebol 3 por 3, isto também incluído 
+naquilo que vai ser o Campeonato Europeu Universitário de
+Basquetebol. Este ano bateu o record de participação das equipas e 
+esperamos que a participação seja maior de ano para ano. 
 Qual o objectivo deste tipo de parcerias?
 O objectivo é a abertura da universidade aos jovens pré-universitários e
 proporcionar um convívio e um conhecimento daquilo que é a UMinho.
@@ -107,4 +126,4 @@ bom se dermos os primeiros passos pelo ensino básico, seguindo o seu
 trajecto pelo 2º e 3º ciclos do ensino básico e secundário, até chegar à
 universidade, onde depois poderão ter continuidade, passando também
 pelo desporto federado. Neste momento procuramos rentabilizar os
-recursos no sentido de melhorarmos os nossos processos no dia a dia.
+recursos no sentido de melhorarmos os nossos processos no dia a dia.recursos no sentido de melhorarmos os nossos processos no dia a dia.recursos no sentido de melhorarmos os nossos processos no dia a dia.recursos no sentido de melhorarmos os nossos processos no dia a dia.

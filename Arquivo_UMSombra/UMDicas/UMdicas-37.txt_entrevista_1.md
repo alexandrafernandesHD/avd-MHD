@@ -1,14 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 37
-University: Universidade do Minho
-Interviewee(s): José Soares, Catarina Dias
-Date: Não encontrado
+journal: UMdicas
+issue: Número 37
+university: Universidade do Minho
+interviewee: José Soares, Catarina Dias
+date: 25 de Fevereiro de 2006
+interviewer: Nuno Gonçalves
 ---
-a José Soares
-
-Entrevista a Catarina Dias
-
+Entrevista a José Soares
 José Soares, 20 anos, aluno do 3º ano de Eng. Biomédica, é actualmente atleta do
 Óquei Clube de Barcelos, tendo em 2005 conquistado uma Super Taça António
 Livramento ao serviço do emblema de Barcelos. Outro dos pontos altos da sua
@@ -16,27 +14,12 @@ carreira foi o titulo de Vice-Campeão Europeu de Juniores em 2004, ao serviço 
 Selecção Nacional. Vamos então agora conhecer um pouco mais deste atleta de
 alta competição, que é uma das pedras basilares da actual equipa Campeã
 Nacional Universitária da UMinho.
-
-Catarina Dias, 19 anos, aluna do 1º ano de Eng. Biomédica, capitã da equipa de
-voleibol senior feminino do SCBraga. Após ter representado as Selecções Nacionais
-de Cadetes e Juniores em poules de apuramento para os Campeonatos da Europa
-e do Mundo, esta jovem atleta teve a sua consagração em 2004/05 ao conquistar o
-Campeonato Nacional de Juniores pelo SCBraga. Vamos conhecer um pouco
-melhor a Catarina, que é uma de seis atletas do SCBraga, que actualmente fazem
-parte da equipa de voleibol da UMinho.
-
 UMdicas - Com que idade é que iniciaste a
 prática competitiva do Hóquei Patins e onde?
 José Soares - A minha entrada no Hóquei Patins
 deu-se aos 5 anos quando comecei a patinar no
 Braga. Depois aos 8, passei também a jogar e a
 representar o Braga.
-
-UMdicas - Com que idade iniciaste a prática
-competitiva do Voleibol e onde?
-Catarina Dias - Comecei a praticar voleibol com 14
-anos na escola EB 2,3 de Lamaçães.
-
 Achas que o Hóquei Patins ajudou no teu
 desenvolvimento enquanto individuo?
 Sem dúvida alguma. Qualquer desporto ajuda ao
@@ -81,9 +64,8 @@ universidade não é a brincar, mas já se sabe que
 exigência é menor, não se pode comparar ao nível
 de uma primeira divisão. São ritmos
 completamente diferentes, mas em ambos os
-casos, entro sempre com a mesma predisposição:
+casos, entro sempre com a mesma predisposição: 
 ganhar!
-
 O facto de jogares no Hóquei de Barcelos
 condicionou a tua escolha de Universidades
 quando concorreste? Porque?
@@ -148,54 +130,42 @@ se vê, mas gostava de
 passar alguns anos só
 como profissional de
 hóquei.
-Nuno Gonçalves
-Nunog@sas.uminho.p
-t
 
-A c h a s q u e Vo l e i b o l a j u d o u n o t e u
+Entrevista a Catarina Dias
+Catarina Dias, 19 anos, aluna do 1º ano de Eng. Biomédica, capitã da equipa de
+voleibol senior feminino do SCBraga. Após ter representado as Selecções Nacionais
+de Cadetes e Juniores em poules de apuramento para os Campeonatos da Europa
+e do Mundo, esta jovem atleta teve a sua consagração em 2004/05 ao conquistar o
+Campeonato Nacional de Juniores pelo SCBraga. Vamos conhecer um pouco
+melhor a Catarina, que é uma de seis atletas do SCBraga, que actualmente fazem
+parte da equipa de voleibol da UMinho.
+UMdicas - Com que idade iniciaste a prática
+competitiva do Voleibol e onde?
+Catarina Dias - Comecei a praticar voleibol com 14
+anos na escola EB 2,3 de Lamaçães.
+Achas que Voleibol ajudou no teu
 desenvolvimento enquanto indivíduo?
 Sim, porque fiz grandes amizades, fez-me crescer
 enquanto pessoa porque fui ganhando
 responsabilidades e proporcionou-me viagens que
 me ajudaram a conhecer novos países e diferentes
 culturas.
-Qual foi o papel da tua familia no teu percurso
-enquanto atleta de alta competição?
 Toda a minha família me apoiou e sempre
 incentivou a ir o mais longe possível no voleibol,
 mas sem nunca esquecer o lado académico.
-Quantas vezes treinas por semana, e quanto
-tempo?
 Treino 5 a 6 vezes por semana durante 2 horas.
-A maneira como tu lidas com a pressão e a
-ansiedade antes dos jogos é algo que tu
-consegues trabalhar e treinar, ou simplesmente
-é algo com que apenas lidas na hora de entrar
-em campo?
 Depende muito dos jogos. Quando são jogos
 importantes ou decisivos entro um bocadinho
 nervosa, mas vai passando com o decorrer do jogo.
 Senão, entro como se fosse um treino. Em qualquer
-dos casos, o estado de espírito é sempre o mesmo:
+dos casos, o estado de espírito é sempre o mesmo: 
 é para ganhar!
-Qual é para ti a grande diferença entre a
-competição federada e a competição
-universitária?
-Na competição federada há jogos todos os fins-desemana, por isso temos que ter aqueles treinos
+Na competição federada há jogos todos os fins-de-semana, por isso temos que ter aqueles treinos
 certinhos durante a semana. Na competição
 universitária os jogos decorrem por torneios de
 apuramento, são alguns dias sempre a jogar. Mas
 tanto numa competição como noutra o objectivo é o
 mesmo: sermos campeãs.
-
-Catarina é passadora e capitã do SCBraga
-
-carreira profissional no Voleibol ou os estudos
-vêm em primeiro lugar?
-Ambas são prioridades na minha vida. Quero ir o
-mais longe possível no voleibol, mas também quero
-tirar o meu curso.
-
 O facto de jogares no SCBraga condicionou a
 tua escolha de Universidades quando
 concorreste? Porque?
@@ -203,44 +173,20 @@ Também. Apesar de sempre ter querido entrar na
 UMinho, por ser uma academia de grande
 notoriedade, o facto de treinar cá em Braga
 também influenciou a minha decisão.
-Para muitos atletas de alta competição torna-se
-difícil conciliar os estudos com a prática
-desportiva. Como é que tu consegues gerir esta
-nem sempre fácil “relação” ?
 É preciso abdicar de muita coisa. Os tempos livres
 que temos são quase sempre para estudar. Muitas
 vezes não podemos sair com os amigos porque no
 dia seguinte temos treino ou jogo.
-A UMinho iniciou em Portugal um programa
-pioneiro no que diz respeito ao apoio aos atletas
-de alta competição, o TUTORUM. O que pensas
-desta iniciativa e do programa em si?
 Penso que é uma boa forma de ajudar os atletas de
 alta competição, pois estes perdem bastante tempo
 com a prática da sua modalidade, e o tutor acaba
 por ser um elemento fundamental nesse apoio.
-
-Catarina exibe aos sócios o troféu de campeãs
-nacionais de juniores
-
 Em que áreas já recebeste apoio através do
-Tutorum?
 Proporcionou na flexibilidade no prazo de entrega
 de trabalhos e nas justificações de faltas.
-José Soares foi Vice-Campeão Europeu de Juniores por Portugal em 2004
-
-Os teus objectivos pessoais passam por uma
-
+carreira profissional no Voleibol ou os estudos
+Ambas são prioridades na minha vida. Quero ir o
+mais longe possível no voleibol, mas também quero
+tirar o meu curso.
 Nuno Gonçalves
 Nunog@sas.uminho.pt
-
-04
-
-25 de Fevereiro de 2006
-
-Desporto - Informação
-
-UM dicas
-
-Dois lugares no pódio, três recordes pessoais e quatro melhores marcas
-da época.

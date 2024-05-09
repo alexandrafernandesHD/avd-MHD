@@ -1,10 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Número 44
-University: Universidade do Minho
-Interviewee(s): 
-Date: 18 de Outubro de 2006
+journal: UMdicas
+issue: Número 44
+university: Universidade do Minho
+interviewee: Gatuna
+date: 18 de Outubro de 2006
+title: “O Sonho seria voltar a actuar no Theatro Circo”
+interviewer: Michael Varela
 ---
+
 Porque uma Tuna Feminina na UMinho?
 A Tuna Feminina na Universidade do Minho surgiu
 numa tentativa de alargar e modificar a longa
@@ -69,7 +72,6 @@ De resto todas as viagens que a Gatuna realizou
 sempre ficaram na memória: os festivais em
 Espanha, as digressões à Irlanda, à Madeira e aos
 Açores…
-
 Normalmente quando surge algo novo numa
 academia é com o objectivo de se inovar. Que
 aspectos pretenderam inovar, tanto a nível de
@@ -88,18 +90,14 @@ mais...Quer em palco ou fora dele, através da sua
 musicalidade original associado ao nosso magnífico
 traje minhoto é com orgulho que cada elemento diz
 "Eu sou Gatuna".
-
 Em 2000 lançamos o nosso 1º CD “Coisas Simples”.
 Nele constam os originais que a Gatuna foi
 compondo ao longo destes 13 anos e as canções
 que foi transformando, adaptando e também
 algumas que foram oferecidas em serenatas pelos
 sempre charmosos tunos minhotos.
-
 Acham que atingiram o objectivo?
-
 A organização do TROVAS Festival Internacional de
-
 Tunas Femininas, onde durante 10 anos
 consecutivos subiram a palco as melhores tunas do
 país e também de Espanha, México, Porto Rico,
@@ -146,7 +144,6 @@ conquista da capital com mais uma Expedição
 festival organizado pela Tuna Feminina do Instituto
 Superior Técnico.
 Por enquanto é esta a nossa programação, mas a
-
 agenda da Gatuna pode ainda ser preenchida com
 mais actuações.
 É a Gatuna que organiza o jantar do caloiro.
@@ -197,4 +194,4 @@ magnífico, sem grandes exageros, mas com muita
 animação! Mais uma vez, foi um enorme sucesso….
 A Gatuna tem algum grande sonho? Qual?
 Sonho? Seria voltar a tocar no Theatro Circo em
-Braga…
+Braga…Braga…Braga…Braga…

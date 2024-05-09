@@ -1,10 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 36
-University: Universidade do Minho
-Interviewee(s): 
-Role: presidente do Conselho Fiscal
-Date: 3 de Fevereiro de 2006
+journal: UMdicas
+issue: Número 36
+university: Universidade do Minho
+interviewee: José Castro
+role: presidente do Conselho Fiscal
+date: 3 de Fevereiro de 2006
+interviewer: UMdicas
 ---
 UMdicas- Quais são as funções e
 constituição do Conselho Fiscal e
@@ -35,7 +36,6 @@ representativa e coordenadora desse
 mesmo órgão. Eu como presidente
 não fugirei à regra. Irei coordenar o
 CFJ e representá-lo sempre que tal
-
 for necessário. Quando me
 candidatei, foi com o objectivo de
 contribuir para o progresso da
@@ -64,7 +64,6 @@ associativismo.
 Qual a tua opinião acerca da
 direcção vencedora para a
 AAUMinho e como pensas
-
 cooperar com eles?
 A Direcção vencedora é a expressão
 da vontade dos alunos. Penso que
@@ -89,4 +88,4 @@ confiança não tenha sido vã. Digo
 também que podem contar com um
 Conselho Fiscal e Jurisdicional
 interventivo, rigoroso, imparcial e,
-acima de tudo, atento.
+acima de tudo, atento.acima de tudo, atento.acima de tudo, atento.acima de tudo, atento.

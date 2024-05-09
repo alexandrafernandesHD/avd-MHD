@@ -1,10 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Número 45
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Novembro de 2006
+journal: UMdicas
+issue: Número 45
+university: Universidade do Minho
+interviewee: Miguel Peixoto
+date: 21 de Novembro de 2006
+title: “ADEGE pretende ser um exemplo de dinamismo e pró-actividade”
+interviewer: Michael Ribeiro
 ---
+
 U: Quais os principais objectivos desta
 Direcção?
 MP: Defender os interesses dos estudantes
@@ -14,18 +17,6 @@ cívica, cultural e científica dos seus associados;
 cooperar com todos os organismos estudantis;
 nacionais ou estrangeiros; fomentar as relações
 de cooperação e amizade com os antigos
-
-Finalmente a
-latada!
-A latada de 2006 realizou-se quartafeira, dia 8, depois do mau tempo de
-Outubro ter obrigado ao seu
-adiamento. Muitos caloiros de vários
-cursos desfilaram pelas ruas de
-Guimarães fazendo-se ouvir com as
-suas latas e gritos de curso.
-A adesão variou de curso para curso, havia cursos
-bem representados e outros com pouca gente. A
-
 estudantes de Gestão da Universidade do Minho;
 representar os estudantes inscritos na
 licenciatura em Gestão da Universidade do Minho
@@ -43,7 +34,7 @@ estudantes? E o que é preciso para ser sócio?
 MP: A nossa associação, para alem das
 actividades agendadas para este ano lectivo, tem
 ao dispor dos alunos da licenciatura em gestão
-um conjunto de valências tais como:
+um conjunto de valências tais como: 
 - Computadores com ligação à Internet;
 - Possibilidade de impressão de textos de apoio
 às disciplinas;
@@ -69,13 +60,13 @@ alunos da licenciatura exceptuando os benefícios
 do cartão de associado.
 U: Que actividades tem o núcleo agendadas
 para este ano?
-MP: As actividades que temos em agenda são:
+MP: As actividades que temos em agenda são: 
 “Taça ADEGE”, torneio de futsal que está a
 adesão pode estar relacionada com o facto de ela
 ter sido adiada, as pessoas desanimaram depois
 disso, estava menos gente que o ano passado,
 como refere João Figueiredo de comunicação
-social. Da mesma opinião partilha Carlos Ferreira:
+social. Da mesma opinião partilha Carlos Ferreira: 
 “acho que estiveram menos caloiros e doutores,
 pelo menos de comunicação. Os caloiros também
 já não têm tanta vontade de ser praxados logo, não
@@ -89,7 +80,6 @@ alguns atrasos, mas que em nada estão
 relacionados com a organização.
 Num balanço final, esta actividade foi do agrado
 dos caloiros a quem ela se destinava. Apesar de
-
 decorrer neste momento; a “Revista ADEGE”, que
 dará a conhecer a actual situação da ADEGE e da
 licenciatura em gestão, e de alguns temas que
@@ -131,4 +121,4 @@ alunos ter uma forte visibilidade no exterior, o
 nosso maior esforço será canalizado neste
 sentido, estabelecendo uma comunicação directa
 com as várias entidades públicas e privadas para
-que estas recebam os nossos alunos com consideração.
+que estas recebam os nossos alunos com consideração.que estas recebam os nossos alunos com consideração.que estas recebam os nossos alunos com consideração.que estas recebam os nossos alunos com consideração.

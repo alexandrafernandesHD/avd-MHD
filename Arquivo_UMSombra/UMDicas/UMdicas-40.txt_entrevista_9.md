@@ -1,15 +1,17 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: Irene Montenegro
+date: 21 de Abril de 2006
+title: UMinho é “boa mestra” na Responsabilidade Social
+interviewer: Ana Marques
 ---
 UMdicas- Como Pró-Reitora responsável pelo
 pelouro da Avaliação e Qualidade do Ensino,
 considera a responsabilidade social essencial
 para a qualidade do ensino?
-IM:Colocaria a questão de outra forma. A
+IM: Colocaria a questão de outra forma. A
 preocupação pela qualidade do processo ensino/
 aprendizagem e garantia da sua permanente
 melhoria são parte integrante da responsabilidade
@@ -64,7 +66,6 @@ Para além do financiamento para gestão corrente
 deste Gabinete, a actual Reitoria tem disponibilizado
 na sua dotação anual dirigida à qualidade, verbas
 especiais para reforço ao apoio técnico dos
-
 estudantes portadores de deficiência.
 A Reitoria tem também promovido a realização de
 acções de formação para docentes e funcionários
@@ -146,7 +147,6 @@ profundas, exigem disponibilidades financeiras que
 a UM ainda não conseguiu ultrapassar.
 Quais foram as transformações, a nível de infraestruturas efectuadas nos dois pólos?
 Face à transversalidade dos projectos que afectam
-
 as condições de apoio aos estudantes portadores de
 deficiência e à necessidade de articulação dos
 diferentes vectores, foi criada uma Comissão de
@@ -216,4 +216,4 @@ A Reitoria tem como lema o da UM ser “A
 Universidade Sem Muros”, em toda a acepção desta
 expressão. Foi neste sentido que desenvolveu a sua
 acção. Os planos para o futuro enquadram-se
-também dentro deste lema, e são programáticos.
+também dentro deste lema, e são programáticos.também dentro deste lema, e são programáticos.também dentro deste lema, e são programáticos.também dentro deste lema, e são programáticos.

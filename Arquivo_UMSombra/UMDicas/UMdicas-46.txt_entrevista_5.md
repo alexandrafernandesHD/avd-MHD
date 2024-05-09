@@ -1,21 +1,20 @@
 ---
-Jornal: UMdicas
-Issue: Número 46
-University: Universidade do Minho
-Interviewee(s): Eva Sousa
-Topic: o 1º de Dezembro
-Role: Directora Departamento Comercial e Relações Externas
-Date: 14 de Dezembro de 2006
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Número 46
+university: Universidade do Minho
+interviewee: Eva Sousa
+topic: o 1º de Dezembro
+role: Directora Departamento Comercial e Relações Externas
+date: 14 de Dezembro de 2006
+interviewer: Michael Ribeiro
 ---
 
-Tradição e história do 1º de Dezembro
 
+Tradição e história do 1º de Dezembro
 Numa a conversa com Eva Sousa, Directora Departamento Comercial e Relações Externas, sobre o 1º de Dezembro, a sua importância na Academia, a sua história e
 tradição. Eva Sousa, defende o 1º de Dezembro como uma das grandes tradições da Academia Minhota, tradições que são a alma de toda uma história que se constrói
 ao longo dos tempos.
-
-UMdicas: Qual o significado do 1º de Dezembro?
+UMDicas Qual o significado do 1º de Dezembro?
 Eva Sousa: Historicamente, o 1º Dezembro, tal como
 todos sabemos, representa a Restauração da
 Independência Portuguesa. Restauração esta, que viria a
@@ -47,8 +46,7 @@ tenda em conta não só a recuperação da tradição a que se
 associa esta data, mas também como forma de
 homenagear os antigos e actuais alunos da Cidade e da
 Academia, assim como, naturalmente, os Heróis de 1640.
-
-UMDicas: Qual foi o principal objectivo da AAUM este
+UMDicas Qual foi o principal objectivo da AAUM este
 ano na organização do 1ºde Dezembro?
 E.S.: Tal como nos anos anteriores, o principal objectivo da
 AAUMinho quando organiza este evento, é não só
@@ -63,8 +61,7 @@ esta data e aos estudantes. Assim, a AAUM organiza a
 chamada "Récita" para que todos os alunos saibam o que
 é o 1º de Dezembro e todo o espírito académico que o
 envolve.
-
-UMdicas: As tradições académicas são como a alma
+UMDicas As tradições académicas são como a alma
 de uma academia e as suas raízes. Nesse sentido, o 1
 de Dezembro é já uma tradição importante ou achas
 que poderia ser mais ainda?
@@ -90,8 +87,7 @@ um grande esforço para que tal aconteça. Apesar do UM
 ser uma Universidade ainda "jovem”, acolhe já uma
 série de Tradições que merecem o respeito e carinho de
 toda a comunidade, não só académica como civil.
-
-UMdicas: Qual o verdadeiro espírito da Academia em
+UMDicas Qual o verdadeiro espírito da Academia em
 relação a estas Tradições?
 E.S.: O espírito dos Grupos culturais e da AAUMinho face a
 este tipo de tradições como o 1º de Dezembro, ou as
@@ -109,8 +105,7 @@ não termos tido tempo para darmos às tradições
 académicas o estatuto que estas merecem de facto. Mas
 isto é uma batalha constante, que cabe não só à AAUM e
 aos Grupos, mas também, aos próprios alunos.
-
-UMdicas: Achas que os estudantes sentem e vivem
+UMDicas Achas que os estudantes sentem e vivem
 essas tradições ou estão afastados da nossa tradição
 Académica?
 E.S.: Os estudantes sentem e vivem essas tradições
@@ -139,16 +134,13 @@ interesse pelas actividades dos
 mesmos aumenta e,
 consequentemente, um maior
 interesse pelas Tradições
-Académicas.
-
 A palavra
 “Academia”
 contém em
 si própria a
 palavra
 Tradição
-
-UMdicas: Que mensagem
+UMDicas Que mensagem
 gostarias de deixar?
 E.S.: Penso que a mensagem
 mais importante que posso
@@ -180,7 +172,6 @@ Académicas ou o orgulho de ter visto em palco todos os
 Grupos Culturais no 1º de Dezembro que fazem com que
 mais tarde possamos recordar com orgulho que fomos
 alunos da Melhor Academia da Pais.
-
 O 1º de
 Dezembro
 pode e tem
@@ -189,7 +180,5 @@ se tornar uma
 das mais
 importantes
 Tradições
-Académicas.
-
 Michael Ribeiro
-mika@sas.uminho.pt
+mika@sas.uminho.ptmika@sas.uminho.ptmika@sas.uminho.ptmika@sas.uminho.pt

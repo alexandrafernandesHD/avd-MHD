@@ -1,10 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: Michael Ribeiro
+date: 21 de Abril de 2006
+interviewer: UMdicas
 ---
+Desporto
 UMdicas - Em que ano entraste para o Desporto
 Universitário, e como se deu essa entrada?
 Michael Ribeiro - Entrei no Desporto Universitário no
@@ -107,13 +109,6 @@ um pouco mais difícil esquematizar a equipa. Apesar
 disso, temos jogadores muito bons, e felizmente nos
 treinos também têm aparecido bons atletas e com
 vontade de representar a equipa e a AAUMinho.
-
-UM dicas
-
-21 de Abril de 2006
-
-Desporto
-
 UMd - E para o CNU, como está a equipa e quais
 são as expectativas?
 MR - As expectativas e levando em conta o nosso
@@ -126,9 +121,7 @@ superar a nós mesmo para poder alcançar os nossos
 sonhos e objectivos. Tenho a certeza que esta equipa
 com humildade, espírito de entreajuda e trabalho vai
 honrar ao máximo a camisola que enverga.
-
 Ser Capitão, é
-
 UMd - Uma mensagem para o grupo…
 MR - A mensagem que deixo, é que é para mim um
 orgulho poder capitanear esta equipa e jogar ao lado
@@ -141,4 +134,4 @@ felicidades às restantes equipas que vão disputar os
 CNU's.
 Ainda uma última palavra de agradecimento a todos
 os que nos estão a ajudar (Costa e João Camolas),
-muito Obrigado.
+muito Obrigado.muito Obrigado.muito Obrigado.muito Obrigado.

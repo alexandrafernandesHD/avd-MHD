@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 37
-University: Universidade do Minho
-Interviewee(s): 
-Date: Não encontrado
+journal: UMdicas
+issue: Número 37
+university: Universidade do Minho
+interviewee:  Prof. Manuel Mota
+date: 25 de Fevereiro de 2006
+interviewer: Ana Marques
 ---
 Qual tem sido, ao longo dos últimos tempos, a política da UMinho
 no que respeita à Investigação?
@@ -75,7 +76,17 @@ electrónica, biotecnologias e nanotecnologias) são os sectores
 tradicionais, pois, sendo estas tecnologias transversais, os sectores
 tradicionais podem evoluir na cadeia de valor, introduzindo novos
 materiais e tecnologias.
-
+Outro dos Clusters é o Automóvel, que está a ser desenvolvido em
+conjunto com o CENTIMFE e as grandes industrias dos Plásticos da
+Marinha Grande.
+Sobre uma camada de centros de investigação que desenvolve a
+investigação básica e aplicada, montamos um conjunto de Clusters, em
+que há uma ligação articulada entre Centros Tecnológicos, Centros de
+saber, Centros de Investigação, Interfaces, etc., com os sectores
+empresariais.
+Temos as plataformas tecnológicas (Nanotecnologias, Biotecnologias e
+TIC's), que são as rampas de lançamento para os Clustes industriais,
+que são a última camada, e que são quem vai usufruir do conhecimento
 produzido ao longo desta cascata de conhecimento que se vai
 valorizando.
 Como é feita a Avaliação Nacional e Internacional da Investigação,
@@ -121,7 +132,26 @@ da maior rede de excelência europeia. Fomos também reconhecidos, na
 qualidade da investigação, com a instalação do Instituto Europeu de
 Excelência em Engenharia de Tecidos e Medicina Regenerativa, bem
 como com a localização, na zona de influencia da UMinho, do Instituto
-
+Ibérico de Investigação e Desenvolvimento. A UMinho foi ainda
+reconhecida como entidade onde vai estar localizado o Instituto
+Confúcio, orientado à promoção da Língua e Cultura Chinesas. Tudo
+isto são exemplos demonstrativos de que temos vindo a fazer um
+excelente trabalho. Se nos afirmamos externamente, também nos
+afirmamos internamente.
+Para além do que já foi referido, que outros projectos
+desenvolvidos pela UMinho considera actualmente mais
+emblemáticos?
+Temos projectos muito interessantes, sobretudo internacionais. Por
+exemplo, na área das nanotecnologias temos 7 ou 8 projectos europeus.
+Somos a universidade do país que tem mais projectos europeus. O
+Instituto Europeu de Excelência em Engenharia de Tecidos e Medicina
+Regenerativa será instalado no Avepark, em Guimarães, o que
+representa uma importante vitória da UMinho, pois disputamos a
+candidatura, com 19 países da União Europeia (UE). A escolha da
+candidatura da UMinho, por unanimidade, significa que fomos
+reconhecidos como os melhores da UE. Inauguramos também a ligação
+de banda larga à Galiza, o que permitirá estreitar a cooperação
+pedagógica entre as duas instituições (UMinho e Vigo) e a participação
 dos respectivos centros de investigação associados em projectos
 comuns. Esta ligação serve também para alargar ao Minho um
 programa de divulgação de ópera da responsabilidade do Gran Teatre
@@ -173,301 +203,6 @@ situações e a minha percepção é de que a realidade da nossa
 investigação está 30% acima daquilo que se projecta para o exterior,
 porque os investigadores não publicam o que vão fazendo.
 
-O chamado Casaco de
-Bombeiro Inteligente, foi
-desenvolvido na UMinho.
-
-Outro dos Clusters é o Automóvel, que está a ser desenvolvido em
-conjunto com o CENTIMFE e as grandes industrias dos Plásticos da
-Marinha Grande.
-Sobre uma camada de centros de investigação que desenvolve a
-investigação básica e aplicada, montamos um conjunto de Clusters, em
-que há uma ligação articulada entre Centros Tecnológicos, Centros de
-saber, Centros de Investigação, Interfaces, etc., com os sectores
-empresariais.
-Temos as plataformas tecnológicas (Nanotecnologias, Biotecnologias e
-TIC's), que são as rampas de lançamento para os Clustes industriais,
-que são a última camada, e que são quem vai usufruir do conhecimento
-
-Ibérico de Investigação e Desenvolvimento. A UMinho foi ainda
-reconhecida como entidade onde vai estar localizado o Instituto
-Confúcio, orientado à promoção da Língua e Cultura Chinesas. Tudo
-isto são exemplos demonstrativos de que temos vindo a fazer um
-excelente trabalho. Se nos afirmamos externamente, também nos
-afirmamos internamente.
-Para além do que já foi referido, que outros projectos
-desenvolvidos pela UMinho considera actualmente mais
-emblemáticos?
-Temos projectos muito interessantes, sobretudo internacionais. Por
-exemplo, na área das nanotecnologias temos 7 ou 8 projectos europeus.
-Somos a universidade do país que tem mais projectos europeus. O
-Instituto Europeu de Excelência em Engenharia de Tecidos e Medicina
-Regenerativa será instalado no Avepark, em Guimarães, o que
-representa uma importante vitória da UMinho, pois disputamos a
-candidatura, com 19 países da União Europeia (UE). A escolha da
-candidatura da UMinho, por unanimidade, significa que fomos
-reconhecidos como os melhores da UE. Inauguramos também a ligação
-de banda larga à Galiza, o que permitirá estreitar a cooperação
-pedagógica entre as duas instituições (UMinho e Vigo) e a participação
-
 Ana Marques
 anac@sas.uminho.pt
 gcii@reitoria.uminho.pt
-
-UM
-
-25 de Fevereiro de 2006
-
-dicas
-
-Processo de Bolonha
-O que é, qual a sua Amplitude e
-Efeitos
-Chama-se processo de Bolonha a um conjunto de
-reformas que estão a ser adoptadas por um conjunto
-muito grande de países europeus, 45 de momento,
-com o objectivo de, em 2010, estar constituída a Área
-Europeia de Ensino (AEES) Superior. As reformas em
-curso têm como objectivo assegurar a mobilidade dos
-estudantes entre instituições, garantindo a
-transferibilidade dos conhecimentos, a
-empregabilidade, a transparência dos procedimentos
-e a Educação ao Longo da Vida. As metodologias de
-ensino/aprendizagem estão também a ser
-completamente reformuladas, dando maior ênfase ao
-trabalho do aluno e introduzindo a aprendizagem à
-distância, a aprendizagem activa, a aprendizagem
-baseada solução de problemas, orientada a projectos,
-entre outras.
-Instrumentos do Processo
-Os instrumentos associados ao Processo de Bolonha
-são: o Sistema Europeu de Transferência de Créditos
-(ECTS), o Suplemento ao Diploma (DS) e o Europass,
-estando também em fase de desenvolvimento outros
-instrumentos, tais como a European Network of
-Quality Assurance (ENQA), que se destina a garantir a
-qualidade das instituições.
-O Sistema Europeu de Transferência de Créditos foi
-criado com o objectivo de facilitar a mobilidade de
-estudantes, promovendo o reconhecimento
-académico dos estudos efectuados no estrangeiro.
-Trata-se de um sistema desenvolvido pela Comissão
-Europeia no sentido de estabelecer procedimentos
-comuns entre instituições de modo garantir o
-reconhecimento académico de períodos de estudo no
-estrangeiro e de modo a medir, e comparar, resultados
-académicos, permitindo transferi-los de uma
-instituição para outra.
-O Suplemento ao Diploma é um documento anexo ao
-diploma de ensino superior, criado pela Comissão
-Europeia, Conselho da Europa e UNESCO/CEPES,
-através do qual se pretende incrementar a
-transparência a nível internacional e facilitar o
-reconhecimento académico e profissional de
-qualificações (diplomas, graus, certificados, etc.). O
-Suplemento ao Diploma pretende ser uma informação
-precisa e de fácil leitura das qualificações individuais,
-fundamentalmente nos estados-membros diferentes
-daquele onde foi efectuada a formação.
-Implementação na UMinho
-A UMinho desenvolveu, ao longo dos últimos 3 anos,
-um trabalho aprofundado de convergência para o
-processo de Bolonha, insistindo sempre que havia
-muito mais no processo de Bolonha do que a duração
-dos cursos. Assim, nestes 3 anos, a UMinho foi
-acreditada ao nível europeu com o “ECTS Label” e
-com o “DS Label”, pelas boas práticas demonstradas
-nestes dois instrumentos de Bolonha, e o seu modelo
-de Suplemento ao Diploma da UMinho é aquele que a
-União Europeia escolheu para apresentar como
-exemplo a seguir.
-A UMinho desenvolveu todo o sistema de resultados
-de aprendizagem e incluiu este sistema em todas as
-unidades curriculares de todos os cursos, estando já
-disponíveis no portal da UMinho, em Português e em
-Inglês.
-A Universidade desenvolveu uma plataforma de
-aprendizagem à distância (“elearning”) que está
-disponibilizada para todo o corpo docente.
-Mediante a análise de inquéritos realizados, durante o
-ano de 2005, aos alunos e professores sobre a carga
-de trabalho em cada unidade curricular, a UMinho
-estabeleceu a decomposição das horas de trabalho
-horas de contacto, horas tutoriais, horas de trabalho
-individual, avaliação.
-A UMinho teve a funcionar, nos últimos 2 anos, 4
-cursos-piloto segundo o modelo de Bolonha, o que
-permitiu detectar insuficiências e identificar
-necessidades em recursos materiais.
-Foram organizadas dezenas de cursos de formação
-pedagógica de docentes, com o objectivo de facilitar
-as novas metodologias de ensino/aprendizagem.
-E... após um cuidado “trabalho de casa”, a UMinho
-encontra-se em condições de submeter para registo,
-uma vez que os planos de estudo já estão prontos,
-entre 20 a 30 cursos. A grande excepção corresponde
-aos cursos de formação de professores, que
-aguardam ainda a publicação de legislação
-
-regulamentar.
-Mudanças com a implementação dos princípios
-de Bolonha nos cursos da UMinho
-Espera-se que a aprendizagem se torne mais
-atractiva para os alunos e que, por isso, haja um
-aumento da taxa de sucesso. A UMinho é a
-Universidade portuguesa com a maior taxa de
-sucesso escolar, mas acredita-se que é sempre
-possível melhorar.
-Muitas designações de 1º ciclo deixarão de existir,
-mantendo-se, no entanto, a maioria das designações
-de 2º ciclo. Haverá cursos a serem leccionados
-segundo o modelo de Mestrado integrado caso de
-cursos de Engenharia, de Medicina, de Arquitectura
-havendo outros que se desenvolverão segundo o
-modelo dos 2 ciclos. No caso dos mestrados
-integrados, haverá sempre um diploma intermédio de
-licenciatura ao fim do 1º ciclo, como aliás recomenda o
-projecto de Decreto-Lei. Isto permitirá o ingresso no
-ciclo de estudos integrados de licenciados em área
-similar, ou equivalente, com a devida creditação
-obtida no 1º ciclo. O mestrado terá sempre um curso
-de especialização, formado por unidades curriculares,
-correspondentes a metade dos créditos totais do 2º
-ciclo, a que se seguirá um período de trabalho
-essencialmente individual tutoriado, que poderá ser
-um projecto, um estágio profissional ou uma
-dissertação resultante de trabalhos de investigação
-científica.
-Mudanças no Acesso à Universidade
-Para já, encontra-se em discussão o acesso, havendo
-tendência, ainda não consolidada, para se exigir
-apenas uma disciplina com a nota mínima de 10.
-Quanto ao acesso ao 2º ciclo, ele será efectuado
-através da creditação, como já vimos, das
-competências adquiridas na formação de 1º ciclo. O
-acesso não tem correlação directa com o processo de
-Bolonha no Ensino Superior. O que certamente
-haverá é uma alteração dos próprios currículos de
-várias formações pré-superiores nomeadamente os
-Cursos de Especialização Tecnológica no sentido de
-lhes serem atribuídas créditos ECTS que poderão ser
-acumuláveis e acreditáveis para o acesso eventual ao
-Ensino Superior.
-Como vai ser a mobilidade publicitada com
-adesão a Bolonha
-A mobilidade publicitada consiste na possibilidade de
-qualquer estudante poder, mediante a apresentação
-da documentação apropriada, que neste momento
-está concentrada num pacote com o nome genérico
-de Europass, solicitar transferência para uma
-universidade nacional ou internacional. É claro que
-possibilidade será uma questão realidade é outra.
-Com efeito, suponhamos que 20 000 estudantes
-europeus desejam a transferência para Cambridge,
-uma Universidade de grande renome. Como esta é a
-população estudantil total de Cambridge, é óbvio que
-a admissão dos candidatos será sujeita a uma triagem
-rigorosa e altamente selectiva. Desiludam-se pois os
-estudantes, se pensam que com Bolonha podem ir
-estudar para onde quiserem. Uns poucos, certamente
-irão. A maioria estará limitada pelas regras estritas de
-admissão de cada Universidade.
-Influencia de Bolonha sobre os docentes
-Vai obrigar a uma reformulação total das metodologias
-de ensino/aprendizagem e trazer uma maior exigência
-ao trabalho dos professores.
-Ao nível da Avaliação Internacional do Ensino,
-nomeadamente ao nível Europeu, quais são as
-apostas da UMinho?
-Será avaliada positivamente ao mais alto nível, por
-entidades devidamente acreditadas para o fazerem.
-Por isso mesmo a UMinho candidatou-se a ser
-avaliada pela EUA European University Association
-durante o corrente ano.
-Quanto mais positiva for essa avaliação maior
-credibilidade terá a Universidade do Minho no exterior.
-Ana Marques
-anac@sas.uminho.p
-gcii@reitori.uminho.pt
-
-Desenvolvimento - Campus
-
-11
-
-I&D da Universidade do Minho
-na génese da Pluma
-O PIEP, Pólo de Inovação em Engenharia de Polímeros da
-Universidade do Minho, teve uma relevante participação no projecto
-que conduziu ao desenvolvimento da PLUMA, a nova garrafa de gás
-da GALP com estrondoso sucesso comercial no mercado nacional.
-O projecto, com cerca de dois anos, foi liderado pela empresa de
-Guimarães, AMTROL-ALFA, e tinha como objectivo desenvolver uma
-garrafa de gás inovadora que fosse mais leve, segura e atraente que
-as tradicionalmente existentes no mercado fabricadas em aço.
-A solução passou por utilizar, na parte estrutural da garrafa, camadas
-de um resistente e inovador material compósito de matriz
-termoplástica (PP reforçado com fibras de vidro contínuas) sobre um
-núcleo muito fino de aço. Este tipo de construção permitia reduzir para
-o peso da garrafa metade e garantir a sua reciclagem e segurança nas
-condições mais severas de trabalho.
-Para além de ter seleccionar os materiais e o método de fabrico a aplicar, o PIEP recorreu a métodos
-avançados de cálculo para comprovar a resistência da nova garrafa nas condições mais severas de
-trabalho e efectuou ensaios para garantir a sua segurança
-nas mais inesperadas situações de funcionamento, como
-seja, o risco de ocorrerem descargas electrostáticas
-perigosas durante a sua passagem pelas linhas de
-enchimento.
-Os protótipos da nova garrafa de gás que foram fabricadas
-por enrolamento filamentar e testadas nas instalações do
-INEGI - Instituto de Engenharia Mecânica e Gestão
-Industrial do Porto, demonstraram cumprir rigorosamente
-todos os requisitos impostos pela normalização europeia
-relevante, nomeadamente, os referentes à resistência à
-pressão, fogo e impactos balísticos.
-As empresas GALP e BRANDIA deram também um
-contributo extremamente valioso para o desenvolvimento
-e criação de uma jaqueta exterior para a garrafa, com
-“design” extremamente atractivo e funcional. Esta jaqueta
-exterior, totalmente em termoplástico (PEAD), encontra-se
-actualmente a ser fabricada pela empresa SIMOLDES.
-Os prestigiosos prémios internacionais já atribuídos à
-PLUMA, “Spirit of Conquest” na maior feira mundial da
-indústria de compósitos (JEC 2005) e o de “design”, da IF
-em 2006, são a melhor demonstração da excelente
-qualidade da sua concepção e “design”. O sucesso deste
-projecto, totalmente nacional, evidencia quão
-determinante pode ser para o relançamento dum tecido
-industrial português mais competitivo e sustentado, a
-aposta num modelo correcto de cooperação entre
-Instituições de I&D e Indústria.
-A nova PLUMA é actualmente fabricada pela AMTROLALFA, numa nova unidade fabril expressamente criada
-para o efeito em Guimarães, prevendo-se que se
-produzam, apenas para o mercado nacional, cerca de
-600.000 unidades em 2006. A excelente receptividade e
-interesse suscitado pela nova garrafa junto dos clientes
-internacionais mais relevantes auguram, por outro lado,
-um êxito para exportação do produto, pelo menos tão
-grande quanto o sucesso já obtido pela PLUMA no
-mercado nacional.
-
-UMinho abre as portas aos
-alunos do Ensino Secundário
-Com o objectivo de dar a conhecer as actividades de ensino e investigação
-que desenvolve, a Universidade do Minho (UMinho) organizou, para o
-primeiro semestre de 2006, um vasto Programa de Actividades orientado aos
-estudantes, e professores, do ensino básico e secundário.
-As actividades propostas pela Universidade
-abrangem praticamente todas as áreas do
-saber e procuram mostrar aos alunos como é
-que é estudar e viver na UMinho ao mesmo
-tempo que dão a conhecer um pouco melhor os
-cursos da universidade e as perspectivas de
-futuro que eles oferecem.
-Para além da possibilidade dos alunos e
-professores do ensino secundário visitarem as
-instalações da UMinho, procura-se também,
-
-sempre que solicitado, dar resposta positiva
-aos pedidos de participação em Sessões de
-Informação e Feiras de Formação Vocacional
-organizadas pelas Escolas.

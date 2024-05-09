@@ -1,11 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 35
-University: Universidade do Minho
-Interviewee(s): Pedro Morgado
-Topic: RGA
-Role: Presidente da RGA
-Date: 23 de Dezembro de 2005
+journal: UMdicas
+issue: Número 35
+university: Universidade do Minho
+interviewee: Pedro Morgado
+topic: RGA
+role: Presidente da RGA
+date: 23 de Dezembro de 2005
+interviewer: Ana Marques
 ---
 com o Presidente da RGA
 Pedro Morgado, aluno do 5º ano de Medicina
@@ -46,7 +47,6 @@ e reforço do associativismo.
 Quais são os temas/assuntos debatidos nas
 RGA's?
 O que é feito em todas as Assembleias-Gerais
-
 aplica-se também às RGA's. Quando se efectua
 uma RGA, há sempre uma ordem de trabalhos que
 terá de ser respeitada, no entanto há períodos
@@ -84,7 +84,6 @@ com a Direcção da AAUM. Os órgãos que compõem
 a AAUM, na sua essência têm um objectivo comum
 que é uma AAUM ainda mais forte, dinâmica, e que
 represente da melhor forma todos os estudantes.
-
 Eu como presidente da mesa, tenho a perfeita
 consciência daquilo que é a vontade dos
 estudantes, e a sua vontade é que a actual Direcção
@@ -122,7 +121,6 @@ aulas, às bibliotecas, cantinas, muitos de nós
 participam nas actividades dos Serviços de Acção
 Social da UMinho, portanto achamos que estamos
 suficientemente perto da realidade da maioria dos
-
 estudantes para conseguir captar os seus
 sentimentos e podermos trabalhar de acordo com a
 percepção que vamos tendo.
@@ -150,4 +148,4 @@ dizer aos estudantes da UMinho, é que não
 desistam de se manterem activos na academia, ao
 contrário do que se possa pensar, não somos
 apenas estudantes universitários, mas algo mais,
-somos o futuro da sociedade.
+somos o futuro da sociedade.somos o futuro da sociedade.somos o futuro da sociedade.somos o futuro da sociedade.

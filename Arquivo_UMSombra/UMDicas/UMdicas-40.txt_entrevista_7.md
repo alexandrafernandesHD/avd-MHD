@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: Luis Paço
+date: 21 de Abril de 2006
+interviewer: UMdicas
 ---
 Umdicas - Em que ano entraste para o Desporto
 Universitário, e como se deu essa entrada
@@ -31,7 +32,6 @@ falhado a passagem às meias-finais por uma
 diferença minima de pontos marcados relativamente
 ao outro 2º melhor classificado dessa mesma fase de
 grupos.
-
 UMd - Qual foi teu percurso desportivo até
 chegares à UMinho?
 MG - Comecei a jogar basquetebol há cerca de 11
@@ -63,9 +63,6 @@ finalmente, ao pódio e sermos as actuais ViceCampeãs Universitárias. Temos co
 um resultado muito bom e que será difícil repetir este
 ano, no entanto, constitui um desafio que estamos
 dispostas a aceitar!
-UMd - O que é que é para ti ser “capitão da
-AAUMinho”, e qual deve ser o papel do capitão na
-equipa?
 MG - Ser a capitã de equipa é sempre um grande
 motivo de orgulho, pois significa que o treinador e as
 atletas confiam em mim. Quando se é a capitã da
@@ -75,4 +72,4 @@ lado, o facto de ser a capitã acarreta também algumas
 responsabilidades. Penso que, neste sentido, o
 capitão (ã) de equipa deve sempre dar o exemplo,
 procurar ser sensato, motivador e apoiar da melhor
-forma a equipa.
+forma a equipa.forma a equipa.forma a equipa.forma a equipa.

@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: Marlene Gonçalves
+date: 21 de Abril de 2006
+interviewer: UMdicas
 ---
 UMdicas - Em que ano entraste para o Desporto
 Universitário, e como se deu essa entrada?
@@ -27,7 +28,7 @@ exigências são diferentes) esperava encontrar um
 grupo de pessoas que, embora tivesse uma
 característica comum gosto pelo basquetebol não
 apresentasse grande proximidade entre as atletas.
-No entanto verifica-se precisamente o contrário:
+No entanto verifica-se precisamente o contrário: 
 somos companheiras de equipa, mas também boas
 amigas, o que faz de nós uma equipa coesa.
 
@@ -35,16 +36,14 @@ O Complexo Desportivo Universitário da UMinho em Gualtar, transformou-se no
 passado dia 29, num grande centro de solidariedade, onde imperou a ajuda em
 prol do próximo e a Responsabilidade Social da Academia Minhota esteve ao
 mais alto nível.
-
 AAUMinho em entrevista
-
 acima de tudo, ser mais que um colega… um lider! Uma das figuras mais
 deve ser o primeiro a chegar e o último a sair. No desporto universitário, o capitão
 transmitir aos novos elementos da equipa os valores e o espirito do grupo, pois
 desporto universitário, é a amizade que normalmente se constroi no seio da equipa.
 que conseguiram qualificar-se com as suas equipas para a Fase Final dos
 percurso desportivo, a sua visão do que é do desporto universitário, a importância
-antevisão destes acerca do momento mais importante na competição universitária:
+antevisão destes acerca do momento mais importante na competição universitária: 
 Ana Coimbra, Nuno Gonçalves e Michael Ribeiro
 subimos à Divisão A2. Aí o percurso foi muito bom
 porque ficamos em 3º lugar. No ano seguinte fui jogar
@@ -82,7 +81,6 @@ MC - O percurso da equipa não podia ter sido melhor!
 Participamos em 2 campeonatos de apuramento e
 ganhamos todos os jogos 2-0. Ou seja, ganhamos
 tudo o que havia para ganhar…
-
 UMd - E para o CNU, como está a equipa e quais
 são as expectativas?
 MC - A equipa está bastante motivada para o CNU.
@@ -94,7 +92,6 @@ UMd - Uma mensagem para o grupo…
 MC - Vamos continuar o trabalho feito até aqui e fazer
 todos os possíveis para alcançar a meta que
 traçamos para esta época: ser campeãs nacionais!
-
 LP - Sem duvida nenhuma, ao contrário do que muita
 gente pensa o desporto universitário tem um nível
 competitivo bastante elevado e na Universidade do
@@ -106,12 +103,9 @@ S.C.Vianense, clube no qual fiz a minha formação
 como atleta, como sénior representei o Vianense,
 Castelo Maia, V.C.Viana, Vitória de Guimarães e
 actualmente jogo no Amares.
-UMd - Enquanto atleta da AAUMinho, qual foi o teu
-percurso, e qual foi o(a) momento/vitória mais
-significativo(a) para ti?
 LP - Na UMinho jogo Voleibol de Indoor e Voleibol de
 Praia. O momento mais inesquecível foi, sem duvida
 alguma, a participação nas Universiadas em Pequim,
 em representação de Portugal. A nível de vitórias, o
 momento mais significativo foi a conquista do meu 1º
-titulo de voleibol de praia.
+titulo de voleibol de praia.titulo de voleibol de praia.titulo de voleibol de praia.titulo de voleibol de praia.

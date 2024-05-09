@@ -1,12 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Número 44
-University: Universidade do Minho
-Interviewee(s): Pedro Dias
-Topic: objectivos e metas do seu departamento para este ano lectivo de 2006/07
-Role: Vice-Presidente da AAUMinho para o Desporto
-Date: 18 de Outubro de 2006
+journal: UMdicas
+issue: Número 44
+university: Universidade do Minho
+interviewee: Filomena Costa, José Mendes
+topic: TUTORUM
+date: 18 de Outubro de 2006
+title: TUTORUM, mais que um apoio, sobretudo um merecimento
+interviewer: Nuno Gonçalves
 ---
+
 Com que idade é que
 muito mais esforço físico e psicológico do que a
 que recentemente concluiu a Volta a França do
@@ -36,7 +38,6 @@ contra-relógio (uma das suas especialidades) e em
 ter entrado na UM, pois assim tenho o apoio da
 linha, o seleccionador nacional, José Poeira, decidiu
 minha treinadora, todos os dias, da minha família, e
-
 Achas que Atletismo
 poupar o atleta vimaranense, apenas o inscrevendo
 tenho a companhia das minhas colegas de treino que
@@ -47,7 +48,6 @@ desenvolvimento
 linha porém acabou por não correr bem a José
 enquanto individuo?
 Mendes, que viria a desistir durante o decorrer da
-
 Para muitos atletas de alta competição torna-se
 Sim, ajudou-me muito, não só no que diz respeito a
 mesma.
@@ -72,7 +72,6 @@ depois vou treinar (muitas vezes às 18h30), o que
 na prova em linha.
 não é fácil, pois a essa hora costumo treinar sozinha.
 Quando são dois treinos por dia, treino por volta das
-
 Qual foi o papel da tua familia no teu percurso
 Na presente época desportiva venceu a Clasica de
 Este estudante do 2º ano do Curso Superior de
@@ -91,7 +90,6 @@ ciclista português a participar nos referidos
 Acho que me apoiam cada vez mais, na minha
 classificação da juventude do 27º Grande Prémio do
 Campeonatos, disputados em Herentals (Bélgica).
-
 A UMinho iniciou em Portugal um programa
 opinião, é porque se eu escolhi esta modalidade e
 Minho e na segunda prova da fase final da Taça de
@@ -115,7 +113,6 @@ alcançado a 50ª posição em prova idêntica dos
 atletas da alta competição, pois quem quiser acabar
 foi também terceiro na primeira prova da Taça de
 Campeonatos do Mundo de Madrid. Vice-Campeão
-
 Quantas vezes treinas por semana, e quanto
 um curso universitário e praticar desporto federado
 Portugal e sexto na Clássica de Guimarães e no III
@@ -135,11 +132,9 @@ de Estrada (Cadetes) e venceu diversas provas em
 duram menos e à tarde duram cerca de duas horas.
 (3º Grande Prémio Caixa Agrícola, Pombal, 3 de
 Portugal e no estrangeiro.
-
 Em que áreas já recebeste apoio através do
 Setembro) - e na qual não marcará presença por
 Tutorum?
-
 A maneira como tu lidas com a pressão e a
 estar na altura na Volta a França do Futuro.
 Na mais recente edição da Volta a Portugal do
@@ -169,7 +164,6 @@ classificação por pontos, tendo lutado até ao fim pela
 que tanto uma como outra está muito elevada. Eu
 de Elite. Segundo Justino Curto, em declarações
 reconquista da camisola amarela que perdeu na
-
 Os teus objectivos pessoais passam por uma
 fico muito ansiosa quando sei que tenho de atingir
 exclusivas ao Site Oficial do Benfica, «José Mendes
@@ -193,7 +187,6 @@ terminar o curso, conciliá-lo com o atletismo, e tentar
 é um grande homem».
 evidenciar as suas características de ''atleta
 dar o máximo nos dois. É uma tarefa difícil, mas vale
-
 Qual é para ti a grande diferença entre a
 completo'', sendo de realçar o esforço em conciliar a
 a pena o esforço e dedicação.
@@ -212,13 +205,9 @@ grande número de participantes e a universitária não.
 Na minha opinião, a competição federada exige
 
 UM dicas
-
 18 de Outubro de 2006
-
 Desporto - Informação
-
 09
-
 “AAUMinho persegue MELHOR ano desportivo de sempre”
 Barcelos, Guarda e Vila Real. Três cidades, três fases finais, e três anos consecutivos (2004/2005/2006) a liderar o ranking da Federação Académica do Desporto
 Universitário (FADU). A AAUMinho perfila-se como a Super Potência do desporto universitário em Portugal, e um modelo a seguir em termos de organização de grandes
@@ -267,7 +256,6 @@ com excelência um Campeonato da Europa
 Universitário (basquetebol). É politica da
 AAUMinho continuar a sua afirmação como
 potência desportiva além fronteiras?
-
 Sem sombra de dúvida a AAUM irá a continuar
 apostar nas participações internacionais como forma
 de potenciar o desporto, visto a qualidade do
@@ -278,7 +266,6 @@ AAUM, possibilitando assim a obtenção de
 medalhas a nível internacional, demarcando assim a
 imagem do desporto nacional.
 Carlos Santos
-
 Em 2008 a AAUMinho vai organizar o
 Campeonato do Mundo de Badminton
 Universitário. Como estão os preparativos para
@@ -309,7 +296,6 @@ excelentes condições que os alojamentos deste ano
 possuíam. Na minha opinião, mais um grande evento
 organizado por esta Academia e que deixa sempre
 “água na boca” aos seus participantes.
-
 Há já alguma novidade que nos possas revelar
 para esta 6ª edição?
 Como é do conhecimento geral o mandato da AAUM
@@ -334,7 +320,6 @@ cómodas para os alunos.
 Penso que mais uma vez, Serão as “Melhores de
 Sempre!”
 Por fim, uma mensagem para os milhares de
-
 praticantes desportivos da Universidade do
 Minho que usufruem das actividades da AAUM e
 também do DDC?
@@ -354,17 +339,6 @@ foi o ano 2005/2006. Mais uma vez vamos sem
 dúvida contribuir para o “Melhor ano desportivo de
 sempre!”, do qual todos nós fazemos parte
 Integrante!
-Nuno Gonçalves
-nunog@sas.uminho.pt
-
-10
-
-Desporto - Informação
-
-18 de Outubro de 2006
-
-UM dicas
-
 Serviços desportivos diversificam oferta e caminham
 para a certificação
 Carlos Silva, Administrador dos SASUM traça orientações para 2006/2007.
@@ -403,7 +377,6 @@ todos” reflecte-se também nos resultados
 desportivos da competição universitária onde a
 liderança a nível nacional tem sido clara na última
 década.
-
 Qual foi o pensamento/projecto inicial de
 desporto para a UMinho?
 O pensamento inicial foi olhar para os mapas dos
@@ -421,13 +394,11 @@ foi adjudicado em Outubro de 2006,e a concluir
 em Janeiro de 2007
 - Inicio de Actividade: Abril/Maio de 2007
 - Custo : 72.715,50 euros + iva
-
 alguma margem de progressão em Azurém, nos
 horários menos nobres e numa ou noutra actividade,
 vamos ver se com uma melhor monitorização das
 actividades conseguimos subir um pouco o número
 de utentes sem perder qualidade de serviço.
-
 Os objectivos foram atingidos?
 Ainda temos um longo percurso a percorrer em
 matéria de desporto, mas o que nos motiva é chegar
@@ -457,7 +428,6 @@ Universitário de Desporto. Tem-se notado o
 aumento da qualidade desportiva e organizativa
 de algumas academias, o que será ou está a ser
 feito pela UMinho para garantir a continuidade
-
 nesta posição?
 Continuar a apostar no desporto para todos. Sem
 uma base alargada de praticantes desportivos não
@@ -470,7 +440,6 @@ ocupando cada um o seu lugar e trabalhando dentro
 do que é a nossa missão.
 Que serviços desportivos podem os SASUM
 oferecer aos seus utentes?
-
 “Damos destaque, já neste
 ano lectivo à construção
 do Campo de Golfe
@@ -507,7 +476,6 @@ agora se inicia?
 Neste momento estamos em “velocidade de
 cruzeiro”, ou seja, com o programa e instalações que
 temos não poderemos evolui muito mais. Temos
-
 Em termos internacionais como somos vistos?
 Somos reconhecidos como um serviço de referência
 em alguns aspectos. Em 2000 organizamos na
@@ -541,4 +509,4 @@ Green e outros batimentos mais curtos. Será de certo
 um projecto muito interessaste e mobilizador na
 nossa academia e que será apresentado no curto
 prazo, já que nesta data se encontra em
-construção....
+construção....construção....construção....construção....

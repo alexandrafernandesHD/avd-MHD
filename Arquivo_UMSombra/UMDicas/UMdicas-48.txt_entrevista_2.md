@@ -1,32 +1,28 @@
 ---
-Jornal: UMdicas
-Issue: Número 48
-University: Universidade do Minho
-Interviewee(s): Comissão de Residentes
-Topic: A Vida de uma Residência Universitária
-Date: 21 de Janeiro de 2007
-Title: A Vida de uma Residência Universitária
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Número 48
+university: Universidade do Minho
+interviewee: Comissão de Residentes
+topic: A Vida de uma Residência Universitária
+date: 21 de Janeiro de 2007
+title: A Vida de uma Residência Universitária
+interviewer: Michael Ribeiro
 ---
 
 A Vida de uma Residência Universitária
-
 “Viver na residência de Santa Tecla é viver numa grande família, onde, como em todas as famílias, há conflitos, grandes
 amizades, amor, ódio, compreensão, entreajuda e sobretudo Felicidade.” Estas são as palavras de Janine e Carla Coelho
 residentes da Residência S.Tecla, e que fazem parte da Comissão de Residentes. Regendo-se pelos Regulamentos das
 Residências Universitárias, esta comissão pretende tornar a residência um lar para os que lá residem.
-
 Quem são os Órgãos dirigentes?
 A Comissão de Residentes é constituída por 2
 delegados por piso que elegem os coordenadores
 de bloco e o coordenador geral, que em conjunto
 formam a Coordenação.
-
 Tem estatutos próprios?
 Não, respeita os Regulamentos das Residências
 Universitárias e algumas normas de
 funcionamento internas
-
 A comissão dispõe de sede própria?
 Sim, temos uma sala no rés-do-chão do bloco B,
 com o material necessário para o desempenho
@@ -36,16 +32,15 @@ actividades que promovemos ao longo do ano e
 como local onde os outros residentes nos podem
 procurar para expor os seus problemas, propostas
 e sugestões
-
 Quais as competências desta Comissão de
 Residentes?
 Como previsto no regulamento das residências
-Universitárias:
+Universitárias: 
 Capítulo II
 Art.º 8º
 1. A comissão de residentes é o órgão consultivo dos
 S.A.S.U.M. constituído por residentes e tem como
-principais objectivos:
+principais objectivos: 
 a) Promover juntamente com os serviços S.A.S.U.M.
 relações cordiais e de camaradagem entre os
 residentes;
@@ -81,11 +76,10 @@ nomear uma comissão “AD HOC”, fixando,
 simultaneamente, novo prazo para as referidas
 eleições.
 Art.º 9º
-1. Compete à Comissão de Residentes o seguinte:
+1. Compete à Comissão de Residentes o seguinte: 
 a) Colaborar na elaboração do Regulamento Interno
 Geral, propondo regras de funcionamento;
 b) Contribuir para a resolução de conflitos entre os
-residentes;
 c) Participar na análise dos problemas de interesse
 geral que possam afectar ou alterar as condições
 normais de alojamento;
@@ -99,7 +93,6 @@ condições mais adequadas à sua utilização.
 2. A gestão de cada R. U. compete aos S.A.S.U.M., os
 quais afectarão o pessoal necessário à sua limpeza e
 funcionamento.
-
 Qual o papel que a comissão desempenha?
 Acima de tudo funciona como uma ponte entre os
 problemas e dificuldades sentidos pelos
@@ -123,7 +116,6 @@ mediação de problemas suscitados pela vivência
 em comunidade como a gestão e utilização de
 espaços comuns e a reivindicação de melhore
 condições.
-
 Que tipo de condições é que os estudantes
 encontram na Residência?
 Encontram um bar, uma cantina, uma sala de
@@ -140,7 +132,6 @@ degradadas e mesmo desajustadas, o que
 prevemos que venha a ser resolvido com a
 intervenção que os SASUM pretendem levar a
 cabo já a partir do próximo ano.
-
 Quais os objectivos e o que se pode esperar
 desta comissão?
 O nosso principal objectivo é tentar fazer que os
@@ -152,7 +143,6 @@ delegados de piso e coordenadores de modo a
 conseguir os problemas que identificarmos ou nos
 forem apresentados sejam resolvidos o mais
 rápido e eficazmente possível.
-
 Que tipo de apoios é que vocês têm?
 Principalmente dos SASUM e AAUM, mas
 também da Junta de Freguesia de S. Vítor, da
@@ -160,7 +150,6 @@ Associação Desportiva de Santa Tecla e de um
 punhado de empresas e instituições a quem
 recorremos para as diversas actividades que
 promovemos.
-
 Quais as actividades que têm em agenda?
 O magusto que funciona como recepção ao novo
 residente, uma feira de natal com artigos de
@@ -173,7 +162,6 @@ semana cultural com poesia, teatro, música e
 gastronomia e o dia do residente em meados de
 Maio, e uma palestra sobre a Sida em data ainda a
 designar
-
 Qual o vosso grande objectivo?
 Promover laços de amizade, camaradagem e inter
 ajuda entre todos os residentes…o nosso
@@ -184,7 +172,6 @@ festa como o do novo residente e dia do residente
 para alem da ceia de natal e magusto. Essas
 festas servem essencialmente para uma maior
 convivência e união dos residentes.
-
 O que é “morar na Residência de S.Tecla”?
 Para responder a esta questão pedi ajuda a todos
 os delegados, ainda só dois responderam,
@@ -203,7 +190,6 @@ docemente desigual. Uma estrutura criada com mestria,
 que quando tudo funciona é uma imensa alegria e lugar
 melhor é só a casa da nossa avó...”
 Kika Freyre.
-
 “Viver na residência de Santa Tecla é viver numa
 grande família, onde, como em todas as famílias,
 há conflitos, grandes amizades, amor, ódio,
@@ -235,4 +221,4 @@ Acho que não se consegue explicar… Sente-se!”
 Susana Vicente
 Carla Monteiro
 Michael Ribeiro
-mika@sas.uminho.pt
+mika@sas.uminho.ptmika@sas.uminho.ptmika@sas.uminho.ptmika@sas.uminho.pt

@@ -1,10 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 33
-University: Universidade do Minho
-Interviewee(s): António Carneiro
-Topic: Papa da UMinho faz balanço da praxe e projecta o futuro
-Date: 17 de Novembro de 2005
+journal: UMdicas
+issue: Número 33
+university: Universidade do Minho
+interviewee: António Carneiro
+topic: Papa da UMinho faz balanço da praxe e projecta o futuro
+date: 17 de Novembro de 2005
+interviewer: Michael Ribeiro
 ---
 Papa da UMinho faz balanço da praxe e projecta o futuro.
 António Carneiro, “Papa” da, academia defende
@@ -92,7 +93,6 @@ organização de uma actividade em conjunto. Esta
 estrutura faz com que as comissões tenham uma
 grande proximidade com o Cabido, visto que nós
 transmitimos as directivas às comissões para que a
-
 praxe funcione bem e sem incidentes.
 Como é estabelecida a ponte entre os Campi
 Gualtar e Azurém e a resolução de eventuais
@@ -176,7 +176,6 @@ foram prontamente resolvidos.
 Há muita oposição à praxe?
 Para se compreender a praxe é preciso vive-la.
 Quem nunca a viveu e a vê de fora tem dificuldades
-
 em entender certas atitudes que são tomadas.,
 agora compreendemos que por vezes fazemos
 umas praxes mais vistosas, digamos assim, mas
@@ -200,27 +199,20 @@ O Cabido de Cardeais e a AAUM trabalham em
 linhas paralelas com o mesmo fim e com o mesmo
 objectivo. A AAUM no campo mais político e nós no
 campo mais de tradição.
-
 Se eu mandasse no mundo…
-
 isso é muito complicado, são muitos
 problemas!
-
 Tradição acima de tudo..
 Sempre. Com a ajuda da AAUM e de outras
 entidades, com a ajuda de todos pois todos juntos é
 que somos a força motora da Academia.
-
 Gostava de ter tempo para… mais tempo
 para mim próprio.
-
 A praxe como meio de integração. Concordas?
 Concordo plenamente. A praxe é para mim um meio
 de integração.
-
 A minha maior qualidade é… não gosto de
 fazer elogios a mim próprio.
-
 Na praxe existem aspectos negativos que
 possam surgir?
 Todos os aspectos negativos que possam surgir
@@ -249,9 +241,7 @@ Espero que gostem da praxe, espero que quando
 passarem pela varanda do Reitor sintam que a
 vossa praxe foi enriquecedora.
 Michael Ribeiro
-
 Um defeito que tenho é… ser teimoso.
-
 A maior alegria é… quando acabar o curso.
 Ainda não aprendi a… jogar a bola.
 Sempre que saio á noite… tento divertir-me.
@@ -269,4 +259,4 @@ Tavares.
 Não me canso de ouvir… já foi tempo que era
 Pearl Jam.
 O filme da minha Vida é… “Memento”.
-Já não há paciência para… Hipócrisia.
+Já não há paciência para… Hipócrisia.Já não há paciência para… Hipócrisia.Já não há paciência para… Hipócrisia.Já não há paciência para… Hipócrisia.

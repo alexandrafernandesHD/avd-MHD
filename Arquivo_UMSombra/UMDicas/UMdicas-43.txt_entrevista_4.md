@@ -1,10 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Número 43
-University: Universidade do Minho
-Interviewee(s): 
-Date: 05 de Agosto de 2006
+journal: UMdicas
+issue: Número 43
+university: Universidade do Minho
+interviewee: Luís Filipe Azevedo Caldas
+date: 05 de Agosto de 2006
+title: Entrevista ao Presidente Cessante da Associação de  Estudantes da Escola Superior de Enfermagem Calouste Gulbenkian
+interviewer: UMdicas
 ---
+
 O que te levou a não quereres continuar à frente
 da Associação de Enfermagem?
 Não se tratou de uma questão de querer ou não
@@ -40,7 +43,6 @@ que esta assim o requeira.
 Qual foi para ti a principal contribuição da
 direcção cessante para com a Associação de
 Enfermagem, para com os seus estudantes e
-
 com a própria Escola de Enfermagem?
 Para mim, é difícil falar de apenas um ano, quando
 estive 3 anos na Direcção da Associação, apesar de
@@ -78,7 +80,6 @@ de Estudantes. O maior financiador é o Instituto
 Português da Juventude, porém também existem as
 receitas provenientes de actividades e de outros
 financiadores que nos apoiem na organização de
-
 actividades.
 O que esperas da nova direcção que agora tomou
 posse?
@@ -115,7 +116,6 @@ prejudicado com a mudança de instalações, ficamos
 sem local para a mesa de ping-pong e matraquilhos o
 que impossibilitou a organização de torneios dessa
 índole. Porém, esteve muito bem na organização dos
-
 Jogos com Medicina e na organização da
 participação das Olimpíadas da Guarda, onde
 arrecadamos o 2º Lugar no Futsal masculino e
@@ -149,7 +149,6 @@ instituições de ensino face aos novos desafios.
 Gostava só de acrescentar por fim, que ser Dirigente
 Associativo dá trabalho que por vezes, não é
 reconhecido, mas vale realmente a pena!
-
 Entrevista ao Vice-Presidente da Associação de Estudantes da
 Escola Superior de Enfermagem Caloute Gulbenkian AEESECG.
 Ângelo Mariano Ferreira, aluno do 3ºano de Enfermagem é o actual Vice-Presidente da Associação de Enfermagem.
@@ -168,7 +167,6 @@ momento são oferecidas aos alunos de
 enfermagem.
 Como vice-presidente qual será o teu papel nesta
 associação?
-
 O meu papel do vice-presidente consistirá no apoio
 directo e colaboração com o presidente nas tarefas
 da direcção da Associação. Nomeadamente ao nível
@@ -183,7 +181,6 @@ ser natural que a nossa inserção não seja muito
 satisfatória. Isso é visível sobretudo nas condições
 que nos são oferecidas comparativamente com os
 restantes cursos da UM. Neste momento,
-
 encontramo-nos em instalações provisórias que não
 consideramos serem adequadas, não existindo sala
 de computadores ou reprografia (esta está a ser
@@ -199,7 +196,6 @@ independência relativamente à AAUM com a qual
 mantemos uma relação próxima, tendo como ponte a
 vice-presidência para enfermagem existente nesta.
 Temos ainda um protocolo de cooperação
-
 estabelecido com o Núcleo de estudantes de
 Medicina da UM (NEMUM). Futuramente
 tencionamos estabelecer novos protocolos com
@@ -210,4 +206,4 @@ Enfermagem?
 A nossa associação foi criada em 1987, funcionando
 de forma oficiosa até
 1989, altura em que foram publicados os seus
-estatutos em Diário da Republica.
+estatutos em Diário da Republica.estatutos em Diário da Republica.estatutos em Diário da Republica.estatutos em Diário da Republica.

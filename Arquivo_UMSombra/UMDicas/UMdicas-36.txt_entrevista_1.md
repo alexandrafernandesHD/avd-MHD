@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 36
-University: Universidade do Minho
-Interviewee(s): 
-Date: 3 de Fevereiro de 2006
+journal: UMdicas
+issue: Número 36
+university: Universidade do Minho
+interviewee: Eugénia Maciel
+date: 3 de Fevereiro de 2006
+interviewer: Michael Ribeiro
 ---
 Porque é que escolheste esta área para
 trabalhar?
@@ -48,7 +49,6 @@ essas competências e pressupor que à medida que
 o tempo vai passando, eles vão conseguindo
 incorporar e interioriza-las, torna-las automáticas no
 seu dia-a-dia, podendo aplica-las nos treinos e
-
 jogos. Portanto de certa forma sim, pretende-se
 resultados em termos desportivos. Nós funcionamos
 como um todo e portanto esse é o objectivo.
@@ -101,7 +101,6 @@ dimensão importante a trabalhar. Por parte dos
 atletas, ainda não estive com todos, mas posso dizer
 que a receptividade é boa e a disponibilidade
 enorme, as expectativas por parte deles estão de
-
 certa forma de acordo com o que pretendo
 de facto fazer. Os atletas têm consciência da
 importância desta vertente do desporto,
@@ -154,7 +153,6 @@ mas também das pessoas ligadas ao DDC?
 Eu comecei a pensar nisto à bastante tempo, a
 trabalhar nos contactos e na elaboração do trabalho
 já ao algum tempo, tendo sido um trabalho de muita
-
 pesquisa. Há cerca de um mês, comecei com os
 contactos, reuniões para começarmos a avançar
 com este projecto. Desde então o feedback é
@@ -194,6 +192,5 @@ Tenho-me esquecido de… ouvir as pessoas mais
 próximas
 Não me canso de ouvir… música, depende do estado
 de espírito
-
 Se eu mandasse no Mundo…
-acabava com a falsidade
+acabava com a falsidadeacabava com a falsidadeacabava com a falsidadeacabava com a falsidade

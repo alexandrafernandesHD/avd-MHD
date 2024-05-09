@@ -1,10 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Número 45
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Novembro de 2006
+journal: UMdicas
+issue: Número 45
+university: Universidade do Minho
+interviewee: Hélder France
+date: 21 de Novembro de 2006
+title: “Tratamento eficaz“ na Recepção  ao Caloiro
+interviewer: Hélder Miranda, Luísa Rego
 ---
+
 Há quanto tempo estás na Associação Académica da
 Universidade do Minho?
 Eu comecei o meu projecto da AAUM há cerca de 4 anos,
@@ -47,11 +50,9 @@ na comunicação social é que foi muito positiva esta
 Recepção ao Caloiro.
 
 Rua D. Pedro V, nº 8 - 3º Dto 4710-374 Braga
-14:00 às 17:00 e das 18:00 às 21:00 - Sábado 10:00 às 12:30
-
-Tel: 253 218 331 Fax:253 613 866
+14: 00 às 17: 00 e das 18: 00 às 21: 00 - Sábado 10: 00 às 12: 30
+Tel: 253 218 331 Fax: 253 613 866
 secretaria@aaeum.pt -- www.aaeum.pt
-
 Dificuldades e objectivos desta semana da Recepção
 ao Caloiro?
 Tentamos dar as melhores condições aos estudantes,
@@ -63,13 +64,11 @@ Guimarães Braga, tivemos sempre gente no terreno a
 assegurar que tudo corria pelo melhor. Este ano,
 continuamos a apostar nesse modelo, com a mesma
 filosofia.
-
 A nível da alimentação também há um esforço enorme por
 melhorar constantemente as condições e as prestações
 de serviços. A segurança também foi uma
 preocupação...em suma, o bem-estar dos estudantes
 acima de tudo!
-
 Citação: ”Em suma, o bem-estar dos
 estudantes acima de tudo!”
 A afluência dos alunos foi boa?
@@ -118,4 +117,4 @@ Gata tem outra grandeza, que a Recepção não consegue
 ter, claro. Mas é do interesse, isso sim, e objectivo do
 Departamento Recreativo e da Associação Académica da
 Universidade do Minho, que os alunos fiquem o mais
-satisfeitos possível em ambos os eventos.
+satisfeitos possível em ambos os eventos.satisfeitos possível em ambos os eventos.satisfeitos possível em ambos os eventos.satisfeitos possível em ambos os eventos.

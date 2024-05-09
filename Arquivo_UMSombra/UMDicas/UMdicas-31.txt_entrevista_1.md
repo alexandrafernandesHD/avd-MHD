@@ -1,12 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Número 31
-University: Universidade do Minho
-Interviewee(s): Filipe Morato Gomes
-Topic: viagem de longa duração
-Role: Antigo Aluno da UMinho
-Date: 19 de Outubro de 2005
+journal: UMdicas
+issue: Número 31
+university: Universidade do Minho
+interviewee: Filipe Morato Gomes
+topic: viagem de longa duração
+role: Antigo Aluno da UMinho
+date: 19 de Outubro de 2005
+interviewer: Ana Marques
 ---
+Antigos Alunos - Entrevista
 Antigo Aluno da UMinho de volta a casa
 Filipe Morato Gomes é português e antigo
 aluno de LESI da UMinho que durante 14
@@ -24,7 +26,6 @@ numa empresa e posteriormente ter ficado desempregado, esta ideia ganhou ainda m
 planeado, o destino foi Moscovo.
 Dicas- Como surgiu a ideia de
 fazeres esta viagem?
-
 lugares inimagináveis, necessitava de
 dar asas à liberdade, viver fora da
 nossa realidade. Mas o que realmente
@@ -34,12 +35,10 @@ arrepender de não a ter feito e seria
 difícil demais conviver com o
 pensamento "quem me dera ter feito
 aquela viagem...".
-
 acontece nas viagens de férias que
 vamos com um determinado destino.
 “A liberdade de se ir para onde
 queremos não tem preço”.
-
 Era um sonho já muito antigo fazer
 uma viagem de longa duração, algo
 Dicas- Como foram os 431 dias de
@@ -76,8 +75,8 @@ dia que
 “Para fazer uma viagem destas não é
 uma longa viagem
 passava
-p a r a
-n o s
+para
+nos
 mais tinha
 preciso ser muito aventureiro, é preciso
 proporcionar o
@@ -86,13 +85,12 @@ a noção
 conhecimento do
 do quanto
 mundo, que
-h a v i a
+havia
 só temos é que fazer pelas coisas”.
 pequenas viagens
-p a r a
 de férias nunca nos
 conhecer,
-d a r i a m
+dariam
 a
 o mundo é
 possibilidade de
@@ -149,7 +147,6 @@ tempo como previsto porque me
 Dicas- Qual o objectivo com esta
 Passei por cidades muito bonitas e
 cansava dos locais, outras vezes
-viagem?
 desenvolvidas, mas já estamos
 encontrava pessoas que me falavam
 habituados e já não nos fascinam. São
@@ -168,7 +165,6 @@ depois recordamos com mais carinho.
 coisas na hora que torna estas
 diferentes, conhecer novas gentes e
 viagens fantásticas, o que não
-
 Dicas- Esta viagem foi mesmo
 “Viagem Solitária”?
 Não. Numa viagem destas tens os
@@ -179,7 +175,6 @@ parte do tempo só, por duas vezes a
 minha esposa foi ter comigo ao
 Sudeste Asiático e América do Sul.
 Mas no caminho acabamos sempre
-
 por nos juntar a pessoas que também
 andam nas mesmas caminhadas e por
 vezes ficamos juntos por dias,
@@ -189,17 +184,6 @@ Dicas- Não tiveste receio de ir
 sozinho?
 Não. As pessoas na minha opinião são
 naturalmente boas, apenas existem
-
-UM dicas
-
-19 de Outubro de 2005
-
-Antigos Alunos - Entrevista
-
-09
-
-depois de Viagem à volta do Mundo
-
 algumas condicionantes que as podem
 tornar más. Mas foi só pois sozinho
 conhecem-se mais pessoas, não
@@ -213,7 +197,6 @@ falar, com quem ver um pôr-do-sol, mas
 tudo isso se ultrapassa com as belezas e
 gentes que encontramos.
 Dicas- Quais foram os custos desta
-viagem?
 O principal custo foi o equipamento
 digital que comprei antes de ir,
 computador portátil, máquina e lentes
@@ -222,7 +205,6 @@ passagens aéreas que tive de comprar
 durante a viagem, principalmente a da
 Austrália para a América do Sul que teve
 um preço exorbitante.
-
 O que posso dizer é que nem eu sei bem
 ao certo quanto gastei, mas isso também
 não importa muito as pessoas terem
@@ -247,7 +229,6 @@ para um hotel é um preço se ficares
 numa estadia simples os custos são
 muito inferiores. Cada dólar que
 consigas poupar por dia ao fim de uma
-
 viagem de 431 dias basta multiplicar o
 que conseguiste economizar.
 O que fiz inicialmente foi atribuir um
@@ -304,4 +285,4 @@ conhecimento muito mais alargado, de
 espírito muito mais aberto, sinto que me
 tornei uma pessoa melhor interiormente
 e aprendi a dar muito mais valor ao que
-tenho.
+tenho.tenho.tenho.tenho.

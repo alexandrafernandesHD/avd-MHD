@@ -1,17 +1,17 @@
 ---
-Jornal: UMdicas
-Issue: Número 46
-University: Universidade do Minho
-Interviewee(s): Diogo Antunes
-Topic: conhecer um pouco mais deste atleta de alta competição
-Date: 14 de Dezembro de 2006
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Número 46
+university: Universidade do Minho
+interviewee: Diogo Antunes
+topic: conhecer um pouco mais deste atleta de alta competição
+date: 14 de Dezembro de 2006
+interviewer: Nuno Gonçalves
 ---
+
 
 “TUTORUM, mais que um apoio, sobretudo um merecimento” 
 “Entrevista a Diogo Antunes, atleta do
 Vitória de Guimarães”
-
 Diogo Antunes, aluno do 1º ano de Arquitectura, é actualmente atleta do Vitória de
 Guimarães, tendo se sagrado Vice-Campeão Nacional de Voleibol em 2006. Apesar
 da sua juventude, Diogo conta já com 62 internacionalizações nos diversos escalões
@@ -19,13 +19,11 @@ da Selecção, tendo vencido de Quinas ao peito o Torneio Internacional da Galiz
 Vamos então agora conhecer um pouco mais deste atleta de alta competição, aluno
 da UMinho, e que na sua estreia em representação das nossas cores, venceu o I
 Torneio de Apuramento para o Campeonato Nacional Universitário.
-
 Com que idade é que iniciaste a prática
 competitiva do Voleibol e onde?
 Comecei a praticar voleibol no clube da escola
 secundária Francisco de Holanda quando tinha
 quando tinha 8 anos.
-
 Porquê o Voleibol, e não por exemplo, o “banal”
 Futebol?
 Na altura eu cheguei a jogar futebol ate porque a
@@ -40,7 +38,6 @@ mesmo dia. É curioso que hoje, eu e mais três colegas
 de equipa no Vitoria de Guimarães começamos a
 praticar voleibol no mesmo dia… nesse famoso
 sábado… (sorriso)
-
 Qual foi o treinador que mais te marcou no teu
 processo de formação e porquê?
 Todos os treinadores que tive ate hoje me marcaram,
@@ -59,7 +56,6 @@ enquanto não havia competição da selecção sénior,
 e foi quem 2 anos mais tarde, aos meus 16 anos, me
 deu a oportunidade de treinar durante um verão
 inteiro com a selecção AA.
-
 Achas que o Voleibol ajudou no teu
 desenvolvimento enquanto indivíduo?
 A seguir à educação que os meus pais me dão todos
@@ -69,7 +65,6 @@ oportunidade de praticar desporto e principalmente
 um desporto colectivo consegue perceber a
 responsabilidade que atribuo ao desporto na minha
 formação enquanto homem.
-
 Qual foi o papel da tua família no teu percurso
 enquanto atleta de alta competição?
 Um atleta de alta competição divide todo o seu tempo
@@ -77,14 +72,12 @@ entre a escola e o treino, sobra mesmo muito pouco
 tempo para as outras coisas, e a família tem de servir
 como suporte emocional. A minha família felizmente
 para mim, esteve sempre presente!
-
 Quantas vezes treinas por semana, e quanto
 tempo?
 Treino 6 dias por semana e aproximadamente 3 horas
 por dia, as aulas não me permitem ir ao treino da
 manha por isso treino só uma vez por dia. em época
 de selecção chegava a treinar sete horas diárias.
-
 A maneira como tu lidas com a pressão e a
 ansiedade antes dos jogos é algo que tu
 consegues trabalhar e treinar, ou simplesmente é
@@ -101,7 +94,6 @@ set ou mesmo o jogo não sinto pressão. Durante os
 treinos tento incutir em mim próprio o máximo de
 pressão para saber cada vez melhor lidar com ela, o
 que com o tempo se torna mais fácil.
-
 Recentemente representaste pela primeira vez a
 UMinho no I Torneio de Apuramento. Como correu
 o teu processo de integração na equipa e que
@@ -118,21 +110,18 @@ AAUMinho, sente-se um pouco a falta de
 entrosamento. Com o tempo, isso obrigatoriamente
 irá melhorar, mas como saímos campeões deste
 torneio, penso que o objectivo foi alcançado.
-
 Qual é para ti a grande diferença entre a
 competição federada e a competição
 universitária?
 A competição federada tem uma vertente mais
 profissional e competitiva enquanto que a
 universitária tenta aliar a competição e o convívio.
-
 O facto de jogares pelo Vitória de Guimarães
 condicionou a tua escolha de Universidades
 quando concorreste? Porque?
 Sem dúvida, por jogar no Vitoria e por viver em
 Guimarães, estudar cá torna a minha vida muito mais
 estável.
-
 Para muitos atletas de alta competição torna-se
 difícil conciliar os estudos com a prática
 desportiva. Como é que tu consegues gerir esta
@@ -147,7 +136,6 @@ de passar por um estabelecimento de prioridades,
 porque com as exigências de um curso universitário,
 no meu ponto de vista é quase impossível de gerir
 sem que um dos dois saia prejudicado.
-
 Os teus colegas de curso sabem que és atleta de
 alta competição? O que é que eles pensam desse
 facto?
@@ -161,7 +149,6 @@ que não conseguia conciliar Arquitectura e três
 treinos semanais de futsal, o que me fez perceber
 muito mais as dificuldades com que me vou deparar
 daqui para a frente.
-
 A tua primeira ida à Selecção… como foi?
 Tinha 14 anos quando o Ruan Diaz me convocou pela
 primeira vez para a selecção de cadetes. Era os mais
@@ -174,7 +161,6 @@ e a sensação de ouvir o hino nacional com as quinas
 ao peito não tem explicação possível. Lembro-me da
 primeira vez que ouvi o hino em representação da
 selecção como se fosse hoje…
-
 A UMinho iniciou em Portugal um programa
 pioneiro no que diz respeito ao apoio aos atletas
 de alta competição, o TUTORUM. O que pensas
@@ -182,13 +168,11 @@ desta iniciativa e do programa em si?
 Penso que é um apoio essencial. É de louvar esta
 iniciativa e espero que sirva de exemplo para as
 outras universidades do nosso pais.
-
 Em áreas já recebeste apoio através do
 TUTORUM?
 Ainda não precisei de pedir apoio através do
 TUTORUM, mas dá-me uma enorme tranquilidade
 saber que se precisar o terei.
-
 Os teus objectivos pessoais passam por uma
 carreira profissional no Voleibol ou os estudos
 vêm em primeiro lugar?
@@ -196,7 +180,6 @@ Sem duvida que os estudos estão em primeiro lugar. A
 arquitectura é o meu futuro, o que não que não
 impede de conseguir conciliar com a prática
 desportiva durante alguns anos.
-
 Se surgirem convites aliciantes do estrangeiro,
 como aconteceu com o Nuno Pinheiro, estarias
 disposto a deixar tudo para trás?
@@ -210,4 +193,4 @@ penso que tudo depende do momento. Se fosse
 benéfico para mim deixaria tudo para trás, mas nunca
 definitivamente….
 Texto:  Nuno Gonçalves 
-Fotografia:  Nuno Gonçalves
+Fotografia:  Nuno GonçalvesFotografia:  Nuno GonçalvesFotografia:  Nuno GonçalvesFotografia:  Nuno Gonçalves

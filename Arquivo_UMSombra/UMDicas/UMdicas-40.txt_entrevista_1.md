@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: Nádia Franco, Jéssica Augusto
+date: 21 de Abril de 2006
+interviewer: Nuno Gonçalves
 ---
 O facto de correres pelo SCBraga condicionou a
 tua escolha de Universidades quando
@@ -55,8 +56,6 @@ incentivo bastante grande para trabalharmos mais e
 melhor.
 O facto de jogares pelo C.D. Vinhós condicionou
 a tua escolha de Universidades quando
-concorreste? Porque?
-
 Um bocado. Pois queria continuar a jogar no
 C.D.Vinhós, porque era uma fase da minha vida em
 que ainda estava nos quadros da selecção nacional.
@@ -100,8 +99,6 @@ Mas o meu objectivo primordial é exercer a profissão
 pela qual estou a lutar aqui na Universidade Do
 Minho, pois dar aulas sim é o meu grande sonho.
 NG
-
-Com que idade é que iniciaste a prática
 competitiva do Atletismo e onde?
 Com 15 anos iniciei a minha prática competitiva no
 Atletismo através do Desporto Escolar na Escola
@@ -111,22 +108,15 @@ Achas que Atletismo ajudou no teu
 desenvolvimento enquanto indivíduo?
 Sim, o Atletismo ajudou-me muito no meu
 desenvolvimento como pessoa.
-Qual foi o papel da tua familia no teu percurso
-enquanto atleta de alta competição?
 O papel da minha família foi e tem sido
 extremamente importante. Sempre me apoiaram ao
 máximo tanto nos bons como nos maus momentos,
 ajudou também o facto destes adorarem Atletismo tal
 como eu, e a acompanharem-me para a maior parte
 das competições em que participo.
-Quantas vezes treinas por semana, e quanto
-tempo?
 Treino durante a semana todos os dias de manhã e
 de tarde (segunda a sábado/12 treinos), ao
 domingos faço apenas um treino.
-A maneira como tu lidas com a pressão e a
-ansiedade antes das provas é algo que tu
-consegues trabalhar e treinar, ou simplesmente é
 algo com que apenas lidas na hora em que ouves
 o tiro de partida?
 É difícil lidar com a pressão e a ansiedade antes das
@@ -135,18 +125,10 @@ mas cada prova é uma prova e os objectivos diferem
 de prova para prova. É algo que tenho tentado
 trabalhar e treinar com a ajuda do meu treinador e
 com a maior naturalidade.
-Qual é para ti a grande diferença entre a
-competição federada e a competição
-universitária?
 Sinceramente a diferença não é muita visto que a
 maior parte dos atletas de alta competição são
 universitários. Penso é que a maioria destes atletas
 não compete muito pelas suas universidades ou por
-
-Para muitos atletas de alta competição torna-se
-difícil conciliar os estudos com a prática
-desportiva. Como é que tu consegues gerir esta
-nem sempre fácil “relação” ?
 É difícil mas não é impossível. No meu caso, estou
 num curso que exige muito (enfermagem), são
 trabalhos atrás de trabalhos, aulas praticas, aulas
@@ -165,10 +147,6 @@ estágios e competição, acho isso fantástico por parte
 deles e têm contribuído muito para que eu consiga
 conciliar o estudo com o desporto de alta
 competição.
-A UMinho iniciou em Portugal um programa
-pioneiro no que diz respeito ao apoio aos atletas
-de alta competição, o TUTORUM. O que pensas
-desta iniciativa e do programa em si?
 Penso que é um programa muito bom para nós
 atletas de alta competição, dando-nos a
 possibilidade de conciliar a nossa prática com os
@@ -183,10 +161,9 @@ adiar alguns exames por motivos de competição e
 estágios, o que para mim é extremamente
 importante. Terei também em breve a possibilidade
 de receber apoio psicológico.
-Os teus objectivos pessoais passam por uma
 carreira profissional no Atletismo ou os estudos
 vêm em primeiro lugar?
 Neste momento aposto forte na minha carreira
 profissional no Atletismo, apesar disso não vejo
 como grande obstáculo os estudos, vou tentar
-mesmo conciliar os dois o que será óptimo para mim.
+mesmo conciliar os dois o que será óptimo para mim.mesmo conciliar os dois o que será óptimo para mim.mesmo conciliar os dois o que será óptimo para mim.mesmo conciliar os dois o que será óptimo para mim.

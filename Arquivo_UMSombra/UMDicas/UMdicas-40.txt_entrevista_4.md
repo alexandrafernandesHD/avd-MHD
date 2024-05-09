@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: João Chaves
+date: 21 de Abril de 2006
+interviewer: UMdicas
 ---
 UMdicas - Em que ano entraste para o Desporto
 Universitário, e como se deu essa entrada?
@@ -124,7 +125,6 @@ regularidade, uma vez que ficamos em 3ºlugar em
 todos os torneios de apuramento. O primeiro foi na
 Covilhã, o segundo em Vila Real e o terceiro
 disputou-se em Guimarães. Conseguimos ser
-
 consistentes em todos os momentos e isso reflectiuse no terceiro lugar alcançado no final da
 classificação geral de acesso à Fase Final dos
 CNU´s.
@@ -157,4 +157,4 @@ campeões e elevar o nome da AAUMinho para o lugar
 de destaque que lhe pertence. Às outras
 modalidades desejo as maiores felicidades e muita
 força. Para a “minha” equipa eles já sabem… “Até os
-comemos carago!!!” Força AAUMinho.
+comemos carago!!!” Força AAUMinho.comemos carago!!!” Força AAUMinho.comemos carago!!!” Força AAUMinho.comemos carago!!!” Força AAUMinho.

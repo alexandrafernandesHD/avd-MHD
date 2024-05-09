@@ -1,22 +1,20 @@
 ---
-Jornal: UMdicas
-Issue: Número 33
-University: Universidade do Minho
-Interviewee(s): 
-Date: 17 de Novembro de 2005
+journal: UMdicas
+issue: Número 33
+university: Universidade do Minho
+interviewee: Adriana Lago de Carvalho
+date: 17 de Novembro de 2005
+interviewer: Ana Marques
 ---
-- Serviços UMinho
+Serviços UMinho
 
 UM dicas
-
 17 de Novembro de 2005
-
 GRI, o interface entre UMinho
 Entrevista com Adriana Lago de
 Carvalho, responsável do
 Gabinete de Relações
 Internacionais (GRI)
-
 Qual a sua função no Gabinete de
 Relações Internacionais (GRI)?
 Eu sou a responsável operacional pelo
@@ -81,20 +79,17 @@ Minho foi identificado um Coordenador
 Departamental SOCRATES/Erasmus
 (em sentido lato).
 O GRI teve sempre como preocupação
-O Data Center do GSI
-
 primordial atingir um equilíbrio entre
 uma coordenação central eficiente e
 eficaz, e a manutenção do interesse,
 motivação e empenhamento dos
-C o o r d e n a d o r e s
+Coordenadores
 Departamentais/Académicos. A
 capacidade de trabalho em equipa, o
 respeito mútuo e a clarificação de
 papéis são essenciais para o sucesso
 de qualquer actividade de cooperação e
 mobilidade académica.
-.
 Qual a importância de um gabinete
 deste tipo numa universidade?
 Esta é uma estrutura muito importante e
@@ -147,7 +142,6 @@ os seus alunos possam beneficiar das
 várias oportunidades de mobilidade
 transnacional e que os seus docentes
 possam participar, promover e
-
 desenvolver actividades relevantes
 para o seu desenvolvimento pessoal e
 profissional.
@@ -168,9 +162,7 @@ nossa função, e os números acabariam
 por não ter grande significado.
 Ao nível da mobilidade de estudantes,
 há uma preocupação constante na
-s a t i s f a ç ã o
-d a s
-necessidades/expectativas dos alunos,
+satisfação das necessidades/expectativas dos alunos,
 através de uma preparação,
 acompanhamento, orientação e apoio
 extremosos. O GRI tenta minimizar
@@ -201,7 +193,7 @@ universidades, fazendo questão de nos
 dizer que se sentem privilegiados, pois
 nós acompanhamos o processo do
 princípio ao fim, também as
-universidades estrangeiras mostramse satisfeitas, sabem que têm um
+universidades estrangeiras mostram-se satisfeitas, sabem que têm um
 parceiro de confiança ao nível da
 cooperação internacional, cada vez
 temos mais estudantes estrangeiros, o
@@ -213,7 +205,6 @@ de mobilidade no estrangeiro sem
 garantia a priori de reconhecimento
 académico, desde que completem com
 sucesso o programa de estudos
-
 proposto na Universidade de destino.
 Foram definidos procedimentos e
 canais internos transparentes para que
@@ -276,7 +267,7 @@ coordena um projecto União Europeia
 Índia, entre outros. Refiro-me apenas a
 alguns dos indicadores que traduzem
 esse reconhecimento internacional. A
-UMinho quer sempre mais, rejubilamonos com as conquistas, mas
+UMinho quer sempre mais, rejubilamo-nos com as conquistas, mas
 procuramos sempre evoluir.
 A Uminho possui o “label” para o
 ECTS e Suplemento ao Diploma.
@@ -287,7 +278,6 @@ implementavam de uma forma
 sistemática e correcta
 instrumentos/ferramentas de
 importância para a construção do
-
 espaço europeu de ensino superior.
 Assim, criou essas duas iniciativas que
 se inserem nos objectivos de Bolonha.
@@ -303,7 +293,7 @@ tendo feito parte do projecto-piloto no
 final da década de 90. O Suplemento
 pode ser utilizado de diversas formas,
 em Portugal ou no estrangeiro. Se
-quiserem fazer um curso de pósgraduação nos EUA ou Europa, é um
+quiserem fazer um curso de pós-graduação nos EUA ou Europa, é um
 valor acrescentado, é uma ferramenta
 que faz com que sejam mais
 competitivos no mercado global, daí o
@@ -362,30 +352,8 @@ Diploma, emitido em duas línguas,
 português e inglês, apenso à respectiva
 Carta de Curso.
 A Universidade do Minho garantiu,
-
-UM
-
-17 de Novembro de 2005
-
-dicas
-
-Entrevista - Serviços UMinho
-
-09
-
-e o Estrangeiro
-Sessão de Divulgação do
-Programa ALBAN
-A Reitoria da Universidade do Minho juntamente com o Gabinete de Relações Internacionais da
-Ciência e do Ensino Superior (GRICES), levaram a cabo uma Sessão de Divulgação do Programa
-ALBAN - Programa de Bolsas de Alto Nível da União Europeia para a América Latina. A sessão teve
-lugar dia 10 de Novembro, pelas 15 horas, no Salão Nobre da Reitoria da UMinho, Largo do Paço e
-contou com as participações do coordenador do Programa e responsável pela área de preparação
-de convocatórias e análise de candidaturas do AlBan Office, o Prof. Alberto Sereno, o vice-reitor da
-Uminho para a área da Internacionalização, Prof. Manuel Mota, a responsável do Gabinete de
-Relações Internacionais, Dr.ª Adriana Lago de Carvalho, bem como vários representantes da
-Uminho, de outras universidades portuguesas e ainda vários bolseiros do programa ALBan.
-ainda, que o ponto 6.1 do Suplemento Informações Complementares
+ainda, que o ponto 6.1 do Suplemento-
+Informações Complementares
 incluísse um conjunto considerável de
 actividades paralelas academicamente
 validadas, incutindo uma maior
@@ -450,7 +418,6 @@ dar o melhor acolhimento possível.
 Os sistemas administrativos,
 processos de comunicação e serviços
 de apoio de uma instituição de
-
 acolhimento afectam sem sombra de
 dúvida a qualidade da experiência de
 um estudante internacional. Tendo isto
@@ -468,7 +435,7 @@ Podemos, assim, assumir que o
 processo de integração dos alunos
 estrangeiros começa mesmo antes da
 chegada à UM através da
-preparação/informação “pre-arrival:
+preparação/informação “pre-arrival: 
 Guia do estudante Estrangeiro, pacote
 informativo, site do GRI, Catálogo de
 Cursos ECTS, brochuras e mapas das
@@ -498,4 +465,4 @@ preocupação de ouvir a pessoa e não
 despachá-la, tentamos pautar-nos pela
 qualidade do nosso trabalho e
 profissionalização do serviço para
-marcar pela diferença.
+marcar pela diferença.marcar pela diferença.marcar pela diferença.marcar pela diferença.

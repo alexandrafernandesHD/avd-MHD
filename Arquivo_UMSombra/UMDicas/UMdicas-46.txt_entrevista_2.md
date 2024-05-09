@@ -1,24 +1,23 @@
 ---
-Jornal: UMdicas
-Issue: Número 46
-University: Universidade do Minho
-Interviewee(s): Prof. Manuel Mota
-Topic: Programa MIT-Portugal
-Role: Vice-Reitor da UMinho e co-responsável pela coordenação de uma das áreas abrangidas pelo Programa
-Date: 14 de Dezembro de 2006
-Title: UMinho vê reconhecida a sua competência
-Interviewer: Ana Coimbra
+journal: UMdicas
+issue: Número 46
+university: Universidade do Minho
+interviewee: Prof. Manuel Mota
+topic: Programa MIT-Portugal
+role: Vice-Reitor da UMinho e co-responsável pela coordenação de uma das áreas abrangidas pelo Programa
+date: 14 de Dezembro de 2006
+title: UMinho vê reconhecida a sua competência
+interviewer: Ana Coimbra
 ---
+
 
 UMinho vê reconhecida a sua competência
 A Universidade do Minho é uma das sete Universidades Portuguesas a integrar o Programa MIT-Portugal, cujo contrato foi assinado no passado dia 11 de Outubro, em sessão
 pública presidida pelo Primeiro-Ministro de Portugal, Eng. José Sócrates. Tanto o Estado português, como as Universidades e outras entidades envolvidas, colocam neste
 acordo uma grande expectativa. Trata-se de uma iniciativa completamente inovadora e, de algum modo, revolucionária para o nosso país, cuja importância se sentiu bem no
 destaque que os próprios meios de comunicação social deram ao assunto.
-
 O DICAS, em conversa com o Prof. Manuel Mota, Vice-Reitor da UMinho e co-responsável pela coordenação de uma das áreas abrangidas pelo Programa, procurou perceber
 melhor em que consiste o acordo assinado com o MIT e o impacto que o mesmo terá no nosso pais, e na UMinho em particular.
-
 O que é o acordo MIT, ou seja, em que
 consiste o contrato?
 O Programa com o MIT (Massachusetts
@@ -36,7 +35,6 @@ directamente evolvida em duas áreas do
 projecto, nas quais inclusive tem
 investigadores a desempenhar funções
 de coordenação.
-
 Quais serão as áreas em que a UMinho
 está envolvida no projecto?
 São as áreas de “Engenharia de
@@ -71,11 +69,9 @@ Programa de MBA, de âmbito
 internacional, e inclui o lançamento de
 um programa de seminários de
 doutoramento a iniciar já em 2006.
-
 Porquê a atribuição da coordenação
 de duas áreas à UMinho,
 nomeadamente a "Engenharia de
-Concepção e Sistemas Avançados de
 Produção" e "Sistemas de Bioengenharia"?
 Faço notar que a Universidade do Minho
 está a encabeçar a coordenação da área
@@ -117,7 +113,6 @@ Nanomodelação e
 Nanofabricação, dirigido
 pelo Professor Carlos
 Bernardo.
-
 Como surgiu esta aliança entre
 Portugal (através das suas
 instituições de ensino superior) e o
@@ -133,7 +128,6 @@ potenciar projectos inovadores que
 contribuam efectivamente para reforçar
 a capacidade científica e de formação
 avançada em Portugal.
-
 Qual a razão para o nosso primeiro-
 ministro dizer que o acordo entre o
 Estado português e MIT "representa
@@ -151,7 +145,6 @@ Universidade de Singapura,
 com a Universidade de
 Cambridge, com a
 Universidade de Manaus,
-com a Universidade de
 Saragoça, entre algumas
 outras espalhadas pelo
 mundo. Este é o primeiro
@@ -170,7 +163,6 @@ representa um ponto de viragem em
 termos de actualização científica e
 tecnológica das universidades
 portuguesas.
-
 Qual a sua importância deste acordo
 para as universidades e instituições
 envolvidas?
@@ -203,7 +195,6 @@ que se tem vindo a
 desenvolver nesta
 Universidade ao longo dos
 últimos anos.
-
 O que levou a UMinho a entrar neste
 acordo? Quais eram os pressupostos
 para se poder participar neste
@@ -291,7 +282,6 @@ programa será avaliado periodicamente,
 através de uma auditoria internacional
 que avaliará como estão a decorrer as
 acções planeadas.
-
 Este programa engloba um
 financiamento público de 65, 5
 milhões. Em que será aplicado este
@@ -321,7 +311,6 @@ ficará nas Universidades serão quantias
 residuais que apenas se destinam a
 assegurar custos de funcionamento de
 pouca monta.
-
 Como decorrerá todo o processo?
 Que tipo de trabalho será atribuído a
 cada instituição, qual a fatia do
@@ -343,7 +332,6 @@ respondidas aqui e que, além do mais,
 ainda precisam de mais 6 meses de
 trabalho para ficarem completamente
 definidas.
-
 Qual será o papel do MIT em todo o
 processo?
 O MIT deverá assegurar a coordenação
@@ -361,7 +349,6 @@ seminário o Professor Susumi
 Tonegawa, prémio Nobel da Medicina e
 um dos maiores especialistas mundiais
 em Neurociências.
-
 Já com um dos projectos em
 andamento, o da Bioengenharia. Qual
 foi o objectivo deste primeiro
@@ -370,13 +357,11 @@ A divulgação do programa a nível
 nacional com a sensibilização da
 comunidade científica para esta
 iniciativa.
-
 Que ilações podemos tirar desta
 primeira iniciativa?
 Correu muito bem. Inscreveram-se 260
 participantes que participaram no
 workshop durante um dia inteiro.
-
 Em que consistirá exactamente, e a
 que nível será desempenhada, essa
 coordenação das áreas?
@@ -428,4 +413,4 @@ aspectos operacionais que aqui não
 referi.
 Texto: Ana Coimbra 
 anac@sas.uminho.pt
-Fotografia: Nuno Gonçalves
+Fotografia: Nuno GonçalvesFotografia: Nuno GonçalvesFotografia: Nuno GonçalvesFotografia: Nuno Gonçalves

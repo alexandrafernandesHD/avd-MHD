@@ -1,19 +1,19 @@
 ---
-Jornal: UMdicas
-Issue: Número 47
-University: Universidade do Minho
-Interviewee(s): A Azeituna Tuna de Ciências da Universidade do Minho
-Topic: o seu historial, as suas raízes e os seus sonhos
-Date: 31 de Dezembro de 2006
-Title: Uma viagem à história da Azeituna
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Número 47
+university: Universidade do Minho
+interviewee: A Azeituna Tuna de Ciências da Universidade do Minho
+topic: o seu historial, as suas raízes e os seus sonhos
+date: 31 de Dezembro de 2006
+title: Uma viagem à história da Azeituna
+interviewer: Michael Ribeiro
 ---
+
 
 Uma viagem à história da Azeituna
 A Azeituna Tuna de Ciências da Universidade do Minho, dá-nos a conhecer o seu historial, as suas raízes e os seus sonhos. Numa pequena
 viagem na sua história, e no Celta Certame Lusitano de Tunas Académicas, organizado pela Azeituna, podemos conhecer e sentir o espírito que
 reina em cada uma das suas actuações e o que é fazer parte de uma das Tunas mais emblemáticas da Academia minhota.
-
 Onde, quando e porquê o nascimento da
 Azeituna Tuna de Ciências da Universidade do
 Minho?
@@ -30,7 +30,6 @@ fazer, animando a Academia minhota nas cidades de
 Braga e Guimarães, em ruas, praças e avenidas, por
 janelas e varandas, com música de outros tempos e
 não só.
-
 Porquê o nome Azeituna?
 Bem, o nome Azeituna surgiu enquanto os
 fundadores organizavam o início de uma nova tuna
@@ -38,7 +37,6 @@ na UMinho. Como desde sempre todos os membros
 se revelaram brincalhões e com muita “Azeitice”,
 entre as piadas, partidas e gargalhadas, alguém se
 lembrou de Azeituna.
-
 Em que se diferencia a Azeituna das outras tunas
 da UMinho?
 A Azeituna é uma tuna diferente de todas as outras
@@ -52,7 +50,6 @@ Devido ao espírito similar de ambas, esta relação
 levou os tunos de ambas as Tunas a geminarem-se,
 passando, desde então, a considerar-se a existência
 não de duas mas de uma só Tuna.
-
 A Azeituna já realizou várias digressões ao
 estrangeiro, onde exactamente?
 Desde a sua fundação, a Azeituna reconheceu a
@@ -74,7 +71,6 @@ grande intercâmbio cultural com a Irlanda e que
 resultou no aparecimento da primeira tuna nas ilhas
 britânicas, a Preservatuna Tuna Universitária de
 Cork, apadrinhada pela Azeituna.
-
 O que fazem para cativar elementos novos?
 Esta é uma grande preocupação nossa, para que
 não se perca este espírito, procuramos todos os
@@ -95,7 +91,6 @@ de, mesmo quando acabares o curso, poderes
 continuar a viver este mundo boémio e encantador
 da vida de estudante, pois mantém-se sempre o elo
 de ligação com a Academia.
-
 Qual tem sido o vosso percurso e quais as
 participações mais importantes?
 Para além de actuarmos nos mais diversos eventos
@@ -110,7 +105,6 @@ em diversos eventos importantes, e já cantamos
 serenatas, quer à primeira-dama, quer às peixeiras
 da ria de Aveiro, e isso é o importante, gostar de
 cantar para todos e qualquer público.
-
 Tiveram algum momento menos bom, durante
 Vossa existência?
 Não sei, julgo que o momento menos bom da
@@ -120,7 +114,6 @@ realizar por três anos seguidos, digressões ao Brasil.
 partida, e percorremos o Brasil de norte a sul,
 naquela que se viria a revelar uma experiência única
 e inesquecível. Vamos repetir, com certeza!
-
 E o momento mais alto desta Tuna?
 O momento alto é todos os anos, em Dezembro,
 quando organizamos o CELTA Certame Lusitano de
@@ -128,7 +121,6 @@ Tunas Académicas, que com agrado vemos que
 ocupa já um lugar de destaque no roteiro cultural da
 cidade de Braga e no seio dos festivais de tunas
 portuguesas.
-
 Por falar em CELTA, a Azeituna organizou o XIII
 Celta. Qual o balanço que fazem deste festival?
 O XIII CELTA decorreu conforme esperado: foi
@@ -139,7 +131,6 @@ ruas desta cidade. Este XIII CELTA ficou
 especialmente marcado pelo lançamento de um CD
 duplo que regista “os melhores momentos” de todos
 os CELTAS até hoje.
-
 E projectos para o futuro?
 Pretendemos organizar o XIV CELTA e que este se
 realize no Theatro Circo, casa que nos acolheu
@@ -148,7 +139,6 @@ quer pelas tunas, que relembram os momentos
 fantásticos e únicos que viveram naquela sala.
 Pretendemos actuar onde nos quiserem ouvir, e
 organizar uma Grande Digressão à América do Sul.
-
 Qual o vosso grande sonho… o grande sonho da
 Azeituna?
 Um dos grandes sonhos da Azeituna é construir a
@@ -159,6 +149,5 @@ importância não só pelas múltiplas utilizações que
 pode ter, mas também pelo impacto que dará à
 cultura desta augusta
 cidade.
-
 Michael Ribeiro
-mika@sas.uminho.pt
+mika@sas.uminho.ptmika@sas.uminho.ptmika@sas.uminho.ptmika@sas.uminho.pt

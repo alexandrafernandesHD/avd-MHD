@@ -1,27 +1,25 @@
 ---
-Jornal: UMdicas
-Issue: Número 47
-University: Universidade do Minho
-Interviewee(s): Filipe Clemente
-Role: chefe de Divisão do SAPIA
-Date: 31 de Dezembro de 2006
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Número 47
+university: Universidade do Minho
+interviewee: Filipe Clemente
+role: chefe de Divisão do SAPIA
+date: 31 de Dezembro de 2006
+interviewer: Ana Marques
 ---
+
 
 Serviço de Apoio Informático à Aprendizagem – SAPIA
 UMinho líder de mercado em Tecnologias da Informação e Comunicação
-
 Em entrevista ao UMdicas, Filipe Clemente, chefe de Divisão do SAPIA, conta-nos como o Serviço de Apoio Informático à Aprendizagem, é um dos três serviços tecnológicos
 da UM e de todos, aquele que tem mais contacto com a comunidade académica, actuando como “facilitador” da comunicação docente-discente e UM-discente. Com este
 objectivo foi implementado recentemente o novo Sistema de Correio da UMinho, uma parceria entre a UM e a Microsoft que culminará num dos maiores sistemas de email de
 Portugal e talvez da Península Ibérica. A par disto, igualmente a implementação de uma plataforma de e-learning “Blackboard”, colocando desta forma, á disposição dos
 docentes e discentes, a plataforma comercial que mais se destaca, em todo o mundo, na área do e-learning.
-
 Qual a sua função neste serviço da UM?
 Desde Setembro de 2005, sou responsável pelo
 cumprimento da missão institucional do SAPIA na UM e pela
 coordenação dos seus recursos humanos e materiais.
-
 O que é o Serviço de Apoio Informático à Aprendizagem
 (SAPIA)?
 O SAPIA resultou em 2004 do Centro de Informática. Desde
@@ -50,7 +48,6 @@ discentes, docentes e funcionários não docentes da UM. A
 este nível da comunicação disponibilizamos também a
 plataforma de e-Learning institucional da UM (Blackboard)
 que é líder de mercado nessa área.
-
 Qual a sua importância na UMinho?
 Tendo em consideração a importância crescente da
 utilização das TIC em todas as áreas do conhecimento,
@@ -61,17 +58,16 @@ um papel muito importante em todos estes níveis.
 O SAPIA é responsável por explorar a plataforma de eLearning da UM e disponibilizar o serviço de email, dois dos
 serviços privilegiados para a comunicação electrónica no
 seio da comunidade académica.
-
 Quais as suas competências?
 Serviço de help desk
-(http://www.sapia.uminho.pt) no apoio à utilização das TIC
+(http: //www.sapia.uminho.pt) no apoio à utilização das TIC
 para toda a comunidade académica.Pode ser contactado
 presencialmente na sede do SAPIA em Gualtar,
 electronicamente via email (helpdesk@sapia.uminho.pt) ou
 via fórum no portal de socialização da UM
-(http://umonline.uminho.pt/foruns/).
+(http: //umonline.uminho.pt/foruns/).
 Serviço de Email
-(http://mail.uminho.pt) que integra na mesma plataforma
+(http: //mail.uminho.pt) que integra na mesma plataforma
 toda a comunidade académica com um total aproximado de
 25.000 caixas de correio com acesso web e utilizando os
 protocolos standard de acesso ao correio electrónico. Todos
@@ -82,7 +78,7 @@ integrado com as duas principais fontes de informação da
 UM (Serviços Académicos e Direcção de Recursos
 Humanos).
 Plataforma de e-Learning
-(http://elearning.uminho.pt) cuja exploração, apoio e
+(http: //elearning.uminho.pt) cuja exploração, apoio e
 formação da comunidade académica no âmbito da utilização
 está sob a responsabilidade do SAPIA.
 Laboratórios de Informática
@@ -96,7 +92,6 @@ comunidade académica, que neste momento se traduz na
 formação que é leccionada e os exames que são realizados
 para a obtenção do DCB (Diploma de Competências
 Básicas)
-
 Como podem os utilizadores do SAPIA ter acesso aos
 seus serviços?
 O SAPIA disponibiliza presencialmente os seus serviços em
@@ -113,7 +108,6 @@ contactar o help desk por email ou via fora no portal de
 socialização. De referir igualmente o site do SAPIA onde
 procuramos dar resposta a grande parte das questões
 levantadas na utilização dos nossos serviços.
-
 Por quem e com que finalidade são mais utilizados os
 serviços do SAPIA?
 Sem dúvida os estudantes de Graduação são quem mais
@@ -134,7 +128,6 @@ Este ano, e no que se refere à formação/exame para a
 obtenção do DCB (Diploma de Competências Básicas)
 tivemos também uma forte interacção com os funcionários
 não docentes da UM.
-
 Quem pode e como podem os utentes aceder aos
 serviços?
 Todos os estudantes de Graduação, Pós-Graduação,
@@ -146,7 +139,6 @@ acto de matrícula/inscrição.
 Relativamente aos docentes receberam também os
 respectivos dados de identificação electrónica para poderem
 utilizar a plataforma de e-learning.
-
 Em relação ao Diploma de Competências Básicas em
 Tecnologias de Informação, em que consiste?
 O Diploma de Competências Básicas (DCB) é um meio
@@ -162,10 +154,8 @@ na pesquisa de documentos na Internet, na leitura e envio de
 correio electrónico entre outras.
 É mantida uma base de dados central na UMIC de todos os
 cidadãos portugueses que já possuem o DCB.
-
 Quem pode inscrever-se para acesso ao mesmo?
 Toda a comunidade académica da UM.
-
 Qual tem sido a adesão?
 Tem sido boa entre os funcionários, pois sensibilizamos os
 responsáveis pelas unidades onde exercem funções para a
@@ -174,7 +164,6 @@ os estudantes a adesão não tem sido tão boa quanto o
 desejávamos, não obstante a sensibilização que fizemos. No
 caso dos estudantes, a ajuda dos directores de curso era
 essencial.
-
 Até este momento quantas pessoas já obtiveram com
 sucesso o diploma na UMinho?
 Começamos com este processo em fins de Fevereiro de
@@ -182,7 +171,6 @@ Começamos com este processo em fins de Fevereiro de
 Diploma de Competências Básicas em TIC através do
 SAPIA. O número total de candidatos inscritos em 2006 foi de
 604 restando-nos realizar ainda 54 exames.
-
 Existe um novo Sistema de Correio da UMinho, porquê
 esta necessidade?
 O correio electrónico constitui, um meio de comunicação
@@ -202,7 +190,6 @@ endereço que os alunos têm na UM que os vários serviços
 (ex: Serviços Académicos, Serviços de Acção Social, etc..)
 enviarão informação importante no percurso académico de
 cada um.
-
 Em que consiste este novo serviço?
 Este serviço resulta de uma parceria entre a UM e a Microsoft
 que culminará num dos maiores sistemas de email de
@@ -210,7 +197,6 @@ Portugal e talvez da Península Ibérica. Foi pensado para
 garantir o máximo de tolerância a falhas, para ser seguro e
 para permitir que os alunos e funcionários da UM o usem
 como plataforma de comunicação electrónica institucional.
-
 Quais são as novidades deste novo sistema?
 Um interface Web muito mais atractivo e de fácil utilização,
 protecção contra Vírus e SPAM e integração com o sistema
@@ -218,7 +204,6 @@ de autenticação central da UM. Além disso a capacidade das
 caixas de correio foi significativamente aumentada,
 disponibilizando aos discentes um armazenamento de
 100Mb e aos funcionários docentes e não docentes 1Gb.
-
 Quais são os principais benefícios e potencialidades
 deste novo serviço?
 Este serviço junta numa mesma plataforma alunos e
@@ -248,14 +233,12 @@ correio de alguém com ligação à UM.
 Serão estas entidades da UM que irão ter um papel decisivo
 na generalização a todos os alunos da UM do uso do serviço
 de email institucional.
-
 Quem é que já utiliza o novo sistema de correio?
 Os alunos da Graduação inscritos e em melhorias, os alunos
 de Pós-Graduação e Doutoramento, bem como a Reitoria e
 todos os serviços da UM, utilizam já a nova plataforma de
 email. O Serviço foi disponibilizado aos alunos em Setembro
 e aos serviços gradualmente em Outubro e Novembro.
-
 Em relação às Escolas, para quando a migração?
 No início do próximo ano o SAPIA irá iniciar a migração dos
 vários domínios das escolas e departamentos da UM. Terá de
@@ -270,7 +253,6 @@ se procede à mudança, configurar os vários tipos de clientes
 de correio electrónico existentes nos PCs de cada
 funcionário, de acordo com as datas indicadas por cada uma
 das escolas / departamentos.
-
 E a configuração nos portáteis ligados à rede Wi-Fi da
 UM?
 A intervenção nos portáteis vai para além da configuração
@@ -281,9 +263,7 @@ integrar também em simultâneo a autenticação da rede Wi-Fi
 da UM com o sistema central de autenticação. Assim é
 necessário proceder também à configuração da identificação
 que cada um usa, para se autenticar na rede Wi-Fi da UM.
-
 Existe uma nova plataforma de e-learning na UM, porquê
-esta necessidade?
 A UM, à semelhança de outras Universidades Portuguesas,
 disponibilizou uma plataforma de e-learning no âmbito de
 uma iniciativa nacional, o projecto Campus Virtual. Assim foi
@@ -299,7 +279,6 @@ do e-learning.
 Assim os docentes e discentes da UM têm à sua disposição a
 plataforma comercial que mais se destaca, em todo o mundo,
 na àrea do e-learning.
-
 Qual a importância do help desk do SAPIA e qual a sua
 abrangência?
 O Help Desk do SAPIA é um serviço transversal à UM no
@@ -311,7 +290,7 @@ colocarem todos os problemas/dúvidas que resultem da
 utilização da informática e da utilização dos serviços
 disponibilizados electronicamente por vários serviços da UM.
 Neste momento a abrangência do apoio dado pelo Help Desk
-do SAPIA é a seguinte:
+do SAPIA é a seguinte: 
 - configuração de portáteis na ligação à rede wi-fi da UM;
 - plataforma de e-Learning da UM (Blackboard);
 -instalação de software licenciado pela UM (ex: SPPS
@@ -323,7 +302,6 @@ portais institucionais (Portal Académico e Intranet);
 - serviço de autenticação e validação central da UM;
 Existem novidades relativamente ao SAPIA a curto
 prazo?
-
 Existem várias mudanças a ocorrer no SAPIA neste
 momento, para além da migração do correio de toda a UM
 para o novo sistema, o SAPIA está também a alterar
@@ -339,4 +317,4 @@ informática da UM que contribuirão a curto prazo para a
 simplificação da vida de todos no uso dos serviços
 electrónicos disponibilizados pela UM no seu todo.
 Ana Marques
-anac@sas.uminho.pt
+anac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.pt

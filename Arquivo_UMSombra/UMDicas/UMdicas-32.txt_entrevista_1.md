@@ -1,11 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 32
-University: Universidade do Minho
-Interviewee(s): 
-Date: 31 de Outubro de 2005
+journal: UMdicas
+issue: Número 32
+university: Universidade do Minho
+interviewee: José Fernandes
+date: 31 de Outubro de 2005
+interviewer: Ana Marques
 ---
-GSI avalia o uso da tecnologia pelos
+GSI avalia o uso da tecnologia pelos alunos da UMinho
 Entrevista com o Engenheiro José Fernandes, director
 do Gabinete de Sistemas de Informação (GSI)
 A Universidade do Minho através do Gabinete de Sistemas de Informação (GSI) e o
@@ -34,7 +35,23 @@ principalmente nessas três vertentes
 que trabalha, disponibilizando um
 conjunto de portais e ferramentas Web
 para serem utilizadas pela comunidade
-
+académica.
+UMdicas- Porquê e como surgiu a ideia
+deste inquérito?
+J.F- A UMinho para além de ser uma
+universidade extremamente
+tecnológica, está a disponibilizar muito
+recentemente um conjunto de
+protocolos para promoção de produtos
+informáticos para todos os alunos.
+Nesse sentido este inquérito surgiu no
+intuito de sabermos quais são as
+necessidades e o perfil tecnológico dos
+nossos alunos. Por outro lado uma das
+competências de um dos serviços que
+temos, o SAPIA, é atribuir o Diploma de
+Competências Básicas (DCB), o qual
+confere a um aluno um conjunto de
 habilitações básicas para utilização
 das tecnologias de informação, e é
 esse o segundo motivo, saber se os
@@ -54,82 +71,6 @@ importante no apoio à actividade
 lectiva. A UMinho está constantemente
 a disponibilizar um conjunto de
 plataformas Web, assim surgiu a
-
-O inquérito é uma forma de questionar
-o aluno se tem meios para usar o que
-fabricamos, o aluno só tem duas
-formas de o fazer, ou por meios
-próprios, ou utilizando os recursos
-informáticos que a universidade coloca
-à sua disposição através dos
-laboratórios ao cargo do SAPIA. Assim
-pelos resultados do inquérito poder
-adequar a oferta ao nível do software
-que produzimos, mas também ao nível
-dos laboratórios, dando mais meios ou
-adequando os meios que temos às
-necessidades dos alunos, ou
-alargando os protocolos que já temos a
-outro tipo de materiais que interesse
-aos alunos.
-UMdicas- Em que consiste o SAPIA?
-
-J.F- Este inquérito foi posto a funcionar
-desde o final do mês de Setembro e
-contamos tê-lo a operar mais um mês,
-ou seja, até final de Novembro. Até este
-momento temos mais de um terço das
-respostas relativamente ao total dos
-alunos da UMinho. De um total de mais
-de 14000 mil alunos de graduação
-existentes na nossa academia, quase
-cinco mil já responderam ao inquérito,
-mas o objectivo é termos o máximo de
-respostas para que os resultados
-sejam os mais fidedignos possíveis e
-daí o alargamento do inquérito até
-Novembro.
-UMdicas- Como foi aplicado este
-inquérito? Sabemos que foi on-line,
-
-alunos de pós-graduação e
-doutoramento. Na nossa perspectiva
-era normal um aluno que já se encontre
-no nível superior à graduação ter um
-PC ou Portátil, para utilização deste
-tipo de tecnologias.
-UMdicas- Até à data que resultados já
-conseguiram? Que mudanças advirão
-mediante esses resultados?
-J.F- Neste momento temos cerca de
-um terço dos alunos de graduação com
-respostas ao inquérito e os resultados
-têm sido muito positivos.
-Uma das principais conclusões que
-tiramos é que os alunos têm acesso à
-tecnologia, têm PC ou portátil,
-conhecem os sistemas operativos,
-
-Com o conhecimento mais profundo da comunidade estudantil, a
-UMinho conseguirá fazer mais e melhor pelos seus alunos
-académica.
-UMdicas- Porquê e como surgiu a ideia
-deste inquérito?
-J.F- A UMinho para além de ser uma
-universidade extremamente
-tecnológica, está a disponibilizar muito
-recentemente um conjunto de
-protocolos para promoção de produtos
-informáticos para todos os alunos.
-Nesse sentido este inquérito surgiu no
-intuito de sabermos quais são as
-necessidades e o perfil tecnológico dos
-nossos alunos. Por outro lado uma das
-competências de um dos serviços que
-temos, o SAPIA, é atribuir o Diploma de
-Competências Básicas (DCB), o qual
-confere a um aluno um conjunto de
-
 necessidade de avaliar até que ponto
 os alunos têm ferramentas que lhes
 permita aceder a esse tipo de
@@ -148,7 +89,27 @@ disponibilizarmos mais. Saber que no
 fundo estamos a fazer algo que é
 utilizado é um incentivo muito forte para
 nós.
+O inquérito é uma forma de questionar
+o aluno se tem meios para usar o que
+fabricamos, o aluno só tem duas
+formas de o fazer, ou por meios
+próprios, ou utilizando os recursos
+informáticos que a universidade coloca
+à sua disposição através dos
+laboratórios ao cargo do SAPIA. Assim
+pelos resultados do inquérito poder
+adequar a oferta ao nível do software
+que produzimos, mas também ao nível
+dos laboratórios, dando mais meios ou
+adequando os meios que temos às
+necessidades dos alunos, ou
+alargando os protocolos que já temos a
+outro tipo de materiais que interesse
+aos alunos.
 
+"Com o conhecimento mais profundo da comunidade estudantil, a
+UMinho conseguirá fazer mais e melhor pelos seus alunos"
+UMdicas- Em que consiste o SAPIA?
 J.F- É o Serviço de Apoio Informático à
 Aprendizagem. Este é um dos serviços
 da UMinho que tem como função
@@ -179,13 +140,26 @@ estão mais orientados às necessidades
 dos nossos docentes. Por outro lado foi
 para caracterizar de forma mais
 adequada o perfil do aluno.
-
-O Data Center do GSI
-
 UMdicas- Quando foi aplicado e até
 quando estará em funcionamento o
 inquérito?
-
+J.F- Este inquérito foi posto a funcionar
+desde o final do mês de Setembro e
+contamos tê-lo a operar mais um mês,
+ou seja, até final de Novembro. Até este
+momento temos mais de um terço das
+respostas relativamente ao total dos
+alunos da UMinho. De um total de mais
+de 14000 mil alunos de graduação
+existentes na nossa academia, quase
+cinco mil já responderam ao inquérito,
+mas o objectivo é termos o máximo de
+respostas para que os resultados
+sejam os mais fidedignos possíveis e
+daí o alargamento do inquérito até
+Novembro.
+UMdicas- Como foi aplicado este
+inquérito? Sabemos que foi on-line,
 mas como se processava, como é que
 os alunos acediam a ele, como foram
 informados da sua existência?
@@ -219,7 +193,23 @@ graduação, que são cerca de 14000.
 Foram excluídos por opção nossa, e
 porque pensamos que não tinha lógica
 serem englobados no inquérito, os
-
+alunos de pós-graduação e
+doutoramento. Na nossa perspectiva
+era normal um aluno que já se encontre
+no nível superior à graduação ter um
+PC ou Portátil, para utilização deste
+tipo de tecnologias.
+UMdicas- Até à data que resultados já
+conseguiram? Que mudanças advirão
+mediante esses resultados?
+J.F- Neste momento temos cerca de
+um terço dos alunos de graduação com
+respostas ao inquérito e os resultados
+têm sido muito positivos.
+Uma das principais conclusões que
+tiramos é que os alunos têm acesso à
+tecnologia, têm PC ou portátil,
+conhecem os sistemas operativos,
 sendo que o Windows é o mais usado.
 Conhecem as ferramentas, 70% dos
 alunos possui portátil, o que é muito
@@ -255,20 +245,6 @@ sempre é assim, por isso vai ser muito
 interessante analisar esses resultados.
 Existem dados muito importantes tanto
 para a UMinho, como para o SAPIA,
-
-UM dicas
-
-31 de Outubro de 2005
-
-Entrevista - Serviços UMinho
-
-09
-
-alunos da UMinho
-Recepção ao Caloiro «d4» 2005
-
-+ d4 se ff ;-)
-
 que com estes resultados vamos poder
 adequar os Serviços Informáticos às
 necessidades dos alunos, mas também
@@ -331,7 +307,6 @@ decorrer e que vão ser lançados a curto
 prazo?
 J.F- O GSI tem muitos projectos a nível
 da certificação da página da UMinho. A
-
 UMinho foi a primeira entidade do
 Ensino Superior Público em Portugal a
 ver o seu portal institucional certificado
@@ -387,4 +362,4 @@ importantes para a realidade da
 Universidade do Minho.
 Acede ao portal académico, responde
 e contribui para uma melhor
-qualidade dos nossos serviços.
+qualidade dos nossos serviços.qualidade dos nossos serviços.qualidade dos nossos serviços.qualidade dos nossos serviços.

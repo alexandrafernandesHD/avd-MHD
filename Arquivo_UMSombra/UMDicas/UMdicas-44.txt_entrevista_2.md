@@ -1,10 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Número 44
-University: Universidade do Minho
-Interviewee(s): 
-Date: 18 de Outubro de 2006
+journal: UMdicas
+issue: Número 44
+university: Universidade do Minho
+interviewee: Eloy Rodrigues
+date: 18 de Outubro de 2006
+title: Director do SDUM em entrevista
+interviewer: Ana Marques
 ---
+
 UMDicas - O que são os Serviços de
 Documentação da Universidade do
 Minho e qual a sua importância?
@@ -67,7 +70,7 @@ E.R. - Os Serviços de Documentação,
 através das bibliotecas que dirigem,
 prestam ou disponibilizam um vasto
 conjunto de serviços aos utilizadores da
-Universidade do Minho, nomeadamente:
+Universidade do Minho, nomeadamente: 
 Consulta presencial dos fundos
 documentais das bibliotecas;
 Empréstimo de publicações para leitura
@@ -75,7 +78,6 @@ domiciliária; Reprodução de documentos
 (impressão, fotocópia e digitalização), em
 regime de auto – serviço; Pesquisas em
 bases de dados bibliográficas, na Internet
-
 e em outros recursos de informação;
 Pesquisa e fornecimento de documentos
 legislativos de Portugal em suporte papel
@@ -108,7 +110,6 @@ estrangeiros, nomeadamente os alunos
 Erasmus, podem também aceder às
 bibliotecas, requisitar livros, e usar outros
 serviços, tal como os alunos regulares da
-Universidade.
 Devo ainda referir que existe um serviço
 situado na Biblioteca Geral da
 Universidade, o ponto de informação da
@@ -120,7 +121,31 @@ informação estatística e dos documentos
 publicados pelo Instituto Nacional de
 Estatística. Isto resulta do protocolo que a
 Universidade estabeleceu com o INE.
-
+UMDicas – De onde podem estes
+públicos aceder à documentação dos
+SDUM?
+E.R. – Para aceder à documentação
+“tradicional” (livros, revistas, etc.) os
+utentes devem deslocar-se a uma das
+bibliotecas. No entanto, os utentes
+podem solicitar em Braga livros que se
+encontram na biblioteca de Guimarães, e
+vice-versa, sem terem de se deslocar
+fisicamente à biblioteca a que pertence a
+publicação para a requisitar.
+Quanto à documentação e recursos
+“...documentação e
+recursos informativos
+digitais, podem ser
+acedidos de qualquer
+lugar do mundo.”
+informativos digitais, ela pode ser acedida
+de qualquer ponto do campus, ou mesmo
+de qualquer lugar do mundo. Como a
+quase totalidade desses recursos pode
+ser acedida por qualquer computador
+com um endereço válido da rede da U.M.,
+em qualquer ponto dos campi, usando a
 rede “física” ou wireless, ou fora das
 instalações da U.M., usando um dos
 serviços de acesso remoto oferecidos
@@ -153,7 +178,24 @@ Queríamos reunir o conjunto de revistas
 em acesso e formato electrónico, os livros
 electrónicos (e-books), as bases de
 dados e recursos de informação que a
-
+U.M. adquiria ou assinava. Ao mesmo
+tempo, queríamos colocar também aí
+documentos, “nascidos digitais”, ou
+digitalizados, produzidos ou editados no
+interior da Universidade do Minho.
+Presentemente, a secção biblioteca
+digital do Website dos SDUM
+(www.sdum.uminho.pt), reúne o Portal de
+Pesquisa, o Catálogo Bibliográfico, a lista
+das revistas electrónicas disponíveis, a
+lista de outros recursos (bases de dados,
+etc.) acessíveis na U.M., as Edições
+Digitais dos SDUM, e o RepositóriUM,
+que tem sido um dos projectos e serviços
+em que mais temos investido.
+UMDicas - Porque consideram o
+RepositóriUM como um dos projectos
+prioritários? O que é exactamente o
 RepositóriUM e quais são os seus
 objectivos?
 E.R. – O RepositóriUM (que pode ser
@@ -189,20 +231,25 @@ aplicação em 2005 e 2006.
 E é também para corresponder a essa
 orientação da Reitoria que os SDUM têm
 considerado o RepositóriUM como um
-
-“...documentação e
-recursos informativos
-digitais, podem ser
-acedidos de qualquer
-lugar do mundo.”
-informativos digitais, ela pode ser acedida
-de qualquer ponto do campus, ou mesmo
-de qualquer lugar do mundo. Como a
-quase totalidade desses recursos pode
-ser acedida por qualquer computador
-com um endereço válido da rede da U.M.,
-em qualquer ponto dos campi, usando a
-
+projecto prioritário.
+UMDicas - Existem indicações
+concretas de que o RepositóriUM
+contribui para aumentar a visibilidade
+do trabalho dos investigadores da
+U.M.?
+E.R. – Sim. Já me foram referidos casos
+de docentes e investigadores da U.M. que
+foram convidados para participar em
+projectos, ou para orientar
+doutoramentos, porque os seus trabalhos
+anteriores foram conhecidos e
+consultados através do RepositóriUM.
+Para além disso temos estatísticas de
+acesso e downloads muito
+significativas...
+UMDicas – Tem havido muitos
+downloads? Do interior ou do exterior
+da U.M.?
 E.R. – Apenas desde Janeiro de 2006, ou
 seja em pouco mais de 9 meses, já
 contabilizamos quase 350.000
@@ -244,61 +291,6 @@ utentes podem solicitar a renovação dos
 empréstimos, nos balcões das
 bibliotecas, por telefone, ou através da
 Internet, via catálogo bibliográfico.
-
-UMDicas – De onde podem estes
-públicos aceder à documentação dos
-SDUM?
-E.R. – Para aceder à documentação
-“tradicional” (livros, revistas, etc.) os
-utentes devem deslocar-se a uma das
-bibliotecas. No entanto, os utentes
-podem solicitar em Braga livros que se
-encontram na biblioteca de Guimarães, e
-vice-versa, sem terem de se deslocar
-fisicamente à biblioteca a que pertence a
-publicação para a requisitar.
-Quanto à documentação e recursos
-
-UMDicas – Tem havido muitos
-downloads? Do interior ou do exterior
-da U.M.?
-
-U.M. adquiria ou assinava. Ao mesmo
-tempo, queríamos colocar também aí
-documentos, “nascidos digitais”, ou
-digitalizados, produzidos ou editados no
-interior da Universidade do Minho.
-Presentemente, a secção biblioteca
-d i g i t a l d o We b s i t e d o s S D U M
-(www.sdum.uminho.pt), reúne o Portal de
-Pesquisa, o Catálogo Bibliográfico, a lista
-das revistas electrónicas disponíveis, a
-lista de outros recursos (bases de dados,
-etc.) acessíveis na U.M., as Edições
-Digitais dos SDUM, e o RepositóriUM,
-que tem sido um dos projectos e serviços
-em que mais temos investido.
-UMDicas - Porque consideram o
-RepositóriUM como um dos projectos
-prioritários? O que é exactamente o
-
-projecto prioritário.
-UMDicas - Existem indicações
-concretas de que o RepositóriUM
-contribui para aumentar a visibilidade
-do trabalho dos investigadores da
-U.M.?
-E.R. – Sim. Já me foram referidos casos
-de docentes e investigadores da U.M. que
-foram convidados para participar em
-projectos, ou para orientar
-doutoramentos, porque os seus trabalhos
-anteriores foram conhecidos e
-consultados através do RepositóriUM.
-Para além disso temos estatísticas de
-acesso e downloads muito
-significativas...
-
 O utente perde o direito de renovar o
 prazo de empréstimo da publicação
 requisitada em seu nome se deixar
@@ -321,18 +313,6 @@ outras obras sinalizadas caso a caso.
 UMDicas - O que mais procuram os
 públicos dos SDUM?
 E.R. – Os serviços mais procurados
-
-UM
-
-18 de Outubro de 2006
-
-dicas
-
-Entrevista - Serviços UM
-
-13
-
-Eloy Rodrigues
 continuam a ser os “tradicionais”, ou seja
 a utilização das salas de leitura para
 consulta de publicações e estudo, bem
@@ -366,12 +346,10 @@ no catálogo bibliográfico (mais 70% que
 em 2004), mais de 227.000 downloads de
 artigos de revistas e outros recursos
 disponíveis na B-on.
-
 UMDicas – Sabemos que os SDUM não
 podem ter tudo o que o seu público
 necessita. O que fazem quando
 procuram algo que não existe nos
-SDUM?
 E.R. – Em primeiro lugar tentamos
 perceber se o documento que o nosso
 leitor procura será um documento que
@@ -397,14 +375,12 @@ condições, e respondemos a mais de 600
 pedidos de outras bibliotecas, para
 fornecer documentos do nosso fundo
 documental
-
 UMDicas – Quais são as novidades
 dos SDUM para este ano lectivo?
 E.R. – A principal novidade dos SDUM
 para este ano lectivo é a disponibilização
 do novo Portal de Pesquisa, que
 pensamos irá facilitar a pesquisa,
-
 “RepositoriUM, uma
 rampa de visibilidade
 para investigadores”
@@ -426,7 +402,6 @@ das instalações da biblioteca geral em
 Gualtar, criando melhores condições de
 trabalho aos seus utentes, e
 possibilitando o funcionamento da
-
 biblioteca, ou pelo menos de parte dos
 seus espaços e serviços, em horários
 mais alargados. Mas refiro-me também
@@ -459,7 +434,6 @@ Talvez um exemplo permita tornar mais
 claro a novidade e a utilidade deste
 serviço. Até agora, quando alguém
 procurava bibliografia disponível na U.M.
-
 sobre um determinado assunto tinha de
 realizar 3 ou mais pesquisas em 3 ou mais
 sistemas diferentes. Por exemplo, teria
@@ -484,4 +458,4 @@ serviço?
 E.R. – O acesso a este serviço pode ser
 feito em condições semelhantes aos dos
 restantes serviços da Biblioteca Digital, já
-anteriormente referidas.
+anteriormente referidas.anteriormente referidas.anteriormente referidas.anteriormente referidas.

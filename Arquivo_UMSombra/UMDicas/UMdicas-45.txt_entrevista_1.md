@@ -1,35 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 45
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Novembro de 2006
+journal: UMdicas
+issue: Número 45
+university: Universidade do Minho
+interviewee: Ana Rodrigues e Márcia Cortinhas
+date: 21 de Novembro de 2006
+title: TUTORUM, mais que um apoio, sobretudo um merecimento
+interviewer: Nuno Gonçalves
 ---
-U - O facto de jogares pelo Óquei Clube de
-Barcelos condicionou a tua escolha de
-Universidades quando concorreste? Porquê?
-AR - É importante referir que já não jogo, e o Óquei
-Clube de Barcelos foi o último clube onde pratiquei
-hóquei. No primeiro ano que fui jogar para Barcelos,
-já estudava no porto. Não era nada fácil conciliar
-estudos, treinos, viagens etc., os treinos eram muito
-tarde e estava condicionada com os transportes que
-o clube me proporcionava. È claro que tudo isso
-influenciou a minha escolha, no que diz respeito à
-Universidade do Minho, apesar de ter o curso que eu
-queria, a distância ajudou imenso.
-
-parece praticamente impossível. Uma coisa é montar por
-lazer, outra é montar para competir. Isso passa já a um nível
-quase profissional e para tal teria que abdicar de muita
-coisa a nível académico. Por causa de levar o desporto
-muito a sério nos primeiros anos da faculdade, de ter
-mesmo faltado a exames, já não falando da frequência às
-aulas, devido às provas a nível nacional e internacional que
-faziam, além de treinos, tive que estar muito tempo ausente
-de casa, e fui deixando cadeiras para trás. Cheguei ao
-ponto, em que se quero acabar o curso nos anos previstos
-tenho que deixar um pouco a competição de lado e dedicarme a valer á faculdade. É o que acontece actualmente.
 
 UMDicas - Com que idade é que iniciaste a prática
 competitiva do Hóquei e onde?
@@ -45,19 +22,6 @@ se vão criando, ajuda, imenso no nosso
 desenvolvimento enquanto pessoa, torna-nos mais
 independentes, mais críticos e mais responsáveis.
 
-U - Para muitos atletas de alta competição tornase difícil conciliar os estudos com a prática
-desportiva. Como é que tu consegues gerir esta
-nem sempre fácil “relação”?
-AR - Não foi nada fácil! Quando fiz parte da selecção
-Nacional de Hóquei em Patins Feminina, estava
-demasiado ocupada com os frequentes estágios,
-com as competições nacionais e internacionais, que
-não consegui gerir estudos com a prática desportiva.
-De facto, acabei por chumbar esse ano. Nessa altura
-ainda não existia o programa TUTORUM, com muita
-pena minha, porque tenho a certeza que seria
-diferente.
-
 U - Qual foi o papel da tua familia no teu percurso
 enquanto atleta de alta competição?
 AR - A minha família sempre me apoiou,
@@ -66,31 +30,12 @@ teve um rapaz). Apesar de ser um desporto bastante
 violento, e estar ausente durante muito tempo,
 devido aos estágios intensivos longe de casa, o
 apoio que me davam, tornava as coisas mais fáceis.
-
-U - A UMinho iniciou em Portugal um programa
-pioneiro no que diz respeito ao apoio aos atletas
-de alta competição, o TUTORUM. O que pensas
-desta iniciativa e do programa em si?
-AR - Penso que é bastante importante, porque os
-atletas de alta competição devem ter todo o apoio
-necessário. Pois como foi referido anteriormente não
-é nada fácil conciliar estudos e prática desportiva.
-
 U - Quantas vezes treinam por semana, e quanto
 tempo?
 AR - De momento não jogo em nenhuma equipa.
 Mas pondero, fazer parte da equipa da universidade.
 Mas neste momento, treino uma vez por semana,
 com antigos jogadores.
-
-U - Em áreas já recebeste apoio através do
-TUTORUM?
-AR - Como já não pratico hóquei não tive
-necessidade de receber apoio através do Tutorum,
-embora houvesse sempre um acompanhamento. É
-claro, que me seria mais útil na altura em que me
-enquadrava no estatuto de alta competição.
-
 U - A forma como tu lidas com a pressão e a
 ansiedade antes das provas é algo que tu
 consegues trabalhar e treinar, ou simplesmente é
@@ -104,7 +49,54 @@ Mas com os anos, penso que é algo que já nos
 ultrapassa e conseguimos trabalhar e treinar, são
 técnicas que cada jogador adopta, de modo a
 combater qualquer incerteza.
-
+U - Qual é para ti a grande diferença entre a
+competição federada e a competição
+universitária?
+AR - Enquanto competição federada, penso que as
+responsabilidades eram maiores. De certo modo,
+porque estava em causa a nossa continuidade ou
+não na primeira divisão, dependendo dos nossos
+resultados.
+U - O facto de jogares pelo Óquei Clube de
+Barcelos condicionou a tua escolha de
+Universidades quando concorreste? Porquê?
+AR - É importante referir que já não jogo, e o Óquei
+Clube de Barcelos foi o último clube onde pratiquei
+hóquei. No primeiro ano que fui jogar para Barcelos,
+já estudava no porto. Não era nada fácil conciliar
+estudos, treinos, viagens etc., os treinos eram muito
+tarde e estava condicionada com os transportes que
+o clube me proporcionava. È claro que tudo isso
+influenciou a minha escolha, no que diz respeito à
+Universidade do Minho, apesar de ter o curso que eu
+queria, a distância ajudou imenso.
+U - Para muitos atletas de alta competição tornase difícil conciliar os estudos com a prática
+desportiva. Como é que tu consegues gerir esta
+nem sempre fácil “relação”?
+AR - Não foi nada fácil! Quando fiz parte da selecção
+Nacional de Hóquei em Patins Feminina, estava
+demasiado ocupada com os frequentes estágios,
+com as competições nacionais e internacionais, que
+não consegui gerir estudos com a prática desportiva.
+De facto, acabei por chumbar esse ano. Nessa altura
+ainda não existia o programa TUTORUM, com muita
+pena minha, porque tenho a certeza que seria
+diferente.
+U - A UMinho iniciou em Portugal um programa
+pioneiro no que diz respeito ao apoio aos atletas
+de alta competição, o TUTORUM. O que pensas
+desta iniciativa e do programa em si?
+AR - Penso que é bastante importante, porque os
+atletas de alta competição devem ter todo o apoio
+necessário. Pois como foi referido anteriormente não
+é nada fácil conciliar estudos e prática desportiva.
+U - Em áreas já recebeste apoio através do
+TUTORUM?
+AR - Como já não pratico hóquei não tive
+necessidade de receber apoio através do Tutorum,
+embora houvesse sempre um acompanhamento. É
+claro, que me seria mais útil na altura em que me
+enquadrava no estatuto de alta competição.
 U - Os teus objectivos pessoais passam por uma
 carreira profissional no Óquei ou os estudos vêm
 em primeiro lugar?
@@ -117,20 +109,6 @@ certeza que se essa fosse a minha opção, o
 programa Tutorum me iria ajudar imenso, mas são
 opções, tanto que o hóquei feminino, a nível
 profissional, não oferece um grande futuro.
-
-U - Qual é para ti a grande diferença entre a
-competição federada e a competição
-universitária?
-AR - Enquanto competição federada, penso que as
-responsabilidades eram maiores. De certo modo,
-porque estava em causa a nossa continuidade ou
-não na primeira divisão, dependendo dos nossos
-resultados.
-
-Nuno Gonçalves
-Nunog@sas.uminho.pt
-
-UMDicas - Com que idade é que iniciaste a prática
 competitiva da Equitação e onde?
 Márcia Cortinhas - Iniciei com 10 anos de idade e foi no
 centro hípico de Sezim em Guimarães. Como esse centro
@@ -152,8 +130,6 @@ muito rápido. Concentrar-me no essencial e abstrair-me do
 desnecessário, saber ouvir e passar para a prática o que
 me transmitem, e principalmente tomar decisões, optar por
 uma ou outra coisa e levar isso adiante.
-U - Qual foi o papel da tua familia no teu percurso
-enquanto atleta de alta competição?
 MC - Foi crucial. Nada poderia ter acontecido sem o total
 apoio deles, tento a nível financeiro como a nível
 emocional. Os meus pais são adeptos constantes das
@@ -191,8 +167,7 @@ base de comparação.
 U - A equitação condicionou a tua escolha de
 Universidades quando concorreste? Porque?
 Santosporque para poder continuar a montar a
-MC -Carlos
-Condicionou
+MC - Condicionou
 um nível competitivo e conseguir alcançar os objectivos que
 tanto queria como cavaleira precisava de treinar muito e
 frequentemente e para tal tinha que ter os cavalos perto de
@@ -204,8 +179,18 @@ U - Para muitos atletas de alta competição torna-se difícil
 conciliar os estudos com a prática desportiva. Como é que
 tu consegues gerir esta nem sempre fácil “relação”?
 MC - Se quando entrei na faculdade se tornou bastante
-complicado conciliar, agora que estou a acabar o curso
-
+complicado conciliar, agora que estou a acabar o curso 
+parece praticamente impossível. Uma coisa é montar por
+lazer, outra é montar para competir. Isso passa já a um nível
+quase profissional e para tal teria que abdicar de muita
+coisa a nível académico. Por causa de levar o desporto
+muito a sério nos primeiros anos da faculdade, de ter
+mesmo faltado a exames, já não falando da frequência às
+aulas, devido às provas a nível nacional e internacional que
+faziam, além de treinos, tive que estar muito tempo ausente
+de casa, e fui deixando cadeiras para trás. Cheguei ao
+ponto, em que se quero acabar o curso nos anos previstos
+tenho que deixar um pouco a competição de lado e dedicarme a valer á faculdade. É o que acontece actualmente.
 U - A UMinho iniciou em Portugal um programa pioneiro
 no que diz respeito ao apoio aos atletas de alta
 competição, o TUTORUM. O que pensas desta iniciativa
@@ -241,9 +226,7 @@ Sempre que foi preciso contei com a compreensão e ajuda
 de todos envolvidos neste projecto preocupando-se em ter
 um feedback de modo a ver se estava tudo a correr como o
 esperado.
-U - Os teus objectivos pessoais passam por uma
 carreira profissional na equitação ou os estudos vêm
-em primeiro lugar?
 MC - Os estudos vêm em primeiro lugar. Sempre me
 dediquei muito à equitação mas sempre com a consciência
 que seria o meu desporto eleição, a minha grande paixão
@@ -254,4 +237,4 @@ atingir de novo um nível de profissionalismo necessário
 para alcançar os meus objectivos pendentes. Ainda há
 muito para conquistar e espero voltar a competir a nível
 nac i onal e repres entar nov am ente Portugal
-internacionalmente.
+internacionalmente.internacionalmente.internacionalmente.internacionalmente.

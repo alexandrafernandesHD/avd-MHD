@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 34
-University: Universidade do Minho
-Interviewee(s): 
-Date: 8 de Dezembro de 2005
+journal: UMdicas
+issue: Número 34
+university: Universidade do Minho
+interviewee: Rui Cruz (Lista A) e Roque Teixeira (Lista B)
+date: 8 de Dezembro de 2005
+interviewer: Michael Ribeiro
 ---
 Qual o principal motivo que
 te levou a candidatar à
@@ -53,13 +54,13 @@ O estado do Ensino Superior neste momento é muito frágil. O financiamento é c
 mais reduzido, as universidades estão a ser estranguladas por sucessivos cortes. O
 resultado reflecte-se no aumento constante das propinas para pagar despesas
 estruturais da Universidade em vez de serem gastas na melhoria do ensino.
-Propinas:
+Propinas: 
 Estudantes a deixarem de estudar por causa das propinas é inaceitável. O valor é muito
 elevado e enquanto a situação se mantiver, nós vamos lutar contra isso. A acção neste
 campo passará pela sensibilização das pessoas através da utilização dos meios de
 comunicação social, que nos nossos dias, são decisivos nas pressões efectuadas de
 modo a que se consiga obter resultados.
-Tratado de Bolonha:
+Tratado de Bolonha: 
 A nível do tratado de Bolonha, trata-se de uma medida de normalização da qual não nos
 devemos afastar. Seria prejudicial não englobar esta medida, pois os estudantes
 portugueses não teriam o mesmo reconhecimento internacional. Em relações a este
@@ -78,7 +79,6 @@ Contem com uma equipa que dará a cara por vós.
 
 Michael Ribeiro
 mikka7@gmail.com
-
 Qual a principal razão de uma nova
 candidatura à Associação Académica
 da Universidade do Minho (AAUM)?
@@ -145,7 +145,6 @@ coisas. Falta por exemplo, a deslocação
 da sede para o Campus de Gualtar, mas
 não sendo isso possível, falta a
 colocação de alguns tipos de horários
-
 aproveitando os Gabinetes de Apoio ao
 Aluno, quer em Braga quer em
 Guimarães, para que a nossa direcção,
@@ -231,7 +230,6 @@ actividades que, como é sabido, na
 realidade de enfermagem terão que ser
 diferentes, ou seja, mais vocacionadas
 para a sua area. Uma ideia que temos,
-
 seria de um colega de enfermagem
 acompanhar cada saída de cada
 modalidade desportiva, para além de ser
@@ -315,4 +313,4 @@ prazo, mas sim a longo prazo, será com o
 objectivo de o fazermos e reinvidicarmos
 os nossos direitos, os direitos dos
 estudantes que iremos e continuaremos
-a lutar.
+a lutar.a lutar.a lutar.a lutar.

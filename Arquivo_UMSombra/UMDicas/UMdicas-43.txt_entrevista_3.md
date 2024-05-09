@@ -1,10 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Número 43
-University: Universidade do Minho
-Interviewee(s): 
-Date: 05 de Agosto de 2006
+journal: UMdicas
+issue: Número 43
+university: Universidade do Minho
+interviewee: António Guimarães Rodrigues
+date: 05 de Agosto de 2006
+title: Entrevista ao Sr. Reitor da UMinho
+interviewer: Ana Marques
 ---
+
+
+Entrevista ao Sr. Reitor da UMinho
+António Guimarães Rodrigues
 UMdicas- Porque resolveu recandidatar-se
 para mais um mandato como reitor à frente
 da UMinho?
@@ -94,7 +100,6 @@ que partimos em 2002. Sanciona a capacidade
 de execução da equipa e é também uma
 chancela de confiança em relação à condução
 da universidade e a um programa que avança
-
 por mais 4 anos. Temos neste momento uma
 confiança acrescida de que temos de dar o
 nosso melhor esforço para conseguir levar
@@ -181,7 +186,6 @@ que o resultado é interessante, porque marca
 claramente o sancionar de uma linha de
 orientação, de uma filosofia que nós
 exprimimos há 4 anos atrás. É também o
-
 sufragar da confiança nesta reitoria para
 prosseguir por mais 4 anos.
 UMdicas- O programa eleitoral que
@@ -269,7 +273,6 @@ prosseguir nessa sua criação do
 conhecimento. É muito importante a nossa
 intervenção no conjunto de interfaces, spinoffs, e toda essa outra actividade onde a
 universidade tem capacidade de ir buscar
-
 algumas receitas próprias. A racionalização
 quer dizer que, quando temos recursos
 limitados, temos que os organizar, e não posso
@@ -336,7 +339,6 @@ saber como é que procura, como é que faz,
 como sistematiza, como pesquisa, e não estou
 bem seguro de que os estudantes estejam
 plenamente preparados para o fazer. Também
-
 não estou certo que os próprios professores
 estejam preparados. Mas é um caminho difícil
 que todos teremos que percorrer.
@@ -401,18 +403,6 @@ UMdicas- O que significa para si estar à
 frente da quarta maior academia (em
 número de alunos) do país?
 G.R- Estamos nas primeiras quatro em alguns
-
-UM
-
-05 de Agosto de 2006
-
-Academia
-
-dicas
-
-13
-
-António Guimarães Rodrigues
 aspectos, mas em primeiro em muitos deles.
 Queremos manter-nos aqui e temos uma
 grande responsabilidade, pois queremos
@@ -436,7 +426,7 @@ ser a receptividade dos nossos estudantes,
 que ainda não sabem quais são as ofertas e
 como o mercado de trabalho vai responder a
 isso. Não sabemos qual vai ser a procura dos
-2ºs ciclos de formação, ou das pósgraduações, não sabemos exactamente
+2ºs ciclos de formação, ou das pós-graduações, não sabemos exactamente
 quantos alunos vamos ter face a esta
 mudança, não sabemos a fórmula de
 financiamento para o próximo ano, o qual vai
@@ -456,7 +446,6 @@ G.R- Do ponto de vista pessoal, era minha
 grande preocupação ter inquietado esta
 instituição há quatro anos atrás. Penso que
 não se inquieta uma instituição por qualquer
-
 razão. Há uma responsabilidade muito grande
 e, quando se faz, tem de ser feito de uma forma
 muito segura e responsável. Por outro lado,
@@ -469,7 +458,6 @@ angústia se coloca daqui para diante. Temos
 quatro anos, todos os dias nos aparecem
 coisas novas e novas dificuldades, e tenho
 dificuldade em antecipar o que pode acontecer
-
 aqui amanhã, porque as surpresas acontecem
 todos os dias e o ritmo da mudança com que as
 coisas ocorrem não têm nada a ver com o que
@@ -482,7 +470,6 @@ simultaneamente gerir uma casa que tem
 1.200 docentes e 800 funcionários que são
 criativos. É uma grande comunidade com tudo
 aquilo que tem de difícil e de interessante ao
-
 mesmo tempo.
 UMdicas- Vê 2010 como a “meta” da
 maratona à frente da reitoria da UMinho?
@@ -492,7 +479,7 @@ estou descansado. Foi uma opção que
 tomámos e entendemos que era nossa
 responsabilidade continuar. Este é um
 compromisso que termina em 2010.
-
+UMdicas- Em final de ano lectivo, que
 mensagem gostaria de deixar à academia?
 G.R- O que eu digo à academia é que os
 tempos são difíceis, tempos de grandes
@@ -524,7 +511,7 @@ circunstâncias. Portanto, temos algum futuro a
 escrever o futuro, não só da casa, mas, em
 vários aspectos, do próprio ensino superior.
 Temos cartas a dar e exemplos a demonstrar e
-é isso exactamente a alma da instituição:
+é isso exactamente a alma da instituição: 
 acreditar que somos capazes de fazer e ter a
 humildade de perceber quando erramos. Mas
 o mais grave é não tentar. Como se diz, a sorte
@@ -534,4 +521,4 @@ projectar e esperamos que os próximos quatro
 anos a transportem para um patamar bem mais
 acima, até porque o trabalho de sementeira
 que foi sendo fabricado irá germinar a curto
-prazo.
+prazo.prazo.prazo.prazo.

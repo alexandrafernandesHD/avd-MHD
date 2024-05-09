@@ -1,10 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Número 44
-University: Universidade do Minho
-Interviewee(s): 
-Date: 18 de Outubro de 2006
+journal: UMdicas
+issue: Número 44
+university: Universidade do Minho
+interviewee: Ana Rita Ribeiro
+date: 18 de Outubro de 2006
+title: Moda desfila em Azurém
+interviewer: Michael Ribeiro
 ---
+
 O University Fashion irá realizar-se no dia 15 de
 Novembro no Pavilhão Desportivo Universitário
 de Guimarães. Que nos podes dizer mais sobre
@@ -15,33 +18,12 @@ jovens estilistas ao som do Dj Emídio Meireles. No
 final, o júri seleccionará um vencedor feminino e
 outro masculino.
 
-dos interessados a concorrer \ desfilar no University
-Fashion.
-Haverá uma equipa em Braga e outra em Guimarães
-a receber inscrições. Poderão no entanto levantar a
-folha de inscrição nos GAA's.
-Após fechadas inscrições, que será no dia 20, um júri
-seleccionará 35 a 40 concorrentes de ambos os
-sexos, que irão ao casting final.
-Casting Final:
-Será realizado no dia 24 de Outubro no “Sabão
-Rosa”.
-Aqui haverá um pequeno desfile, onde um júri
-seleccionará 20 candidatos para participarem no
-desfile final.
-
 Que papel desempenhas neste evento?
 A.R.: Como responsável do Departamento de
 Saídas Profissionais da AAUM, no qual está inserido
 esta actividade, o meu papel passa pela organização
 geral, coordenação de todo o processo de
 preparação e desfile final.
-
-É de salientar que neste dia haverá transporte
-Guimarães - Braga e Braga - Guimarães, mediante
-inscrição no Gaa de Guimarães até as 12 horas do
-dia 23.
-
 Quantas edições foram já organizadas do
 University Fashion?
 No ano 2002 no âmbito das festividades dos 25 anos
@@ -79,7 +61,8 @@ Quem é que pode concorrer e como se faz a
 selecção?
 Para concorrer basta ser aluno(a) da Universidade
 do Minho e que tenha gosto pela imagem e moda.
-A selecção será dividida em duas etapas. O PréCasting e o CastingFinal. As inscrições para o précasting decorrerão entre os dias 16 a 20 de Outubro
+A selecção será dividida em duas etapas. O PréCasting e o Casting
+Final. As inscrições para o précasting decorrerão entre os dias 16 a 20 de Outubro
 onde estarão nos dois Pólos equipas da AAUM a
 receber inscrições dos interessados.
 Fechadas as inscrições, que será no dia 20, um júri
@@ -103,8 +86,33 @@ O que esperam desta edição?
 Esperamos que supere o sucesso das edições
 anteriores, continuando a ser uma actividade com
 impacto a nível académico e comunidade
-
-Estágio de preparação:
+envolvente.
+E desde já deixo aqui o convite a alunos interessados
+a colaborarem connosco na organização deste
+evento, bem como a estar presente no desfile de
+moda “University Fashion”.
+Preparação do University Fashion: 
+Pré-casting: 
+Nos dias 16 a 20 de Outubro estaremos nos dois
+Pólos a divulgar o casting final e a receber inscrições 
+dos interessados a concorrer \ desfilar no University
+Fashion.
+Haverá uma equipa em Braga e outra em Guimarães
+a receber inscrições. Poderão no entanto levantar a
+folha de inscrição nos GAA's.
+Após fechadas inscrições, que será no dia 20, um júri
+sexos, que irão ao casting final.
+Casting Final: 
+Será realizado no dia 24 de Outubro no “Sabão
+Rosa”.
+Aqui haverá um pequeno desfile, onde um júri
+seleccionará 20 candidatos para participarem no
+desfile final.
+É de salientar que neste dia haverá transporte
+Guimarães - Braga e Braga - Guimarães, mediante
+inscrição no Gaa de Guimarães até as 12 horas do
+dia 23.
+Estágio de preparação: 
 De modo a preparar os candidatos para o desfile final
 haverá durante 5 dias, do dia 10 ao dia 15 de
 Novembro, um estágio de preparação. Nestes dias,
@@ -112,7 +120,7 @@ haverá um programa diário específico, contará com a
 prática de desporto, aulas de passerelle,
 maquilhagem e cabeleireiro, bem como a prova das
 roupas e acessórios e ensaio do desfile.
-Desfile Final:
+Desfile Final: 
 Será realizado no dia 15 de Novembro no Pavilhão
 Desportivo Universitário de Guimarães.
 Terá início pelas 22 horas, e ao som do Dj Emídio
@@ -120,9 +128,3 @@ Meireles os candidatos seleccionados, desfilarão
 marcas e colecções de jovens estilistas. No final, um
 júri seleccionará um vencedor feminino e outro
 masculino.
-
-envolvente.
-E desde já deixo aqui o convite a alunos interessados
-a colaborarem connosco na organização deste
-evento, bem como a estar presente no desfile de
-moda “University Fashion”.

@@ -1,10 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 38
-University: Universidade do Minho
-Interviewee(s): 
-Role: aluna do 1º ano da Licenciatura em Psicologia, é actualmente atleta do SCBraga
-Date: 17 de Março de 2006
+journal: UMdicas
+issue: Número 38
+university: Universidade do Minho
+interviewee: Filipe Duarte e Cláudia Pereira
+role: aluna do 1º ano da Licenciatura em Psicologia, é actualmente atleta do SCBraga
+date: 17 de Março de 2006
+interviewer: Nuno Gonçalves
 ---
 Filipe Duarte, 20 anos, aluno do 3º ano de Eng. Electrónica, é actualmente atleta do Clube
 Náutico de Prado, tendo já sido por diversas vezes campeão nacional de canoagem nas
@@ -20,16 +21,12 @@ que tem como vitória maior no seu já vasto palmarés, o titulo de Campeã Naci
 Coberta nos 1500m, está a um passo de ser convocada para ir representar Portugal no
 Mundial de Corta-Mato Curto a realizar no Japão em Abril. Vamos então agora conhecer um
 pouco mais desta atleta de alta competição, aluna da UMinho.
-
 Com que idade é que iniciaste a prática
 competitiva na Canoagem e onde?
 Iniciei a pratica competitiva da Canoagem aos 10
 anos no Clube Náutico de Prado.
-
-Com que idade é que iniciaste a prática
 competitiva do Atletismo e onde?
 Iniciei no S.C. Braga aos 13 anos
-
 Achas que a Canoagem ajudou no teu
 desenvolvimento enquanto individuo?
 Sim. Porque penso que o desporto tem um papel
@@ -64,7 +61,6 @@ universitária?
 Não posso responder a esta questão porque não
 participei ainda em qualquer competição
 universitária.
-
 O facto de seres atleta do Clube Náutico do
 Prado condicionou a tua escolha de
 Universidades quando concorreste? Porque?
@@ -118,9 +114,6 @@ os estudos pois
 quero concluir o
 curso quanto
 antes.
-
-Nuno Gonçalves
-
 Achas que Atletismo ajudou no teu
 desenvolvimento enquanto indivíduo?
 Sim, mas há sempre os prós e contras. Se por um
@@ -132,27 +125,18 @@ com essas culturas diferentes da nossa, por outro
 lado também me “roubou” bastante tempo de
 convivio com os meus amigos e familia.
 Qual foi o papel da tua familia no teu percurso
-enquanto atleta de alta competição?
 A minha familia esteve sempre do meu lado e
 apoiou-me em todos os momentos, embora por
 vezes seja dificil, pois os que me são mais próximos
 sentem a minha falta. O seu apoio é extremamente
 importante para mim.
-Quantas vezes treinas por semana, e quanto
-tempo?
 Todos os dias de manha e á noite, aos Domingos
 “só” um treino. Mais ou menos 1h40m por dia.
-A maneira como tu lidas com a pressão e a
 ansiedade antes das provas é algo que tu
-consegues trabalhar e treinar, ou simplesmente
-é algo com que apenas lidas na hora em que
 ouves o tiro de partida?
 Depende da competição, mas é difícil controlar e
 por vezes só quando ouço o tiro de partida é que a
 pressão desaparece.
-Qual é para ti a grande diferença entre a
-competição federada e a competição
-universitária?
 É muita a diferença, só para ter a ideia nos
 nacionais de Corta-Mato federado há mais de 50
 atletas e nos Universitários este ano eramos 9, só
@@ -166,37 +150,23 @@ treinar com ela tinha que estar quase sempre em
 Braga para os treinos e se fosse para outra
 Universidade perdia tempo nas viagens, tempo que
 me é escasso e precioso.
-Para muitos atletas de alta competição torna-se
-difícil conciliar os estudos com a prática
-desportiva. Como é que tu consegues gerir esta
-nem sempre fácil “relação” ?
 Eu não fujo á regra e tem sido muito difícil conciliar,
 temos que fazer opções e optar por uma em
 detrimento de outra.
-A UMinho iniciou em Portugal um programa
-
-pioneiro no que diz respeito ao apoio aos atletas
-de alta competição, o TUTORUM. O que pensas
-desta iniciativa e do programa em si?
 Já fazia falta em Portugal, ainda bem que começou
 na U Minho e estou a ser uma das privilegiadas.
 Espero que este programa continue, certamente ira
 ajudar muitos atletas a não serem “obrigados” a
 deixarem os cursos para conseguirem resultados
 desportivos.
-Em que áreas já recebeste apoio através do
-Tutorum?
 Até agora ainda não recebi nenhum, mas também
 neste primeiro semestre não foi necessário.
-
 Cláudia e o seu tutor, o Prof. Jorge Silvério, examinam
 atentamente um documento relativo ao TUTORUM na 1ª
 reunião do programa
-
-Os teus objectivos pessoais passam por uma
 carreira profissional no Atletismo ou os estudos
 vêm em primeiro lugar?
 Primeiro o atletismo, ate porque é uma carreira que
 não tem grande longevidade e temos que
 aproveitar. Mas o sonho é sem duvida acabar o
-curso!!!
+curso!!!curso!!!curso!!!curso!!!

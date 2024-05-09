@@ -1,10 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Número 40
-University: Universidade do Minho
-Interviewee(s): 
-Date: 21 de Abril de 2006
+journal: UMdicas
+issue: Número 40
+university: Universidade do Minho
+interviewee: Maria do Céu
+date: 21 de Abril de 2006
+interviewer: UMdicas
 ---
+
+Desporto
 UMdicas - Em que ano entraste para o Desporto
 Universitário, e como se deu essa entrada?
 Maria do Céu - Entrei em 2000 devido ao facto de
@@ -26,17 +29,10 @@ MC - Comecei a jogar Voleibol em 1994 no CART
 segundo ano de Júnior e três épocas de Sénior.
 Fomos Campeãs Nacionais da 2ª Divisão no
 segundo ano de Sénior e, consequentemente,
-
 UM
-
 21 de Abril de 2006
-
-Desporto
-
 dicas
-
 Ser mais forte!
-
 UMd - E para o CNU, como está a equipa e quais
 são as expectativas?
 LP - A equipa está motivada e confiante que este ano
@@ -44,14 +40,11 @@ vamos conseguir um bom resultado. As expectativas
 são vencer todos os jogos…
 UMd - Uma mensagem para o grupo…
 LP - A união faz a força, grande abraço para todos
-
 09
-
 individuais. Estamos, assim, a trabalhar para
 representar da melhor forma a AAUMinho, quer a
 nível de qualidade de jogo, quer a nível do fair play e
 da nossa postura fora de campo.
-UMd - Uma mensagem para o grupo…
 MG - Tenho muito orgulho em jogar com cada uma
 das atletas desta equipa, pois todas elas dão um
 contributo diferente e importante para o nosso
@@ -62,4 +55,4 @@ sempre a jogar com alegria. Penso que todas estas
 características fazem com que sejamos uma equipa
 forte em vários aspectos. Sei, por isso, que no
 próximo CNU temos boa-disposição e vontade de
-vencer garantidas!
+vencer garantidas!vencer garantidas!vencer garantidas!vencer garantidas!
