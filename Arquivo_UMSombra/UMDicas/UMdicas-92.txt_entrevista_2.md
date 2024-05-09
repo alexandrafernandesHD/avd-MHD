@@ -1,13 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 92 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Manuel Sá
-Topic: bar do CP3
-Role: responsável pelo bar do CP3
-Date: 30 de Maio de 2011
-Title: Bar do CP3: «as pessoas são sempre bem atendidas»
-Interviewer: Maria João Quintas
+journal: UMdicas
+issue: Edição nº 92 - Ano 6
+university: Universidade do Minho
+interviewee: Manuel Sá
+topic: bar do CP3
+role: responsável pelo bar do CP3
+date: 30 de Maio de 2011
+title: Bar do CP3: «as pessoas são sempre bem atendidas»
+interviewer: Maria João Quintas
 ---
 
 Bar do CP3: «as pessoas são sempre bem atendidas»
@@ -17,23 +17,18 @@ fala sobre os desafios inerentes à função que desempenha e do
 tipo de atendimento que se pode esperar dos funcionários do
 Departamento Alimentar. O responsável afirma que esta é uma função que
 “exige muita responsabilidade…é preciso saber lidar com as pessoas”.
-
 Maria João Quintas
 dicas@sas.uminho.pt
-
 Há quantos anos pertence ao
 Departamento Alimentar?
 Eu pertenço ao Departamento
 Alimentar desde 1981, portanto, há já
 30 anos.
-
 O que significa para si trabalhar no
-Departamento Alimentar?
 Eu sempre estive ligado
 Departamento Alimentar, é aqui que
 eu estou adaptado. Isto foi o que eu fiz
 praticamente toda a minha vida.
-
 Tem alguma formação específica na
 área da restauração?
 Eu tenho diversos cursos na área. Tirei
@@ -47,7 +42,6 @@ na área de Higiene e Segurança
 Alimentar, Gestão de unidades
 alimentares, Inglês, Trabalho de
 equipa, entre outras.
-
 Que funções desempenhou até ficar
 como responsável do Bar do CP3?
 Desempenhei diversas funções.
@@ -57,7 +51,6 @@ bar e, ainda, trabalhei no armazém
 como motorista. Por fim, voltei, então,
 a trabalhar nos bares, desta vez já
 como encarregado.
-
 Ser responsável do bar é para si um
 desafio?
 Sim, é um desafio, principalmente
@@ -67,7 +60,6 @@ preciso ser capaz de solucionar todos
 os problemas que possam surgir.
 Além disso é preciso saber lidar com
 as pessoas.
-
 É fácil coordenar uma unidade
 alimentar? Quais são as maiores
 dificuldades?
@@ -84,7 +76,6 @@ alimentares que encomendamos por
 dia, é preciso ser muito cuidadoso
 para que nada falte, mas também,
 para que nada fique a sobrar.
-
 Na sua opinião, os utentes das
 unidades alimentares são bem
 servidos em termos de qualidade
@@ -94,7 +85,6 @@ Em primeiro lugar as pessoas são
 sempre muito bem atendidas e, em
 segundo lugar, a qualidade dos
 alimentos é sempre muito controlada.
-
 Qual é o procedimento quando algum
 utente reclama do serviço?
 Em primeiro lugar procuramos ouvir o
@@ -107,7 +97,6 @@ Mesmo eu, como responsável, devo
 da r con heci mento ao s meus
 superiores se ocorrer algum
 problema.
-
 Como classifica o bar do CP3? Que
 tipo de alimentação pode fazer quem
 aqui se dirige?
@@ -123,7 +112,6 @@ lanche.
 Considero que, para a dimensão do
 bar, temos melhorado bastante no que
 diz respeito à variedade de produtos.
-
 Por quantos elementos é constituída
 a sua equipa?
 A minha equipa é constituída por mim
@@ -131,4 +119,4 @@ e mais três elementos, neste caso,
 três senhoras. Trabalhamos todos
 muito bem em conjunto, somos muito
 unidos. Eu considero a minha equipa
-muito boa.
+muito boa.muito boa.muito boa.muito boa.

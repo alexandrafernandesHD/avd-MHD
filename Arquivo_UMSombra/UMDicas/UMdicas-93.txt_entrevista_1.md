@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 93 - Ano 6
-University: Universidade do Minho
-Interviewee(s): 
-Topic: O Restaurante Panorâmico da UMinho
-Date: 01 de Julho de 2011
-Title: Restaurante Panorâmico da Universidade do Minho
-Interviewer: Ana Paula Magalhães
+journal: UMdicas
+issue: Edição nº 93 - Ano 6
+university: Universidade do Minho
+interviewee: Fernando Silva
+topic: O Restaurante Panorâmico da UMinho
+date: 01 de Julho de 2011
+title: Restaurante Panorâmico da Universidade do Minho
+interviewer: Ana Paula Magalhães
 ---
 
 Restaurante Panorâmico da Universidade do Minho
@@ -15,10 +15,8 @@ alimentares do Departamento Alimentar dos Serviços de Acção
 Social da UMinho (DA-SASUM). Um espaço com capacidade para
 200 lugares sentados, onde a qualidade do serviço, o atendimento e o
 espaço em si marcam a diferença.
-
 Ana Paula Magalhães
 dicas@sas.uminho.pt
-
 Dispondo de serviço à lista, omeletas,
 pizzas e menu vegetariano, à sexta-feira
 realiza ainda serviço buffet. O UMdicas
@@ -28,10 +26,8 @@ Manuel respectivamente, para saber
 alguns pormenores sobre este serviço,
 que prima pela qualidade das refeições
 e superioridade no atendimento.
-
 Fernando Silva, cozinheiro do
 restaurante Panorâmico
-
 Há quantos anos pertence ao
 Departamento Alimentar?
 Trabalho na UMinho desde a abertura
@@ -40,7 +36,6 @@ um trabalho que me satisfaz já que
 também foi uma opção minha: sempre
 quis trabalhar em restaurante e não em
 cantina. Gosto bastante de aqui estar!
-
 Tem alguma formação específica na
 área da restauração?
 Sim, fiz vários cursos na área da
@@ -54,7 +49,6 @@ segurança alimentar. Ultimamente
 temos apostado na formação no âmbito
 da HACCP, que é contínua e
 importantíssima.
-
 Ser cozinheiro deste Restaurante é
 para si um desafio?
 Sim, sem duvida que é um desafio,
@@ -71,7 +65,6 @@ espaço em si compensam. Aqui
 encontram pessoas bastante
 competentes a todos os níveis e pratos
 que, com certeza, os vão satisfazer.
-
 Quais são as maiores dificuldades que
 enfrenta no seu dia-a-dia?
 Penso que não temos dificuldades,
@@ -92,7 +85,6 @@ essencial porque a partir do momento
 em que entra no armazém o produto é
 registado e, assim, se houver algum
 problema é fácil detectarmos a fonte.
-
 Na sua opinião, os utentes das
 unidades alimentares são bem
 servidos em termos de qualidade
@@ -102,12 +94,10 @@ já referi, e a qualidade dos produtos nem
 pode ser discutida. Aqui só entram
 produtos de qualidade e para isso há um
 rigoroso controlo.
-
 Por quantos elementos é constituída a
 sua equipa?
 Somos quatro pessoas a trabalhar aqui,
 neste momento.
-
 Como classifica o Restaurante
 Panorâmico? Que tipo de alimentação
 pode fazer quem aqui se dirige?
@@ -119,7 +109,6 @@ escolha. À sexta-feira, dia em que se
 realiza o serviço buffet, temos ainda
 melhor serviço com uma dezena de
 pratos à disposição!
-
 Sexta-feira é, então, um bom dia para
 passar pelo Panorâmico?
 Todos os dias são bons, mas a sexta é
@@ -129,16 +118,11 @@ de buffet é óptimo, entre carnes,
 saladas variadas e peixe fresco,
 dispomos também de deliciosas
 sobremesas e frutas muito frescas.
-
 Manuel Cerqueira, chefe de sala do
 Restaurante Panorâmico
-
 Há quantos anos pertence ao DA?
 Entrei na UMinho há cerca de 16 anos. É
 um local onde gosto muito de trabalhar.
-
-Tem alguma formação específica na
-área da restauração?
 Tenho. Sempre trabalhei na área da
 restauração, desde os doze anos. Estive
 19 anos a trabalhar em Lisboa e passei
@@ -152,21 +136,15 @@ muito na formação. Ao longo destes
 anos tenho tirado vários cursos ao nível
 da higiene e segurança alimentar, curso
 de bar, etc.
-
 Acha importante essa formação
 contínua?
 Sim, porque se aprende sempre e é
 necessário fazer uma “reciclagem” e
 inovar nos procedimentos.
-
 Ser chefe de sala deste restaurante é
-para si um desafio?
 É, apesar de já estar habituado. Antes de
 vir para cá também já tinha experiência
 nesta função e isso facilitou.
-
-Quais são as maiores dificuldades que
-enfrenta no seu dia-a-dia?
 Aqui não temos dificuldades. Às vezes é
 um bocadinho frustrante, porque não
 sabemos como vai estar a sala. Há dias
@@ -174,27 +152,16 @@ com poucos clientes e outros com casa
 cheia. Mas quando isso acontece
 pedimos sempre reforços para darmos
 a melhor resposta a todos os clientes.
-
-Por quantos elementos é constituída a
-sua equipa?
 Somos quatro colaboradores.
-
-Como classifica o Restaurante
-Panorâmico? Que tipo de alimentação
-pode fazer quem aqui se dirige?
 Podem encontrar tudo o que desejam
 consumir, de carnes a peixe, tudo da
 melhor qualidade e com a maior
 frescura.
-
 Na sua opinião, os clientes das
 unidades alimentares são, então, bem
-servidos em termos de qualidade
-alimentar e serviço de atendimento?
 Não tenho dúvidas disso! As pessoas
 são muito bem servidas, quer nos
 produtos, quer no atendimento.
-
 Qual o procedimento quando algum
 cliente quer prestar alguma
 reclamação?
@@ -205,4 +172,4 @@ que dispomos.
 A verdade é que não tivemos, até ao
 momento, qualquer reclamação. Temos,
 isso sim, sugestões, mas mesmo assim
-são poucas.
+são poucas.são poucas.são poucas.são poucas.

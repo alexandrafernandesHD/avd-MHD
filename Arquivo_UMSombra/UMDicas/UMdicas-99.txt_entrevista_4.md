@@ -1,30 +1,28 @@
 ---
-Jornal: UMdicas
-Issue: Não encontrado
-University: Universidade do Minho
-Interviewee(s): Pedro Gomes
-Topic: Biologia-Geologia
-Role: diretor de curso
-Date: 02.FEV.12
-Title: Pedro Gomes - Diretor de curso
-Interviewer: ANA MARQUES
+journal: UMdicas
+issue: Edição 99 - Fevereiro 2012
+university: Universidade do Minho
+interviewee: Pedro Gomes
+topic: Biologia-Geologia
+role: diretor de curso
+date: 02.FEV.12
+title: Pedro Gomes - Diretor de curso
+interviewer: Ana Marques
 ---
 
-Licenciatura em Biologia-Geologia
 
+Licenciatura em Biologia-Geologia
 Pedro Gomes - Diretor de curso
 O UMdicas esteve à conversa com o diretor de curso, Pedro Gomes que assume o cargo como uma
 ligação entre o diretor de departamento e os alunos,
 incumbindo-lhe verificar o cumprimento dos objetivos estabelecidos no plano de curso e fazer a gestão
 e organização de todos os processos que dizem respeito aos alunos.
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
-
 Qual a sua formação e trajeto académico?
 Sou Licenciado em Biologia pela Universidade do
 Porto desde 1983. Ingressei na UMinho em 1984 e
 doutorei-me em 1998.
-
 O que o motivou a aceitar “comandar” este
 curso?
 Este não é um cargo de escolha, nomearam-me.
@@ -32,10 +30,8 @@ Este não é um cargo de escolha, nomearam-me.
 todos. Para nós é mais uma função enquanto docentes. Pessoalmente agrada-me esse papel pelo contacto privilegiado que nos dá com os alunos, embora
 esta função só nos traga mais trabalho, burocrático.
 Mas é com agrado que o faço.
-
 As experiencias anteriores têm-no ajudado
 no cumprimento da sua função de diretor de
-curso?
 Claro que sim. Já estou cá há muitos anos. Acompanhei o curso quase desde o seu início. Passámos
 pela implementação do processo de Bolonha, por
 todo um conjunto de reformas curriculares dos níveis de ensino pré-universitário e isso dá-nos uma
@@ -48,7 +44,6 @@ que pode ajudar os próprios alunos a escolher o seu
 rumo e decidir o querem fazer. Neste sentido toda
 a nossa experiência passada acaba por ser muito
 importante para se ser um bom diretor de curso.
-
 Quais são as maiores dificuldades no cumprimento da sua função?
 Como docentes/investigadores temos o nosso tempo muito sobrecarregado e isso é um problema sem
 alternativa. Mas o principal problema são os alunos.
@@ -74,7 +69,6 @@ que são inerentes à instituição, mas o nosso maior
 problema são mesmo os alunos. São pessoas com
 quem se lida muito bem, mas no que toca ao ritmo
 de trabalho ficam, regra geral, aquém do desejável.
-
 No seu entender porque é que isto acontece?
 Temos aqui vários problemas. Primeiro é uma licenciatura que ainda não encontrou o seu rumo. Dos
 cerca de 60 alunos que entraram, cerca de 10- 15
@@ -82,7 +76,7 @@ pretendem seguir a via de ensino, os restantes estão um bocadinho perdidos (a m
 não era o curso que queriam, acabando a licenciatura por ser uma licenciatura alternativa). A própria licenciatura quando foi reestruturada não assumiu
 verdadeiramente as saídas alternativas. Está uma
 reestruturação em curso que esperamos que resolva parte desses problemas, estando a tentar-se dar mais algum objetivo à BG para além do ensino. A
-BG sofre de um problema, tem duas áreas distintas:
+BG sofre de um problema, tem duas áreas distintas: 
 Biologia e Geologia. Isso significa que em relação
 à formação clássica de uma área ou de outra está
 em desvantagem. Pensar-se que um aluno da BG
@@ -98,7 +92,6 @@ a trabalhar comigo como estudantes de mestrado
 ou como bolseiros de investigação e não distingo
 qualitativamente o trabalho que fazem. Esperamos
 que com a reestruturação do curso se consiga melhorar a apetência do curso.
-
 No seu entender, porque é que um futuro universitário deve concorrer ao curso de Licenciatura em Biologia-Geologia?
 A BG da UMinho, tal como outras que também têm
 licenciatura mista, tem a formação ideal para o futuro professor. O mesmo peso de Biologia e de Geologia no 1º ciclo, com possibilidade de completar
@@ -114,7 +107,6 @@ curso para entrar, bem como na área Ambiental.
 Quem estiver a pensar numa saída no domínio do
 ambiente, a BG dá-lhe uma formação bi-disciplinar
 de base suficiente; no 2º ciclo especializará.
-
 Quais são na sua opinião os pontos fortes
 deste curso? E os pontos fracos?
 O ponto forte deste curso é a formação mista, para
@@ -136,7 +128,6 @@ difícil). Nas áreas onde regra geral encontramos um
 biólogo de formação, é um pouco mais complicado.
 Ou se é muito bom e se tem uma vontade de trabalho muito grande, conseguindo compensar a falta de
 conhecimentos que tem e entra num percurso de investigação, ou então vai ter muito mais dificuldades.
-
 Existem hoje em dia excesso de profissionais
 em determinadas áreas. O que podem esperar os alunos da Licenciatura em Biologia-Geologia quanto ao mercado de trabalho?
 Quando falo com os meus alunos nas primeiras aulas, digo-lhes sempre que eles têm que mostrar o
@@ -161,7 +152,6 @@ no Ensino também. Nas áreas mais tradicionais da
 investigação em Biologia também há, mas o aluno
 tem de ser mesmo muito bom e complementar os
 seus conhecimentos com os ciclos de estudo seguintes (mestrado e doutoramento).
-
 Acompanhou o período das reformas de Bolonha, marcado por uma profunda alteração do
 modelo de ensino. Como o avalia?
 Para a BG foi bom. Era uma licenciatura moribunda,
@@ -173,7 +163,6 @@ processo de Bolonha ao retirar a componente pedagógica do 1º ciclo abriu um le
 repente temos cerca de 60 alunos por ano, com as
 médias de entrada a subir. Para a BG, o processo de
 Bolonha foi a salvação.
-
 Quais são as suas prioridades para o curso
 nos próximos tempos?
 A grande prioridade que tivemos foi a reestruturação que se conseguiu fazer este ano, aproveitando
@@ -186,7 +175,6 @@ desta licenciatura, saber o que se pretende desta
 e transmitir isso para o exterior. Pretende-se que a
 licenciatura deixe de ser uma licenciatura alternativa
 e passe a ser uma primeira escolha.
-
 Quais são para si os principais desafios?
 O principal desafio é fazer com que a licenciatura
 passe a ser uma primeira escolha para quem não
@@ -202,7 +190,6 @@ A pior coisa que um docente lhes pode fazer não
 é reprová-los: é dar-lhe o 10, só para não ter que
 perder mais tempo com ele(a). E o aluno tem que se
 convencer disso...
-
 As escolhas de …
 Pedro Gomes
 Melhor momento de quando estudava na
@@ -212,7 +199,7 @@ a Dream; Labirinto do Fauno; Tudo o que é feito pelos irmãoes Cohen; Ponte sob
 Ondine…
 Melhor música? Difícil de escolher…
 Clube do coração? Nenhum. Não ligo a isso.
-Livro que recomenda? Para os meus alunos:
+Livro que recomenda? Para os meus alunos: 
 História de quase tudo de Bill Bryson.
 Viagem? Canadá
 Restaurante? Nenhum em especial
@@ -220,4 +207,4 @@ Comida preferida? De tudo um pouco. Mas
 um bom peixe de mar, fresco e grelhado é difícil
 de recusar.
 Sonho…? Muitos
-Desporto preferido? Mergulho; Viet Vo Dao.
+Desporto preferido? Mergulho; Viet Vo Dao.Desporto preferido? Mergulho; Viet Vo Dao.Desporto preferido? Mergulho; Viet Vo Dao.Desporto preferido? Mergulho; Viet Vo Dao.

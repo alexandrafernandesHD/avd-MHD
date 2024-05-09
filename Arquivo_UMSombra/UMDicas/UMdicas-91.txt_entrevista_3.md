@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 91 - Ano 6
-University: Universidade do Minho
-Interviewee(s): André Pinheiro
-Date: 28 de Abril de 2011
-Title: Entrevista a André Pinheiro, Vice-Presidente da AAUM
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 91 - Ano 6
+university: Universidade do Minho
+interviewee: André Pinheiro
+date: 28 de Abril de 2011
+title: Entrevista a André Pinheiro, Vice-Presidente da AAUM
+interviewer: Nuno Gonçalves
 ---
 
 Entrevista a André Pinheiro, Vice-Presidente da AAUM
@@ -15,10 +15,8 @@ Desportivo da AAUM. Em conversa com o UMDicas o responsável
 por um dos departamentos mais importantes da AAUM revelou-nos como se
 deu a sua entrada no meio associativo, quais as suas responsabilidades e
 objectivos, bem como os grandes eventos previstos para 2012.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Como é que se deu a tua entrada no
 associativismo, mais propriamente
 na AAUM?
@@ -31,7 +29,6 @@ Rodrigues para integrar a direcção de
 2010, assumindo assim as
 responsabilidades de Director do
 Departamento Desportivo de Braga.
-
 No anterior mandato foste Director
 do Depar tamento Despor tivo,
 enquanto neste novo mandato és
@@ -43,7 +40,6 @@ Departamento, cabe-me a mim
 coordenar o mesmo e
 responsabilizar-me por este junto da
 comunidade académica.
-
 Tem-se falado muito de Bolonha e
 das consequências disso nos ritmos
 de vida/estudo dos estudantes.
@@ -66,7 +62,6 @@ mesma, e em alguns casos acabam
 mesmo por ter de optar entre as aulas
 e a participação nas competições em
 que a AAUM está envolvida.
-
 Quais são os grandes objectivos do
 teu departamento para este ano
 lectivo?
@@ -99,7 +94,6 @@ Também é nosso objectivo alcançar a
 1ºDivisão do Campeonato Nacional de
 Futsal através da nossa equipa
 federada de futsal AAUM/S.C.BRAGA.
-
 Em termos de medalheiro nacional, o
 ano de 2010 foi um bom ano?
 O ano de 2010 foi um ano de
@@ -109,16 +103,14 @@ Campeonatos Nacionais
 Universitários (CNU's) e 3 medalhas
 nos Torneios Nacionais Universitários
 (TNU's). Tendo estas a seguinte
-distribuição:
+distribuição: 
 - CNU's: 12 de ouro, 15 de prata e 18 de
 bronze
 - TNU's: 1 de ouro, 1 de prata e 1 de
-bronze
 Tudo isto resultou de uma excelente
 parceria entre a AAUM e o DDC dos
 SASUM, que tem primado por um apoio
 contínuo a todos os atletas.
-
 Que balanço fazes das Fases Finais
 dos CNUs de 2011?
 Faço um balanço muito positivo! Nas
@@ -137,7 +129,6 @@ conquistar mais medalhas. Só então
 poderemos fazer um balanço geral e
 ver o lugar que vamos ocupar no
 ranking da FADU.
-
 E em termos internacionais?
 A AAUM conseguiu importantes
 classificações nas variadas
@@ -149,7 +140,6 @@ Campeões Europeus e no Taekwondo
 obtivemos 1 medalha de ouro, 2
 medalhas de prata e 3 medalhas de
 bronze.
-
 Como explicas o continuo sucesso
 de modalidades colectivas como o
 Voleibol Feminino, Andebol
@@ -178,7 +168,6 @@ equ i pa no pr i mei ro l uga r do
 Campeonato Nacional de Futsal da 2ª
 Divisão, com 6 pontos em relação ao
 segundo classificado.
-
 O Taekwondo é neste momento a
 modalidade de ponta da academia?
 Não sendo a única modalidade de
@@ -195,7 +184,6 @@ modalidades que se têm destacado
 ta nto a n í vel naciona l como
 internacional, o que prova a
 excelência dosa atletas da AAUM.
-
 A AAUMinho organizou pela última
 vez as Fases Finais dos CNUs
 (Campeonatos Nacionais
@@ -205,7 +193,6 @@ Finais?
 Sem poder referir datas, posso apenas
 adiantar que a AAUM está a ponderar
 efectuar uma candidatura para breve.
-
 Em 2012 a AAUMinho vai organizar os
 Campeonatos do Mundo de Futsal e
 Xadrez Universitários. Como surgiu a
@@ -221,7 +208,6 @@ participação da AAUM e da UM na
 agenda das Capitais Europeias da
 Juventude e da Cultura, em Braga e
 Guimarães, respectivamente.
-
 Como estão os preparativos para
 estes dois grandes eventos?
 Em parceria com o UM e a FADU, a
@@ -232,13 +218,11 @@ delineados e que demonstre uma vez
 mais a qualidade dos eventos
 acolhidos e organizados pela AAUM e
 UM.
-
 Normalmente o ciclo organizativo da
 AAUMinho tem sido Europeu e de
 seguida Mundial. Vamos ter algum
 Europeu em 2014?
 Ainda é cedo para falar sobre isso.
-
 Este ano é ano de Universiadas.
 Quantos atletas da AAUMinho estão
 na calha para a participação para
@@ -248,7 +232,6 @@ teremos nas “Olimpíadas
 Universitárias” entre 4 e 6 atletas da
 AAUM nas modalidades de Taekwondo
 e Atletismo.
-
 Em termos recreativos, a Gata na
 Praia é já um "produto" de referência
 da AAUMinho. Que balanço fazes da
@@ -276,7 +259,6 @@ reconhecimento pelo empenho
 demostrado, o que se traduziu em
 mais um Gata na Praia para mais tarde
 recordar!
-
 Quanto à Gata no Monte, a AAUM
 ainda pensa reali zar esta
 actividade?
@@ -285,7 +267,6 @@ contemplada no plano de actividades
 do Departamento Desportivo da AAUM
 e que se irá realizar no decorrer deste
 ano civil.
-
 Por fim, queres deixar uma
 mensagem aos milhares de
 praticantes despor ti vos da
@@ -308,4 +289,4 @@ desportiva, não só no dia-a-dia, mas
 também, na participação em todas as
 actividades da AAUM, continuando
 assim a mostrar que somos a melhor
-academia do país.
+academia do país.academia do país.academia do país.academia do país.

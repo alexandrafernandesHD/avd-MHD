@@ -1,12 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 93 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Cláudia Viana
-Date: 01 de Julho de 2011
-Title: Entrevista com Cláudia Viana, Pró-reitora Jurídico-institucional
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 93 - Ano 6
+university: Universidade do Minho
+interviewee: Cláudia Viana
+date: 01 de Julho de 2011
+title: Entrevista com Cláudia Viana, Pró-reitora Jurídico-institucional
+interviewer: Ana Marques
 ---
+
 
 Entrevista com Cláudia Viana, Pró-reitora Jurídico-institucional
 Licenciada em Direito (Universidade de Coimbra, 1988), Mestre
@@ -15,10 +16,8 @@ Doutora em Direito (Universidade da Corunha, 2004). Entre
 Outubro de 2006 e Novembro de 2007, foi Directora da Escola Superior de
 Gestão e membro da Comissão Instaladora do Instituto Politécnico do
 Cávado e do Ave.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Professora colaboradora do
 Mestrado em Direito das
 Autarquias Locais da Escola de
@@ -31,11 +30,10 @@ Ao longo da sua carreira tem
 desempenhado vários cargos e
 funções, actualmente faz parte da
 equipa reitoral.
-
 É Pró-Reitora para a área
 Jurídico-institucional. Qual é a
 essência desta pasta?
-Tarefas diversas, nomeadamente:
+Tarefas diversas, nomeadamente: 
 assessorar o Reitor e colaborar na
 tomada de decisões pela equipa
 reitoral; resolver as questões e
@@ -47,7 +45,6 @@ a Assessoria Jurídica;
 acompanhar os processos
 judiciais e definir as estratégias
 correspondentes.
-
 Como está organizada e quem
 opera na área jurídica na
 Universidade, como funciona?
@@ -123,7 +120,6 @@ não docentes e estudantes que
 entendam que têm um problema
 ou questão que deve ser objecto
 de enquadramento jurídico.
-
 Na sua opinião a existência de
 uma Pró-reitora para a área
 Jurídico-institucional numa
@@ -162,7 +158,6 @@ desejável que a área jurídica actue
 com discrição. Será um bom sinal
 de que está a cumprir
 adequadamente a sua função.
-
 A Universidade tem sido sujeita
 nos últimos tempos a várias
 transformações, de estatutos,
@@ -194,7 +189,6 @@ Código dos Contratos Públicos,
 são várias as questões a resolver,
 incluindo a alteração de práticas e
 procedimentos administrativos.
-
 Quais os principais
 procedimentos que têm sido
 tomados com vista à gestão
@@ -202,7 +196,6 @@ desconcentrada?
 A gestão desconcentrada tem de
 ser feita tendo em conta o que está
 definido nos estatutos da
-Universidade.
 Dentro deste enquadramento
 estatutário, e do preconizado no
 Programa de Acção da
@@ -223,7 +216,6 @@ condicionamentos legais, em
 especial os resultantes das leis do
 Orçamento de Estado 2010 e
 2011.
-
 Foi aprovado pelo Conselho Geral
 a alteração ao Regime Jurídico da
 UMinho, passando assim a
@@ -232,7 +224,6 @@ direito privado. Quais são agora
 os próximos passos?
 O passo que se segue consiste no
 processo negocial com o Governo.
-
 Para quando uma decisão final,
 ou seja, quando é que a UMinho
 será efectivamente Fundação?
@@ -241,7 +232,6 @@ Cada coisa a seu tempo. Primeiro,
 temos de realizar o processo
 negocial com o Governo e só
 depois será tomada a decisão.
-
 Na sua opinião este é um passo
 benéfico e importante para a
 Academia? Quais são os
@@ -262,7 +252,6 @@ constitucional. E esta autonomia
 significa – tem de significar –
 mais eficiência e eficácia na
 prossecução da missão da
-Universidade.
 A eficiência e a eficácia não são
 apenas princípios de boa gestão.
 São imperativos constitucionais,
@@ -329,7 +318,6 @@ corremos o risco de o processo se
 arrastar nos Ministérios.
 Diferente será se a Universidade
 for fundação pública.
-
 Que novos regulamentos e
 novos enquadramentos estarão
 em discussão nos próximos
@@ -346,10 +334,8 @@ para permitir processos de
 votação por meios electrónicos,
 dada a quantidade de actos
 eleitorais que ocorrem na
-Universidade.
 Se a Universidade passar a
 função pública, serão
-
 necessários pequenos
 ajustamentos nos estatutos da
 universidade enquanto
@@ -357,7 +343,6 @@ estabelecimento de ensino.
 Tudo o mais será decidido, em
 devido tempo, pelos órgãos
 competentes.
-
 Como encara a passagem da
 Universidade a fundação?
 Como um desafio. A Universidade
@@ -365,7 +350,6 @@ terá mais autonomia na tomada
 de decisões mas também mais
 responsabilidade. E isso exige
 necessariamente mais de todos.
-
 A UMinho foi a primeira
 Universidade a nível nacional a
 proceder à anulação de uma tese
@@ -392,7 +376,6 @@ ensino e investigação têm todas
 as condições para prevenir ou, se
 necessário, resolver este tipo de
 situações.
-
 Uma Instituição com a dimensão
 da Universidade do Minho deve
 ter os seus problemas de âmbito
@@ -417,7 +400,6 @@ inúmeras e diversas questões
 que têm de ser acompanhadas,
 antes de serem tomadas as
 decisões.
-
 Funcionários Docentes, Não
 Docentes e alunos, qual destes
 corpos lhe dá mais trabalho?
@@ -466,4 +448,4 @@ sucedeu, por exemplo, com as
 providências cautelares relativas
 às reduções remuneratórias
 determinadas pela Lei do
-Orçamento de Estado.
+Orçamento de Estado.Orçamento de Estado.Orçamento de Estado.Orçamento de Estado.

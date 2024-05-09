@@ -1,12 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição 95 - Outubro 2011
-University: Universidade do Minho
-Interviewee(s): Prof. Dr. António M. Cunha
-Role: Reitor da Universidade do Minho
-Date: 04.OUT.11
-Interviewer: ANA MARQUES
+journal: UMdicas
+issue: Edição 95 - Outubro 2011
+university: Universidade do Minho
+interviewee: Prof. Dr. António M. Cunha
+role: Reitor da Universidade do Minho
+date: 04.OUT.11
+interviewer: Ana Marques
 ---
+
 
 Reitor da Universidade do Minho em grande entrevista
 “O ano letivo 2010/11 foi de crescimento e de afirmação para a UMinho”
@@ -14,10 +15,8 @@ O UMdicas esteve à conversa com o Reitor da Universidade do Minho, Prof. Dr. An
 para fazer um balanço do ano transacto, e sabermos os seus sentimentos, convicções e pontos de
 vista sobre alguns temas que afectam o ensino 
 superior em geral e a Academia Minhota em particular.
-
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
-
 Que balanço faz do ano transacto. Quais os
 maiores problemas com que se viu deparado?
 O ano letivo 2010/11 foi de crescimento e de afirmação para a UMinho, num contexto de crescentes dificuldades da envolvente sócio-económica da
@@ -43,7 +42,6 @@ Estas dificuldades de gestão do presente exigem
 um esforço adicional às diferentes estruturas dirigentes da Universidade, limitando, ou mesmo
 inibindo, o planeamento estratégico dos diferentes
 níveis da Universidade.
-
 Quais as expectativas para o Novo Ano letivo?
 O agravamento das dificuldades na envolvente 
 sócio-económico e no enquadramento relativo 
@@ -59,14 +57,12 @@ estudantes e funcionários de reagirem a este contexto adverso que afeta toda a 
 ainda maior mobilização de toda a comunidade 
 académica. A Instituição Universitária tem de ser 
 proactiva e inspiradora na conjuntura muito particular que o país enfrenta.
-
 “Acredito também na 
 capacidade de professores, 
 estudantes e funcionários 
 de reagirem a este contexto 
 adverso que afeta toda a 
 sociedade portuguesa”
-
 Quais são os novos projectos ou iniciativas 
 mais importantes a implementar no novo ano letivo?
 A UMinho continuará a implementar o seu Programa de Ação para Quadriénio 2009-13 e os vetores estratégicos nele enunciados.
@@ -90,7 +86,6 @@ de estudo para os estudantes,
 nomeadamente fora dos períodos normais de funcionamento. 
 Estão também previstas intervenções ao nível dos 
 arranjos exteriores em Gualtar e Azurém que melhoram significativamente a qualidade de vida nos campi, nomeadamente ao nível da mobilidade
-
 Quais as apostas mais importantes para o 
 futuro (até final da sua tutela)?
 As apostas são as previstas no Plano de Ação 
@@ -98,7 +93,6 @@ As apostas são as previstas no Plano de Ação
 e a utilização do conhecimento gerado internamente como fator diferenciador da oferta formativa e da interação com a sociedade; e o crescimento do número de estudantes, nomeadamente na pós-graduação e na formação de ativos.
 Estas duas dimensões centrais da missão da UMinho serão aprofundadas num quadro de crescente internacionalização e acompanhadas por importantes mudanças ao nível do aumento da eficiência dos serviços de suporte.
 A UMinho continuará a apostar fortemente na interação com a sociedade, em diferentes contextos geográficos, nos domínios tecnológicos, económicos, ambientais, sociais e culturais.
-
 A falta de financiamento continua a ser o
 principal entrave ao desenvolvimento do ensino superior?
 O financiamento é sempre muito importante para
@@ -118,7 +112,6 @@ projetos, os nossos sistemas de ensino e de investigação perderão atratividad
 contexto internacional.
 Estamos convictos e empenhados na procura de
 soluções alternativas de financiamento. No entanto, o atual contexto económico é igualmente adverso e limitador desse esforço.
-
 Cada vez se pede mais às Universidades,
 cada vez se pede mais às famílias e menos
 ao Estado. O que nos tem a dizer sobre esta
@@ -133,7 +126,6 @@ Estamos totalmente disponíveis para resolver
 equações difíceis. No entanto, não conseguiremos
 resolver equações impossíveis. Portugal perderá
 muito se perder a qualidade das suas Universidades.
-
 Na sua opinião, estamos a perder terreno
 comparativamente a outros países da Europa e do mundo, porque não temos acesso ao
 mesmo tipo de recursos que os outros têm
@@ -146,7 +138,6 @@ consolidação da nossa investigação no contexto
 internacional. Esse momentum conseguirá acomodar um período curto de menor investimento no setor. No entanto, e tendo em conta as apostas
 que outros países continuam a fazer no ensino
 superior, poderemos ser confrontados com um recuo no nosso posicionamento internacional neste domínio.
-
 No seu entender a política de financiamento
 do ensino superior deveria se revista?
 Esta questão coloca-se a dois níveis. Em termos
@@ -160,7 +151,6 @@ garantir uma maior transparência dessa distribuição, clarificar os respetivos
 institucional e, por exemplo, criar incentivos para
 as Universidades encontrarem fontes alternativas
 de receita.
-
 A UMinho participa em várias redes universitárias internacionais (ex: Grupo Compostela). Quais os objectivos e vantagens da
 participação nestas redes?
 As vantagens são diversas e alinhadas com o objetivo estratégico de reforço da internacionalização das atividades de ensino e de investigação.
@@ -169,21 +159,17 @@ estrangeiros e para a mobilidade dos nossos corpos discente
 e docente. É também dentro destas redes que, muitas vezes, 
 se geram as parcerias para candidaturas ganhadoras a projetos 
 internacionais, nomeadamente no âmbito de programas europeus.
-
-
 Qual tem sido o relacionamento entre a UMinho e o Laboratório Ibérico de Nanotecnologia? Quais os projectos mais importantes 
 que estão a ser desenvolvidos em parceria?
 O relacionamento é bom e, passada a fase de instalação do Instituto, deverá tornar-se mais efetivo.
 Já temos vários projetos de investigação em funcionamento, com partilha de uso de instalações e equipamentos. Estamos a preparar projetos de 
 ensino conjuntos. Brevemente, contrataremos professores da UMinho que também terão o estatuto de investigadores do INL.
 No entanto, e como é característico da cooperação inter-institucional, são processos em construção e que poderão ser, sempre, aprofundados.
-
 O passado ano lectivo foi “rico” em confusões no que toca à atribuição das bolsas 
 de estudo. O que podem esperar os alunos 
 para o ano que agora se inicia, uma vez que 
 a UMinho é a Academia com mais bolseiros 
 daí a questão ser ainda mais preocupante? 
-
 É uma área muito sensível e muito importante para
 a Universidade do Minho, uma vez que temos um
 grande número de estudantes bolseiros. O novo
@@ -193,27 +179,23 @@ da sua gestão administrativa, que passará a ser mais centralizada. Gostaria qu
 alterações não se traduzissem em atrasos para os estudantes, nomeadamente para os 
 da UMinho, que estão habituados a uma resposta 
 muito célere dos nossos serviços.
-
 A oferta formativa em horário pós-laboral e 
 para maiores de 23 anos são formas de revitalizar, de trazer novos públicos ao ensino 
 superior?
 onsidero esta oferta muito importante, nomeadamente na nossa Região. É objetivo da Universidade dar a possibilidade a todos aqueles que, quando 
 jovens, não quiserem ou não puderam ter educação superior, e pretendem agora reverter essa situação. A Universidade, quando aposta em oferta formativa com estas características, está a prestar um serviço educativo de indiscutível relevância, 
 com impacto esperado no tecido social e económico.
-
 Qual tem sido a receptividade destes públicos às ofertas da UMinho?
 Tem sido boa, podendo ser considerada muito boa,
 como pode ser comprovado pelo facto de termos
 ultrapassado, no conjunto dos concursos, as vagas
 inicialmente disponibilizadas. A procura tem sido
 sobretudo relevante nos domínios das ciências empresariais, das ciências sociais e humanas e do direito.
-
 Estas têm sido formas eficazes de rentabilização dos espaços e serviços da Academia?
 Sim, embora o objetivo principal não seja esse. O
 nosso objetivo, expressamente assumido, é o de
 contribuirmos para o desejável aumento dos níveis
 educacionais da população portuguesa.
-
 Face aos cortes orçamentais do Estado,
 quais as medidas (de poupança) previstas
 pela UM?
@@ -230,14 +212,12 @@ enquadramento legislativo neste domínio.
 Poderemos ser confrontados com a necessidade
 de descontinuar alguns projetos ou os horários de
 funcionamento de diversos serviços da Universidade
-
 O grande desafio é conseguirmos uma redução de
 custos integrada com os objetivos estratégicos da
 Universidade, evitando decisões de carácter generalista e descontextualizadas da nossa realidade, muitas vezes resultantes de quadros legislativos ou
 outras imposições exteriores.
 Será um processo muito complexo e difícil, no qual
 todas as estruturas da Universidade serão chamadas (estão a sê-lo já, aliás), desde logo as unidades orgânicas de ensino e investigação.
-
 Guimarães será capital europeia da cultura
 e Braga capital europeia da juventude. Qual
 a participação que a UMinho está a ter e
@@ -251,18 +231,15 @@ Fundação Bracara Augusta.
 No entanto, a participação é corporizada no envolvimento efetivo 
 de diversas estruturas da Universidade, dos seus docentes e investigadores e respectivas unidades e subunidades, bem como de 
 estudantes e da sua associação académica em muitos das iniciativas em preparação para ambos os eventos.
-
 O desporto é uma aposta ganha da UMinho?
 O desporto é algo muito importante na vida académica da UMinho, com resultados muito gratificantes a diversos níveis, nomeadamente: no número 
 global de praticantes (estudantes, professores, investigadores e funcionários), na bem sucedida articulação entre a alta competição e o desempenho 
 académico; nos prémios nacionais e internacionais 
 conseguidos, num vasto grupo de modalidades; e
 na divulgação nacional e internacional do nome da 
-Universidade.
 Importa referir que a prática desportiva é muito 
 importante na educação dos nossos estudantes, 
 percecionando a importância do treino e da perseverança, do trabalho em equipa e da capacidade de nos superarmos a nós próprios.
-
 A reitoria tem feito uma grande aposta na 
 área da comunicação. No vosso entender a 
 Academia tem visto o retorno deste investimento? 
@@ -277,20 +254,17 @@ de variados setores produtivos,
 bem como diferentes grupos da 
 sociedade.
 Parece-me evidente que esse esforço tem sido bem sucedido.
-
 Os encontros UM são para continuar no 
 próximo ano? Com os mesmos ou noutros 
 moldes? 
 Sim, em moldes semelhantes, discutindo temas 
 importantes da atualidade, combinando a abordagem científica própria de uma Universidade com as visões de opion makers da sociedade. Os resultados têm sido positivos e a adesão da comunidade académica e da sociedade tem sido 
 muito boa.
-
 Estava previsto o lançamento do projecto
 da sede da AAUM para o ano transacto. Já
 houve desenvolvimentos? Em que situação
 se encontra o projecto?
 Estamos a trabalhar nesse processo, que é complexo e envolve negociações com diversos agentes públicos e privados.
-
 Com a aprovação pelo Conselho Geral da
 passagem da UMinho a Fundação, a questão está agora em discussão com a tutela.
 Em que situação estamos, quais o desenvolvimentos até ao momento?
@@ -300,7 +274,6 @@ fundacionais públicas e privadas.
 Importa referir que a consequência da decisão de
 Maio do Conselho Geral será o início de uma negociação com o Governo. Por isso, é igualmente
 prematuro o anunciar o resultado desse processo.
-
 Na sua opinião, qual o melhor cartão de visita da UMinho?
 O melhor cartão de visita de uma Universidade
 deve ser a qualidade da investigação que nela é
@@ -309,4 +282,4 @@ criatividade e pela sua capacidade empreendedora, alicerçada em sólidos princ�
 Queremos que assim seja. Queremos que todos
 os nossos estudantes tenham orgulho em pertencerem a esta Universidade e que, nas suas vidas
 profissionais considerem a Universidade como um
-parceiro preferencial do seu desenvolvimento pessoal e profissional.
+parceiro preferencial do seu desenvolvimento pessoal e profissional.parceiro preferencial do seu desenvolvimento pessoal e profissional.parceiro preferencial do seu desenvolvimento pessoal e profissional.parceiro preferencial do seu desenvolvimento pessoal e profissional.

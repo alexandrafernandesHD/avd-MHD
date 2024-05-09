@@ -1,30 +1,28 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 92 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Vasco Teixeira
-Topic: Vasco Teixeira
-Role: Pró-reitor para a Investigação
-Date: 30 de Maio de 2011
-Title: Entrevista com Vasco Teixeira, Pró-reitor para a Investigação
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 92 - Ano 6
+university: Universidade do Minho
+interviewee: Vasco Teixeira
+topic: Vasco Teixeira
+role: Pró-reitor para a Investigação
+date: 30 de Maio de 2011
+title: Entrevista com Vasco Teixeira, Pró-reitor para a Investigação
+interviewer: Ana Marques
 ---
+
 
 Entrevista com Vasco Teixeira, Pró-reitor para a Investigação
 Pró-reitor para a Investigação, Vasco Teixeira iniciou a sua
 carreira de docente e investigador na Universidade do Minho
 (UMinho) em 1989, sendo Professor Associado no Departamento
 de Física da Escola de Ciências desde 2002.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Licenciou-se em Ensino de Física e
 Química, na UMinho em 1989.
 Doutorou-se em 1997 em Ciências
 na UMinho. Actualmente faz parte
 da equipa reitoral.
-
 É Pró-Reitor para a área da
 Investigação. Qual é a essência
 desta pasta?
@@ -61,7 +59,6 @@ aprofundar a colaboração com o
 INL com base na partilha de
 recursos humanos e de
 equipamentos.
-
 Quais são os principais objectivos
 do pelouro que lidera até 2013,
 final deste mandato?
@@ -89,7 +86,6 @@ pós-graduação no espaço europeu,
 apoio a candidaturas a projectos de
 I&D e a promoção de projectos
 multidisciplinares mobilizadores.
-
 Na sua opinião pessoal como
 classifica a investigação
 científica da Universidade do
@@ -131,7 +127,6 @@ traduzem-se num registo
 considerável de patentes e na
 criação de empresas de base
 tecnológica.
-
 Como perspectiva o seu futuro?
 Quais os desafios da Investigação
 no futuro?
@@ -157,7 +152,6 @@ internacional. Nesse sentido e no
 valorização do conhecimento, a
 reitoria continuará a incentivar a
 constituição de empresas Spinoffs.
-
 Quantos centros de investigação
 existem na UMinho e como estão
 classificados?
@@ -174,7 +168,6 @@ tendo em conta o número de
 investigadores doutorados da
 UMinho, nos coloca numa posição
 de destaque a nível nacional.
-
 Existe alguma parceria com o INL
 dado o posicionamento
 geográfico privilegiado da
@@ -219,7 +212,6 @@ conjunta de projectos de alunos do
 2º e 3º ciclos; Promoção de
 actividade económica nas áreas da
 nanotecnologia.
-
 A área das nanotecnologias é uma
 aposta estratégica da UMinho?
 Porquê?
@@ -245,7 +237,6 @@ nacionais e europeus aprovados
 nos últimos anos, número de teses
 de mestrado e de doutoramento
 nestas áreas.
-A área das nanotecnologias é uma
 das apostas estratégicas desta
 Reitoria e em particular do pelouro
 que coordeno. A nanotecnologia
@@ -283,7 +274,6 @@ nas áreas da Energia, Saúde,
 Novos Materiais e Produtos,
 Processos Industriais,
 Biotecnologia e TICE.
-
 Como está a ser potenciada pela
 UMinho esta área?
 Como já referi a actual Reitoria
@@ -328,7 +318,6 @@ m icro e na notec nolog ias
 existentes na UM e que será
 apresentado publicamente em
 Junho.
-
 Uma das acções do programa
 para o quadriénio é intensificar a
 mobilidade de investigadores e
@@ -349,7 +338,6 @@ universidades e CI e de projectos
 europeus do 7PQ.
 A UMinho tem um número muito
 considerável de investigadores e
-de estudantes de pós-graduação
 que participam em projectos e
 programas de mobilidade no EEI.
 Temos acordos bilaterais
@@ -366,7 +354,6 @@ pr ojecto s de i nve s tigaç ã o
 conjuntos através do
 financiamento da mobilidade de
 investigadores.
-
 Tem havido um esforço da parte
 da Reitoria no apoio aos projectos
 de investigação. Quais têm sido
@@ -398,7 +385,6 @@ de C&T das unidades de
 investigação envolvidos na
 promoção, acompanhamento e
 avaliação de projectos de I&D;
-
 Como está a ser consumado o
 objectivo de encontrar parcerias
 institucionais e seleccionar
@@ -414,7 +400,6 @@ exemplos, onde novos projectos
 de investigação se concretizam
 assim como cursos de pós-
 graduação na área da
-nanotecnologia.
 A UMinho está envolvida num
 conjunto de projectos europeus
 (no 6PQ teve 50 projectos
@@ -432,4 +417,4 @@ outras. A reitoria, em particular e
 no âmbito do Fórum do CI,
 procurará definir futuras parcerias
 estratégicas em outras áreas do
-conhecimento.
+conhecimento.conhecimento.conhecimento.conhecimento.

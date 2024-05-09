@@ -1,23 +1,21 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 94 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Carlos Silva
-Date: 31 de Julho de 2011
-Title: Entrevista com o Eng. Carlos Silva, Administrador dos SASUM
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 94 - Ano 6
+university: Universidade do Minho
+interviewee: Carlos Silva
+date: 31 de Julho de 2011
+title: Entrevista com o Eng. Carlos Silva, Administrador dos SASUM
+interviewer: Ana Marques
 ---
 
-Entrevista com o Eng. Carlos Silva, Administrador dos SASUM
 
+Entrevista com o Eng. Carlos Silva, Administrador dos SASUM
 O UMDicas esteve à conversa com Carlos Silva, Administrador dos
 SASUM para saber mais pormenores sobre Planeamento
 Estratégico dos SASUM segundo o qual tem em vista a qualidade,
 modernização administrativa e sustentabilidade Financeira.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Unidades Alimentares,
 Complexos Desportivos, Bares,
 Cantinas, Residências, nos
@@ -48,7 +46,6 @@ excelente equipa, bastante
 qualificada e motivada para
 cumprir a nossa missão e os
 nossos objectivos.
-
 Quais as maiores dificuldades?
 As maiores dificuldades para os
 SASUM são aquelas que não
@@ -58,7 +55,6 @@ as sucessivas alterações
 regulamentares e legislativas que
 têm impacto na nossa actividade
 e que nem sempre fazem sentido.
-
 Por outro lado temos um
 orçamento de
 funcionamento
@@ -79,7 +75,6 @@ também factores que têm criado
 algumas dificuldades em termos
 de planeamento e concretização
 de alguns projectos.
-
 Os SASUM têm por missão
 “Proporcionar aos estudantes as
 melhores condições de
@@ -87,7 +82,6 @@ frequência do ensino superior e
 de integração e vivência social e
 académica”. De que forma esta
 tem sido cumprida?
-
 Procuramos diariamente e ao
 longo do ano criar o conforto
 necessário aos estudantes para
@@ -104,7 +98,6 @@ académica através de um
 programa vasto de actividades
 extracurriculares e de formação
 complementar.
-
 Os SASUM regem-se pelo lema “A
 tua família na Universidade do
 Minho” em que sentido é feita
@@ -124,7 +117,6 @@ ajudar nas dificuldades que vão
 surgindo. Só assim se constrói
 uma comunidade coesa e de
 sucesso social.
-
 Em termos de política de
 qualidade, os SASUM obtiveram
 em 2009 a certificação. De que
@@ -154,7 +146,6 @@ seu envolvimento permanente de
 forma a garantir satisfação
 pessoal, motivação e espírito de
 equipa.
-
 Como é gerido o sistema de
 qualidade?
 Existe uma equipa de qualidade,
@@ -176,7 +167,6 @@ associados. Esta equipa reúne
 com frequência, para avaliar e
 monitorizar todo o sistema de
 qualidade.
-
 Quais os projectos dos SASUM
 mais impor tantes para os
 próximos anos?
@@ -198,7 +188,6 @@ unidades, nomeadamente nas
 fachadas da Residência
 Universitária de Azurém em
 Guimarães.
-
 Pode afirmar-se que a qualidade
 na prestação dos serviços e
 aposta nos Recursos Humanos
@@ -219,7 +208,6 @@ inovação no âmbito da nossa
 actividade. Desta forma é
 assegurada a qualidade na
 prestação dos nossos serviços.
-
 Quanto aos pontos fortes dos
 SASUM, qual aquele que mais
 destaca?
@@ -240,9 +228,8 @@ satisfação dos clientes, e como
 não poderia deixar de ser e está na
 base de toda a nossa actividade a
 certificação de qualidade através
-das normas ISO 9001:2008 e ISO
-22000:2005
-
+das normas ISO 9001: 2008 e ISO
+22000: 2005
 Em relação aos pontos menos
 fortes qual aquele que gostaria de
 ver melhorado mais rapidamente?
@@ -257,7 +244,6 @@ intervenção para melhorar as
 condições de habitabilidade e por fim
 faltam-nos ainda alguns recursos
 humanos permanentes.
-
 Os SASUM, como qualquer outro
 organismo está sujeito a ameaças
 externas, qual é para si a mais grave
@@ -281,7 +267,6 @@ legislativas e regulamentares nem
 sempre têm um reflexo ou efeito
 esperado em termos de
 desenvolvimento social.
-
 Apesar do momento difícil que o
 país atravessa, algumas
 oportunidades também surgem no
@@ -303,7 +288,6 @@ nacional ou da União Europeia ou
 realizar protocolos com entidades
 externas com objectivos e
 finalidades partilhadas.
-
 Quais os principais vectores
 estratégicos dos SASUM?
 São nossos vectores
@@ -320,7 +304,6 @@ economia, eficácia e
 eficiência; e reforçar a
 sustentabilidade
 financeira.
-
 Em termos de objectivos, quais os
 principais a atingir para o próximo
 ano?
@@ -340,4 +323,4 @@ qualificação dos recursos humanos;
 melhorar os sistemas de apoio á
 gestão e decisão; resultando todos
 estes aspectos no aumento da
-nossa disponibilidade financeira.
+nossa disponibilidade financeira.nossa disponibilidade financeira.nossa disponibilidade financeira.nossa disponibilidade financeira.

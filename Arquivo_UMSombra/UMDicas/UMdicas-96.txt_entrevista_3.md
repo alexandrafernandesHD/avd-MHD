@@ -1,12 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição 96 - Novembro 2011
-University: Universidade do Minho
-Interviewee(s): Professor Joaquim Barbosa
-Topic: Engenharia Mecânica
-Date: 07.NOV.11
-Interviewer: ANA MARQUES
+journal: UMdicas
+issue: Edição 96 - Novembro 2011
+university: Universidade do Minho
+interviewee: Professor Joaquim Barbosa
+topic: Engenharia Mecânica
+date: 07.NOV.11
+interviewer: Ana Marques
 ---
+
 
 “…a grande maioria dos alunos entram neste Curso porque querem, e não
 por não terem vaga noutros…”
@@ -17,14 +18,12 @@ conversa com o diretor, que assume esta função
 como algo “Aliciante, complexa, trabalhosa e difícil
 de exercer simultaneamente com a lecionação de
 aulas, investigação, orientação de teses e dissertações e muitas outras tarefas”.
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
-
 Após a conclusão do seu curso, Joaquim Barbosa
 ingressou numa empresa Metalomecânica de Braga, onde começou por exercer funções no Laboratório de Qualidade e acabou como Diretor Técnico.
 Em 1992 resolveu optar pela carreira académica, e
 mudou-se para a Universidade do Minho.
-
 O que o motivou a aceitar “comandar” este
 curso?
 A motivação resultou de dois fatores: por um lado,
@@ -33,24 +32,19 @@ UM, e a oportunidade de trabalhar na sua equipa
 e, por outro lado, a vontade de poder implementar
 algumas ideias num projeto de ensino que acabara
 de ter início, assente num modelo de ensino totalmente diferente dos modelos tradicionais.
-
 As experiencias anteriores têm-no ajudado
 no cumprimento da sua função de diretor de
-curso?
 Sem dúvida, principalmente no que diz respeito
 às relações humanas. Nesse aspeto, a experiência
 industrial de gestão de pessoas teve um papel muito relevante e tornou mais fácil o desempenho de algumas funções inerentes à Direção de um Curso.
-
 Quais são as maiores dificuldades que sente
 no cumprimento da sua função?
 O excesso de trabalho administrativo/burocrático,
 a gestão de pequenos conflitos alunos/docentes
 (raros, felizmente) e a falta de recursos financeiros para implementar alguns modelos de ensino nas UCs Integradoras, nomeadamente o desenvolvimento de projetos com interesse para a Engenharia Mecânica, desde a sua identificação e caraterização até à finalização/obtenção de modelos físicos funcionais.
-
 Se estivesse a concorrer à universidade
 pela primeira vez escolheria este curso?
 Se a minha opção de vida passasse pela Engenharia, sem dúvida que a Engenharia Mecânica seria a minha escolha.
-
 Quais são na sua opinião os pontos fortes
 deste curso? E os pontos fracos?
 Em primeiro lugar as saídas profissionais. Nos
@@ -70,7 +64,6 @@ o desempenho da sua futura
 atividade profissional. 
 Relativamente a pontos fracos, consigo identificar 
 a pouca ligação a empresas industriais, nomeadamente para realização da Dissertação em ambiente industrial.
-
 O que caracteriza este curso da UMinho relativamente aos cursos de … de outras universidades?
 Não é fácil responder a essa questão. Há, contudo, aspetos que poderão ser diferenciadores: 
 o ensino por projetos, mais apelativo e eficiente, 
@@ -91,7 +84,6 @@ a grande maioria dos alunos entram neste Curso
 porque querem, e não por não terem vaga noutros 
 Cursos ou Universidades, o que atesta bem a sua 
 boa imagem exterior.
-
 Existem hoje em dia excesso de profissonais em determinadas áreas. O que podem 
 esperar os alunos de …quanto ao mercado 
 de trabalho? 
@@ -112,7 +104,6 @@ continuar a limitar ao território nacional, mas sim
 estender-se ao espaço europeu. Existe hoje uma 
 forte procura de engenheiros mecânicos portugueses por países do norte da Europa, como a Alemanha, Dinamarca e Noruega, que não podemos 
 ignorar mas sim saber aproveitar.
-
 Acompanhou o período das reformas de Bolonha, marcado por uma profunda alteração 
 do modelo de ensino. Como o avalia?
 A transição para o novo modelo não foi fácil, bem 
@@ -129,7 +120,6 @@ de perceber que o seu percurso académico não se
 pode limitar a estudar para fazer testes de avaliação, mas sim utilizar os meios que a Universidade lhes disponibiliza para criarem conhecimento, 
 aprenderem e, sobretudo, compreenderem profundamente as matérias que lhes serão necessárias 
 para adquirirem as competências exigidas ao Engenheiro Mecânico.
-
 Quais são as suas prioridades para o curso
 nos próximos tempos?
 Em primeiro lugar, a consolidação do modelo de
@@ -147,10 +137,8 @@ Em terceiro lugar, aumentar o número de projetos
 extracurriculares, que são sem dúvida uma das
 melhores formas de ensino-aprendizagem que se
 podem adotar.
-
 Quais são para si os principais desafios?
 Atingir os objetivos definidos como principais prioridades para os próximos anos.
-
 As escolhas de …
 Joaquim Barbosa
 Data de Nascimento? 3 de novembro de 1958
@@ -165,4 +153,4 @@ pelas nossas bandas, o Arcoense, em Braga
 Comida preferida? O bom Pica no Chão minhoto
 Sonho…? Escalar o K2
 Clube? Sporting Clube de Braga, sempre
-Desporto preferido? Automobilismo
+Desporto preferido? AutomobilismoDesporto preferido? AutomobilismoDesporto preferido? AutomobilismoDesporto preferido? Automobilismo

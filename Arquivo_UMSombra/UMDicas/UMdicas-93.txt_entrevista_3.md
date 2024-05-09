@@ -1,29 +1,27 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 93 - Ano 6
-University: Universidade do Minho
-Interviewee(s): António Maria Vieira Paisana
-Date: 01 de Julho de 2011
-Title: Entrevista a António Paisana - Provedor do Estudante da UMinho
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 93 - Ano 6
+university: Universidade do Minho
+interviewee: António Maria Vieira Paisana
+date: 01 de Julho de 2011
+title: Entrevista a António Paisana - Provedor do Estudante da UMinho
+interviewer: Ana Marques
 ---
+
 
 Entrevista a António Paisana - Provedor do Estudante da UMinho
 António Maria Vieira Paisana fez no passado dia 7 de Junho, um
 ano que tomou posse como Provedor do Estudante da
 UMinho, uma figura nova na Academia, criada no âmbito da
 aplicação do novo Regime Jurídico das Instituições de Ensino Superior.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Docente do Departamento de
 Produção e Sistemas da Escola de
 Engenharia, assume as suas novas
 funções como um mediador, de
 interesses dos estudantes e da
 Instituição.
-
 Fez no passado dia 7 de Junho um
 ano como Provedor do Estudante
 da UMinho. Que balanço faz?
@@ -54,7 +52,6 @@ desistir da suas questões e isso
 afectaria desempenhos
 académicos e/ou a imagem de
 alguns serviços.
-
 O Provedor do Estudante foi algo
 novo no meio académico. Tem sido
 complicado o cumprimento desta
@@ -98,7 +95,6 @@ vezes há casos que (apenas)
 envolvem interpretações distintas
 da aplicação de
 regras/regulamentos.
-
 Quais têm sido as principais
 solicitações dos estudantes?
 Quais as estatísticas e como as
@@ -123,7 +119,6 @@ UTAD foram os processos de
 equivalência, inscrições/matrículas
 e bolsas de estudo os mais
 importantes.
-
 Como define o Provedor do
 Estudante. Fiscalizador ou
 mediador?
@@ -137,8 +132,6 @@ também houve situações que
 requereram a observância mais
 estreita de regulamentos
 existentes por parte de agentes da
-Instituição.
-
 Ao Provedor do Estudante cabe
 fazer a defesa e promoção dos
 direitos dos estudantes. Na prática
@@ -163,7 +156,6 @@ soluções alternativas em termos de
 enquadramento Institucional, e
 cerca de 18% conduziram á
 alteração das decisões iniciais.
-
 A actividade de um
 Provedor de
 Estudante não deve
@@ -198,7 +190,6 @@ na UMinho foi de 14.9
 dias, enquanto que na
 UPorto foi de 23.2
 dias.
-
 Uma vez que nem todos os
 estudantes sabem da existência do
 Provedor do Estudante, de que
@@ -229,7 +220,6 @@ Pedagógicos. Os meios de
 comunicação existentes na
 Academia terão igualmente que ser
 utilizados mais intensamente.
-
 Na sua opinião o Provedor do
 Estudante tem contribuído para
 melhorar o funcionamento da
@@ -252,8 +242,6 @@ lado, a execução rigorosa de
 regulamentos existentes terá
 igualmente contribuído para um
 melhor funcionamento da própria
-Instituição.
-
 Como é que um aluno que
 necessite da sua atenção para a
 resolução de um problema pode
@@ -268,7 +256,6 @@ deslocar-se ao gabinete (sala 323,
 2º andar, CPII, Campus Gualtar) às
 Quintas e Sextas Feiras das 09h-12h
 e das 14h-17h.
-
 Há já alguns anos ligado aos
 estudantes como professor e
 dirigente de futsal. Estas
@@ -286,4 +273,4 @@ rapidamente, percepções sobre
 comportamentos, procedimentos e
 funcionamento de muitos dos
 ser viços que compreende a
-Instituição.
+Instituição.Instituição.Instituição.Instituição.

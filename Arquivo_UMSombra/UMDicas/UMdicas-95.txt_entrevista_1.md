@@ -1,16 +1,17 @@
 ---
-Jornal: UMdicas
-Issue: Edição 95 - Outubro 2011
-University: Universidade do Minho
-Interviewee(s): Manuel Sampaio Oliveira
-Date: 04.OUT.11
-Title: Grill de Azurém
-Interviewer: ANA MARQUES
+journal: UMdicas
+issue: Edição 95 - Outubro 2011
+university: Universidade do Minho
+interviewee: Manuel Sampaio Oliveira
+date: 04.OUT.11
+title: Grill de Azurém
+interviewer: Ana Marques
 ---
+
 
 SASUM
 Grill de Azurém
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt 
 Manuel Sampaio Oliveira pertence ao Departamento Alimentar (DA) há já quase 29
 anos e é, atualmente, o responsável pelo
@@ -22,7 +23,6 @@ e satisfação com que assume a sua função ficou patente durante a conversa, a
 trabalhar nos SASUM… esta função exige
 de mim e da minha equipa preocupação e
 dedicação, mas é um ótimo desafio”.
-
 O que significa para si trabalhar no
 Departamento Alimentar?
 Posso dizer que para mim é um privilégio.
@@ -36,13 +36,11 @@ agora com a Certificação de Qualidade as
 coisas melhoraram muito mais, tornando o
 trabalho mais interessante mas, claro, com
 responsabilidade maiores.
-
 Tem alguma formação específica na
 área da restauração?
 A formação que tenho na área foi proporcionada pelo DA, tanto no âmbito da certificação de qualidade, como em termos
 específicos de cozinha. O resto resultou da
 experiencia do dia a dia.
-
 Que funções desempenhou até ficar
 como responsável da cantina?
 Posso dizer que fui o maior “viajante” dos
@@ -53,7 +51,6 @@ quando abriu o Instituto Politécnico em Faro
 e estive na Escola E.B 2, 3 de Urgeses numa
 requisição de serviço. Antes de vir para os
 SASUM trabalhei ainda num restaurante.
-
 Ser responsável da cantina é para si
 um desafio?
 É para mim um grande desafio e uma
@@ -63,7 +60,6 @@ com a confeção e com a conservação dos
 alimentos, para além de trabalharmos por
 um serviço de excelência para que os nossos clientes sejam sempre o melhor servidos. Por isso esta função exige de mim
 e da minha equipa preocupação e dedicação, mas é um ótimo desafio.
-
 É fácil coordenar esta unidade alimentar? Quais são as maiores dificuldades que encontra no dia a dia?
 Não posso dizer que é muito fácil, aliás
 todas as coisas têm as suas dificuldades,
@@ -76,7 +72,6 @@ se não estiverem identificados e se houver uma intoxicação alimentar não hav
 como detetar onde está a falha. Mas é algo
 que já entrou nas nossas rotinas e por isso
 posso dizer que já nem é uma dificuldade.
-
 Na sua opinião, os clientes das unidades alimentares e em especial da
 cantina são bem servidos em termos
 de qualidade alimentar e serviço de
@@ -89,14 +84,12 @@ pertençam ou não á Universidade, façam
 aqui as suas refeições ou mesmo na rampa
 B ou na cantina, pois podem ter a certeza
 que comem com qualidade.
-
 Qual é o procedimento quando algum
 cliente reclama do serviço?
 Temos uma caixa de sugestões em que
 a pessoa preenche a sua reclamação ou
 sugestão e será contactada posteriormente pela diretora do Departamento Alimentar. Se for algo mais grave temos o livro
 “amarelo” onde a pessoa também pode reclamar, mas tentamos sempre resolver as coisas sem que cheguem a esse limite.
-
 Por quantos elementos é constituída a sua equipa?
 Somos 4 pessoas, uma equipa pequenammas com uma relação muito boa. Naturalmente que todos temos personalidades
-diferentes mas as nossas diferenças são ultrapassadas e entendemo-nos muito bem.
+diferentes mas as nossas diferenças são ultrapassadas e entendemo-nos muito bem.diferentes mas as nossas diferenças são ultrapassadas e entendemo-nos muito bem.diferentes mas as nossas diferenças são ultrapassadas e entendemo-nos muito bem.diferentes mas as nossas diferenças são ultrapassadas e entendemo-nos muito bem.

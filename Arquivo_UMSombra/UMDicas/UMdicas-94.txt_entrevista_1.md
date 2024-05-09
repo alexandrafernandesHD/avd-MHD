@@ -1,16 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 94 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Zeferino Magalhães
-Role: responsável pela cantina de Azurém
-Date: 31 de Julho de 2011
-Title: Cantina de Azurém
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 94 - Ano 6
+university: Universidade do Minho
+interviewee: Zeferino Magalhães
+role: responsável pela cantina de Azurém
+date: 31 de Julho de 2011
+title: Cantina de Azurém
+interviewer: Ana Marques
 ---
 
-Cantina de Azurém
 
+Cantina de Azurém
 Zeferino Magalhães pertence ao Departamento
 Alimentar há já 16 anos e, é actualmente o
 responsável pela cantina de Azurém. Nesta
@@ -22,10 +22,8 @@ que refere trabalhar com satisfação, afirma que
 sempre dificuldades, mas com o tempo e
 experiência vamos sabendo como ultrapassá-las e
 as coisas vão ficando facilitadas”.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Situado no Campus de Azurém
 no pólo de Guimarães, a
 cantina de Azurém entrou em
@@ -40,13 +38,11 @@ lugares sentados. A s
 instalações estão abertas das
 12h00 às 14h00 e das 19h00
 às 20h30.
-
 Há quantos anos pertence ao
 Departamento Alimentar?
 Estou ligado aos SASUM e em
 particular ao Departamento
 Alimentar há 16 anos.
-
 O que significa para si
 trabalhar no Departamento
 Alimentar?
@@ -57,7 +53,6 @@ sinto-me muito bem na minha
 função, sempre gostei muito
 da cozinha e trabalhar em
 grupo.
-
 Tem alguma formação
 específica na área da
 restauração?
@@ -76,7 +71,6 @@ nós e para os clientes que
 ser vimos. Também já fiz
 formações de Cozinha, Inglês,
 Atendimento, entre outras.
-
 Que funções desempenhou
 até ficar como responsável da
 cantina?
@@ -91,7 +85,6 @@ anos, depois disso vim para a
 Universidade e estou a
 trabalhar nos SASUM há 16
 anos.
-
 Ser responsável da cantina é
 para si um desafio?
 É para mim um grande desafio.
@@ -101,7 +94,6 @@ serviço em si, uma grande
 equipa de colaboradores e
 satisfazer os clientes é sempre
 um enorme desafio.
-
 É fácil coordenar esta unidade
 alimentar? Quais são as
 maiores dificuldades que
@@ -135,7 +127,6 @@ dificuldades, mas com o tempo
 e experiência vamos sabendo
 como ultrapassá-las e as
 coisas vão ficando facilitadas.
-
 Na sua opinião, os utentes das
 unidades alimentares e em
 especial da cantina são bem
@@ -156,7 +147,6 @@ fosse estudante, professor ou
 funcionário escolheria a
 cantina para fazer as minhas
 refeições.
-
 Qual é o procedimento quando
 algum utente reclama do
 serviço?
@@ -175,8 +165,7 @@ sugestões/reclamações e que
 será posteriormente vista e
 resolvida pelos superiores do
 Departamento Alimentar.
-
 Por quantos elementos é
 constituída a sua equipa?
 Somos 20 pessoas, entre
-homens e mulheres.
+homens e mulheres.homens e mulheres.homens e mulheres.homens e mulheres.

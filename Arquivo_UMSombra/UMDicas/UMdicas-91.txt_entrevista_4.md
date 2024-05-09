@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 91 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Paula Cristina Martins
-Role: Pró-reitora para o Ensino
-Date: 28 de Abril de 2011
-Title: Entrevista com a Pró-reitora Paula Cristina Martins
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 91 - Ano 6
+university: Universidade do Minho
+interviewee: Paula Cristina Martins
+role: Pró-reitora para o Ensino
+date: 28 de Abril de 2011
+title: Entrevista com a Pró-reitora Paula Cristina Martins
+interviewer: Ana Marques
 ---
+
 
 Entrevista com a Pró-reitora Paula Cristina Martins
 Pró-reitora para o Ensino, Paula Cristina Martins é Professora
@@ -15,10 +16,8 @@ Auxiliar do Departamento de Psicologia Aplicada da Escola de
 Psicologia da Universidade do Minho (UMinho). Licenciou-se em
 Psicologia, em 1990, pela Universidade do Porto; realizou Provas de Aptidão
 Pedagógica e Capacidade Científica, em 1996, pela UMinho.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Detém ainda um Mestrado em
 Psicologia, ramo de Intervenção
 Precoce em 1999, pela
@@ -35,7 +34,6 @@ Vice-Presidente do Instituto de
 Estudos da Criança.
 Actualmente faz parte da equipa
 reitoral.
-
 É Pró-Reitora para o pelouro do
 Ensino. Qual é a essência desta
 pasta?
@@ -74,21 +72,20 @@ estrutura organizativa que deve
 propiciar as condições
 necessárias ao
 desenvolvimento deste projeto.
-
 Quais são os principais
 objectivos do pelouro que lidera
 até 2013?
 De uma forma global e focando
 as três dimensões acima
 enunciadas, centraria os nossos
-objetivos:
+objetivos: 
 (1) na qualificação da oferta
 educativa – trata-se de uma
 tarefa, por definição nunca
 terminada, que envolve a
 consideração de diversos
 parâmetros, entre os quais
-salientaria:
+salientaria: 
 a) a qualidade científica e
 pedagógica dos conteúdos
 ministrados;
@@ -107,7 +104,6 @@ utilidade prática imediata, mas
 também de utilidade simbólica e
 como valor crítico, diferenciador
 da formação pessoal e cívica dos
-estudantes;
 e) a sua economia, traduzida
 numa oferta eficiente, que
 permita racionalizar tanto o
@@ -187,7 +183,6 @@ formação diferenciada e que,
 reciprocamente, prestigiem a
 Universidade pelo seu mérito
 académico.
-
 Um dos vectores centrais do
 Programa de acção para o
 quadriénio 2009-2013 é
@@ -200,7 +195,7 @@ estratégias que, de forma
 conjunta e sinérgica, nos
 permitem evoluir no sentido
 pretendido. Saliento pela sua
-atualidade:
+atualidade: 
 - a acreditação da nossa oferta
 formativa junto da Agência de
 Avaliação A3ES, com o sucesso
@@ -244,7 +239,6 @@ de especia l izaç ã o e de
 mobilização de conhecimentos
 e competências específicas e
 avançadas.
-
 Um dos desafios estratégicos
 propostos são uma “clara
 aposta no crescimento da
@@ -335,7 +329,6 @@ UM por antigos alunos, de forma
 que estas não constituam
 obstáculos à continuação ou
 retoma dos seus estudos.
-
 O Centro de Apoio ao Ensino já
 foi criado? Quais serão os seus
 objectivos e utilidade?
@@ -374,7 +367,6 @@ pretende investir,
 reconhecendo-se a sua relação
 com a qualidade da
 aprendizagem dos estudantes.
-O Gabinete de Apoio ao Ensino
 pretende concretizar este
 desiderato, constituindo-se
 como uma unidade dedicada à
@@ -399,7 +391,6 @@ aprendizagem dos estudantes
 e o desenvol v i mento de
 competências académicas
 transversais.
-
 Um dos objecti vos era
 generalizar o uso de
 plataformas e-learning. Isto é
@@ -427,7 +418,6 @@ quer síncronas ou assíncronas,
 e consequentemente à
 realização de aprendizagens a
 distância.
-
 Uma das medidas propostas a
 nível do ensino era a educação
 à distância. Esta aposta já está
@@ -464,7 +454,6 @@ pretendemos desenvolver,
 incrementando
 consideravelmente o recurso ao
 b-learning.
-
 Em que moldes isto será feito e
 quais os projectos-piloto?
 Considerado ultrapassado, de
@@ -501,4 +490,4 @@ de organ izar, analisar e
 destacar o que de bom se
 realiza internamente bem como
 externamente de modo a apoiar
-futuras iniciativas.
+futuras iniciativas.futuras iniciativas.futuras iniciativas.futuras iniciativas.

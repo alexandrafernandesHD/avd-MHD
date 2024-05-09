@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 91 - Ano 6
-University: Universidade do Minho
-Interviewee(s): Maria Aurora Costa
-Topic: Bar do Grill
-Role: colaboradora do Bar do Grill de Gualtar
-Date: 28 de Abril de 2011
-Interviewer: Ângela Coelho
+journal: UMdicas
+issue: Edição nº 91 - Ano 6
+university: Universidade do Minho
+interviewee: Maria Aurora Costa
+topic: Bar do Grill
+role: colaboradora do Bar do Grill de Gualtar
+date: 28 de Abril de 2011
+interviewer: Ângela Coelho
 ---
 
 Bar do Grill de Gualtar
@@ -15,15 +15,12 @@ trabalha há 20 anos no Departamento Alimentar dos SASUM. A
 funcionária confessa que este trabalho é um grande desafio e que
 o vai ser cada vez mais, acrescentando que está “pronta para esses novos
 desafios”.
-
 Ângela Coelho
 dicas@sas.uminho.pt
-
 Aurora Costa refere que o segredo
 desta função é fazer uma boa gestão
 de todo o material e conhecer bem o
 publico com quem se está a interagir.
-
 Tem alguma formação específica na
 área da restauração?
 Não. Fui adquirindo experiência ao
@@ -35,7 +32,6 @@ para os nossos serviços. Como
 funcionária e responsável por esta
 unidade alimentar, é algo que gosto de
 fazer e tento dar o meu melhor.
-
 Que funções desempenhou até ficar
 como responsável do Bar do Grill de
 Gualtar?
@@ -48,12 +44,10 @@ Saúde - também lá trabalhei. Depois
 surgiu a oportunidade para vir para o
 Bar do Grill e aceitei, estando aqui a
 trabalhar há três anos.
-
 Que tipo de trabalho faz aqui no bar?
 Faço de tudo um pouco. Desde fazer
 requisições, limpar, atendimento.
 Tudo o que exige um bar, eu faço.
-
 Trabalhar neste bar para si é um
 desafio?
 Sim, é um desafio, porque tenho que
@@ -74,7 +68,6 @@ isso que eu acho que foi um grande
 desafio e cada vez acho que vai ser
 mais. E eu estou pronta para esses
 novos desafios.
-
 É fácil coordenar uma unidade
 alimentar?
 Esta é uma unidade onde nós
@@ -86,7 +79,6 @@ amanhã já não consomem e é preciso
 conhecê-los muito bem para poder
 seleccionar os pedidos e ir ao
 encontro deles. São mais exigentes.
-
 Quais são as maiores dificuldades?
 É mais complicado nos períodos em
 que não há aulas. Porque como
@@ -97,7 +89,6 @@ atentos para não fazermos pedidos
 em excesso e para que não haja
 perdas. Mas, no geral, é uma unidade
 que se gere bem.
-
 Na sua opinião os utentes das
 unidades alimentares são bem
 servidos em termos da qualidade
@@ -110,7 +101,6 @@ mais satisfeito possível para que volte
 novamente. Estou aqui para os
 atender bem e dar sempre o meu
 melhor.
-
 Qual o procedimento quando algum
 utente reclama do serviço?
 Eu tento de imediato saber o porquê
@@ -119,7 +109,6 @@ o levou a reclamar. Se não conseguir,
 tento que ele vá à caixa de sugestões
 ou então directamente à Engenheira
 Celeste, que é a responsável máxima.
-
 Que tipo de alimentação se pode
 fazer aqui?
 Como estamos perto da cantina, é um
@@ -137,11 +126,10 @@ exemplo, de ter mais variedade de
 fruta, mas já tentamos e não tem
 saída, porque estamos muito
 limitados aos nossos clientes.
-
 Por quantos elementos é constituída
 a sua equipa?
 Somos apenas dois. Há horas mais
 complicadas, como os pequenos-
 almoços, o lanche, o café após o
 almoço, em que até temos que ter a
-ajuda de um aluno.
+ajuda de um aluno.ajuda de um aluno.ajuda de um aluno.ajuda de um aluno.
