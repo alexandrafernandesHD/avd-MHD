@@ -1,11 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 29
-University: Universidade do Minho
-Interviewee(s): Fernando Parente
-Date: 19 de Setembro de 2005
+journal: UMdicas
+issue: Número 29
+university: Universidade do Minho
+interviewee: Fernando Parente
+date: 19 de Setembro de 2005
+interviewer: Ana Marques
 ---
-com
+Entrevista com
 Fernando Parente
 Dicas- Gostaríamos de saber qual
 foi a sua função nestas
@@ -72,14 +73,10 @@ estar na de Pequim 2001 mais pelo
 país, mas penso que os japoneses
 foram quem melhor organizaram as
 Universíadas.
-
-19 de Setembro de 2005
-
 Dicas- Como pessoa que esteve
 por dentro de todo o processo,
 qual foi a política seguida na
 selecção dos atletas que foram ás
-Universíadas?
 F.P.- Nós tentamos dentro da medida
 do possível levar atletas que
 representassem bem o país, que
@@ -94,11 +91,10 @@ modalidades porque algumas nem
 existe competição desportiva
 universitária, mas os critérios
 passaram por: qualidade
-i n t e r n a c i o n a l e
+internacional e
 representatividade nos
 Campeonatos Nacionais
 Universitários.
-
 Dicas- Qual a razão para os
 sucessos portugueses serem
 principalmente e quase só no
@@ -121,7 +117,6 @@ ao disputar o seu primeiro combate com a vicecampeã do mundo. É uma competiç�
 pouco injusta no sentido da eliminação ser
 feita no 1º combate e não haver repescagens.
 Dicas- Qual foi o ambiente vivido em volta das
-Universíadas?
 F.P.- O ambiente era fantástico, é
 provavelmente a competição
 desportiva internacional onde em
@@ -140,7 +135,6 @@ que se criou em termos de comitiva
 nacional em todas as Universíadas
 onde estive presente. Penso que
 as pessoas que fizeram parte da
-
 UMdicas
 nossa delegação vieram muito recompensados
 pela participação, em termos sociais acho que o
@@ -154,4 +148,4 @@ também facilitou o ambiente, só quem não encara
 isto assim é que pode estragar o ambiente de grupo.
 Mas a liderança também foi muito boa, carismática,
 e o grupo reviu-se nela quer nos momentos de
-concentração, quer nos de descontracção.
+concentração, quer nos de descontracção.concentração, quer nos de descontracção.concentração, quer nos de descontracção.concentração, quer nos de descontracção.

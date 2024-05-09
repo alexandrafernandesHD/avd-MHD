@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 22
-University: Universidade do Minho
-Interviewee(s):  Mestre DeRose 
-Date: 2 de Fevereiro de 2005
+journal: UMdicas
+issue: Número 22
+university: Universidade do Minho
+interviewee:  Mestre DeRose 
+date: 2 de Fevereiro de 2005
+interviewer: Redação
 ---
 Yôga Antigo: forte,
 bonito e eficiente
@@ -78,7 +79,6 @@ que actuam na área. Na verdade, esse convénio só dá
 continuidade ao programa de formação de instrutores de
 Yôga que se realiza naquelas Universidades desde a
 década de setenta até hoje, sob a minha tutela.
-
 “Hoje quem mais pratica o
 Swásthya são os universitários,
 os surfistas e os desportistas
@@ -89,7 +89,6 @@ e lindo. Esse público acaba
 fazendo o curso
 profissionalizante da
 Universidade de Yôga.”
-
 Um jovem que queira tornar-se instrutor de Yôga,
 como faz para ingressar nessa formação
 profissional? Tem algum vestibular?
@@ -102,13 +101,12 @@ Contudo, antes de concluir o segundo grau já podem
 começar a praticar.
 Quanto tempo leva essa formação?
 Leva 2320 horas que podem ser distribuídas por alguns
-
 meses ou anos, dependendo da aplicação do estudante.
 Se ele realmente quiser trabalhar, já no primeiro ano será
 convidado a prestar estágio remunerado na própria
 Universidade de Yôga. Depois, prestará exame na
 Federação de Yôga do seu Estado e receberá um
-Certificado, geralmente expedido por três entidades:
+Certificado, geralmente expedido por três entidades: 
 Federação de Yôga, Universidade de Yôga e uma outra
 Universidade (Federal, Estadual ou Católica) com a qual
 haja convénio.
@@ -162,4 +160,4 @@ FATEA Faculdades Integradas Teresa d'Ávila, Mestre em Yôga (não
 académico) pela Universidade do Porto (Portugal) e pela UniCruz (Brasil).
 Comendador e Notório Saber em Yôga pela Sociedade Brasileira de
 Educação e Integração. Fundador do Conselho Federal de Yôga e do
-Sindicato Nacional dos Profissionais de Yôga.
+Sindicato Nacional dos Profissionais de Yôga.Sindicato Nacional dos Profissionais de Yôga.Sindicato Nacional dos Profissionais de Yôga.Sindicato Nacional dos Profissionais de Yôga.

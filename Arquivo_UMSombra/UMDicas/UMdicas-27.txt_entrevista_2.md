@@ -1,10 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 27
-University: Universidade do Minho
-Interviewee(s): Fuse e Mase, Rui Reininho , Ivo Capa e Bruno Anastassakis, Lua e Chico, Ivo Capa , Bruno Anastassakis, Nuno Gonçalves, Simão Praça
-Role: baterista
-Date: 25 de Maio de 2005
+journal: UMdicas
+issue: Número 27
+university: Universidade do Minho
+interviewee: Fuse e Mase, Rui Reininho , Ivo Capa e Bruno Anastassakis, Lua e Chico, Ivo Capa , Bruno Anastassakis, Nuno Gonçalves, Simão Praça
+role: baterista
+date: 25 de Maio de 2005
+interviewer: UMdicas
 ---
 com Fábio, baterista 
 da Banda Eva desde 1999.
@@ -14,9 +15,7 @@ português é diferente de dizer amor em Inglês, por
 exemplo.
 UMd – Projecção vídeo?
 Chico – Deixei de tirar “catotas” do nariz!
-
 Fuse e Mase “Dealema” 
-
 UMdicas - “Vodka, vodka ou Porto, Porto?
 S. – Estamos sempre na nave mãe. Braga é um pouco
 Rui Reininho – Abramovich!
@@ -37,10 +36,8 @@ S. – A pirataria não me preocupa, interessa-me é que
 as pessoas ouçam a nossa música. Os Plaza ao vivo
 Lulla Bye
 são convincentes.
-
 Ivo Capa e Bruno Anastassakis
  “Red Beating Toy” 
-
 UMd – Qual a importância de Ivete Sangalo na vossa
 carreira?
 Fábio – A Ivete projectou a banda que agora depende
@@ -61,9 +58,7 @@ V. – O que é inspirador em Portugal, numa palavra?
 UMd – Portimão.
 UMd – Que tal o concerto de hoje?
 F. – A chuva, né!
-
 Lua e Chico  “Boitezuleiza” 
-
 UMd – Que perspectivas tem para o futuro?
 Ivo Capa ( Guitarra e Voz ) – Sabemos que precisamos
 de sorte e que temos de conquistar o público nos
@@ -78,7 +73,7 @@ UMd – Para quando algo editado?
 Bruno Anastassakis ( Baixo ) – Já existe uma maqueta
 (New sounds on the radio) que vai ser novamente
 martirizada e pode ser encontrada em
-http://redbeatingtoy.no.sapo.pt
+http: //redbeatingtoy.no.sapo.pt
 UMd – O que acharam do concerto?
 UMd – Gostaram do concerto?
 Fuse – Muito bom mesmo. Fomos bem recebidos. Não Lulla Bye. – No geral correu bem, o problema foi
@@ -103,7 +98,6 @@ ou
 rock?
 F. – Depende muito do evento, se for um festival de
 L.B.
-–
 O
 pop
 surge
@@ -113,7 +107,6 @@ que é muito bom para nós, é muito gratificante abraçar list das rádios, dep
 uma grande massa de pessoas diferentes com a nossa estilo que queres, que no nosso caso é o rock.
 UMd – Qual é o vosso fruto preferido?
 música, o que se passou um pouco aqui. Mas há a
-L.B.
 – Gostamos de laranja!
 outra vertente, a dos concertos intimistas para os
 nossos amigos na nossa cidade, que são em salas
@@ -130,10 +123,7 @@ F. – Já estamos empenhados nisso, estamos a
 trabalhar no novo álbum que em principio sai no início
 de 2006.
 M. – Está a ficar poderoso!
-
 Rui Reininho  “GNR” 
-
-UMd – O que acharam do concerto?
 Lua – Correu muito bem. A reacção do público foi
 muito boa, manifestaram interesse. A reacção nas
 queimas é muito boa.
@@ -145,9 +135,7 @@ atmosfera mais intimidativa. Preferimos palcos
 grandes, desde que existam boas condições.
 UMd – Inglês?
 Chico – Cantar em Inglês está fora de questão,
-
 Nuno Gonçalves  “The Gift” 
-
 UMd- Que comentários fazes em relação a este
 concerto?
 Nuno Gonçalves – Foi forte e sereno na medida certa.
@@ -185,4 +173,4 @@ Espanha?
 álbum branco.
 N. – O “AM-FM” foi lançado lá pela editora V2 e tem
 UMd – Como te sentes na terra da tua mãe?
-tido uma boa aceitação.
+tido uma boa aceitação.tido uma boa aceitação.tido uma boa aceitação.tido uma boa aceitação.

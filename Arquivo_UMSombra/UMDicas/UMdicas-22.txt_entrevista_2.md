@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 22
-University: Universidade do Minho
-Interviewee(s): Fernando Parente
-Date: 2 de Fevereiro de 2005
+journal: UMdicas
+issue: Número 22
+university: Universidade do Minho
+interviewee: Fernando Parente
+date: 2 de Fevereiro de 2005
+interviewer: Ana Marques
 ---
 À conversa com Fernando Parente, Presidente da
 AFUM  ficamos a saber tudo sobre a primeira
@@ -14,7 +15,6 @@ Minho(AFUM), com o apoio da Associação de Antigos
 Estudantes da Universidade do Minho (AAEUM) e da
 
 2 de Fevereiro de 2005
-
 aventura proporcionada pelos desportos radicais e do
 convívio entre todos.
 A Cerdânya é uma comarca natural formada por
@@ -51,12 +51,6 @@ palavra”. Levada a cabo pela primeira vez, a adesão a
 esta iniciativa foi enorme, com um limite de 50
 inscrições inicialmente, superou todas as expectativas,
 tendo sido alargado até 96 inscrições.
-
-Desporto
-
-09
-
-número.
 Como é feita a preparação das pessoas, que
 conselhos são dados?
 F.P- Neste tipo de actividades a preparação é feita nos
@@ -79,9 +73,8 @@ Enquanto Presidente da AFUM, qual o objectivo
 destas iniciativas para a relação entre os
 funcionários?
 F.P- O conceito subjacente a este tipo de actividade é
-
 À conversa com Fernando Parente foram-lhe
-colocadas várias questões:
+colocadas várias questões: 
 Como Presidente da AFUM, o que pensa deste tipo
 de iniciativas?
 F.P- É apenas mais uma entre as muitas que são
@@ -90,4 +83,4 @@ pretendo que os associados se envolvam nestas
 iniciativas, que se sintam como fazendo parte de uma
 família que são todos os funcionários da UM. A ideia é
 ter um ou dois momentos destes por ano e envolver
-todos em volta destes projectos que dignificam a UM.
+todos em volta destes projectos que dignificam a UM.todos em volta destes projectos que dignificam a UM.todos em volta destes projectos que dignificam a UM.todos em volta destes projectos que dignificam a UM.

@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 29
-University: Universidade do Minho
-Interviewee(s): 
-Date: 19 de Setembro de 2005
+journal: UMdicas
+issue: Número 29
+university: Universidade do Minho
+interviewee: Carla Machado
+date: 19 de Setembro de 2005
+interviewer: Nuno Gonçalves
 ---
 UMd- Apesar de esta não ser a primeira vez que participas
 em competições internacionais, qual foi a sensação
@@ -120,7 +121,6 @@ posteriormente que tornei a ser reintegrada no projecto
 Pequim 2008.
 UMd- Para muitos atletas de alta competição torna-se
 difícil conciliar os estudos com a prática desportiva.
-
 Estando tu num curso exigente como Direito, como
 consegues conciliar os estudos com a competição?
 Carla Machado- Às vezes é complicado. Em termos de
@@ -167,4 +167,4 @@ para viver da minha modalidade em Portugal.
 Em termos desportivos, espero continuar a trabalhar
 para tornar a ser campeã nacional, conquistar o título
 universitário para a UM e deste modo poder estar presente no
-campeonato do mundo universitário de 2006.
+campeonato do mundo universitário de 2006.campeonato do mundo universitário de 2006.campeonato do mundo universitário de 2006.campeonato do mundo universitário de 2006.

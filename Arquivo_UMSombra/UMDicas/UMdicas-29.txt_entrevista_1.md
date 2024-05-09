@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 29
-University: Universidade do Minho
-Interviewee(s): 
-Date: 19 de Setembro de 2005
+journal: UMdicas
+issue: Número 29
+university: Universidade do Minho
+interviewee: Roque Teixeira
+date: 19 de Setembro de 2005
+interviewer: Nuno Gouveia
 ---
 UMd- Em primeiro lugar, qual a razão desta data
 e do local escolhido?
@@ -48,7 +49,6 @@ pela excelência. Desse modo, e sendo uma
 modalidade que está em claro desenvolvimento na
 Europa, acho que teremos uma quantidade de
 equipas mais elevada que no EUCV 2004 e com
-qualidade acima da média.
 UMd- Aparte dos momento competitivos, vamos
 também ter muita festa e divertimento a
 acompanhar o europeu?
@@ -75,4 +75,4 @@ queremos ter, poderemos tomar decisões nesse
 aspecto a qualquer altura. No entanto, essas
 decisões serão sempre tomadas
 em consonância do DDC SASUM com a AAUM e
-pensando na modalidade e timings de realização.
+pensando na modalidade e timings de realização.pensando na modalidade e timings de realização.pensando na modalidade e timings de realização.pensando na modalidade e timings de realização.

@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 18
-University: Universidade do Minho
-Interviewee(s):  Eng. Carlos Silva 
-Role: Administrador dos SASUM
-Date: 20 de Outubro de 2004
+journal: UMdicas
+issue: Número 18
+university: Universidade do Minho
+interviewee:  Eng. Carlos Silva 
+role: Administrador dos SASUM
+date: 20 de Outubro de 2004
+interviewer: UMdicas
 ---
-Entrevista.com
 que colocam em causa o funcionamento dos próprios
 Serviços Sociais, teremos de encontrar uma solução,
 para avançar, de modo a não prejudicar os estudantes.
@@ -83,7 +83,6 @@ No entanto há problemas que não estão resolvidos, só
 quando tivermos a «recepção provisória» é que
 ocupamos na totalidade a nova sede. Independente
 deste facto, e porque as coisas estão a correr a um ritmo
-
 UMd O que os alunos vão encontrar quando a
 nova sede abrir?
 C.S. Esta mudança não implica que tudo vá mudar de
@@ -99,7 +98,6 @@ serviços. Há que qualificar as pessoas no sentido de
 melhorar o nosso atendimento, assumindo que existem
 coisas que não estão bem, mas a mudança para este
 novo edifício ajudará.
-
 UMd Então um dos grandes objectivos é focar o
 atendimento personalizado no aluno?
 C.S. Nós queremos que o aluno quando aqui vier se
@@ -113,15 +111,6 @@ gostam de se expor para falar dos seus problemas. Isto
 faz parte de uma orientação que temos mantido ao
 longo de um ano e iremos continuar com ela. Nós
 queremos saber se os nossos serviços satisfazem quem
-
-8
-
-20 de Outubro de 2004
-
-dicas
-UM
-Entrevista
-
 nos procura, quantas pessoas passaram por cada
 estrutura de apoio, qual é a qualidade do nosso
 atendimento, entre outras situações...no fundo é a
@@ -179,7 +168,6 @@ também queremos que as pessoas só nos procurem
 quando precisam mesmo. Vamos fornecer todos os
 mecanismos e meios para que as pessoas resolvam os
 seus problemas sem terem de se deslocar ao espaço
-
 físico dos serviços. Na vertente dos sistemas de
 informação internos vai ser notória esta nova filosofia, a
 nossa página de internet também será orientada ao
@@ -200,7 +188,6 @@ podemos, em casos especiais como são os alunos
 erasmus, autorizar a assinatura da bolsa fora da
 universidade, mas é algo que gerimos no processo
 informático de assinatura electrónica.
-
 UMd Qualquer espaço da Universidade serve para
 aceder a este novo serviço?
 C.S. Sim, pode fazê-lo de um laboratório, de uma
@@ -258,14 +245,6 @@ sociais, ou placares de curso, etc. O que defendo é uma
 informação personalizada, e temos feito esforço nesse
 sentido, através do uso do correio electrónico mas nem
 toda gente tem ou utiliza. Penso que o projecto campus
-
-dicas
-UM
-
-20 de Outubro de 2004
-
-Entrevista
-
 virtual vai resolver isto em definitivo. Se as pessoas
 souberam onde estão os avisos, em vez de ir lá
 fisicamente, vão virtualmente e criam-se hábitos
@@ -280,7 +259,6 @@ nesse sentido, além dos jornais, rádios, etc., temos de
 personalizar o contacto. Também é verdade que
 podemos ter avisos por todo o lado e as pessoas não os
 vêm, com a quantidade de informação que há é normal.
-
 A falta de apoios à Universidade do Minho é outro dos
 temas abordados, mostrando preocupação em relação à
 falta de reconhecimento que por vezes existe em
@@ -315,7 +293,6 @@ depois, pois queremos qualificar as residências com o
 mesmo nível de qualidade que outras estruturas dos
 SASUM. Vai ser um dos processos mais complexos dos
 serviços.
-
 Carlos Silva defende que o sistema de bolsas nem
 sempre é justo e o mais correcto, mas os SASUM
 trabalham com a legislação existente e que tem que
@@ -326,7 +303,6 @@ UMd Os alunos queixam-se de algumas injustiças
 na atribuição das bolsas, como comenta?
 C.S. As condições de acesso à bolsa não são definidas
 por nós, são definidas pela lei...
-
 UMd Mas existem alunos que apontam o dedo aos
 SASUM...
 C.S. Atribuição da bolsa é o resultado da aplicação de
@@ -336,7 +312,6 @@ regras são claras, logicamente acredito que haja
 situações difíceis porque existem uma série de
 requisitos que o aluno tem de cumprir. Tem que haver
 aproveitamento mínimo, tem de ser de nacionalidade
-
 portuguesa, o agregado familiar e seu rendimento tem
 que obedecer a um conjunto de situações legalmente
 prevista. Nós apenas introduzimos os parâmetros
@@ -347,7 +322,6 @@ fazemos visitas aos agregados familiares e, em
 situações muito pontuais e fundamentadas existem
 alterações, de excepção, previstas na lei, mas isto é
 limitado ao mínimo.
-
 UMd Mas ouve-se com frequência de pessoas que
 sabem de casos que não deviam receber bolsa. Há
 algum processo de fiscalização?
@@ -359,7 +333,6 @@ Percebemos que há deficiências ou algumas coisas que
 podem não estar bem nesses sistemas, mas não nos
 compete a nós como serviço fazer o trabalho que faz a
 Direcção Geral de Contribuição de Impostos.
-UMd
 Mas acha que devia haver um maior
 controlo?
 C.S. Deveria existir maior controlo pelas entidades
@@ -381,7 +354,6 @@ podemos fazer e existiram situações onde as bolsas
 foram suspensas.
 UMd O processo da atribuição das bolsas deste
 ano lectivo já está pronto?
-C.S.
 Os processos estão quase todos verificados,
 porque durante Agosto ninguém parou para
 que fosse possível ter o processo
@@ -406,17 +378,6 @@ que sabe com quem trabalha e que sabe
 potenciar todas as possibilidades dos seus
 recursos humanos.
 UMd Como vê os SASUM no futuro?
-
-9
-
-10
-
-20 de Outubro de 2004
-
-dicas
-UM
-Entrevista
-
 C.S. Vejo serviços de qualidade e certificados em
 quase todas as áreas, se não todas.
 UMd Mas isso vai obrigar a mudar muita coisa
@@ -465,7 +426,6 @@ alargado. Obriga-nos a “mexer” com a
 estrutura toda e isto é complicado,
 pois, às vezes, estamos a mexer,
 indirectamente, com a vida privada de
-
 um funcionário, e tem de ser feito por mútuo acordo.
 Logicamente que isto é um processo demorado,
 andamos há meses a faze-lo e estamos agora a
@@ -487,7 +447,6 @@ que estamos aqui a fazer é construir, precisamente,
 uma equipa grande e isso não faço sozinho. Faço-o,
 na primeira linha, com os responsáveis de
 departamento, desde o gabinete do administrador,
-
 administrativo e financeiro, alimentar, desporto,
 social e sem esquecer todos aqueles que dedicam os
 possíveis e impossíveis para que tudo funcione, por
@@ -509,7 +468,6 @@ são fáceis para todos e existem vidas pessoais que
 têm aspectos complicados. Mas tem sido uma
 experiência fabulosa em todos os aspectos, esta
 equipa merece tudo.
-
 UMd Utilizando o lema de uma escola,
 uma equipa 100%?
 C.S. Sim, tem de ser uma equipa 100%.
@@ -533,4 +491,4 @@ quem lá está. Há amizades que crescem aqui
 dentro e isto é um dos aspectos importantes
 na vida de todos. Esta relação é uma relação
 que se vai construindo, onde, aqui, as
-pessoas fazem parte deste processo.
+pessoas fazem parte deste processo.pessoas fazem parte deste processo.pessoas fazem parte deste processo.pessoas fazem parte deste processo.

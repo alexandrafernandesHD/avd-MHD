@@ -1,11 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 23
-University: Universidade do Minho
-Interviewee(s): 
-Date: Não encontrado
+journal: UMdicas
+issue: Número 23
+university: Universidade do Minho
+interviewee: Isa e Bárbara
+date: 8 de Março de 2005
+interviewer: Ana Marques
 ---
-Como compõem as coreografias para as aulas?
+Desporto
 
 Quem são as mestres das Danças Africanas?
 Isa e Bárbara duas jovens de 26 anos, Isa de Viana do
@@ -30,7 +31,10 @@ ficamos a conhecer muito melhor o que era a
 verdadeira dança e ritmos Africanos, os seus
 significados. Poder participar no grupo, dançar para o
 público, e sentir aderência deste foi espectacular, rendime completamente”.
-
+Que encontraste neste tipo de ritmos que não
+encontraste nas outras danças?
+Isa e Bárbara “Os Ritmos Africanos são uma mistura
+de sons, ritmos e movimentos que realça a
 espontaneidade dos corpos, a proximidade dos corpos
 num só movimento, e a sua sensualidade são notórias
 enquanto dançam. Nas Danças Africanas trabalham-se
@@ -42,43 +46,18 @@ várias partes do corpo independentes entre si. Um
 movimento policêntrico, uma atitude corporal que
 designamos por colapso”.
 O que significa para vós a Dança Africana?
-
 Isa e Bárbara “A Dança Africana é para nós, acima de
 tudo um meio de comunicação, tem como fim, o uso dos
 movimentos do corpo, dos gestos e sons para se
 comunicar com as audiências. A dança é uma
 necessidade espontânea do povo Africano, a forma
-Que encontraste neste tipo de ritmos que não
 natural de exteriorizar as suas forças interiores e
-encontraste nas outras danças?
 impressionar ou influenciar o ambiente. Um modo de
 confirmação da própria existência, como meio de
-Isa e Bárbara “Os Ritmos Africanos são uma mistura
 defesa, uma maneira de comunicar com as forças
-de sons, ritmos e movimentos que realça a
 supremas. Dançar, pôr o corpo em movimento, em
-
-Isa e Bárbara “Nas nossas aulas as coreografias são
-esquematizadas de forma que haja uma parte fixa e
-outra onde a autonomia de cada um impera. A
-organização do movimento na música e dança
-africanas segue rigidamente certos passos e princípios
-de tempo rítmico. As Danças Africanas têm um
-esquema próprio, passos fixos que ensinamos,
-andamento característico destas danças, que tentamos
-que os alunos aprendam e sigam, como a forma de
-abanar as ancas, mover braços e pernas, a maneira
-como mexer a cabeça, tudo isso é ensinado e faz parte
-da composição das danças. Com o passar do tempo
-esta composição mais rígida, passa grande parte a
-improvisação, claro que existem passos que têm que
-ser dados, mas a liberdade de expressão de cada um
-predomina, são dadas “asas” à imaginação, o espírito
-de cada um solta-se e exteriorizam os seus
-sentimentos. Estas aulas são uma forma de pôr para
-fora tudo o que lhe vai na alma, por isso as pessoas
-vibração, significa uma espécie de comunhão com as deixam-se levar pelos ritmos o que faz destas aulas
-forças vitais, com tudo o que adoram, e que temem e, algo de espectacular e único”.
+vibração, significa uma espécie de comunhão com as 
+forças vitais, com tudo o que adoram, e que temem e,
 além disso, une e reforça neste intuito a comunidade.
 Para nós as Danças Africanas são uma forma de
 expressão pessoal, onde as pessoas põem os
@@ -116,15 +95,30 @@ ter um significado para uma pessoa e diferente para
 outra, e por isso vai ser dançada da forma que cada um
 a sente. Mediante a sua experiência de vida, a sua
 forma de a enfrentar, assim cada pessoa vai sentir
-
-UMdicas
-
-8 de Março de 2005
-
+individualmente a música e exteriorizar os movimentos à sua maneira".
+Como compõem as coreografias para as aulas?
+Isa e Bárbara “Nas nossas aulas as coreografias são
+esquematizadas de forma que haja uma parte fixa e
+outra onde a autonomia de cada um impera. A
+organização do movimento na música e dança
+africanas segue rigidamente certos passos e princípios
+de tempo rítmico. As Danças Africanas têm um
+esquema próprio, passos fixos que ensinamos,
+andamento característico destas danças, que tentamos
+que os alunos aprendam e sigam, como a forma de
+abanar as ancas, mover braços e pernas, a maneira
+como mexer a cabeça, tudo isso é ensinado e faz parte
+da composição das danças. Com o passar do tempo
+esta composição mais rígida, passa grande parte a
+improvisação, claro que existem passos que têm que
+ser dados, mas a liberdade de expressão de cada um
+predomina, são dadas “asas” à imaginação, o espírito
+de cada um solta-se e exteriorizam os seus
+sentimentos. Estas aulas são uma forma de pôr para
+fora tudo o que lhe vai na alma, por isso as pessoas
+deixam-se levar pelos ritmos o que faz destas aulas
+ algo de espectacular e único”.
 Qual é a dinâmica das vossas aulas?
-
-“Procuramos que os
-
 Isa e Bárbara “Como já foi dito, as nossas aulas têm
 uma estrutura básica, iniciamos as aulas sempre com
 um aquecimento, seguindo-se depois as coreografias,
@@ -148,7 +142,7 @@ faziam alguns movimentos mais sensuais, haviam até
 pessoas incomodadas, mas com o tempo, o à vontade,
 a energia, a alegria destas aulas tornaram-se a nota
 dominante”.
-
+“Procuramos que os
 alunos se ambientarem e
 com o decorrer do
 tempo, seguindo a
@@ -158,7 +152,6 @@ olhos” e cada um
 explora os seus
 sentimentos, há
 liberdade de expressão.”
-
 Qual é o espírito no final das aulas?
 Isa e Bárbara “No final das aulas o espírito é que,
 ninguém tem vontade de terminar. O sentimento
@@ -174,7 +167,6 @@ As Danças Africanas ainda são uma actividade
 pouco divulgada… Porquê?
 Isa e Bárbara “Apesar dos esforços que têm sido feitos
 para promoção desta actividade, como Workshops em
-
 escolas e ginásios, aulas livres, inserção das danças
 em academias desportivas, como actividade contínua,
 a verdade é que apesar de todo o desenvolvimento que
@@ -191,18 +183,23 @@ diferente noutra cultura e acabam por ficar, rendem-se
 aos ritos africanos. O que nos dizem é que vêm mesmo
 por curiosidade, mas a singularidade destas aulas
 conquista-os. Temos algo contra que é a hora das
-aulas, pois às 9:30 é um pouco tarde, penso que com
+aulas, pois às 9: 30 é um pouco tarde, penso que com
 um horário melhor a aderência e assiduidade seria
 ainda mais”.
-
-Desporto
-
-09
-
+Com um curso de Educação Física, porque não 
+seguir a profissão de professoras?
+Isa e Bárbara “Sabemos que a maioria dos licenciados
+neste curso é isso que seguem, nós estagiamos nessa 
+área, mas foi algo que não nos fascinou, a única atracão
+era mesmo a estabilidade financeira que proporciona, 
+mas os cânones seguidos, a pouca abertura a
+inovações, as rotinas que não podem ser quebradas, o
+seguir um programa que já não ensina nada 
+decepcionou-nos, e preferimos a inconstância
+financeira, mas a liberdade de fazermos o que gostamos”.
 Quais os vossos objectivos para o futuro?
-
 Isa e Bárbara - “Nas nossas perspectivas de futuro, ou
-seja, já quase presente, estão fazer uma PósGraduação em Dança, Terapia e Comunicação NãoVerbal na Universidade Autónoma de Lisboa, com a
+seja, já quase presente, estão fazer uma Pós-Graduação em Dança, Terapia e Comunicação Não-Verbal na Universidade Autónoma de Lisboa, com a
 possibilidade de irmos para Barcelona no intercâmbio
 existente entre a Universidade Autónoma e a
 Universidade de Barcelona. Posteriormente o sonho é
@@ -216,17 +213,12 @@ esperamos ver realizado. Mas falando no presente,
 forma-mos agora um grupo, denominado de
 SalaKadanza, que integra alunos nossos de Braga e
 Viana, os quais estamos a preparar para começar a dar
-Com um curso de Educação Física, porque não espectáculos por todo o país, procurando realizar um
-seguir a profissão de professoras?
+espectáculos por todo o país, procurando realizar um
 dos nossos objectivos, que é a divulgação das Danças
 Africanas”.
-Isa e Bárbara “Sabemos que a maioria dos licenciados
-neste curso é isso que seguem, nós estagiamos nessa Depois da conversa com as nossas “mestres” das
-área, mas foi algo que não nos fascinou, a única atracão Danças Africanas, depois de ficarmos a conhecer um
-era mesmo a estabilidade financeira que proporciona, pouco mais sobre esta arte, os nossos ritmos esperammas os cânones seguidos, a pouca abertura a te todas as quartas-feiras às 9:30, não percas a
-inovações, as rotinas que não podem ser quebradas, o oportunidade, vem experimentar. Dirige-te à secretaria
-seguir um programa que já não ensina nada do Pavilhão desportivo e inscreve-te.
-decepcionou-nos, e preferimos a inconstância
-financeira, mas a liberdade de fazer-mos o que
+Depois da conversa com as nossas “mestres” das
+ Danças Africanas, depois de ficarmos a conhecer um
+ pouco mais sobre esta arte, os nossos ritmos esperam te todas as quartas-feiras às 9: 30, não percas a
+ oportunidade, vem experimentar. Dirige-te à secretaria
+ do Pavilhão desportivo e inscreve-te.
 Ana Marques
-gostamos”.

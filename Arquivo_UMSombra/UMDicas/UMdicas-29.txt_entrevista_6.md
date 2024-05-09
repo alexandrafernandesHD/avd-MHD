@@ -1,15 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Número 29
-University: Universidade do Minho
-Interviewee(s): Pedro Dias
-Date: 19 de Setembro de 2005
+journal: UMdicas
+issue: Número 29
+university: Universidade do Minho
+interviewee: Pedro Dias
+date: 19 de Setembro de 2005
+interviewer: Ana Marques
 ---
 Entrevista com Pedro Dias
 Dicas- Pedro Dias qual foi a sua função dentro
 da organização das Universíadas de Izmir?
 P.D.- O Comité Executivo
-d a F e d e r a ç ã o
+da Federação
 Internacional do Desporto
 Universitário (FISU) é o
 órgão responsável pela
@@ -19,8 +20,8 @@ Universíada. Na qualidade
 de membro do Comité
 Executivo, a par dos meus
 colegas desse comité,
-m a n t i v e
-u m
+mantive
+um
 acompanhamento muito
 estrito de todos os
 aspectos relacionados
@@ -59,8 +60,7 @@ de recursos humanos, reforço das estruturas
 técnicas existentes nas diversas modalidades é
 impressionante. Apesar de não me parecer muito
 relevante, é importante destacar o facto de ter sido
-
-UMdicas
+UMdicas
 batido o record de participantes no
 evento, participaram 7816 elementos
 oriundos de 131 países dos 5
@@ -105,14 +105,11 @@ eventos com uma regularidade impressionante. Os
 estudantes têm estado á altura do desafio, apesar
 das grandes dificuldades que a FADU tem
 encontrado, nomeadamente pelo facto da estrutura
-
-19 de Setembro de 2005
-
 dirigente ser composta por
 jovens voluntários, e de não
 possuir um corpo técnico
 qualificado devidamente
-d i m e n s i o n a d o à
+dimensionado à
 responsabilidade que lhe é
 cometida pelo Estado, através da
 atribuição da utilidade pública
@@ -153,11 +150,6 @@ com objectivos bem definidos, onde todos os
 intervenientes estejam conscientes sobre o que se
 pretende e qual o percurso do desporto no nosso
 país.
-
-Desporto
-
-09
-
 O desporto escolar e no Ensino Superior
 “encaixam” perfeitamente nesse ambiente, temos
 consciência de que estes locais são espaços de
@@ -171,4 +163,4 @@ necessárias e definir os objectivos para o desporto
 em Portugal. Se isso for feito, não tenho a menor
 dúvida de que os tão badalados índices e taxas de
 prática desportiva irão melhorar, bem como, os
-resultados desportivos no alto rendimento.
+resultados desportivos no alto rendimento.resultados desportivos no alto rendimento.resultados desportivos no alto rendimento.resultados desportivos no alto rendimento.

@@ -1,25 +1,25 @@
 ---
-Jornal: UMdicas
-Issue: Número 29
-University: Universidade do Minho
-Interviewee(s): 
-Date: 19 de Setembro de 2005
+journal: UMdicas
+issue: Número 29
+university: Universidade do Minho
+interviewee: Prof. Manuel Janeira
+date: 19 de Setembro de 2005
+interviewer: Ana Marques
 ---
-s com personalidades que estiveram em Izmir,
+Entrevistas com personalidades que estiveram em Izmir,
 Turquia
-
 Prof. Manuel
 Janeira
-
 Chefe de Missão
-C o m i t i v a
+Comitiva
 Portuguesa às
 Universiadas de
 Izmir
+
 Dicas- Sabemos que o
 Prof. Manuel Janeira
 foi o chefe de missão
-d a c o m i t i v a
+da comitiva
 portuguesa a Izmir, em
 que consistiu essa
 função?
@@ -36,7 +36,6 @@ forma muito profissional às tarefas quase distribuídas on-line.
 Dicas- Como chefe de missão, no geral, que avaliação
 nos pode fazer das Universíadas de Izmir? Quais os
 aspectos positivos e negativos que mais ressaltaram?
-
 M.J.- Já tinha participado em universíadas como atleta, é fácil
 perceber a importância de umas universíadas. É o segundo
 maior evento desportivo depois dos jogos olímpicos, onde
@@ -119,7 +118,6 @@ Finlândia, Suécia, etc.
 Agora é preciso que a FADU seja capaz de fazer
 entender às federações desportivas não universitárias a
 importância deste acontecimento, para que sejam capazes de
-
 integrar a participação nas Universíadas como um momento
 da preparação desportiva das suas selecções. É também um
 desafio às próprias universidades que eram distraídas em
@@ -198,4 +196,4 @@ se centrar no norte de Portugal que tem as condições a nível
 dos equipamentos desportivos. O que posso dizer é que
 temos equipamentos desportivos para organizar, a única
 coisa que era necessário construir era uma aldeia para os
-atletas.
+atletas.atletas.atletas.atletas.

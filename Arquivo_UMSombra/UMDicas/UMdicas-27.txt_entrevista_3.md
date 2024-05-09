@@ -1,17 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Número 27
-University: Universidade do Minho
-Interviewee(s): Paulo Ferreira
-Topic: atletismo na UM
-Date: 25 de Maio de 2005
+journal: UMdicas
+issue: Número 27
+university: Universidade do Minho
+interviewee: Paulo Ferreira
+topic: atletismo na UM
+date: 25 de Maio de 2005
+interviewer: Ana Marques
 ---
-com Paulo Ferreira, coordenador da
+Entrevista com Paulo Ferreira, coordenador da
 modalidade de Atletismo da UM
-1-
-
-Qual tem sido o percurso do atletismo na UM?
-
+1- Qual tem sido o percurso do atletismo na UM?
 Desde que fui convidado a gerir o Atletismo na
 Universidade do Minho, de à sete anos a esta parte, temos
 tido um percurso muito agradável e com algum sucesso.
@@ -24,12 +22,12 @@ independentemente do nível do atleta, é a participação
 sem preocupação pelo resultado. Tem sido essa a filosofia
 e é sem dúvida o melhor caminho para este nível
 competitivo.
+
 2- Quais as competições mais importantes em que
 participamos (UM)?
 É precisamente esse um dos problemas desta modalidade
 o calendário competitivo em termos universitários é muito
 reduzido. Temos 3 competições enquadradas em
-
 Campeonatos Nacionais Universitários (pista, corta mato
 e pista coberta). Depois podemos ter ainda uma ou outra
 competição de índole mais restrita e geralmente
@@ -46,10 +44,7 @@ se tem apresentado alguns projectos e ideias para inovar
 neste sentido. Parece-me que em breve teremos mais
 uma ou duas competições para lançar à comunidade
 académica.
-3-
-
-O que já ganhamos?
-
+3- O que já ganhamos?
 Esta é muito fácil: tudo o que havia para ganhar! Então este
 ano em particular tem sido fantástico. A equipa de
 Atletismo da Universidade do Minho foi vencedora
@@ -63,10 +58,7 @@ Novembro a Fevereiro). Igualmente podem usufruir do
 espaço nos Campi da Universidade e das suas instalações
 desportivas (nomeadamente a sala de musculação em
 horario reservado).
-5-
-
-Como são realizados os treinos?
-
+5-Como são realizados os treinos?
 Como referi o enquadramento dos atletas é o segredo do
 sucesso. Uma grande parte dos atletas da Universidade
 do Minho já está numa situação de treino estável integrado
@@ -74,11 +66,7 @@ num clube federado e orientados por um colega treinador.
 Há também atletas a quem eu oriento uma preparação
 generalizada ou então mais específica na altura das
 provas.
-
-6-
-
-Qual o apoio da UM aos atletas?
-
+6-Qual o apoio da UM aos atletas?
 A Universidade através do DDC e da AAUM tem dado todo
 o apoio à modalidade. Desde a satisfação da necessidade
 dos equipamentos de competição, passando pela própria
@@ -93,20 +81,13 @@ tenho defendido a participação em provas internacionais
 no sentido, não apenas de testar as capacidades dos
 atletas perante outros universitários, mas também como
 forma de motivação para os mesmos.
-
-8-
-
-Quais foram as conquistas este ano?
-
+8-Quais foram as conquistas este ano?
 Em números entende-se bem… Em medalhas individuais,
 7 foram de ouro, 8 de prata e 6 de bronze. Se juntarmos
 ainda os três títulos colectivos perfazem 24 medalhas
 sobre um total de 38 atletas designados como campeões
 nacionais universitários.
-9-
-
-Qual o percurso realizado até ao sucesso final?
-
+9-Qual o percurso realizado até ao sucesso final?
 Foi simples. Quando vi algumas entradas de caloiros este
 ano na Universidade e também o regresso de alguns
 outros atletas ausentes por estarem em Erasmus,
@@ -148,88 +129,43 @@ termos competitivos, aproximadamente 25 a 30.
 13- Quem são os atletas vencedores deste ano de
 glórias?
 CNU Pista Coberta Espinho
-·
-Ouro
-o
-60m: Liliana Correia (Economia)
-o
-60m: Pedro Costa (Física)
-o
-Salto em altura: Nuno Alcobia (LESI)
-
-o
-4x200m: Liliana Correia (Economia), Márcia Tinoco
+· Ouro
+o 60m: Liliana Correia (Economia)
+o 60m: Pedro Costa (Física)
+o Salto em altura: Nuno Alcobia (LESI)
+o 4x200m: Liliana Correia (Economia), Márcia Tinoco
 (Gestão), Anabela Pereira (Quimica Aplicada) e Ashley
 Novais (Biologia Aplicada)
-o
-Equipa campeã nacional universitária
-·
-Prata
-o
-Salto em comprimento: Liliana Correia (Economia)
-o
-Salto em altura: Emília Sousa (Quimica Aplicada)
+o Equipa campeã nacional universitária
+· Prata
+o Salto em comprimento: Liliana Correia (Economia)
+o Salto em altura: Emília Sousa (Quimica Aplicada)
 CNU Corta Mato Oliveira de Azemeis
-·
-Ouro
-o
-Equipa campeã nacional universitária
-·
-Prata
-o
-André Silva (Engª Comunicações)
-·
-Bronze
-o
-Anabela Pereira (Química Aplicada)
+o André Silva (Engª Comunicações)
+· Bronze
+o Anabela Pereira (Química Aplicada)
 Estafeta Universitária Braga-Guimarães
-·
-Ouro
-o
-Liliana Correia (Economia), Márcia Tinoco (Gestão),
+o Liliana Correia (Economia), Márcia Tinoco (Gestão),
 Anabela Pereira (Quimica Aplicada) e Ashley Novais
 (Biologia Aplicada), Hélder Rodrigues (Arqueologia), Nuno
 Couto (Física), Adelino Novais (Psicologia) e Bruno
 Vasconcelos (Engª Biologica).
 CNU Pista Guimarães
-·
-Ouro
-o
-Salto em comprimento: Liliana Correia (Economia)
-o
-4x200m: Pedro Costa (Física), Bruno Vasconcelos
+o 4x200m: Pedro Costa (Física), Bruno Vasconcelos
 (Engª Biologica), Paulo Silva (LESI) e Hugo Gonçalves
 (LESI).
-o
-4x200m: Liliana Correia (Economia), Márcia Tinoco
 (Gestão), Anabela Pereira (Quimica Aplicada) e Ercília
 Machado (Engª Biologica).
-o
-Equipa campeã nacional universitária
-·
-Prata
-o
-100m: Pedro Costa (Física)
-o
-1500m: Ercilia Machado (Engª Biologica)
-o
-3000m: Nuno Couto (Física)
-o
-Salto em altura: Hugo Gonçalves (LESI)
-o
-400m: Anabela Pereira (Quimica Aplicada)
-·
-Bronze
-o
-100m: Liliana Correia (Economia)
-o
-Salto à vara: Paulo Silva (LESI)
-o
-1500m: Anabela Pereira (Quimica Aplicada)
-o
-Salto em altura: João Machado (LESI)
-o
-400m: Márcia Tinoco (Gestão)
+o 100m: Pedro Costa (Física)
+o 1500m: Ercilia Machado (Engª Biologica)
+o 3000m: Nuno Couto (Física)
+o Salto em altura: Hugo Gonçalves (LESI)
+o 400m: Anabela Pereira (Quimica Aplicada)
+o 100m: Liliana Correia (Economia)
+o Salto à vara: Paulo Silva (LESI)
+o 1500m: Anabela Pereira (Quimica Aplicada)
+o Salto em altura: João Machado (LESI)
+o 400m: Márcia Tinoco (Gestão)
 14- Que recompensa espera 1 atleta de atletismo
 depois de 1 ano em que ganharam tudo?
 Recompensa? Não sei bem… Por um lado apreciei muito o
@@ -239,4 +175,4 @@ de dúvida um incentivo e um prémio pelo trabalho
 realizado. Julgo também que a participação na Gala de
 Desporto também seja um momento de reconhecimento.
 È que é sem sombra de dúvida espectacular! Nunca
-ninguém havia ganho tudo.
+ninguém havia ganho tudo.ninguém havia ganho tudo.ninguém havia ganho tudo.ninguém havia ganho tudo.

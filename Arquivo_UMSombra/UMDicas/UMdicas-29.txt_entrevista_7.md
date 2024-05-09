@@ -1,11 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 29
-University: Universidade do Minho
-Interviewee(s): Carlos Santos
-Date: 19 de Setembro de 2005
+journal: UMdicas
+issue: Número 29
+university: Universidade do Minho
+interviewee: Carlos Santos
+date: 19 de Setembro de 2005
+interviewer: Ana Marques
 ---
-com Carlos Santos
+Entrevista com Carlos Santos
 Dicas- Qual o papel da
 FADU na organização e
 coordenação destes
@@ -36,31 +37,6 @@ trabalho e várias experiências, umas positivas outras
 negativas, mas que eu como Pres. da FADU e toda a equipa
 que me acompanhou soubemos ultrapassar da melhor
 maneira.
-
-um pouco mais longe numa ou noutra questão, mas foi o
-financiamento possível. Apesar de tudo acho que
-conseguimos passar a mensagem às federações e ministério,
-era obviamente estratégico potenciarmos novos caminhos,
-visualizarmos novas metas, horizontes e desafios. Nesse
-sentido conseguimos elucidar na medida do possível o
-governo português da necessidade da representação nas
-Universíadas, sem as federações desportivas era claramente
-impossível, apesar do esforço financeiro da participação ser
-inteiramente da FADU, as federações contribuíram apenas
-com apoio técnico e disponibilizaram os equipamentos
-desportivos de competição, tudo o resto foi responsabilidade
-da FADU. Houveram também outros apoios, nomeadamente
-do Comité Olímpico que ofereceu os trajes oficiais de passeio
-para o desfile de honra, mas também a Universidade do Minho
-que durante dois meses foi a sede para a organização das
-Universíadas e ainda a Academia Militar que nos deu a
-possibilidade de reunir toda a delegação em Lisboa no dia
-antes da partida. Todos estes apoios foram um contributo
-essencial para a participação de Portugal.
-Dicas- Carlos Santos, o que seria necessário mudar no
-desporto universitário para que nas próximas
-universíadas os resultados melhorassem?
-
 Dicas- Muita gente desconhecerá o que são umas
 Universíadas, qual a definição que nos pode dar?
 C.S.- Evento excelente! Todo o fenómeno do desporto
@@ -93,8 +69,29 @@ ministérios?
 C.S.- Tivemos o apoio do Ministério da Ciência, Tecnologia e
 Ensino Superior e Secretaria de Estado do Desporto que
 foram os responsáveis pelo financiamento. Podíamos ter ido
-Publicidade
-
+um pouco mais longe numa ou noutra questão, mas foi o
+financiamento possível. Apesar de tudo acho que
+conseguimos passar a mensagem às federações e ministério,
+era obviamente estratégico potenciarmos novos caminhos,
+visualizarmos novas metas, horizontes e desafios. Nesse
+sentido conseguimos elucidar na medida do possível o
+governo português da necessidade da representação nas
+Universíadas, sem as federações desportivas era claramente
+impossível, apesar do esforço financeiro da participação ser
+inteiramente da FADU, as federações contribuíram apenas
+com apoio técnico e disponibilizaram os equipamentos
+desportivos de competição, tudo o resto foi responsabilidade
+da FADU. Houveram também outros apoios, nomeadamente
+do Comité Olímpico que ofereceu os trajes oficiais de passeio
+para o desfile de honra, mas também a Universidade do Minho
+que durante dois meses foi a sede para a organização das
+Universíadas e ainda a Academia Militar que nos deu a
+possibilidade de reunir toda a delegação em Lisboa no dia
+antes da partida. Todos estes apoios foram um contributo
+essencial para a participação de Portugal.
+Dicas- Carlos Santos, o que seria necessário mudar no
+desporto universitário para que nas próximas
+universíadas os resultados melhorassem?
 C.S.- O desporto universitário da forma como está organizado
 em Portugal não tem intenções de trabalho no alto rendimento,
 no entanto a FADU surge como uma federação estratégia para
@@ -114,7 +111,6 @@ desprezado por não vir às aulas, mas sim apoiado para que
 possa ter sucesso desportivo e académico, quando
 percebermos que todo o sistema universitário pode ser um
 balão de experiências que pode optimizar não só atletas, mas
-
 também dirigentes e experiências desportivas. Aquilo que
 estamos a tentar fazer é desenvolver projectos desportivos
 através de experiências, o que fizemos com as modalidades
@@ -134,7 +130,6 @@ parcerias que começamos a estabelecer, das quais as
 Universíadas foram um momento estratégico para afirmação e
 apresentação de uma nova FADU, de novos objectivos e
 novos interesses a nível do panorama nacional desportivo.
-
 Dicas- Como presidente da FADU será que nos pode abrir
 um pouco sobre o futuro do desporto universitário e da
 sua continuação à frente da FADU?
@@ -166,4 +161,4 @@ nona forma de estar completamente diferente, pois passa pelo
 enquadramento da FADU no panorama desportivo nacional
 como parte estratégica de desenvolvimento e não como algo
 isolado que aparecia de dois em dois anos para organizar
-qualquer coisa.
+qualquer coisa.qualquer coisa.qualquer coisa.qualquer coisa.

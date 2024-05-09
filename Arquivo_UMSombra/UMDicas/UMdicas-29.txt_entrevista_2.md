@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 29
-University: Universidade do Minho
-Interviewee(s): 
-Date: 19 de Setembro de 2005
+journal: UMdicas
+issue: Número 29
+university: Universidade do Minho
+interviewee: Miguel Mesquita
+date: 19 de Setembro de 2005
+interviewer: Nuno Gouveia
 ---
 UMd- Depois de um ano tão positivo, como o
 da época passada, que perspectivas para este
@@ -24,7 +25,7 @@ primeiras?
 Miguel Mesquita- O início do ano é
 obrigatoriamente marcado pelas actividades no
 âmbito da recepção aos novos alunos. Em termos
-desportivos, estão agendados vários eventos:
+desportivos, estão agendados vários eventos: 
 -Animação e actividades recreativas na cerimónia
 de boas-vindas, na tarde do dia 26 de Setembro;
 -os Caloiros de Molho, talvez o evento com mais
@@ -85,7 +86,6 @@ Miguel Mesquita- Esta questão terá que ser
 obrigatoriamente colocada ao responsável do
 desporto da AAUM no mandato de 2006…
 Pessoalmente, sou da opinião que deverá
-
 continuar nos mesmos moldes, até porque, dado
 o crescente sucesso da actividade, não fará muito
 sentido alterar. No entanto, penso que se
@@ -110,4 +110,4 @@ sentido, não posso deixar de apelar a todos os
 recém chegados e também aqueles que
 habitualmente frequentam as nossas instalações,
 que continuem a praticar desporto e que
-representem com orgulho as cores da AAUM.
+representem com orgulho as cores da AAUM.representem com orgulho as cores da AAUM.representem com orgulho as cores da AAUM.representem com orgulho as cores da AAUM.
