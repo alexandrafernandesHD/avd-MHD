@@ -1,13 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 53
-University: Universidade do Minho
-Interviewee(s): 
-Date: 30 de Julho de 2007
-Title: NECLUM Núcleo de Estudante dos Cursos de Letras da Universidade do Minho
-Interviewer: Helder Miranda
+journal: UMdicas
+issue: Número 53
+university: Universidade do Minho
+interviewee: NECLUM
+date: 30 de Julho de 2007
+title: NECLUM Núcleo de Estudante dos Cursos de Letras da Universidade do Minho
+interviewer: Helder Miranda
 ---
-
 NECLUM Núcleo de Estudante dos Cursos de Letras da Universidade do Minho
 O Núcleo de Estudantes dos Cursos de Letras da
 Universidade do Minho, identificável pela sigla
@@ -26,8 +25,7 @@ NECLUM, e em conversa com o UMDicas,
 revelou algumas das principais acções do núcleo,
 bom como os desejos e sonhos que o próprio
 deseja ver alcançados para o NECLUM.
-
-UMDicas: Quais são os principais objectivos do
+UMDicas Quais são os principais objectivos do
 NECLUM?
 Ricardo Rodrigues: Os principais objectivos do
 Núcleo são promover os cursos de Letras da
@@ -36,8 +34,7 @@ interesse da comunidade académica, promover a
 imagem da Universidade no domínio das
 Humanidades e apoiar os alunos nas suas
 actividades extra-curriculares.
-
-UMDicas: Qual ou quais são as actividades de
+UMDicas Qual ou quais são as actividades de
 maior destaque do NECLUM?
 RR: Todos os anos a actividade de maior
 destaque do NECLUM são as Jornadas de Letras,
@@ -47,49 +44,40 @@ contado com a presença do escritor José Luís
 Peixoto, visto ser o melhor representante dos
 escritores portugueses
 da nova geração.
-
-UMDicas: Quais são os objectivos da actual
+UMDicas Quais são os objectivos da actual
 direcção, neste mandato?
 RR: Renovação do núcleo, quer no sentido de
 maior autonomia quer no de projecção.
 Continuação da realização das actividades
 tradicionais e a proposta de novas actividades.
-
-UMDicas: Quantos associados possui o
-NECLUM?
+UMDicas Quantos associados possui o
 RR: Neste momento contamos com um número
 de associados de 10 membros, mas prevemos o
 alargamento do mesmo.
-
-UMDicas: Quais são as próximas actividades do
-NECLUM?
+UMDicas Quais são as próximas actividades do
 RR: As próximas actividades são as Jornadas de
 Letras 2007/2008, a revista electrónica
 [Com]Textos e o apoio e divulgação aos/dos sites
 de curso existentes.
-
-UMDicas: Existe um espaço físico para a sede do
+UMDicas Existe um espaço físico para a sede do
 NECLUM? Onde se situa?
 RR: Sim, existe. Fica no piso 0 do Instituto de
 Letras e Ciências Humanas da Universidade do
 Minho (ILCH), no campus de Gualtar em Braga.
-
-UMDicas: Quais são as principais dificuldades
+UMDicas Quais são as principais dificuldades
 com que se depara este Núcleos?
 RR: As principais dificuldades do núcleo são o
 financiamento e a mobilização.
-
-UMDicas: Quais são os desejos/objectivos que
+UMDicas Quais são os desejos/objectivos que
 pretendem ver alcançados?
 RR: A revista [Com]Textos em formato electrónico
 e formato papel, as Jornadas de Letras com cada
 vez mais projecção e a integração completa no
 projecto PANSUM.
-
-UMDicas: Uma última palavra que queira deixar
+UMDicas Uma última palavra que queira deixar
 aos colegas.
 RR: Gostaríamos de poder chegar a mais
 pessoas, independentemente da sua área de
 formação. E também de contarmos com cada vez
 mais sócios.
-Helder Miranda
+Helder MirandaHelder MirandaHelder MirandaHelder Miranda

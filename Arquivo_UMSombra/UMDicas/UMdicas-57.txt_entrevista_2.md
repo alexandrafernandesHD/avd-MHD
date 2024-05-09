@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 57
-University: Universidade do Minho
-Interviewee(s): Roque Teixeira
-Topic: O 10º Campeonato Mundial Universitário de Badminton (CMUB)
-Date: 24 de Abril de 2008
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Número 57
+university: Universidade do Minho
+interviewee: Roque Teixeira
+topic: O 10º Campeonato Mundial Universitário de Badminton (CMUB)
+date: 24 de Abril de 2008
+interviewer: Ana Marques
 ---
 
 Interesse Público reconhecido ao
@@ -49,7 +49,6 @@ vez Roque Teixeira dirigir um projecto de
 dimensão e envergadura diametralmente
 maiores o Mundial Universitário de
 Badminton.
-
 Porque resolveram candidatar-se a
 esta organização?
 A ideia de nos candidatarmos ao Mundial
@@ -73,7 +72,6 @@ bastante forte na região do Minho, foi a
 escolha e a atribuição foi feita em Maio de
 2005, por unanimidade, pelo Comité
 Executivo da FISU.
-
 Como Presidente do CO quais são as
 suas expectativas para este
 campeonato?
@@ -90,7 +88,6 @@ capacidade que esta casa tem de
 organizar eventos de qualidade
 asseguram-me que todo o trabalho terá
 esse terminus.
-
 Já tem experiência de liderar este tipo
 de evento, como será desta vez? A
 função do Presidente será diferente em
@@ -114,7 +111,6 @@ evento. Mas sem dúvida alguma que tudo
 correrá bem e todo esse trabalho
 esperemos que seja recompensado com a
 qualidade pretendida deste Mundial
-
 Em relação à preparação, qual o ponto
 da situação?
 A preparação está a decorrer dentro do
@@ -132,7 +128,6 @@ necessidade de cumprirmos
 determinados prazos estabelecidos mas,
 como referi, é um trabalho que está a
 decorrer com tranquilidade.
-
 Decorreu em Fevereiro a visita de
 inspecção da FISU, qual foi a opinião
 geral recolhida?
@@ -142,7 +137,6 @@ impressionado e até, arrisco-me a dizer,
 entusiasmado com as nossas ideias e
 propostas, assim como pelas condições
 que vamos oferecer aos participantes.
-
 Foi atribuído recentemente ao
 Campeonato Mundial de Badminton, a
 designação de evento de Interesse
@@ -155,7 +149,6 @@ acontece para um evento desportivo de
 nossos parceiros nesta aventura, devem
 igualmente partilhar deste sucesso pois
 esta vitória é tanto nossa como deles.
-
 Quais as consequências desta
 nomeação?
 Traduz-se efectivamente no
@@ -179,7 +172,6 @@ também um reconhecimento do muito
 bom trabalho que temos desenvolvido,
 com actividades e eventos de elevada
 qualidade.
-
 Isto terá impacto no número de
 inscritos?
 Não creio que terá directamente. Temos
@@ -195,4 +187,4 @@ e assim prestar um ainda melhor serviço.
 Invariavelmente, não fazemos por menos
 é para ser o melhor de sempre!
 Ana Marques
-anac@sas.uminho.pt
+anac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.pt

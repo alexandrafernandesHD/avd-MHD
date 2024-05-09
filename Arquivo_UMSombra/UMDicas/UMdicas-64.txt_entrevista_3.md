@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 64 - Ano 4
-University: Universidade do Minho
-Interviewee(s): José Fernandes
-Date: 27 de Dezembro de 2008
-Title: José Fernandes é o primeiro campeão português
-Interviewer: José Carlos Bragança
+journal: UMdicas
+issue: Edição nº 64 - Ano 4
+university: Universidade do Minho
+interviewee: José Fernandes
+date: 27 de Dezembro de 2008
+title: José Fernandes é o primeiro campeão português
+interviewer: José Carlos Bragança
 ---
 
 José Fernandes é o primeiro campeão português
@@ -14,10 +14,6 @@ conquistou a primeira medalha de ouro para Portugal num
 Europeu Universitário, na modalidade de Taekwondo, ao vencer
 na final de -67kg (7-4) um atleta da Sérvia. Foi em Moscovo no passado dia
 7 de Dezembro.
-
-José Carlos Bragança
-dicas@sas.uminho.pt
-
 A palavra "orgulho" anda por isso
 de boca em boca na academia
 minhota. O atleta da UM confirmou
@@ -73,7 +69,6 @@ continuar intenso”.
 No caminho até chegar a final, o
 minhoto venceu os rivais da
 Polónia por (7-1), de Israel por (81) e da República Checa (6-4).
-
 A história de José Fernandes
 Este foi o melhor resultado
 alguma vez alcançado por
@@ -96,7 +91,7 @@ culpa de “uma paixão que foi
 sendo cultivada”, explica o
 medalhado, não sem antes ter
 passado por outros desportos pois
-como o próprio se classifica:” sou
+como o próprio se classifica: ” sou
 um desportista”. Daí em diante a
 competição “foi
 sempre a doer” e o minhoto
@@ -118,4 +113,4 @@ O “menino de Braga" fez história,
 ergueu a bandeira nacional no
 mastro principal na Rússia e
 trouxe o ouro que teimava em não
-chegar ao Minho.
+chegar ao Minho.chegar ao Minho.chegar ao Minho.chegar ao Minho.

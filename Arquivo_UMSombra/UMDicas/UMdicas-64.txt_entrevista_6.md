@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 64 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Date: 27 de Dezembro de 2008
-Title: UMinho no topo da investigação nacional
-Interviewer: Redacção
+journal: UMdicas
+issue: Edição nº 64 - Ano 4
+university: Universidade do Minho
+interviewee: Prof. Manuel Mota
+date: 27 de Dezembro de 2008
+title: UMinho no topo da investigação nacional
+interviewer: Redacção
 ---
 
 UMinho no topo da investigação nacional
@@ -15,10 +15,6 @@ de I&D, referentes a 2007/2008, colocando a Universidade do
 Minho (UMinho) no topo da classificação do sistema científico nacional,
 com sete unidades classificadas com Excelente e oito com Muito Bom,
 confirmando a excelente performance científica da UMinho.
-
-Redacção
-dicas@sas.uminho.pt
-
 O processo iniciado em 2007
 divulgou agora os primeiros
 resultados, os quais não são
@@ -104,8 +100,7 @@ que consistiu exactamente esta
 avaliação e o que foi feito pela
 UMinho para chegar até este
 patamar
-
-UMdicas: A Fundação para a
+UMDicas A Fundação para a
 Ciência e a Tecnologia (FCT),
 divulgou recentemente os
 primeiros resultados da
@@ -115,12 +110,10 @@ colocando a Universidade do
 Minho (UMinho) no topo da
 classificação do sistema
 científico nacional, com sete
-unidades classificadas com
 Excelente e oito com Muito Bom,
 confirmando a excelente
 performance científica da
 UMinho.
-
 O que significam estes
 resultados para a UMinho?
 Manuel Mota: Significam que o
@@ -130,8 +123,7 @@ qualidade da investigação deram
 os seus frutos. Os investigadores
 da Universidade e os Directores
 dos Centros estão de parabéns.
-
-UMdicas: Qual foi o processo
+UMDicas Qual foi o processo
 para se chegar até aqui?
 M.M.: É necessário salientar que
 em 2002 havia um número bem
@@ -222,8 +214,7 @@ das cátedras Lloyd Braga e
 promovendo a realização de
 congressos internacionais de
 grande impacto.
-
-UMdicas: Diferente da estratégia
+UMDicas Diferente da estratégia
 do governo em relação ao
 orçamento das universidades, a
 FCT premiou aqueles que
@@ -269,8 +260,7 @@ teremos mais projectos
 europeus financiados trazendo
 para a UMinho mais visibilidade
 internacional.
-
-UMdicas: Como responsável pela
+UMDicas Como responsável pela
 área da investigação. Quais são
 os objectivos para o futuro?
 M.M.: Recentemente
@@ -303,5 +293,4 @@ impacto, não é impossível
 ambicionar, para 2010, a
 produção de 1000 artigos, nos
 quais se incluirão 5 artigos em
-revistas de muito grande
-prestígio.
+prestígio.prestígio.prestígio.prestígio.

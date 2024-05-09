@@ -1,24 +1,21 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 66 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Pedro Póvoa
-Role: aluno de Psicologia
-Date: 28 de Fevereiro de 2009
-Title: Pedro Póvoa, o sr. Olímpico do Taekwondo nacional
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 66 - Ano 4
+university: Universidade do Minho
+interviewee: Pedro Póvoa
+role: aluno de Psicologia
+date: 28 de Fevereiro de 2009
+title: Pedro Póvoa, o sr. Olímpico do Taekwondo nacional
+interviewer: Nuno Gonçalves
 ---
 
 Pedro Póvoa, o sr. Olímpico do Taekwondo nacional
-
 Pedro Póvoa, aluno de Psicologia, é um dos três membros do
 programa TUTORUM que marcaram presença nos últimos Jogos
 Olímpicos de Pequim. Vamos agora conhecer um pouco mais
 desta atleta impar do Taekwondo nacional.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Este atleta de Taekwondo da
 UMinho, possui um currículo
 desportivo invejável, tendo já sido
@@ -29,8 +26,7 @@ provas de Classe A do circuito
 europeu, para além de já ter
 conquistado bronze num Europeu
 da especialidade.
-
-UMdicas: Com que idade é que
+UMDicas Com que idade é que
 iniciaste a prática competitiva do
 taekwondo e onde?
 Pedro Póvoa: Iniciei a prática do
@@ -38,8 +34,7 @@ Taekwondo com 9 anos de idade
 na Associação Crista da Mocidade
 (ACM) no Porto com o instrutor
 Jorge Félix.
-
-Umdicas: Como é que se deu essa
+UMDicas Como é que se deu essa
 entrada para o taekwondo? Quais
 foram as motivações?
 P.P.: Iniciei a prática do taekwondo
@@ -52,8 +47,7 @@ da rua e de zonas problemáticas
 do Porto e um outro motivo, não
 menos importante, o meu fascínio
 pelas artes marciais.
-
-UMdicas: Achas que o taekwondo
+UMDicas Achas que o taekwondo
 ajudou no teu desenvolvimento
 enquanto indivíduo?
 P.P.: Sim, sem dúvida alguma o
@@ -70,8 +64,7 @@ que dizer no princípio de cada
 aula, que são : cortesia,
 integridade, perseverança,
 autodomínio e espírito indomável.
-
-UMdicas: A maneira como lidas
+UMDicas A maneira como lidas
 com a pressão e a ansiedade
 antes dos combates é algo que tu
 consegues trabalhar e treinar, ou
@@ -94,8 +87,7 @@ Desportivo da Universidade do
 Minho o Pr. Jorge Silvério, que me
 acompanhou no ano olímpico, e
 me ajudou a lidar com tudo isto.
-
-UMdicas: Os Jogos Olímpicos são
+UMDicas Os Jogos Olímpicos são
 o sonho de qualquer atleta. O que
 simbolizou para ti a participação
 em Pequim2008, naquele que é o
@@ -112,8 +104,7 @@ que me acompanhou nos treinos
 diários, e é claro, o seleccionador
 nacional Mestre Joaquim Peixoto
 que me acompanhou em Pequim.
-
-UMdicas: O que mais te
+UMDicas O que mais te
 impressionou durante o decorrer
 destes Jogos Olímpicos de
 Pequim?
@@ -130,8 +121,7 @@ lavar a roupa, ir a internet, jogar
 máquinas para te distraíres, ir ao
 cinema, cortar o cabelo, tudo
 estava dentro da aldeia.
-
-UMdicas: Que balanço fazes da
+UMDicas Que balanço fazes da
 tua primeira “aventura olímpica”?
 P.P.: Acho que foi muito positiva
 visto que dei o melhor que
@@ -142,8 +132,7 @@ qualificam 15 atletas de todo o
 mundo e só o facto de ter ido ao
 Jogos foi por si só muito positivo
 para a minha carreira desportiva.
-
-UMdicas: O que te levou a escolher
+UMDicas O que te levou a escolher
 o curso de psicologia?
 P.P.: A psicologia desportiva é algo
 que quero aprofundar por achar
@@ -158,8 +147,7 @@ rendimento desportivo.
 Acho que posso melhorar a minha
 performance com a ajuda da
 Psicologia Desportiva.
-
-UMdicas: Entraste este ano para a
+UMDicas Entraste este ano para a
 UMinho. Como correu em termos
 escolares o teu primeiro
 semestre?
@@ -174,8 +162,7 @@ o desporto pois passamos muito
 tempo fora do país quando nos
 encontramos em período
 competitivo.
-
-UMdicas: Os teus colegas têm-te
+UMDicas Os teus colegas têm-te
 ajudado? O que é que eles dizem
 de terem um colega que é atleta
 olímpico e mediático como tu?
@@ -186,8 +173,7 @@ me muito pois não conhecia nada
 do ambiente académico e quando
 tinha dúvidas nas aulas eles
 ajudavam me na matéria.
-
-UMdicas: Quais tem sido as tuas
+UMDicas Quais tem sido as tuas
 maiores dificuldades nesta nova
 fase (estudante/atleta de alta
 competição) da tua vida?
@@ -200,8 +186,7 @@ semestre acho que vai ser mais
 difícil pois vai começar a época
 competitiva e os estágios da
 selecção dentro e fora do país.
-
-UMdicas: O facto de viveres e
+UMDicas O facto de viveres e
 treinares na zona de Braga
 condicionou a tua escolha de
 Universidades quando
@@ -216,13 +201,12 @@ na Universidade do Minho com o
 Treinador Hugo Serrão e dois
 igualmente em Braga com o
 Mestre Joaquim Peixoto.
-
-UMdicas: Quantas vezes treinas
+UMDicas Quantas vezes treinas
 por semana, e quanto tempo?
 P.P.: Normalmente treino duas
 vezes por dia. Cada treino vai de
 hora e meia a duas horas.
-UMdicas: Como é um típico dia na
+UMDicas Como é um típico dia na
 vida de Pedro Póvoa (descreve um
 dia)?
 P.P.: De manha tenho aulas na
@@ -231,8 +215,7 @@ vou fazer o treino físico pela
 manha. A tarde tenho o treino
 técnico-táctico com o Mestre
 Hugo Serrão.
-
-UMdicas: A UMinho iniciou em
+UMDicas A UMinho iniciou em
 Portugal um programa pioneiro no
 que diz respeito ao apoio aos
 atletas de alta competição, o
@@ -249,8 +232,7 @@ duas partes da nossa formação.
 Sei que no final da minha carreira
 posso estar mais seguro para o
 mundo do trabalho.
-
-UMdicas: Já tiveste ajuda por
+UMDicas Já tiveste ajuda por
 parte do teu tutor e dos
 responsáveis pelo programa? Se
 sim, que tipo de ajuda?
@@ -262,8 +244,7 @@ preciso. Tento estar concentrado
 nos meus treinos e nos estudos e
 tentar que nada interfira na minha
 prestação.
-
-UMdicas: Para 2012, o grande
+UMDicas Para 2012, o grande
 objectivo é a medalha ou o curso?
 P.P.: O meu objectivo é conseguir
 outra vez a qualificação olímpico e
@@ -275,4 +256,4 @@ mesmo tempo que o Taekwondo,
 para que no futuro, quando
 termine a minha carreira de
 desportista, possa trabalhar em
-prol do taekwondo.
+prol do taekwondo.prol do taekwondo.prol do taekwondo.prol do taekwondo.

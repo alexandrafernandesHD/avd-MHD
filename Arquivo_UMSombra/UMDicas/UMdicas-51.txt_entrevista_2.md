@@ -1,19 +1,18 @@
 ---
-Jornal: UMdicas
-Issue: Número 51
-University: Universidade do Minho
-Interviewee(s): Fernando Ribeiro
-Topic: Roboparty
-Date: 25 de Abril de 2007
-Title: Roboparty - um sucesso
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Número 51
+university: Universidade do Minho
+interviewee: Fernando Ribeiro
+topic: Roboparty
+date: 25 de Abril de 2007
+title: Roboparty - um sucesso
+interviewer: Ana Marques
 ---
 
 Roboparty - um sucesso
 Organizada pelo Departamento de Electrónica Industrial da UMinho com o apoio dos Serviços de Acção Social da UM, a
 Roboparty decorreu de 23 a 25 de Março em Guimarães. Um sucesso a todos os níveis, que juntou no pavilhão desportivo
 universitário 392 participantes, mais de 80 voluntários e organização, num total de quase 500 pessoas e 97 equipas.
-
 Fernando Ribeiro, Prof. de Electrónica Industrial
 na UMinho há 12 anos, foi o principal mentor
 deste evento. Sendo da área da informática, esta
@@ -21,7 +20,6 @@ já não o satisfazia, por isso optou por tirar o
 mestrado em robótica industrial na Inglaterra e
 fez o seu doutoramento em robótica móvel,
 opções que o ligaram definitivamente à robótica.
-
 Porquê o nome roboparty? 
 Na sequência das
 LANParty que existem em Portugal, achei que
@@ -40,12 +38,10 @@ As pessoas divertiram-se muito a trabalhar, foi algo
 agradável e houveram pessoas (cerca de 50
 pessoas) que não dormiram na primeira noite,
 sempre a trabalhar com as luzes acesas.
-
 Foi a primeira vez que se realizou em Portugal?
 Esta roboparty foi a primeira vez que se realizou,
 tanto em Portugal como fora do país, não tenho
 conhecimento de eventos deste género.
-
 Na sua opinião e pelo que pode verificar na
 roboparty, existem muitos adeptos da Robótica?
 Existem muitos adeptos da robótica e cada vez que
@@ -74,7 +70,6 @@ mais os nossos alunos de electrónica industrial, dá-lhe mais experiência, e a
 seguras com alguém ao seu lado para tirar dúvidas,
 dai que mais de 50% dos robôs foram construídos
 com sucesso.
-
 3 Dias, 24 sobre 24 horas, dormir em sacos de
 cama, construção de robôs. Qual a importância
 deste tipo de actividades para os jovens?
@@ -88,7 +83,6 @@ nunca tinham entrado numa universidade e parece
 que não, o estarem cá dentro fê-los sentir muito
 motivados, aprenderam coisas novas e ficaram
 muito satisfeitos por causa disso.
-
 Em que consistiu a roboparty? Qual o seu
 objectivo?
 F.R. A RoboParty consistiu num evento pedagógico
@@ -129,7 +123,6 @@ escolas/equipas não só da nossa região, mas de
 Ponte do Lima, Lisboa, e até 2 equipas das ilhas dos
 Açores. O objectivo eram as escolas à volta do Minho
 mas isto acabou por ser uma coisa nacional.
-
 Qual foi o número efectivo de equipas e
 participantes?
 Tivemos 110 inscrições mas como só tínhamos 100
@@ -139,9 +132,7 @@ juntamo-las a outras. No total tivemos 97 equipas,
 organização, o que fez um total de quase 500
 pessoas, o que para a primeira edição foi muito
 positivo.
-
 Pelo que pôde verificar qual era o espírito dos
-participantes?
 O espírito era muito bom, algumas das actividades
 eram festas à noite e podemos dizer que quase
 ninguém ia, a motivação era de tal ordem que na
@@ -152,7 +143,6 @@ motivação foi muito grande, os participantes
 estavam ansiosos por colocar o robô andar. No final
 da entrega das taças quando dissemos que íamos
 organizar novamente houve uma enorme ovação.
-
 Vencedores nas categorias em prova?
 Classe Júnior: Criatividade: Colégio Luso
 Internacional do Centro; Construção: FASTENERS CENFIM Porto; Competição: RALM - Minho
@@ -160,7 +150,6 @@ Classe Sénior: Criatividade: Visionários - Escola
 Francisco de Holanda; Construção: Multirobot ;
 Competição: EPF Tek Felgueiras - Escola
 Profissional de Felgueiras
-
 Que balanço nos pode fazer da roboparty em
 Portugal?
 Foi extremamente positiva, avaliando pela
@@ -176,7 +165,6 @@ extremamente contentes com o resultado.
 Definitivamente é para continuar, ainda não
 sabemos se vai ser para Março próximo ou mais
 cedo.
-
 UMinho na vanguarda da robótica
 Fernando Ribeiro chegou à UMinho em 1995
 empreendendo um grande desenvolvimento da
@@ -210,7 +198,6 @@ básicas, secundárias, profissionais e
 universitários e durante 3 dias e 2 noites
 construiu-se com o kit fornecido a parte
 mecânica, a parte electrónica e programação.
-
 Opiniões dos participantes
 António Lages, 12 anos escola, E.B. 2 3 de
 Gualtar “estou a gostar muito desta iniciativa,
@@ -242,4 +229,4 @@ mesmo a pensar ir para engenharia mecânica”.
 Texto: Ana Marques
 anac@sas.uminho.pt
 Fotografia: Nuno Gonçalves
-nunog@sas.uminho.pt
+nunog@sas.uminho.ptnunog@sas.uminho.ptnunog@sas.uminho.ptnunog@sas.uminho.pt

@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 65 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Armando Rocha
-Date: 29 de Janeiro de 2009
-Title: Armando Rocha: o senhor do desporto universitário
-Interviewer: Paulo Ferreira
+journal: UMdicas
+issue: Edição nº 65 - Ano 4
+university: Universidade do Minho
+interviewee: Armando Rocha
+date: 29 de Janeiro de 2009
+title: Armando Rocha - o senhor do desporto universitário
+interviewer: Paulo Ferreira
 ---
 
 Armando Rocha: o senhor do desporto universitário
@@ -14,11 +14,7 @@ incontornável da história do desporto universitário nacional. De
 Director Geral dos Desportoa, Inspector Nacional do Desporto
 Universitário, membro do Comité Executivo da FISU e inúmeros outros
 cargos, é hoje um conhecedor e eterno amante do desporto universtário.
-
-Paulo Ferreira
-paulo_ferreira@sas.uminho.pt
-
-UMdicas: No vasto currículo como
+UMDicas No vasto currículo como
 dirigente desportivo, é indicado como
 tendo sido responsável da adesão de
 Portugal à Federação Internacional
@@ -85,8 +81,7 @@ acompanhar as actividades
 relacionadas com a FISEC pois só
 tinha sob a minha alçada o Desporto
 Universitário.
-
-UMdicas: Os jogos em San Sebastian
+UMDicas Os jogos em San Sebastian
 que acabaram por ser conheciadas
 como a génese da Universíada,
 seguindo-se pouco depois
@@ -111,8 +106,7 @@ Universíada com todos os países do
 mundo que na altura tinham aderido
 à FISU. Foi assim que começou a sua
 longa história.
-
-UMdicas: Foi recentemente
+UMDicas Foi recentemente
 destinguido na 1ª Gala de Desporto
 Universitário da FADU, como tem
 visto a evolução do desporto
@@ -158,7 +152,6 @@ Inspecção Nacional de Desporto
 Universitário informalmente, sem
 decreto, sem portaria – apenas um
 despacho dele em que me nomeou
-Inspector Nacional do Desporto
 Universitário, sempre
 graciosamente. Devo dizer que ele
 várias vezes falou que não era justo
@@ -251,8 +244,7 @@ o que se espalhou pelo país em
 Unversidades, transforma o DU em
 princípio uma máquina
 poderosíssima se bem aproveitada.
-
-UMdicas: Acha que o desporto
+UMDicas Acha que o desporto
 universitário tem acompanhado
 esse aumento?
 A.R.: Sinceramente, não tenho
@@ -268,8 +260,7 @@ conhecimento, por tanto
 sinceramente nao sei. Mas espero
 sinceramente que sim, que haja uma
 evolução francamente positiva.
-
-UMdicas: Referenciou a crise dos
+UMDicas Referenciou a crise dos
 estudantes e cada vez mais, hoje em
 dia, tem-se falado em Portugal sobre
 crises, económicas e outras. Podia
@@ -331,8 +322,7 @@ Em '73, para todo o Desporto
 Nacional, o Estado dava 68 mil
 contos, hoje o equivalente a 2
 milhoes de euros.
-
-UMdicas: Fazendo ligação às datas
+UMDicas Fazendo ligação às datas
 que referiu, fale-me da crise do
 desporto universitário em 1968?
 A.R.: Na verdade eramos candidatos
@@ -386,8 +376,7 @@ Embaixada de Paris, 300 vistos de
 jornalistas de países de leste. E ele
 ficou assustado. Com base nisso,
 cancelou a Universíada.
-
-UMdicas: Isto depois levou à sua
+UMDicas Isto depois levou à sua
 entrega de pedido de demissão de
 Inspector do Desporto Universitário.
 Deve também ter criado situações
@@ -404,8 +393,7 @@ acabou por compreender a situação
 e ver que não era nada comigo mas
 sim uma coisa política e acabei por
 até ser reeleito em '73.
-
-UMdicas: Relendo o seu livro
+UMDicas Relendo o seu livro
 Memória, vejo-o referindo-se a
 nomes como Juan António
 Samaranch, Primo Nebiolo, João
@@ -451,8 +439,7 @@ sempre em seu interesse. Era
 também duma ambição desmedida,
 tanto que chegou a Presidente da
 Comité Olimpico Internacional.
-
-UMdicas: Conheceu também outras
+UMDicas Conheceu também outras
 figuras icónicas como o Che Guevara.
 Como veio isto a acontecer?
 A.R.: Como disse, na altura fui
@@ -525,8 +512,7 @@ inconstitucionalidade como eu.
 Assim foi e a portaria foi assinada e
 ficou a ser lei com a dica do Che
 Guevara.
-
-UMdicas: Neste momento, quem é
+UMDicas Neste momento, quem é
 que via como pessoa ou poder para
 pegar no Desporto Universitário e pô-lo onde ele podia realmente estar?
 A.R.: Hoje é tudo muito complicado. O
@@ -585,8 +571,7 @@ que acabaram por ter a calma e
 tranquilidade necessária para
 trabalharem. Enfim, eu tinha este
 acesso ao poder e hoje não vejo isso.
-
-UMdicas: Falou duma visão de
+UMDicas Falou duma visão de
 helicoptro. Acha que falta uma visão
 estratégica para o Desporto em
 Portugal? Saber onde queremos
@@ -596,8 +581,7 @@ sempre no mesmo – enquanto o
 desporto escolar não for uma
 prioridade, nunca teremos um
 desporto verdadeiramente nacional.
-
-UMdicas: E porque é que o Desporto
+UMDicas E porque é que o Desporto
 Escolar tem dificuldade em se
 afirmar? E de igual modo o Desporto
 Universitário em ser considerado
@@ -634,8 +618,7 @@ todo o dia. De 127 mil nessa altura,
 seriam hoje milhares ou um milhão a
 praticar desporto. O que é que nao
 pode sair daqui?
-
-UMdicas: Falta aqui claramente
+UMDicas Falta aqui claramente
 quem assuma as suas
 responsabildiades, seja Governo,
 sejam as universidades, as
@@ -679,8 +662,7 @@ em locais aberrantes, sem escolas
 ao pé – eu obrigava que o pavilhão
 ficasse dentro ou ao lado das escolas
 – o dinheiro gastou-se às catadupas.
-
-UMdicas: Destes anos de
+UMDicas Destes anos de
 experiência que teve no Desporto
 Universitário, quais foram para si, os
 momentos mais marcantes?
@@ -693,4 +675,4 @@ português conquistou um pódio.
 A outra grande alegria que tive foi a
 eleição do Pedro Dias para o Comité
 Executivo da FISU. Deu-me também
-uma alegria muito grande mesmo.
+uma alegria muito grande mesmo.uma alegria muito grande mesmo.uma alegria muito grande mesmo.uma alegria muito grande mesmo.

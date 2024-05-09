@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 59 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Sara Bernardo
-Topic: voleibol
-Date: 29 de Julho de 2008
-Title: TUTORUM: Sara Bernardo
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 59 - Ano 4
+university: Universidade do Minho
+interviewee: Sara Bernardo
+topic: voleibol
+date: 29 de Julho de 2008
+title: TUTORUM: Sara Bernardo
+interviewer: Nuno Gonçalves
 ---
 
 TUTORUM: Sara Bernardo
@@ -15,10 +15,8 @@ nacional universitária, é igualmente uma promissora certeza do
 voleibol nacional. Fruto do Desporto Escolar, proveniente do
 Centro de Formação Desportiva do Escola de Lamaçães (Braga) esta atleta
 pontifica já com preseças na equipa nacional sénior .
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Em termos internacionais, Sara
 Bernardo conta com 5
 internacionalizações “A” e
@@ -27,15 +25,13 @@ de formação inferiores. Desde os
 seus 10 anos, conta com títulos
 nacionais de infantis, iniciados,
 juvenis e júniores.
-
-UMDicas: Com que idade é que
+UMDicas Com que idade é que
 iniciaste a prática competitiva do
 voleibol e onde?
 Sara Bernardo: Tinha 10 anos
 quando comecei a jogar voleibol,
 na escola de Lamaçães.
-
-UMDicas: Achas que o voleibol
+UMDicas Achas que o voleibol
 ajudou no teu desenvolvimento
 enquanto indivíduo?
 S.B.: Definitivamente. O voleibol
@@ -46,8 +42,7 @@ organizada, a conseguir lidar
 melhor com a pressão dos exames
 e a desenvolver as minhas
 relações interpessoais.
-
-UMDicas: Qual foi o papel da tua
+UMDicas Qual foi o papel da tua
 família no teu percurso enquanto
 atleta de alta competição?
 S.B.: A minha família sempre
@@ -55,13 +50,11 @@ apoiou o meu percurso no voleibol,
 embora nunca tenha deixado de
 ficar preocupada com os meus
 estudos.
-
-UMDicas: Quantas vezes treinas
+UMDicas Quantas vezes treinas
 por semana, e quanto tempo?
 S.B.: Treino 5 vezes por semana e
 cada treino dura cerca de 2horas.
-
-UMDicas: A maneira como tu lidas
+UMDicas A maneira como tu lidas
 com a pressão e a ansiedade
 antes dos jogos é algo que tu
 consegues trabalhar e treinar, ou
@@ -81,12 +74,11 @@ crescendo e amadurecendo, e
 também com o aumentar da
 minha experiência, foi sendo cada
 vez mais fácil controlar os nervos.
-
-UMDicas: Quando foi a tua
+UMDicas Quando foi a tua
 primeira vez de quinas ao peito e
 contra quem? Qual foi a
 sensação?
-S.B.:A primeira vez que
+S.B.: A primeira vez que
 representei Portugal ainda era
 Cadete, e foi num torneio de Natal,
 contra a selecção de
@@ -103,8 +95,7 @@ quando chega ao momento de
 cantar o hino, e nos apercebemos
 que estamos a representar o
 nosso país.
-
-UMDicas: Neste momento, e
+UMDicas Neste momento, e
 atendendo ao cenário actual, o que
 é para ti a Selecção A?
 S.B.: Apesar de ter entrado na
@@ -114,8 +105,7 @@ fazer os possíveis para tentar ir à
 selecção, que continua a ser um
 dos meus objectivos, enquanto
 atleta.
-
-UMDicas: Qual é para ti a grande
+UMDicas Qual é para ti a grande
 diferença entre a competição
 federada e a competição
 universitária?
@@ -125,8 +115,7 @@ e frequente. E o nível é muito
 superior ao da competição
 universitária (pelo menos a nível
 nacional).
-
-UMDicas: O facto de
+UMDicas O facto de
 representares o SCBraga
 condicionou a tua escolha de
 Universidades quando
@@ -136,9 +125,7 @@ na mesma universidade onde
 estudo é uma grande vantagem.
 Deste modo consigo conciliar
 ainda melhor o desporto com os
-estudos.
-
-UMDicas: Para muitos atletas de
+UMDicas Para muitos atletas de
 alta competição torna-se difícil
 conciliar os estudos com a prática
 despor tiva. Como é que tu
@@ -151,8 +138,7 @@ aulas para os treinos e quase não
 temos tempo livre nenhum. Às
 vezes gostava de poder parar um
 bocado para respirar.
-
-UMDicas: A UMinho iniciou em
+UMDicas A UMinho iniciou em
 Portugal um programa pioneiro no
 que diz respeito ao apoio aos
 atletas de alta competição, o
@@ -161,15 +147,13 @@ iniciativa e do programa em si?
 S.B.: Penso que é um óptimo apoio.
 E só tenho a agradecer à UM por
 isso.
-
-UMDicas: Em que áreas já
+UMDicas Em que áreas já
 recebeste apoio através do
 TUTORUM?
 S.B.: Na minha última ida aos
 trabalhos de selecção precisei de
 alterar uma data de um exame.
-
-UMDicas: Os teus objectivos
+UMDicas Os teus objectivos
 pessoais passam por uma carreira
 profissional voleibol ou os estudos
 vêm em primeiro lugar?
@@ -177,4 +161,4 @@ S.B.: Os estudos vêm em primeiro
 lugar, mas para já acho
 perfeitamente possível conseguir
 conciliá-los com uma carreira no
-voleibol.
+voleibol.voleibol.voleibol.voleibol.

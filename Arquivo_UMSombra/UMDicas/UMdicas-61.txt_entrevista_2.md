@@ -1,13 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 61 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Dr.ª Carla Lavrador
-Topic: processo de inscrições
-Date: 7 de Outubro de 2008
-Title: Novos estudantes chegam à UMinho
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 61 - Ano 4
+university: Universidade do Minho
+interviewee: Dr.ª Carla Lavrador
+topic: processo de inscrições
+date: 7 de Outubro de 2008
+title: Novos estudantes chegam à UMinho
+interviewer: Ana Marques
 ---
+
+
 
 Novos estudantes chegam à UMinho
 Durante a semana de 15 a 19 de Setembro chegaram à
@@ -16,10 +18,8 @@ novos alunos, colocados nos 45 cursos de licenciatura
 existentes actualmente na academia. A UMinho foi o destino escolhido para
 ingressarem no ensino superior, a universidade eleita para obterem a
 formação de qualidade que decerto traçará o seu futuro.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Durante esta semana, jovens
 vindos de todo o país, incluindo
 das regiões autónomas, muitos
@@ -145,11 +145,10 @@ estudo, dificuldades, mas que
 todos juntos resultarão no
 crescimento pessoal e intelectual
 destes jovens.
-
 Entrevista a Dr.ª Carla Lavrador
 (Directora dos Serviços
 Académicos)
-UMdicas: Como decorreu o
+UMDicas Como decorreu o
 processo de inscrições este ano?
 C.L.: Dentro da normalidade.
 Apesar de entendermos que a
@@ -186,8 +185,7 @@ neste processo de inscrições, com
 o apoio de colaboração de alguns
 alunos da Universidade que têm
 desempenhado na perfeição.
-
-UMdicas: Foi implementada
+UMDicas Foi implementada
 alguma alteração ao processo
 este ano?
 C.L.: A única alteração que se
@@ -206,8 +204,7 @@ Geral do Ensino Superior de não se
 aplicar este ano o inquérito em
 causa. Todas as demais etapas
 decorreram sem alterações.
-
-UMdicas: Quais foram para si os
+UMDicas Quais foram para si os
 pontos positivos e negativos deste
 formato de inscrição?
 C.L.: O ponto positivo, é que é
@@ -262,8 +259,7 @@ postos disponibilizados aos
 Serviços de Acção Social e ao
 Gabinete de Comunicação,
 Informação e Imagem.
-
-UMdicas: Quantos alunos foram
+UMDicas Quantos alunos foram
 inscritos nesta primeira fase?
 C.L.: Das 2.326 vagas ocupadas na
 1ª fase, inscreveram-se 2.136
@@ -273,8 +269,7 @@ vagas, resultantes dos não
 matriculados na 1ª fase, para além
 das vagas sobrantes dos
 concursos especiais de acesso.
-
-UMdicas: Para o próximo ano
+UMDicas Para o próximo ano
 estão previstas novidades no
 processo de inscrição dos novos
 alunos?
@@ -293,8 +288,7 @@ estando prevista naturalmente a
 criação, dentro da instituição, de
 todas as condições necessárias
 para apoiar os novos alunos.
-
-UMdicas: Como será e que
+UMDicas Como será e que
 facilidades se procuram
 proporcionar aos alunos com
 estas alterações?
@@ -317,4 +311,4 @@ informação a incluir na emissão
 do cartão de estudante pela CGD e,
 eventualmente, aos inquéritos
 cujo preenchimento lhes é
-habitualmente solicitado.
+habitualmente solicitado.habitualmente solicitado.habitualmente solicitado.habitualmente solicitado.

@@ -1,18 +1,17 @@
 ---
-Jornal: UMdicas
-Issue: Número 56
-University: Universidade do Minho
-Interviewee(s): Ivo Silva 
-Topic: Passadiço
-Role: estudante de Arquitectura
-Date: 2 de Janeiro de 2008
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Número 56
+university: Universidade do Minho
+interviewee: Ivo Silva 
+topic: Passadiço
+role: estudante de Arquitectura
+date: 2 de Janeiro de 2008
+interviewer: Ana Marques
 ---
 
 Entrevista a Ivo da Silva
 Ivo Silva era em 2000 estudante de Arquitectura na UMinho, ao trabalho pedido no âmbito da disciplina de Estruturas respondeu com um projecto que lhe valeu o
 prémio do concurso e a uma marca sua para sempre na Academia Minhota.
-
 UMd- Qual foi o pensamento por detrás
 do projecto do Passadiço?
 Ivo Silva - Conceptualmente, o passadiço
@@ -26,7 +25,6 @@ resultado foi dois corpos articulados que
 se complementam numa relação entre
 vazios e cheios, formando um único mais
 compacto.
-
 UMd- Como critérios de avaliação,
 foram definidos a Originalidade,
 Estética, Funcionalidade e
@@ -36,7 +34,6 @@ I.S- “Less is more” como diria o arquitecto
 Mies Van Der Rohe. Penso que uma
 proposta simples e clara pode dar uma
 resposta incisiva em todos esses campos.
-
 UMd- Trabalhou em equipa ou foi uma
 concepção apenas sua?
 I.S- O concurso foi integrado na disciplina
@@ -47,7 +44,6 @@ possibilidade de ser realizado em grupo ou
 individualmente, por motivos de
 frequência acabei por o realizar
 individualmente.
-
 UMd- O concurso tinha como
 preocupação que a obra simbolizasse a
 ligação ente a Universidade e a cidade.
@@ -65,7 +61,6 @@ o conhecimento; - outro mais estreito, que
 compõe um patamar de chegada e um
 plano vertical em posição de pórtico, que
 simboliza a passagem.
-
 UMd- A construção foi realizada tal
 como estava arquitectada ou sofreu
 alguma alteração?
@@ -95,7 +90,6 @@ Aço Corten. Neste corpo foi introduzido a
 simbologia da universidade.
 A guarda existente também é um
 suplemento ao projecto inicial.
-
 UMd- O objectivo da obra foi para tornar
 o espaço mais atractivo ou para ser
 utilitário?
@@ -112,7 +106,6 @@ realização das obras dos arranjos
 envolventes. Penso que aquando da
 conclusão de todas as obras o espaço
 será francamente utilizado.
-
 UMd- Pensa que a comunidade
 académica vai aderir a esta entrada
 pedonal? O que será necessário par
@@ -134,6 +127,5 @@ Universidade. É imprescindível
 reorganizar os acessos ao passadiço,
 coadunar pavimentos, sinalizar percursos
 e melhorar a iluminação.
-
 Ana Marques
-anac@sas.uminho.pt
+anac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.pt

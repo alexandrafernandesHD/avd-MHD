@@ -1,13 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 68 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Topic: O Campeonato Nacional Universitário de Pista ao Ar livre
-Role: técnico da modalidade
-Date: 20 de Abril de 2009
-Title: Citius, Altius, Fortius... se dúvidas houvesse!
-Interviewer: Paulo Ferreira
+journal: UMdicas
+issue: Edição nº 68 - Ano 4
+university: Universidade do Minho
+interviewee: Miguel Caldas
+topic: O Campeonato Nacional Universitário de Pista ao Ar livre
+role: técnico da modalidade
+date: 20 de Abril de 2009
+title: Citius, Altius, Fortius... se dúvidas houvesse!
+interviewer: Paulo Ferreira
 ---
 
 Citius, Altius, Fortius... se dúvidas houvesse!
@@ -16,10 +16,8 @@ O Campeonato Nacional Universitário de Pista ao Ar livre será a
 pelo Instituto Politécnico do Porto (IPP). A par dos CNUs de
 Natação e Taekwondo, esta modalidade é das mais importantes para quem
 aspira ao almejado ouro do ranking FADU.
-
 Paulo Ferreira
 dicas@sas.uminho.pt
-
 Desde o virar do século que a equipa
 da Universidade do Minho tem
 dominado por completo o panorama
@@ -74,7 +72,6 @@ fechar a época 2008/2009, foram
 até ao momento conquistadas 47
 medalhas de bronze (15 pista
 coberta, 4 corta mato e 28 pista ao
-ar livre).
 Na contabilidade geral, são 153
 vezes que a AAUMinho foi
 distinguida na modalidade que,
@@ -87,8 +84,7 @@ UMdicas esteve à conversa com o
 técnico da modalidade, Miguel
 Caldas, para saber as suas ideias da
 modalidade e destes CNUs.
-
-UMdicas: Como vê a prestação da
+UMDicas Como vê a prestação da
 equipa e dos atletas da AAUMinho ao
 longo desta época nos CNUs pista
 coberta e corta mato?
@@ -112,8 +108,7 @@ presentes e neste sentido foram já
 conseguidas 6 medalhas de prata e
 1 medalha de bronze, o que revela a
 qualidade dos nossos atletas.
-
-UMdicas: Como anteve o CNU pista
+UMDicas Como anteve o CNU pista
 ar livre?
 M.C.: Relativamente ao CNU de Ar
 Livre, até ao momento, estamos a
@@ -127,8 +122,7 @@ No entanto é de lamentar a
 indisponibilidade da nossa atleta
 Liliana Correia que é só a atleta mais
 medalhada de sempre nos CNUs.
-
-UMdicas: Esta a um título colectivo
+UMDicas Esta a um título colectivo
 de conseguir o jackpot de vitorias
 neste seu 1º ano à frente da equipa,
 que comentário lhe merece este
@@ -147,8 +141,7 @@ anos com todos os atletas, criando
 um assinalável espírito de grupo,
 também facilitam o trabalho que
 tem sido desenvolvido.
-
-UMdicas: Passaram neste último
+UMDicas Passaram neste último
 CNU pista coberta, a marca de 150
 medalhas conquistadas pela
 AAUMinho na modalidade desde
@@ -173,4 +166,4 @@ esperando que durante estes
 próximos 9 anos se garantam
 outras tantas 150 medalhas, ou se
 possível, aumentar ainda mais este
-número.
+número.número.número.número.

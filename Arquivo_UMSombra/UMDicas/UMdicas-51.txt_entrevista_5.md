@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 51
-University: Universidade do Minho
-Interviewee(s): Coro Académico da Universidade do Minho (CAUM)
-Date: 25 de Abril de 2007
+journal: UMdicas
+issue: Número 51
+university: Universidade do Minho
+interviewee: Coro Académico da Universidade do Minho (CAUM)
+date: 25 de Abril de 2007
+interviewer: UMdicas
 ---
 
 Historial do Coro Académico
@@ -23,7 +24,6 @@ desenvolve a sensibilidade artística dos seus associados,
 realizou mais de três centenas de concertos, pelos quais
 passaram mais de quinhentos coristas. Actualmente é
 composto por mais de oitenta elementos.
-
 Privilegiando naturalmente o reportório “a Capella”, da
 Renascença ao séc. XX, tem actuado regularmente com
 acompanhamento de quinteto de metais e piano. Diversos
@@ -73,7 +73,6 @@ Coimbra, Évora, Lisboa, Porto e Vila Real). Tendo em Agosto
 de 2006 rumado à Ilha da Madeira para também ai promover
 a musica coral e a forma de estar característica da região
 minho.
-
 Afirmada a sua identidade cultural, o CAUM passou a
 apresentar-se além fronteiras, em encontros de coros de
 Espanha − Valencia (1998), Vigo e Ourense (1999) e
@@ -130,8 +129,7 @@ Universidade do Minho, tem vindo a construir uma
 identidade própria no panorama cultural português, aliando
 a alegria da sua juventude aos encantos da música coral de
 todas as épocas, em especial da música portuguesa.
-
-UMdicas: Onde, quando e porquê o nascimento do Coro
+UMDicas Onde, quando e porquê o nascimento do Coro
 Académico da Universidade do Minho? Porquê a
 necessidade de criar um grupo cultural como este?
 O coro foi fundado em 1989 pelo pelouro da cultura da
@@ -142,8 +140,7 @@ O pelouro cultural da Associação Académica contactou a
 Dr.ª. Elisa Lessa no sentido de convidar um maestro e
 elementos para constituírem esse grupo. Surge assim o
 nome de Fernando C. Lapa para director artístico do CAUM.
-
-UMdicas: Em que se diferencia este Grupo dos outros
+UMDicas Em que se diferencia este Grupo dos outros
 grupos culturais da UMinho? Qual a vossa grande
 paixão?
 Como sabem o CAUM é o único Coro da Universidade do
@@ -158,8 +155,7 @@ muito que as pessoas viessem aos nossos concertos com o
 espírito aberto para decidirem por si se gostam os não da
 música que interpretamos. E obviamente a nossa grande
 paixão é ”cantar até que a voz nos doa!”
-
-UMdicas: O que fazem para cativar elementos novos?
+UMDicas O que fazem para cativar elementos novos?
 No início do ano, distribuímos junto com o kit caloiro
 informações referentes ao CAUM, a qual também é afixada
 em todos os placares de curso da UM.
@@ -172,12 +168,11 @@ vamos participando.
 Além disso temos o nosso site em www.caum.pt onde
 podem encontrar todas as informações sobre o CAUM e
 onde podem estar a par das nossas actuações.
-
-UMdicas: Onde são os vosso ensaios?
+UMDicas Onde são os vosso ensaios?
 Neste momento os nossos ensaios são na sala 201 no CP1
 no Campus de Gualtar todas as segundas e quintas-feiras,
 às 21h30.
-UMdicas: Qual tem sido o vosso percurso e quais as
+UMDicas Qual tem sido o vosso percurso e quais as
 participações mais importantes?
 O CAUM completa este ano 18 anos, durante todo este
 tempo, muitos foram os eventos em que participamos e
@@ -190,8 +185,7 @@ português no Canta Brasil – Festival Internacional de Coros
 de S. Lourenço (2004).
 Inserida na academia somos participação habitual no Dia da
 Universidade do Minho.
-
-UMdicas: Tiveram algum momento menos bom, durante
+UMDicas Tiveram algum momento menos bom, durante
 Vossa existência?
 O momento mais complicado do CAUM foi sem duvida a
 saída do Maestro Fernando C. Lapa em Setembro de 2004
@@ -201,16 +195,14 @@ musicais e humanas incríveis que deixou a sua forma de ser
 e pensar no CAUM.
 Nesse momento o CAUM perdeu o rumo, mas com a boa
 disposição e o empenho das pessoas tudo se ultrapassou.
-
-UMdicas: E o momento mais alto deste grupo?
+UMDicas E o momento mais alto deste grupo?
 Ao longo destes 18 anos, muitos foram os momentos de
 “glória” (modéstia à parte). No entanto salientamos a
 participação no Canta Brasil – Festival Internacional de
 Coros de S. Lourenço (2004), como um momento chave,
 onde a emoção e a música se fundiram tornando este um
 momento inesquecível.
-
-UMdicas: E projectos para o futuro?
+UMDicas E projectos para o futuro?
 A curto prazo vamos ter o “Vozes Sobre a Cidade” que é o
 concerto de encerramento do ano académico e que
 realizamos todos os anos nos escadórios do Bom Jesus,
@@ -222,8 +214,7 @@ em Outubro do ano passado e é um projecto pelo qual temos
 um grande carinho, pois é sem dúvida uma homenagem
 mais do que merecida. O lançamento deste CD terá lugar
 nos próximos dias 23, 24 e 25 de Novembro.
-
-UMdicas: Uma palavra para definir o CAUM?
+UMDicas Uma palavra para definir o CAUM?
 Não existe uma palavra que possa definir o CAUM, no
 entanto entre nós dizemos muitas vezes que somos uma
 Família.
@@ -238,9 +229,8 @@ O CAUM é sem dúvida um vício e por muito tempo que
 passe, a alegria de estarmos juntos renasce sempre que nos
 encontramos, como se verificou no último fim-de-semana no
 VIII Encontro de Coros Universitários.
-
-UMdicas: Qual o vosso grande sonho?
+UMDicas Qual o vosso grande sonho?
 O nosso sonho é levar o CAUM a cantar a muitos sítios por
 muitos e bons anos. Como disse um ex-presidente do
 CAUM, “esperamos que um dia os nossos filhos possam
-dizer: 'Faço parte do Coro que foi um dia o dos meus pais. '.
+dizer: 'Faço parte do Coro que foi um dia o dos meus pais. '.dizer: 'Faço parte do Coro que foi um dia o dos meus pais. '.dizer: 'Faço parte do Coro que foi um dia o dos meus pais. '.dizer: 'Faço parte do Coro que foi um dia o dos meus pais. '.

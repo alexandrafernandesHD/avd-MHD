@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 64 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Date: 27 de Dezembro de 2008
-Title: NAMGE: Núcleo de Alunos em Marketing e Gestão Estratégica
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Edição nº 64 - Ano 4
+university: Universidade do Minho
+interviewee: responsável do NAMGE
+date: 27 de Dezembro de 2008
+title: NAMGE: Núcleo de Alunos em Marketing e Gestão Estratégica
+interviewer: Michael Ribeiro
 ---
 
 NAMGE: Núcleo de Alunos em Marketing e Gestão Estratégica
@@ -13,17 +13,12 @@ Divulgar o marketing e a gestão estratégica em todas as suas
 vertentes, como conceitos essenciais para a gestão da empresa,
 nos dias que correm, esse é o grande objectivo do NAMGE - Núcleo
 de Aluno em Marketing e Gestão Estratégica.
-
-Michael Ribeiro
-mika@sas.uminho.pt
-
 O UMdicas esteve à conversa com o
 responsável do NAMGE, que nos
 traçou as linhas gerais deste
 recente núcleo de alunos de
 mestrado.
-
-UMdicas: Como surgiu o NAMGE?
+UMDicas Como surgiu o NAMGE?
 O Namge surgiu da necessidade de
 um grupo de alunos se organizar em
 torno daqu i lo que era m os
@@ -32,7 +27,7 @@ eles. Desde logo, somos alunos do
 Mestrado em Marketing e Gestão
 Estratégica da Universidade do
 Minho.
-UMdicas: Quais as razões para
+UMDicas Quais as razões para
 sentirem a necessidade de criar um
 núcleo num curso de mestrado?
 O nosso objectivo é divulgar o
@@ -62,8 +57,7 @@ marketing, como a gestão
 estratégica são ferramentas de
 capital importância que não podem
 ser descuradas.
-
-UMdicas: Tiveram algum entrave ou
+UMDicas Tiveram algum entrave ou
 dificuldade em criar este núcleo?
 Este núcleo, como o chamamos,
 ainda não existe legalmente. Neste
@@ -80,8 +74,7 @@ dos estatutos que definirão no
 papel o que é o Namge. Somos então
 um “Núcleo” em forma embrionária
 que está a querer nascer.
-
-UMdicas: Qual a vossa maior
+UMDicas Qual a vossa maior
 dificuldade enquanto Núcleo de
 alunos?
 O nosso único entrave é o tempo ou
@@ -90,8 +83,7 @@ escasso/a para estarmos juntos e
 fazermos uma planificação mais
 acertada daquilo que pretendemos
 para que o Namge tenha um futuro.
-
-UMdicas: Quem preside neste
+UMDicas Quem preside neste
 momento ao NAMGE?
 De facto, não sei se poderemos falar
 num presidente. Poderemos dizer
@@ -115,8 +107,7 @@ Filipe como o Nuno não gostam
 muito do protagonismo, mas sem
 eles, de certeza que hoje não estaria
 a escrever esta entrevista.
-
-UMdicas: Quais os objectivos deste
+UMDicas Quais os objectivos deste
 núcleo de alunos?
 O objectivo essencial é divulgar o
 mestrado no panorama nacional. O
@@ -125,8 +116,7 @@ como ferramentas essenciais a
 uma gestão empresarial bem
 sucedida, como já fiz referência
 anteriormente.
-
-UMdicas: A tertúlia organizada pelo
+UMDicas A tertúlia organizada pelo
 núcleo é para repetir neste próximo
 ano?
 A próxima tertúlia/conferência será
@@ -139,8 +129,7 @@ edição 2008/2009 do mestrado. É
 uma situação que ainda está em
 estudo e em discussão dentro do
 Namge.
-
-UMdicas: Quais as actividades
+UMDicas Quais as actividades
 programadas para o ano de
 2008/09?
 Para este ano lectivo, estamos de
@@ -173,8 +162,7 @@ tempos que se avizinham, como já
 referi, os próximos 2 meses serão
 um desafio enorme àquilo que
 pretendemos fazer do Namge.
-
-UMdicas: Sabemos que têm um
+UMDicas Sabemos que têm um
 Blog? Pode falar-nos sobre isso?
 O blogue é a nossa sede virtual e o
 nosso meio de comunicação. Existe
@@ -192,18 +180,13 @@ realizada nas aulas. Neste aspecto,
 penso que é um fórum de discussão
 dos temas que mais nos
 interessam.
-
-UMdicas: O que é necessário para
+UMDicas O que é necessário para
 ser sócio do NAMGE?
 Essencialmente, estar inscrito no
-Mestrado em Marketing e Gestão
-Estratégica da Universidade do
-Minho.
-
-UMdicas: Têm sede própria?
+UMDicas Têm sede própria?
 Não temos sede física, apenas sede
 virtual.
-UMdicas: Qual a vossa grande meta
+UMDicas Qual a vossa grande meta
 enquanto Núcleo de Alunos em
 Marketing e Gestão Estratégica?
 A nossa grande meta é crescer.
@@ -229,6 +212,5 @@ vemos no mundo de hoje.
 Penso que temos a matéria-prima,
 enfrentamos tempos de enormes
 desafios e queremos catapultar o
-Namge.
-Mais informação em:
-http://namge.blogspot.com/
+Mais informação em: 
+http: //namge.blogspot.com/http: //namge.blogspot.com/http: //namge.blogspot.com/http: //namge.blogspot.com/

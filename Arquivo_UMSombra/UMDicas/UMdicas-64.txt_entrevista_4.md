@@ -1,17 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 64 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Eng.º Carlos Silva
-Date: 27 de Dezembro de 2008
-Title: UMinho com uma das melhores infra-estruturas de Acção Social do país
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 64 - Ano 4
+university: Universidade do Minho
+interviewee: Eng.º Carlos Silva
+date: 27 de Dezembro de 2008
+title: UMinho com uma das melhores infra-estruturas de Acção Social do país
+interviewer: Ana Marques
 ---
 
-UMinho com uma das melhores infra-estruturas de Acção Social do país
-Ana Marques
-anac@sas.uminho.pt
 
+UMinho com uma das melhores infra-estruturas de Acção Social do país
 O UMdicas esteja à conversa com
 o Administrador dos Serviços de
 Acção Social, Eng.º Carlos Silva
@@ -20,8 +18,7 @@ mais um ano de intenso trabalho.
 As recentes inaugurações e o
 processo de certificação dos
 serviços estiveram em foco.
-
-UMdicas: Decorreu a Reabertura
+UMDicas Decorreu a Reabertura
 Oficial da Residência
 Universitária de Sta Tecla (após
 obras de reabilitação) , a
@@ -48,8 +45,7 @@ propriedade, que a Acção Social
 da UM tem uma das melhores
 infra-estruturas de Acção Social
 do país.
-
-UMdicas: Quais foram as áreas
+UMDicas Quais foram as áreas
 que sofreram intervenção na
 Residência de S. Tecla?
 C.S.: A Residência Universitária
@@ -73,8 +69,7 @@ e a substituição dos radiadores a
 eléctricos. Foi também instalada
 Internet sem fios em todos os
 quartos dos blocos A, B e C.
-
-UMdicas: Qual a finalidade na
+UMDicas Qual a finalidade na
 construção de um novo
 Pavilhão?
 C.S.: O Novo Pavilhão Desportivo,
@@ -88,8 +83,7 @@ complexo está ainda em
 construção uma parede de
 escalada de 12 metros, com
 várias pistas, a concluir em 2009.
-
-UMdicas: Como caracteriza o
+UMDicas Como caracteriza o
 serviço que vai ser prestado à
 comunidade com o novo centro
 médico?
@@ -121,8 +115,7 @@ e segurança no trabalho. Nesta
 fase, grande parte dos serviços a
 criar ainda se encontram em
 definição.
-
-UMdicas: Em que situação se
+UMDicas Em que situação se
 encontra o processo de
 certificação dos SASUM?
 C.S.: Este ano temos objectivos
@@ -135,9 +128,8 @@ sistema de Qualidade ISO
 Departamentos dos Serviços de
 Acção Social (SAS) e cumprir 80%
 na implementação do sistema de
-Qualidade 22000:2005, em todas
+Qualidade 22000: 2005, em todas
 as Unidades Alimentares dos SAS.
-
 UMdicas : Tem sido mu ito
 complicado?
 C.S.: Não diria complicado, diria
@@ -152,15 +144,14 @@ pois tem consolidado o espírito de
 trabalho em equipa e tem sido
 uma fonte de aprendizagem para
 todas as pessoas envolvidas.
-
-UMdicas: Que melhorias vai
+UMDicas Que melhorias vai
 trazer para a UM e para os
 alunos?
 C.S.: A nossa actividade traduz-se
 pela procura da Qualidade,
 satisfação e equidade, que está
 traduzida naquilo que é a nossa
-politica de Qualidade, ou seja:
+politica de Qualidade, ou seja: 
 1. Na prestação de serviços ao
 cliente, melhorando e adaptando
 os mecanismos de comunicação
@@ -210,8 +201,7 @@ externos, eficazes, para
 comunicar qualquer informação
 respeitante à segurança
 alimentar.
-
-UMdicas: Como vê o futuro
+UMDicas Como vê o futuro
 próximo dos SASUM no contexto
 do ambiente envolvente da
 Universidade e mais geral do
@@ -228,4 +218,4 @@ mas temos de viver cada dia
 fazendo o que podemos pelos
 nossos estudantes para que a
 sua vida na Universidade do
-Minho seja a melhor possível.
+Minho seja a melhor possível.Minho seja a melhor possível.Minho seja a melhor possível.Minho seja a melhor possível.

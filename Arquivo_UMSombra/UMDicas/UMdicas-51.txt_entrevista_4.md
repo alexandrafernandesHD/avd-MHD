@@ -1,9 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 51
-University: Universidade do Minho
-Interviewee(s): CEAP
-Date: 25 de Abril de 2007
+journal: UMdicas
+issue: Número 51
+university: Universidade do Minho
+interviewee: CEAP
+topic: Centro de Estudos de Administração Publica
+date: 25 de Abril de 2007
+interviewer: UMdicas
 ---
 
 Dinâmica e expansão são
@@ -11,7 +13,6 @@ palavras-chave para CEAP
 CEAP, Centro de Estudos de Administração Publica, pretende representar, dinamizar, e divulgar o curso
 de Administração Publica, servindo também de elo de ligação entre alunos e professores, procurando
 sempre uma cultura de envolvência com outras áreas na actividades que realizam ao longo do ano.
-
 UMdicas – O que é o Centro de Estudos de Administração
 Pública?
 O CEAP é uma associação de estudantes da licenciatura em
@@ -20,7 +21,6 @@ o nosso curso, funcionando também como uma espécie de elo de
 ligação entre alunos e professores. Por outro lado, pretendemos uma
 cultura de envolvência nas actividades que realizamos ao longo do
 ano.
-
 UMdicas – Quem faz parte da vossa Associação?
 Esta direcção tomou posse a 03 de Janeiro deste ano, tendo como
 presidente Sofia Costa, eu ocupo o cargo de vice – presidente geral e
@@ -46,7 +46,6 @@ licenciatura em parceria com a Escola de Economia e Gestão e o
 departamento Recreativo e Cultural representado pelo João Duarte
 ocupa-se essencialmente pela realização de actividades desportivas
 (ex. Torneio de Futsal está a decorrer) e jantares de curso.
-
 UMdicas – Qual é o grande objectivo desta direcção?
 A posição do CEAP tem vindo a solidificar-se progressivamente, pelo
 que queremos dar continuidade ao projecto iniciado no ano transacto,
@@ -56,11 +55,9 @@ nossos alunos, pois qualquer actividade realizada sem público deixa
 de ter sentido. Exemplos disso são as Conferências de Administração
 Pública a 03 de Maio, assim como as tertúlias incluídas na X Semana
 de Administração Pública.
-
 UMdicas – O CEAP tem sede própria?
 Sim. A sede do CEAP situa-se no gabinete 0.23 da Escola de
 Economia e Gestão, no campus de Gualtar.
-
 UMdicas – Qual o papel que a vossa Associação tem no curso?
 Na minha opinião, o CEAP é preponderante para resolver
 determinados problemas dos alunos, proporciona informação
@@ -71,7 +68,6 @@ AAEUM, poderemos ser muito diferentes do que somos hoje. Poderemos ser tudo aqui
 outro lado, a interacção por nós proporcionada só traz mais valias para
 que desejarmos e conseguirmos realizar.
 os alunos. É crucial que os estudantes se apercebam disso.
-
 UMdicas – Quais as áreas em que podem e devem trabalhar?
 Os licenciados em Administração Pública possuem uma formação
 muito completa, sobretudo a nível da contabilidade e finanças públicas
@@ -79,7 +75,6 @@ e relembro que temos acesso à Câmara dos Técnicos Oficiais de
 Contas. Podemos e devemos trabalhar nas instituições públicas,
 organizações sem fins lucrativos e outras similares, mas também
 temos formação para trabalhar no sector privado.
-
 UMdicas – Qual o apoio que é dado aos alunos/sócios e quem
 pode ser sócio do CEAP?
 Qualquer aluno pode ser sócio do CEAP desde que pague uma quota
@@ -92,7 +87,6 @@ culturais, pagando os sócios uma inscrição mais baixa e ainda
 garante-lhes participar em actividades realizadas pelo CEAP como o
 Encontro Nacional de Alunos de Administração Pública com condições
 que lhes ficam mais económicas.
-
 UMdicas – Esse apoio é só aos alunos que ainda estão na UM ou
 aos ex – alunos também?
 Claro que é muito mais fácil chegar aos alunos no campus, contudo
@@ -103,7 +97,6 @@ solicitações que chegam até nós sejam elas intra – Academia ou extra
 – Academia. Saliento o facto de não existir pela nossa parte qualquer
 diferenciação entre alunos sócios ou não sócios, o que procuramos é
 alertá-los para as vantagens em ser associado do CEAP.
-
 UMdicas – Existe algum tipo de contacto ou actividade
 (intercâmbio) com outros cursos de outras universidades?
 A nível de contacto com outros cursos de outras universidades, devo
@@ -120,7 +113,6 @@ que tem como presidente Rui Cruz, existindo total entreajuda aquando
 da emergência de dúvidas e problemas. Isto para dizer, que a boa
 relação entre os núcleos se reflecte na boa relação entre os seus
 alunos.
-
 UMdicas – Qual o grande evento ou actividade que a vossa
 associação realiza e em que consiste?
 Sem dúvida que o grande evento é a Semana de Administração
@@ -130,10 +122,9 @@ como tema principal “Governação e Poder Local”, dividindo-se em sub
 “Finanças Locais”. Esta X Semana, contará com a realização de uma
 tertúlia e com o encerramento do torneio que está a decorrer
 actualmente.
-
 UMdicas – Qual o vosso grande projecto que gostariam de ver
 concretizado?
 Neste momento, gostaríamos que a X Semana de Administração
 Pública tivesse sucesso e a situação de Federação Nacional de Alunos
 de Administração Pública ganhasse consistência e ficasse
-formalizada definitivamente.
+formalizada definitivamente.formalizada definitivamente.formalizada definitivamente.formalizada definitivamente.

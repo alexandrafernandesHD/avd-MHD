@@ -1,14 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 65 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Dr. Eloy Rodrigues
-Topic: O Repositório Científico de Acesso Aberto de Portugal (RCAAP)
-Role: responsável dos SDUM
-Date: 29 de Janeiro de 2009
-Title: UMinho desenvolve Portal Repositório Científico de Acesso Aberto de Portugal
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 65 - Ano 4
+university: Universidade do Minho
+interviewee: Dr. Eloy Rodrigues
+topic: O Repositório Científico de Acesso Aberto de Portugal (RCAAP)
+role: responsável dos SDUM
+date: 29 de Janeiro de 2009
+title: UMinho desenvolve Portal Repositório Científico de Acesso Aberto de Portugal
+interviewer: Ana Marques
 ---
+
 
 UMinho desenvolve Portal Repositório Científico de Acesso Aberto de Portugal
 O Repositório Científico de Acesso Aberto de Portugal (RCAAP),
@@ -16,10 +17,8 @@ um projecto conduzido pelos seus Serviços de Documentação da
 Universidade do Minho (SDUM), foi apresentado na 3ª
 Conferência sobre o Acesso Livre organizada pela UMinho, nos passados
 dias 15 e 16 de Dezembro.
-
 Ana Marques
 anac@sas.uminho.pt
-
 A UMinho através dos SDUM foi a
 responsável
 pelo
@@ -104,7 +103,6 @@ de Repositórios Institucionais do
 projecto RCAAP, igualmente
 desenvolvido pela equipa da
 Universidade do Minho.
-
 Em entrevista, Dr. Eloy Rodrigues
 (na foto), responsável dos SDUM,
 fala-nos do Repositório Científico
@@ -112,8 +110,6 @@ de Acesso Aberto de Portugal
 A UMinho através dos Serviços de
 Documentação (SDUM), foi a
 responsável pelo
-desenvolvimento, instalação e
-operacionalização do portal
 RCAAP. Segundo o responsável do
 Serviço, o convite feito à UMinho
 para desenvolver o projecto “foi
@@ -122,8 +118,7 @@ surgiu cá e a longa experiência da
 UMinho no domínio dos
 repositórios e do Open Access, foi
 também basilar.
-
-UMdicas: Decorreu nos passados
+UMDicas Decorreu nos passados
 dias 15 e 16 de Dezembro a 3ª
 Conferência Openaccess na
 UMinho. Que conclusões se podem
@@ -186,11 +181,9 @@ um primeiro passo para um
 mandato generalizado da União
 Europeia que pode acontecer
 ainda no 7º Programa Quadro.
-
-UMdicas: O que é o Repositório
-Científico de Acesso Aberto de
+UMDicas O que é o Repositório
 Portugal?
-E.R.:O Repositório Científico de
+E.R.: O Repositório Científico de
 Acesso Aberto de Portugal
 (RCAAP) é uma iniciativa que visa
 aumentar a visibilidade,
@@ -208,7 +201,7 @@ Para além de outros serviços
 relacionados com a disseminação,
 formação e divulgação, o projecto
 RCAAP, tem dois componentes ou
-serviços essenciais:
+serviços essenciais: 
 - O Serviço de Alojamento de
 Repositórios Institucionais, que se
 destina a ser utilizado por
@@ -219,7 +212,6 @@ repositório com individualização
 de identidade corporativa própria;
 - O portal RCAAP, que tem como
 objectivo a recolha, agregação e
-indexação dos conteúdos
 científicos em acesso aberto (ou
 acesso livre) existentes nos
 repositórios institucionais das
@@ -227,15 +219,9 @@ entidades nacionais de ensino
 superior, e outras organizações de
 I&D, constituindo-se assim como
 um ponto único de pesquisa,
-descoberta, localização e acesso a
-milhares de documentos de
-carácter científico e académico,
 nomeada mente a r tigos de
-revistas científicas,
-comunicações a conferências,
 teses e dissertações, etc..
-
-UMdicas: Como surgiu?
+UMDicas Como surgiu?
 E.R.: A história é um pouco longa…
 A ideia surgiu originalmente na
 Universidade do Minho em meados
@@ -272,8 +258,7 @@ das Directivas DRIVER para
 repositórios; d) organização e
 realização da 3ª Conferência do
 Open Access.
-
-UMdicas: Foi desenvolvido pela
+UMDicas Foi desenvolvido pela
 UMinho. Porque pela UMinho e não
 por outra instituição?
 E.R.: Julgo que o convite à
@@ -317,8 +302,7 @@ aprovação).
 Por isso a Uminho era instituição
 melhor posicionada para conduzir
 o projecto.
-
-UMdicas: Como decorreu todo o
+UMDicas Como decorreu todo o
 processo?
 E.R.: O projecto decorreu muito
 bem, apesar da sua curta duração
@@ -348,17 +332,15 @@ em Dezembro de 2008 alojava já
 cinco repositórios institucionais
 (Hospitais da Universidade de
 Coimbra, Universidade Aberta,
-Universidade dos Açores,
 Universidade do Algarve,
 Universidade Técnica de Lisboa).
 Foi desenvolvido também o portal
 RCAAP (acessível em
-http://www.rcaap.pt/), que neste
+http: //www.rcaap.pt/), que neste
 momento referencia mais de
 13.500 documentos de 12
 repositórios portugueses.
-
-UMdicas: Será uma plataforma de
+UMDicas Será uma plataforma de
 acesso livre, como se efectuará
 todo o processo?
 E.R.: O portal RCAAP é uma
@@ -384,8 +366,7 @@ universidades, institutos
 politécnicos, laboratórios do
 estado e laboratórios associados
 etc.).
-
-UMdicas: Qual será a mais-valia
+UMDicas Qual será a mais-valia
 deste serviço?
 E.R.: A principal mais-valia do
 projecto e do portal RCAAP é dotar
@@ -409,8 +390,7 @@ sistema de gestão de currículos
 DeGóis, o Depósito de Teses e
 Dissertações Digitais da Biblioteca
 Nacional e o portal B-on.
-
-UMdicas: A UMinho foi pioneira no
+UMDicas A UMinho foi pioneira no
 movimento de repositórios.
 Segundo informações o
 repositóriUM, é o segundo mais
@@ -446,8 +426,7 @@ instituições, o RepositóriUM
 ocupa o 6º lugar em termos
 mundiais, o 5º em termos
 europeus e o 1º a nível nacional
-
-UMdicas: Que significado tem isto
+UMDicas Que significado tem isto
 para a UMinho?
 E.R.: O posicionamento e a
 visibilidade do RepositóriUM e das
@@ -456,7 +435,6 @@ UMinho que nele estão
 depositadas , contribuem
 significativamente para a
 visibilidade e o prestígio da
-Universidade do Minho.
 No Webometrics Ranking of World
 Universities a Universidade do
 Minho ocupa o segundo lugar
@@ -482,6 +460,5 @@ universidades portuguesas, e
 num impressionante 70º lugar em
 termos mundiais. O RepositóriUM
 contribui decisivamente para isso.
-
-Mais informações em:
-http://www.rcaap.pt
+Mais informações em: 
+http: //www.rcaap.pthttp: //www.rcaap.pthttp: //www.rcaap.pthttp: //www.rcaap.pt

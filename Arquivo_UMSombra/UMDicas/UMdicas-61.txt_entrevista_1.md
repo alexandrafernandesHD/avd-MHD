@@ -1,12 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 61 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Prof. Manuel Mota
-Date: 7 de Outubro de 2008
-Title: Entrevista ao Vice-reitor da Universidade do Minho, Prof. Manuel Mota
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 61 - Ano 4
+university: Universidade do Minho
+interviewee: Prof. Manuel Mota
+date: 7 de Outubro de 2008
+title: Entrevista ao Vice-reitor da Universidade do Minho, Prof. Manuel Mota
+interviewer: Ana Marques
 ---
+
+
 
 Entrevista ao Vice-reitor da Universidade do Minho, Prof. Manuel Mota
 O UMdicas esteve à conversa com o Vice-Reitor para a
@@ -14,16 +16,13 @@ Investigação, a Internacionalização e a Extensão Universitária da
 Universidade do Minho (UMinho), Prof. Manuel Mota, para tentar saber neste início de ano, quais são os projectos, percepções e novidades
 nesta área, que é cada vez mais importante numa perspectiva de futuro da
 Universidade.
-
 Ana Marques
 anac@sas.uminho.pt
-
-UMdicas: Como responsável pela
+UMDicas Como responsável pela
 área da internacionalização, quais
 têm sido as principais orientações e
 objectivos seguidos pela UMinho a
 este nível?
-
 Manuel Mota: Como é sabido, a
 avaliação da European
 Association of
@@ -180,8 +179,7 @@ ser assinados mais 4 protocolos com
 Universidades chinesas, todas elas
 incluídas nas 10 melhores
 universidades da China.
-
-UMdicas: Para além das políticas de
+UMDicas Para além das políticas de
 internacionalização existentes,
 existe algum projecto, ou projectos,
 concretos, que visem em particular o
@@ -207,8 +205,7 @@ Universidade de Tóquio. Temos
 também colaboração com
 universidades coreanas que irá
 precisar de ser formalizada.
-
-UMdicas: Actualmente, e na sua
+UMDicas Actualmente, e na sua
 opinião, qual é a imagem que os
 parceiros internacionais da UMinho
 têm da Instituição?
@@ -244,13 +241,11 @@ problemas.
 Estou por isso
 convencido de que a
 imagem da
-Universidade do Minho
 junto dos seus
 parceiros
 internacionais é muito
 positiva.
-
-UMdicas: Em relação aos alunos
+UMDicas Em relação aos alunos
 estrangeiros e, de um modo geral, à
 internacionalização do ensino, o que
 tem sido feito?
@@ -283,8 +278,7 @@ estudantes que entram é maior dos
 que o que sai, o que nem sempre se
 passa nas outras universidades
 portuguesas.
-
-UMdicas: Com o Processo de Bolonha
+UMDicas Com o Processo de Bolonha
 e a quase totalidade dos cursos já
 abrangidos por ele, que dificuldades,
 ou facilidades, se colocam aos nossos
@@ -303,8 +297,7 @@ instituições que funcionam segundo
 outros modelos, caso por exemplo,
 dos alunos provenientes da América,
 da Austrália, do Canadá ou da China.
-
-UMdicas: O Avepark – Parque de
+UMDicas O Avepark – Parque de
 Ciência e Tecnologia, inaugurado no
 passado dia 6 de Setembro, destina-se a modernizar o tecido empresarial
 da região pela via da inovação de base
@@ -332,8 +325,7 @@ empresas de tecnologia avançada,
 por cada emprego técnico criado
 criam-se dois ou mais empregos
 menos qualificados.
-
-UMdicas: Qual é o posicionamento
+UMDicas Qual é o posicionamento
 deste parque em relação à região e ao
 seu desenvolvimento?
 M.M.: Considero que o AvePark será
@@ -342,8 +334,7 @@ para a fixação de técnicos nesta
 região e para a criação de valor em
 tecnologias avançadas. Já o está
 aliás a ser neste momento.
-
-UMdicas: Saiu em Agosto o resultado
+UMDicas Saiu em Agosto o resultado
 do Ranking webometrics. A UMinho
 está no lugar 297 mundial, ou seja,
 nos 2% melhores no Mundo, e no lugar
@@ -450,8 +441,7 @@ as mesmas universidades estão nos
 primeiros 200 lugares tanto no
 webometrics como nos outros
 modelos de ranking.
-
-UMdicas: A evolução no último ano foi
+UMDicas A evolução no último ano foi
 extremamente positiva, uma vez que
 representou uma evolução de 203
 lugares a nível mundial. A que se
@@ -467,21 +457,11 @@ americanas de topo, o que aumentou
 a nossa visibilidade, estão em curso
 muitos projectos europeus por nós
 coordenados com Websites na nossa
-Universidade.
-
-A vários factores que se conjugaram:
+A vários factores que se conjugaram: 
 aumentou a produção científica
 interna, aumentou o nº de
 do c u mento s dep o s i tado s no
-Repositorium, foram assinados
-protocolos com várias Universidades
-americanas de topo, o que aumentou
-a nossa visibilidade, estão em curso
-muitos projectos europeus por nós
-coordenados com Websites na nossa
-Universidade.
-
-UMdicas: O que está ou vai ser feito
+UMDicas O que está ou vai ser feito
 pela UMinho para potenciarmos a sua
 progressão no Ranking?
 Estamos a estudar
@@ -502,8 +482,7 @@ rankings terá de
 corresponder a um
 aumento real de
 qualidade.
-
-UMdicas: No Ranking Final das
+UMDicas No Ranking Final das
 colocações dos novos alunos no
 ensino superior a UMinho ficou em 3º
 lugar a nível nacional, com 97,2% das
@@ -541,7 +520,6 @@ nacional.
 Estes resultados
 acabam assim por
 confirmar a
-Universidade do Minho
 como uma das
 grandes Universidades
 portuguesas. Vêm
@@ -555,4 +533,4 @@ oferece garantias de uma formação
 sólida, com a aquisição segura de
 competências para a vida que lhes
 garantem elevadas perspectivas de
-empregabilidade no futuro.
+empregabilidade no futuro.empregabilidade no futuro.empregabilidade no futuro.empregabilidade no futuro.

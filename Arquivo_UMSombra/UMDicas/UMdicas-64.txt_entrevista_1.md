@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 64 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Date: 27 de Dezembro de 2008
-Title: Universitat Autònoma de Barcelona de visita à UMinho
-Interviewer: Paulo Ferreira
+journal: UMdicas
+issue: Edição nº 64 - Ano 4
+university: Universidade do Minho
+interviewee: Mercè Masnou
+date: 27 de Dezembro de 2008
+title: Universitat Autònoma de Barcelona de visita à UMinho
+interviewer: Paulo Ferreira
 ---
 
 Universitat Autònoma de Barcelona de visita à UMinho
@@ -13,10 +13,8 @@ Desta feita, a rúbrica de serviços desportivos de referência conta
 com a presença de colegas da Universitat Autònoma de
 Barcelona de visita à Universidade do Minho. Conhecer melhor os
 serviços e as práticas de gestão foram objectivos alcançados.
-
 Paulo Ferreira
 paulo_ferreira@sas.uminho.pt
-
 A Universidad Autónoma de
 Barcelona é uma universidade
 pública da Catalunha (Espanha)
@@ -36,8 +34,7 @@ forma a conhecer melhor a forma
 de trabalho dos nossos serviços
 desportivos, reconhecidos já
 como uma referência europeia.
-
-UMdicas: Como é que ficou a
+UMDicas Como é que ficou a
 saber da existência dos serviços
 desportivos da UMinho?
 Mercè Masnou: Estive aqui em
@@ -48,8 +45,7 @@ então podemos ver como
 funcionava a Universidade do
 Minho aqui em Braga e
 Guimarães. Foi fantástico.
-
-UMdicas: Qual foi o objectivo
+UMDicas Qual foi o objectivo
 desta visita?
 M.M.: Na última conferencia de
 ENAS, chamou-nos atenção dois
@@ -65,8 +61,7 @@ Universidade, procuramos
 conhecer pessoalmente os
 programas e serviços e a forma
 de implementação.
-
-UMdicas: Que avaliação faz dos
+UMDicas Que avaliação faz dos
 ser viços depor tivos e das
 infraestruturas?
 M.M.: Em relação às
@@ -83,8 +78,7 @@ as orientações dos alunos e tem
 por isso um índice de
 participação extraordinário, que
 inclusivé a nós nos faz inveja.
-
-UMdicas: O que mais a
+UMDicas O que mais a
 impressionou?
 M.M.: Foi sem dúvida alguma o
 índice de 40% da população
@@ -95,8 +89,7 @@ também impressionados com o
 programa informático de gestão
 dos serviços, muito bom e muito
 completo.
-
-UMdicas: Como é que estão
+UMDicas Como é que estão
 estruturados ser viços
 despor tivos da Univ de
 Barcelona?
@@ -114,8 +107,7 @@ Há também possibilidade de
 pessoas externas ao campus e à
 universidade poderem inscrever-se ou haver usos livres para poder
 usar as nossas instalações.
-
-UMdicas: Quais as grandes
+UMDicas Quais as grandes
 diferenças entre a realidade
 desportiva da UAB e da UMinho?
 M.M.: A grande diferença é termos
@@ -128,8 +120,7 @@ temos neste momento
 quantificados estes valores. O
 índice de influencia não é
 conhecido neste momento.
-
-UMdicas: A UMinho tem 40% da
+UMDicas A UMinho tem 40% da
 sua popu laç ã o a pratica r
 desporto. Qual é a percentagem
 na UAB?
@@ -140,10 +131,8 @@ poderia ser mais elevada. Como
 disse, temos muitos que não são
 inscritos mas que usam as
 instalações. São valores que não
-temos neste momento
 quantificados.
-
-UMdicas: Qual é percentagem de
+UMDicas Qual é percentagem de
 utentes não estudantes a utilizar
 os serviços desportivos?
 M.M.: Cerca de 50% porque temos
@@ -152,8 +141,7 @@ nos estudantes que quando
 deixam os estudos continuam
 inscritos com a mesma quota,
 são antigos estudantes.
-
-UMdicas: Qual é a
+UMDicas Qual é a
 modalidade/desporto com mais
 procura nos serviços
 desportivos?
@@ -163,8 +151,7 @@ como actividade competitiva.
 Para as raparigas são mais as
 actividades de ritmo, tipo
 aeróbica.
-
-UMdicas: O que identificaram
+UMDicas O que identificaram
 como sendo as forças da
 UMinho?
 M.M.: Sem dúvida a excelente
@@ -186,11 +173,11 @@ Estamos encantados por saber
 que há uma via que podemos
 desenvolver e que não
 exploramos.
-UMdicas: Se pudesse levar uma
+UMDicas Se pudesse levar uma
 infraestrutura da UMinho para
 Barcelona, qual escolheria?
 M.M.: Nós levariamos os
 gestores, são sem dúvida o
 melhor que a UM apresenta. A
 vossa amabilidade e recepção
-foram exemplares.
+foram exemplares.foram exemplares.foram exemplares.foram exemplares.

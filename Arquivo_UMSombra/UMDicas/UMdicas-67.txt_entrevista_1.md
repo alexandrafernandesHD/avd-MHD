@@ -1,24 +1,23 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 67 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Jorge Silvério
-Role: mestre em psicologia do Desporto e Prof. na UMinho
-Date: 25 de Março de 2009
-Title: Prof. Jorge Silvério nomeado Provedor do Adepto
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 67 - Ano 4
+university: Universidade do Minho
+interviewee: Jorge Silvério
+role: mestre em psicologia do Desporto e Prof. na UMinho
+date: 25 de Março de 2009
+title: Prof. Jorge Silvério nomeado Provedor do Adepto
+interviewer: Ana Marques
 ---
+
 
 Prof. Jorge Silvério nomeado Provedor do Adepto
 Jorge Silvério, mestre em psicologia do Desporto e Prof. na UMinho, foi designado pela Comissão Executiva da Liga
 Portuguesa de Futebol Profissional (LPFP) provedor do adepto ,
 figura que pretende ser um interlocutor entre os adeptos e as várias
 entidades desportivas.
-
 Ana Marques
 anac@sas.uminho.pt
-
-UMdicas: O que o levou a
+UMDicas O que o levou a
 enveredar pela psicologia
 desportiva?
 Jorge Silvério: Quando entrei no
@@ -43,13 +42,11 @@ Entretanto abriu o mestrado em
 Psicologia de Desporto e aí
 consegui conciliar o interesse
 pela psicologia e pelo desporto.
-
-UMdicas: Qual tem sido o seu
+UMDicas Qual tem sido o seu
 contributo na Federação
 Portuguesa de Futebol a nível da
 formação em Psicologia
 Desportiva?
-
 J.S.: Sou formador convidado da
 Federação Por tuguesa de
 Futebol. Fui o responsável da
@@ -63,8 +60,7 @@ Peseiro, José Couceiro, Carlos
 Car valhal, Carlos Brito,
 Domingos, Vítor Pontes e Luís
 Castro.
-
-UMdicas: Tem colaborado com
+UMDicas Tem colaborado com
 alguns clubes da primeira
 divisão. Em que aspectos do dia-a-dia 
 pensa ser essencial o apoio
@@ -106,8 +102,7 @@ quase impossível quando tem
 vinte e tantos atletas (no caso do
 futebol), daí a necessidade do
 psicólogo desportivo.
-
-UMdicas: Em que clubes
+UMDicas Em que clubes
 nacionais tem colaborado a nível
 do apoio psicológico aos atletas?
 J.S.: Existem dois grandes
@@ -118,8 +113,7 @@ mais visibilidade foi no Futebol
 Clube de Penafiel, na altura em
 que ainda estava na primeira
 divisão.
-
-UMdicas: Quais são os principais
+UMDicas Quais são os principais
 problemas a que os atletas estão
 sujeitos?
 J. S.: Principalmente a forma
@@ -146,8 +140,7 @@ mais preventiva, para que
 quando os problemas
 aconteçam eles saibam lidar
 com eles.
-
-UMdicas: Será o novo Provedor
+UMDicas Será o novo Provedor
 do Adepto. Como surgiu este
 convite da parte da Liga
 Portuguesa de Futebol
@@ -173,8 +166,7 @@ daí avançar com a criação do
 Provedor do Adepto, alguém que
 possa ouvir os adeptos, o que até
 aqui não era feito.
-
-UMdicas: De que forma é que
+UMDicas De que forma é que
 este novo desafio poderá
 melhorar a maneira como as
 pessoas vêm o futebol?
@@ -194,8 +186,7 @@ segurança, tentaremos que os
 próprios adeptos sintam que
 têm direitos mas também
 deveres.
-
-UMdicas: Como Provedor do
+UMDicas Como Provedor do
 Adepto, como vai ser a
 interacção com os adeptos?
 J.S.: Vamos ter várias
@@ -217,8 +208,7 @@ que t ê m u m i nter lo cu tor
 disposto a ouvi-los e que depois
 as suas ideias não caiam em
 “saco roto”.
-
-UMdicas: Como será coordenado
+UMDicas Como será coordenado
 o projecto, ou seja, estará a
 trabalhar só ou terá uma equipa
 a trabalhar consigo?
@@ -233,16 +223,14 @@ vai ser maior do que aquele eu já
 previa, portanto é provável que
 depois haja necessidade de
 reforçar a equipa.
-
-UMdicas: Quais serão para si as
+UMDicas Quais serão para si as
 principais solicitações /
 reclamações dos adeptos?
 J. S.: Pelo que já pude perceber,
 solicitações tais como, o preço
 dos bilhetes e os horários dos
 jogos, serão duas das principais.
-
-UMdicas: Provedor do Adepto
+UMDicas Provedor do Adepto
 deve sensibilizar os
 simpatizantes de futebol para o
 cumprimento de todas as
@@ -258,8 +246,7 @@ consciência que têm direitos
 mas também deveres. Aqui a
 formação terá um papel muito
 importante!
-
-UMdicas: Sendo Prof. na UMinho,
+UMDicas Sendo Prof. na UMinho,
 o que pensa sobre o Programa
 TUTORUM?
 J. S.: Acho excelente. Eu tive
@@ -301,8 +288,7 @@ desistem, investem menos no
 desporto ou menos na carreira
 académica, por isso o programa
 Tutorum é muito importante.
-
-UMdicas: É tutor de que atletas
+UMDicas É tutor de que atletas
 de alta competição da UMinho?
 J. S.: Como tutor, estou ligado aos
 alunos de psicologia que estão
@@ -315,8 +301,6 @@ Em relação à segunda vertente,
 trabalho em termos psicológicos
 com todos os atletas que me
 procuram.
-
-UMdicas: Quais são os principais
 problemas psicológicos com que
 se deparam os atletas /
 estudantes?
@@ -336,11 +320,10 @@ dada a atitude de colaboração da
 parte de todos.
 Em relação ao apoio psicológico
 são os problemas que
-normalmente os atletas têm:
+normalmente os atletas têm: 
 dificuldades no controlo da
 ansiedade, baixa autoconfiança, desmotivação, etc.
-
-UMdicas: Que balanço faz do
+UMDicas Que balanço faz do
 TUTORUM até ao momento?
 J . S . : Faço um balanço
 claramente positivo. Aquilo que
@@ -368,4 +351,4 @@ em termos de “mercado”, que
 hoje em dia é muito importante
 também, sendo mais uma forma
 de atrair estudantes para esta
-academia.
+academia.academia.academia.academia.

@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 62 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Carlos Silva
-Topic: 23ª Edição dos Jogos Galaico Durienses
-Date: 14 de Novembro de 2008
-Title: Jogos Galaico-Durienses: uma ponte entre culturas
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 62 - Ano 4
+university: Universidade do Minho
+interviewee: Carlos Silva
+topic: 23ª Edição dos Jogos Galaico Durienses
+date: 14 de Novembro de 2008
+title: Jogos Galaico-Durienses: uma ponte entre culturas
+interviewer: Nuno Gonçalves
 ---
 
 Jogos Galaico-Durienses: uma ponte entre culturas
@@ -16,10 +16,8 @@ que uma grande competição multi-desportiva, estes jogos são a
 celebração de uma união secular entre dois povos irmãos. O desporto mais
 uma vez assume um papel fulcral na missão da UMinho de se projectar para
 o exterior como uma Universidade sem Muros.
-
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 História
 Se viajarmos até ao século
 passado, mais propriamente até
@@ -69,8 +67,6 @@ do Tri nas amizades, no convívio na
 alegria que sempre está presente
 nos JGD, mas sobretudo revendo
 velhos e grandes amigos.”
-
-Social
 Como se pôde constatar pelas
 palavras do dirigente da UPorto, a
 componente social deste evento é
@@ -155,7 +151,7 @@ desiludir.”
 Para esta edição, quem for ao
 Complexo Desportivo Universitário
 (CDU) de Gualtar, vai poder assistir
-às seguintes modalidades:
+às seguintes modalidades: 
 Badminton, Basquetebol (Misto),
 Futsal (Misto), Jucata (Judo,
 Karaté e Taekwondo), Ténis de
@@ -183,17 +179,11 @@ www.dicas.sas.uminho.pt , bem
 como em newsletters que serão
 distribuídas pelo campus de
 Gualtar.
-
-Entrevista a Carlos Silva,
-Presidente do Comité
-Organizador
-
 O espírito que
 marcam estes jogos
 são os do convívio,
 da amizade e do FairPlay
-
-UMdicas: Neste Qual é a
+UMDicas Neste Qual é a
 importância deste evento
 desportivo para a Universidade do
 Minho?
@@ -221,8 +211,7 @@ juntando mais uma vez e desde
 1993 as Universidades do Minho,
 Porto, UTAD, Vigo, Santiago de
 Compostela e Corunha.
-
-UMdicas: Este evento desportivo
+UMDicas Este evento desportivo
 costuma ser marcante devido à
 sua componente social. Acha que
 este é um dos segredos para a
@@ -241,8 +230,7 @@ desportivos são importantes, mas
 o espírito que marcam estes jogos
 são os do convívio, da amizade e
 do fair play.
-
-UMdicas: Como costuma ser o
+UMDicas Como costuma ser o
 nivel competitivo desta
 competição?
 C.S.: As seis Universidades em
@@ -256,8 +244,7 @@ Nesta edição, o que se espera
 mais uma vez é que o nível de
 competição seja bastante
 elevado.
-
-UMdicas: Há novidades nesta
+UMDicas Há novidades nesta
 edição de 2008/09, relativamente
 às anteriores?
 C.S.: A grande novidade para estes
@@ -277,8 +264,7 @@ Destaca-se também nestes jogos
 a realização de um Torneio Jukata
 por equipas e que junta o Judo,
 Karaté e Taekwondo.
-
-UMdicas: Que mensagem deixa à
+UMDicas Que mensagem deixa à
 comunidade da UMinho?
 C.S.: Conv ida mos to da a
 comunidade a marcar presença no
@@ -286,4 +272,4 @@ Complexo Desportivo de Gualtar
 nos dias 18, 19 e 20 de Novembro
 para assistir aos Jogos, apoiar as
 equipas da UMinho e participar
-nas actividades de cariz social.
+nas actividades de cariz social.nas actividades de cariz social.nas actividades de cariz social.nas actividades de cariz social.

@@ -1,14 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 62 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Irene Montenegro
-Topic: O portal AlumniUM
-Role: Pró-reitora
-Date: 14 de Novembro de 2008
-Title: Portal AlumniUM, ligação ao passado e ao futuro
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 62 - Ano 4
+university: Universidade do Minho
+interviewee: Irene Montenegro
+topic: O portal AlumniUM
+role: Pró-reitora
+date: 14 de Novembro de 2008
+title: Portal AlumniUM, ligação ao passado e ao futuro
+interviewer: Ana Marques
 ---
+
 
 Portal AlumniUM, ligação ao passado e ao futuro
 O portal AlumniUM foi lançado em Abril de 2008, tendo sido
@@ -18,11 +19,7 @@ integrou alguns docentes, no qual também participaram a AAEUM e a AAUM.
 O UMdicas foi falar com a responsável do Gabinete de Avaliação e Qualidade
 do Ensino (GAQE), a Pró-reitora Irene Montenegro, para saber, após seis
 meses do seu lançamento qual é o estado do projecto.
-
-Ana Marques
-dicas@sas.uminho.pt
-
-UMdicas: Quando foi criado o
+UMDicas Quando foi criado o
 portal AlumniUM e quais os
 objectivos, ou as necessidades,
 que estão na origem do mesmo?
@@ -63,8 +60,7 @@ Association (EUA), em
 2007, veio acrescentar
 prioridade à sua
 implementação.
-
-UMdicas: Quem são os
+UMDicas Quem são os
 responsáveis pelo portal e como é
 que ele funciona (quem tem
 acesso, como funciona a gestão
@@ -84,8 +80,7 @@ estatístico dos dados dos
 questionários dirigidos aos
 a ntigo s e s tuda nte s e ao s
 empregadores.
-
-UMdicas: A procura e utilização do
+UMDicas A procura e utilização do
 portal têm ido de encontro às
 expectativas?
 Até à data temos
@@ -116,8 +111,7 @@ breve período de tempo possível,
 seja possível atingir amostragens
 significativas para aferir a
 empregabilidade.
-
-UMdicas: Qual tem sido a procura
+UMDicas Qual tem sido a procura
 pelos públicos a quem se destina
 por excelência o portal, que são os
 antigos alunos?
@@ -129,9 +123,7 @@ empregadores têm do portal,
 podemos afirmar que ele veio
 preencher um espaço importante
 no âmbito da missão da
-Universidade.
-
-UMdicas: Qual tem sido o feedback
+UMDicas Qual tem sido o feedback
 por parte dos utilizadores. Tem
 conhecimento de alguns (s)
 empregos (s) que tenham sido já
@@ -156,8 +148,7 @@ ofertas de emprego
 disponibilizadas
 atinge valores da
 ordem de 270.
-
-UMdicas: Uma das
+UMDicas Uma das
 funcionalidades que destacou foi o
 Observatório de emprego, assente
 num questionário aplicado aos
@@ -182,8 +173,7 @@ fidedignas.
 Estamos optimistas de que num
 futuro breve conseguiremos
 atingir os nossos objectivos.
-
-UMdicas: Qual tem sido o papel
+UMDicas Qual tem sido o papel
 dos directores de curso na
 promoção do portal ? A
 colaboração com entre a
@@ -219,8 +209,7 @@ implementação do
 projecto tenha o
 sucesso almejado por
 todos.
-
-UMdicas: Tem havido alguma
+UMDicas Tem havido alguma
 evolução relativamente à ideia
 inicial do que deveria ser o portal?
 I.M.- O objectivo que deu origem ao
@@ -233,8 +222,7 @@ crescendo, devendo salientar-se
 que foi o esforço e entusiasmo do
 GSI que permitiu a concretização
 de um projecto mais arrojado.
-
-UMdicas: Está a ser pensada mais
+UMDicas Está a ser pensada mais
 alguma funcionalidade para o
 portal?
 I.M.: Temos tido algumas
@@ -246,8 +234,7 @@ automatização do processo de
 extracção de dados para fins
 estatísticos associados à gestão
 do site.
-
-UMdicas: Surgiu também o Alumni
+UMDicas Surgiu também o Alumni
 Medicina. Que têm em comum os
 dois portais?
 I.M.: Tivemos a preocupação de
@@ -269,13 +256,12 @@ mais, integra um observatório de
 empregabilidade, indispensável a
 qualquer instituição de Ensino
 Superior.
-
-UMdicas: Quais são as principais
+UMDicas Quais são as principais
 mais-valias do portal?
 I.M.: Os antigos estudantes
 registados no portal poderão
 usufruir de um conjunto de
-funções, das quais se destacam:
+funções, das quais se destacam: 
 - Disponibilização automática de
 uma conta de correio
 (@alumni.uminho.pt);
@@ -352,7 +338,7 @@ Ao utilizarem o portal AlumniUM os
 empregadores terão acesso a uma
 base de dados actualizada com
 informação e preferências dos
-diplomados, onde poderão:
+diplomados, onde poderão: 
 -Ter acesso on-line aos Curricula
 Vitae dos candidatos;
 -Colocar Ofertas de Emprego
@@ -369,4 +355,4 @@ candidaturas por email.
 -Aceder a um conjunto de
 estatísticas anuais relativas à
 relação da sua Organização com a
-bolsa de emprego.
+bolsa de emprego.bolsa de emprego.bolsa de emprego.bolsa de emprego.

@@ -1,22 +1,18 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 64 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Tiago Monteiro
-Role: aluno da Licenciatura em Gestão, é um dos muitos nomes que figuram entre a lista de atletas de alta competição
-Date: 27 de Dezembro de 2008
-Title: É um orgulho para mim defender as cores nacionais
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Edição nº 64 - Ano 4
+university: Universidade do Minho
+interviewee: Tiago Monteiro
+role: aluno da Licenciatura em Gestão, é um dos muitos nomes que figuram entre a lista de atletas de alta competição
+date: 27 de Dezembro de 2008
+title: É um orgulho para mim defender as cores nacionais
+interviewer: Nuno Gonçalves
 ---
 
 É um orgulho para mim defender as cores nacionais
 Tiago Monteiro, aluno da Licenciatura em Gestão, é um dos muitos nomes que figuram entre a lista de atletas de alta competição que
 se encontram matriculados na UMinho, e ao abrigo do TUTORUM –
 programa tutorial de apoio aos atletas de alta competição.
-
-Nuno Gonçalves
-nunog@sas.uminho.pt
-
 Para além dos diversos títulos
 nacionais alcançados nos escalões
 de formação e das 57
@@ -29,14 +25,12 @@ a dia, jogo a jogo, vem confirmando
 os seus créditos como uma das
 maiores esperanças do andebol
 nacional.
-
-UMdicas: Com que idade é que
+UMDicas Com que idade é que
 iniciaste a prática competitiva do
 andebol e onde?
 Tiago Monteiro: Com 6 anos, no
 CCRFermentões.
-
-UMdicas: Achas que o andebol
+UMDicas Achas que o andebol
 ajudou no teu desenvolvimento
 enquanto indivíduo?
 T.M.: Claro que sim, o andebol
@@ -50,8 +44,7 @@ mim. Felizmente já conheci
 bastantes sítios e bastantes
 pessoas, onde tenho bons amigos,
 graças ao Andebol.
-
-UMdicas: Qual foi o papel da tua
+UMDicas Qual foi o papel da tua
 família no teu percurso enquanto
 atleta de alta competição?
 T.M.: Foi muito importante, primeiro
@@ -62,14 +55,12 @@ Fermentões, e depois, desde o
 primeiro momento me têm apoiado a
 100%, e sem esse apoio era
 impossível estar onde estou.
-
-UMdicas: Quantas vezes treinas por
+UMDicas Quantas vezes treinas por
 semana, e quanto tempo?
 T.M.: Treino em média 8 vezes por
 semana, tendo cada treino 1h30,
 aproximadamente.
-
-UMdicas: A maneira como tu lidas
+UMDicas A maneira como tu lidas
 com a pressão e a ansiedade antes
 dos jogos é algo que tu consegues
 trabalhar e treinar, ou simplesmente
@@ -85,8 +76,7 @@ saudável, mas à medida que vamos
 fa zendo ma i s jogos, v a mos
 perdendo essa ansiedade e essa
 pressão.
-
-UMdicas: Como é que é estar numa
+UMDicas Como é que é estar numa
 equipa, campeã nacional sénior, e
 aos 18 anos ser o organizador, o
 homem do último passe, da
@@ -99,8 +89,7 @@ trabalho, e com um grupo fantástico
 como este, tudo se torna mais fácil,
 pois toda a gente se apoia para o
 sucesso do clube.
-
-UMdicas: Quando é que foi a tua
+UMDicas Quando é que foi a tua
 primeira vez de quinas ao peito e
 contra quem? Qual foi a sensação?
 T.M.: A primeira vez que representei
@@ -114,8 +103,7 @@ representar a Selecção. Foi e
 continua a ser um momento de
 grande orgulho para mim defender
 as cores nacionais.
-
-UMdicas: A Selecção A é um
+UMDicas A Selecção A é um
 objectivo a curto, médio ou longo
 prazo?
 T.M.: A selecção A é um objectivo de
@@ -126,8 +114,7 @@ pessoas estão atentas ao meu
 trabalho. Vou trabalhar cada vez
 mais para tentar entrar no grupo o
 mais cedo possível.
-
-UMdicas: O facto de competires pelo
+UMDicas O facto de competires pelo
 teu actual clube condicionou a tua
 escolha de Universidades quando
 concorreste? Porque?
@@ -138,8 +125,7 @@ ABC, condicionou muito a minha
 escolha, porque estudar no Porto e
 jogar em Braga era quase
 impossível, logo, optei pela UM.
-
-UMdicas: Para muitos atletas de alta
+UMDicas Para muitos atletas de alta
 competição torna-se difícil conciliar
 os estudos com a prática
 desportiva. Como é que conseguiste
@@ -154,8 +140,7 @@ matéria perdida torna-se difícil. É
 preciso ter muita vontade e muita
 determinação para que esta relação
 funcione.
-
-UMdicas: O que é que te levou a optar
+UMDicas O que é que te levou a optar
 pela Licenciatura em Gestão?
 T.M.: A minha primeira escolha era
 marketing, mas como só havia no
@@ -165,8 +150,7 @@ houvesse na UM, e que estivesse de
 certa forma ligada ao marketing, por
 isso a escolha da licenciatura de
 Gestão.
-
-UMdicas: A UMinho iniciou em
+UMDicas A UMinho iniciou em
 Portugal um programa pioneiro no
 que diz respeito ao apoio aos atletas
 de alta competição, o TUTORUM. O
@@ -181,8 +165,7 @@ pois temos um professor, ou seja,
 um tutor que nos permite por a par
 da situação e ajudar, dentro do
 possível, a nossa evolução escolar.
-
-UMdicas: Os teus objectivos
+UMDicas Os teus objectivos
 pessoais passam por uma carreira
 profissional andebol ou os estudos
 vêm em primeiro lugar?
@@ -195,4 +178,4 @@ importante para mim, porque sei
 que o andebol não dura para
 sempre, mas agora, talvez focar-me
 mais no andebol, não deixando os
-estudos de parte.
+estudos de parte.estudos de parte.estudos de parte.estudos de parte.

@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 54
-University: Universidade do Minho
-Interviewee(s): Paulo Ferreira
-Role: presidente da FADU
-Date: 11 de Outubro de 2007
-Interviewer: Ana Coimbra
+journal: UMdicas
+issue: Número 54
+university: Universidade do Minho
+interviewee: Paulo Ferreira
+role: presidente da FADU
+date: 11 de Outubro de 2007
+interviewer: Ana Coimbra
 ---
 
 “ A melhor de sempre”
@@ -13,7 +13,6 @@ Entrevista a Paulo Ferreira Presidente da FADU
 Paulo Ferreira estudante da UMinho é o actual presidente da FADU. O UMdicas foi entrevistá-lo no âmbito das Universíadas que decorreram em Banguecoque de 8 a 18 de
 Agosto. Paulo Ferreira esteve integrado na Chefia de Missão juntamente com o Professor Manuel Janeira (Chefe de Missão) e o Dr. Bruno Almeida (Adjunto-chefe Missão)
 com funções de representação institucional da FADU junto das instâncias mais altas do desporto universitário internacional.
-
 “A Universíada de Banguecoque foi apelidada
 como a melhor de sempre, acima de tudo pelos
 resultados obtidos 1 medalha de ouro, 1 medalha
@@ -26,7 +25,6 @@ efectuado em Macau ou ainda os protocolos
 estabelecidos com as federações desportivas
 nacionais presentes na comitiva. No geral foi um
 somatório de situações”.
-
 No geral, que avaliação nos pode fazer das
 Universíadas e da organização dos Tailandeses?
 P.F A Universíada teve uma dimensão significativa
@@ -35,7 +33,6 @@ desportivos. O próprio enquadramento da cidade de
 Banguecoque também ajudou pois criou o cenário
 possível para tal. Salvo as normais situações que
 surgem sempre, a organização este muito bem.
-
 Quais os aspectos positivos e negativos que mais
 ressaltaram na Missão?
 P.F De positivo há a destacar o sucesso no que
@@ -46,7 +43,6 @@ preparação do evento nomeadamente no
 financiamento que acabou por exemplo por
 condicionar a forma de viagem da delegação para a
 Tailândia.
-
 O que engloba levar uma comitiva para a Tailândia,
 em termos de trabalho e responsabilidade?
 P.F Assumir o controlo duma missão, planear e
@@ -58,7 +54,6 @@ aspectos sensíveis como por exemplo o
 financiamento ou o contacto junto das federações
 desportivas. Apenas um trabalho dedicado e bem
 orientado pode possibilitar a hipótese de sucesso.
-
 O que pensa dos resultados obtidos?
 P.F Sem dúvida que me agradam, mas também sei
 que com um pouco mais de sorte teríamos tido mais.
@@ -68,7 +63,6 @@ completo esta área e a sua potencialidade.
 Pessoalmente tenho que referir a medalha da Jessica
 pois para quem teve o privilégio de assistir, foi
 simplesmente espantoso.
-
 Falou-se há algum tempo da possível candidatura
 de Portugal à Universíada de 2011, o que pensa
 disto?
@@ -79,7 +73,6 @@ humanos, pessoas chave com conhecimento
 específico na área para podermos vencer uma
 candidatura. Mas há muito caminho a percorrer ainda.
 Desde logo um sinal da tutela para tal.
-
 O que seria necessário fazer-se para que Portugal
 tivesse condições para organizar um evento deste
 tipo?
@@ -94,7 +87,6 @@ seja o que for sem esse envolvimento. Parece-me até
 que deveria fazer parte dum plano nacional maior em
 que a Universíada e tudo que traz consigo (infraestruturas, investimento, turismo, prestígio, etc.)
 fossem uma parte tão integrante quanto importante.
-
 Ganhamos a medalha de ouro no atletismo. Qual a
 razão para os sucessos portugueses serem
 principalmente no atletismo?
@@ -107,7 +99,6 @@ trabalha bem junto da FADU por exemplo ao integrar
 as competições universitárias nacionais e
 internacionais no seu calendário oficial e procura
 enviar a estas competições os seus melhores atletas.
-
 “Estiveram em competição 3 alunos da UMinho e
 todos eles estiveram muito bem. Logo à partida
 pelo facto de estarem presentes num evento deste
@@ -120,7 +111,6 @@ passou à 2ªronda na competição de -62kg no
 Taewkondo, assim como o nadador José Parente
 que competiu nos 800m e 1500m com bons
 registos e classificações”
-
 Qual foi o ambiente vivido em volta da
 Universíada?
 P.F O ambiente é que estas competições sempre
@@ -135,7 +125,6 @@ estudantes universitários. É um evento multidesportivo com cerca de 20 modalid
 desportivas em que competem estudantes
 universitários de todo o mundo sob a égide da
 federação internacional FISU”.
-
 Qual o papel da FADU na organização e
 coordenação destes eventos?
 P.F A FADU, como entidade máxima organizadora do
@@ -143,13 +132,11 @@ desporto nacional universitário, é quem tutela e
 proporciona a elaboração e o normal desenrolar do
 planeamento, constituição e preparação duma
 delegação Portuguesa para este evento.
-
 Contaram com os apoios das federações e
 ministérios?
 P.F Há o financiamento directo do MCTES e do IDP
 havendo ainda apoio importante do COP e das
 federações desportivas.
-
 O que seria necessário mudar no desporto
 universitário para que na próxima Universíada os
 resultados melhorassem?
@@ -158,7 +145,6 @@ distintos num primeiro junto das federações
 desportivas sob o guarda-chuva institucional do
 Comité Olímpico de Portugal, e noutro campo junto
 das instituições de ensino superior.
-
 Qual será para si o futuro do desporto
 universitário e que mudanças são necessárias
 fazer para que fosse realmente levado a sério
@@ -170,8 +156,7 @@ potencial deste importante campo de acção do
 desporto nacional. Existem muitas e variadas medidas
 sendo desde logo uma delas a própria dimensão da
 FADU e sua real representatividade nacional.
-
 Texto: Ana Coimbra
 anac@sas.uminho.pt
 Fotografia: Nuno Gonçalves
-nunog@sas.uminho.pt
+nunog@sas.uminho.ptnunog@sas.uminho.ptnunog@sas.uminho.ptnunog@sas.uminho.pt

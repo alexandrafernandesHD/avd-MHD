@@ -1,13 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 68 - Ano 4
-University: Universidade do Minho
-Interviewee(s): José Carvalho
-Topic: VP AAUM para o Desportivo
-Date: 20 de Abril de 2009
-Title: Entrevista a José Carvalho, VP AAUM para o Desportivo
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 68 - Ano 4
+university: Universidade do Minho
+interviewee: José Carvalho
+topic: VP AAUM para o Desportivo
+date: 20 de Abril de 2009
+title: Entrevista a José Carvalho, VP AAUM para o Desportivo
+interviewer: Ana Marques
 ---
+
 
 Entrevista a José Carvalho, VP AAUM para o Desportivo
 José Carvalho foi conduzido como Vice-presidente da Associação
@@ -15,11 +16,9 @@ Académica da Universidade do Minho (AAUM) para o
 departamento desportivo em Dezembro último. São os seus primeiros
 CNU’s neste cargo, tendo já desempenhado papeis de dirigente e atleta de
 equipas da AAUM.
-
 Ana Marques
 anac@sas.uminho.pt
-
-UMdicas: Como é que se deu a tua
+UMDicas Como é que se deu a tua
 entrada para a Associação
 Académica da Universidade do
 Minho?
@@ -40,8 +39,7 @@ feito o convite para assumir o
 cargo de director por Braga do
 Depar tamento das Saídas
 Profissionais.
-
-UMdicas: Que diferenças notas
+UMDicas Que diferenças notas
 entre ser Vice-presidente das
 Saídas Profissionais e agora do
 Departamento Desportivo?
@@ -53,8 +51,7 @@ execução das actividades do
 departamento. Além disso o
 número de actividades nem se
 compara.
-
-UMdicas: Como é ser vice-presidente
+UMDicas Como é ser vice-presidente
  do Departamento
 Desportivo da AAUM?
 J.C.: Até agora está a ser uma
@@ -67,8 +64,7 @@ durante cerca de dez anos e nos
 integrado na equipa de andebol
 da AAUM. Como tal é para mim um
 desafio estar agora do outro lado.
-
-UMdicas: O Depar tamento
+UMDicas O Depar tamento
 Desportivo da AAUM e o
 Departamento de Desporto e
 Cultura (DDC) dos SA SUM
@@ -86,8 +82,7 @@ Ambos os departamentos têm o
 mesmo objectivo e isso leva a que
 as ideias de ambos se aproximem
 bastante.
-
-UMdicas: Para 2008/09 quais
+UMDicas Para 2008/09 quais
 foram os objectivos traçados pelo
 Departamento Desportivo no que
 toca às competições organizadas
@@ -100,8 +95,7 @@ competições organizadas pela
 FADU, esse objectivo passa pela
 subida no ranking desportivo da
 FADU.
-
-UMdicas: Em 2006 / 07 a
+UMDicas Em 2006 / 07 a
 AAUMinho foi ultrapassada pela
 UPorto e ULisboa no ranking
 desportivo da FADU. Em 2007/08
@@ -117,8 +111,7 @@ acompanhamento às equipas
 está a ser cada vez mais
 personalizado e muito mais
 próximo dos atletas.
-
-UMdicas: A AAUMinho para estas
+UMDicas A AAUMinho para estas
 Fases Finais vai-se apresentar
 em força, sendo a maior
 delegação presente, com
@@ -133,8 +126,7 @@ AAUM espera que os nossos
 atletas tragam o maior número
 possível de medalhas para o
 Minho.
-
-UMdicas: Pela primeira vez na
+UMDicas Pela primeira vez na
 história do desporto universitário
 português e da UMinho, o ouro foi
 conquistado num europeu
@@ -143,7 +135,6 @@ sagrou-se campeão europeu em
 Moscovo, a 7 de Dezembro de
 2008. O que significou este
 triunfo para o Departamento
-Desportivo da AAUM?
 J.C.: Este triunfo significou
 bastante para o departamento
 Desportivo da AAUM, foi talvez
@@ -154,8 +145,7 @@ encarada por nós de uma forma
 muito séria e procuramos cada
 vez mais fazer uma aposta mais
 séria no plano internacional.
-
-UMdicas: É política da AAUMinho
+UMDicas É política da AAUMinho
 continuar a sua afirmação como
 potência despor tiva além
 fronteiras?
@@ -163,15 +153,13 @@ J.C.: Claramente, temos uma
 estrutura desportiva que é
 claramente capaz de conseguir
 mais êxitos.
-
-UMdicas: Em Dezembro de 2009
+UMDicas Em Dezembro de 2009
 a AAUMinho vai organizar o
 Campeonato Europeu
 Universitário de Taekwondo.
 Como estão os preparativos para
 esta competição?
 J.C. : Os preparativos do
-Campeonato Europeu
 Universitário de Taekwondo estão
 a seguir a bom ritmo, estamos
 cientes dos prazos apertados que
@@ -180,8 +168,7 @@ a certeza que esta competição
 internacional seguirá o exemplo
 das outras organizadas por nós
 anteriormente.
-
-UMdicas: Em termos recreativos,
+UMDicas Em termos recreativos,
 a Gata na Praia ainda é o "produto"
 com maior procura da AAUMinho?
 J.C.: A Gata na Praia continua a ser
@@ -194,8 +181,7 @@ da Gata na Praia mas a verdade é
 que mesmo assim vamos rumar
 a Portimão com uma comitiva
 numerosa.
-
-UMdicas: Esta edição da Gata
+UMDicas Esta edição da Gata
 será a última em Portimão? A
 próxima Gata será diferente da
 actual?
@@ -218,8 +204,7 @@ manter a qualidade, qualidade
 essa que permite o
 reconhecimento da comunidade
 académica.
-
-UMdicas: Que mensagem queres
+UMDicas Que mensagem queres
 deixar aqui a todos os atletas/equipas que vão
 representar a AAUMinho nesta
 Fase Final dos CNU's?
@@ -234,4 +219,4 @@ prestação.
 A AAUM espera também que os
 nossos atletas consigam realizar-se
  despor tivamente e
-pessoalmente.
+pessoalmente.pessoalmente.pessoalmente.pessoalmente.

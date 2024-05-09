@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 65 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Date: 29 de Janeiro de 2009
-Title: Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenkian
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Edição nº 65 - Ano 4
+university: Universidade do Minho
+interviewee: AEESECG
+date: 29 de Janeiro de 2009
+title: Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenkian
+interviewer: Michael Ribeiro
 ---
 
 Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenkian
@@ -15,11 +15,7 @@ integração dos estudantes na academia junto da restante
 comunidade estudantil”, a Associação de Estudantes Superior de
 Enfermagem Calouste Gulbenkian revelou ao UMdicas as suas metas para
 este ano.
-
-Michael Ribeiro
-mika@sas.uminho.pt
-
-UMdicas: Como surgiu a AEESECG?
+UMDicas Como surgiu a AEESECG?
 AEESECG: A Associação de
 Estudantes da Escola Superior de
 Enfermagem Calouste Gulbenkian
@@ -28,15 +24,13 @@ tendo estatutos publicados em
 diário da república desde 1987. Isto
 é, tudo o que vos posso dizer acerca
 do “nascimento” da AEESECG.
-
-UMdicas: Qual a vossa maior
+UMDicas Qual a vossa maior
 dificuldade enquanto Associação de
 Estudantes?
 AEESECG: Falta de apoios externos e
 a integração da escola no campus
 de Gualtar.
-
-UMdicas: Quem preside neste
+UMDicas Quem preside neste
 momento a AEESECG?
 AEESECG: Neste momento o
 Presidente é José Pedro Gomes Lira
@@ -45,8 +39,7 @@ pedagógico, gabinete Cultural e
 Desportivo, gabinete de Apoio ao
 Aluno, mesa de Assembleia Geral e
 conselho Fiscal e Jurisdicional.
-
-UMdicas: Quais os objectivos desta
+UMDicas Quais os objectivos desta
 Associação de Estudantes?
 AEESECG: Representar e defender
 os interesses dos estudantes da
@@ -63,8 +56,7 @@ Desenvolver a cooperação e a
 solidariedade e os estudantes da
 ESE-UM, promovendo uma política
 de igualdade de oportunidades;
-
-UMdicas: Quais as actividades
+UMDicas Quais as actividades
 programadas para o ano de
 2008/09?
 AEESECG: Temos várias actividades
@@ -105,8 +97,7 @@ do mandato, a realização do
 Encontro Nacional de Estudantes de
 Enfermagem (ENEE) por parte da
 nossa AEESECG.
-
-UMdicas: Sabemos que têm um
+UMDicas Sabemos que têm um
 Blog? Pode falar-nos sobre isso?
 A EE SECG: Foi uma ideia
 concretizada há cinco anos pelos
@@ -115,21 +106,17 @@ Actualmente, não estamos voltados
 para o blog porque temos em mente
 a construção de um novo site. O blog
 é www.esecg.blogspot.com
-
-UMdicas: O que é necessário para
+UMDicas O que é necessário para
 ser sócio do AEESECG?
 AEESECG: É necessário preencher a
 ficha de inscrição de sócios, e pagar
 a modesta quantia de 5€.
-
-UMdicas: Têm sede própria?
+UMDicas Têm sede própria?
 AEESECG: Sim, situada no Edifício
 dos Congregados, na Avenida
 Central.
-
-UMdicas: Qual a vossa grande mete
+UMDicas Qual a vossa grande mete
 enquanto Associação de
-Estudantes da Escola Superior de
 Enfermagem Calouste Gulbenkian?
 AEESECG: O nosso grande objectivo
 é alcançar a verdadeira integração
@@ -155,10 +142,8 @@ instalações, à nova escola de
 Enfermagem e às dificuldades dos
 estudantes de Enfermagem nos
 ensinos clínicos.
-AEESECG
-
 Edifício dos Congregados Nº.100
 Avenida Central 4710-228
 São José de São Lázaro - Braga
 Tlm: 968167065 - 968166016 963462809
-E-mail: aeesecg@gmail.com
+E-mail: aeesecg@gmail.comE-mail: aeesecg@gmail.comE-mail: aeesecg@gmail.comE-mail: aeesecg@gmail.com

@@ -1,23 +1,20 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 64 - Ano 4
-University: Universidade do Minho
-Interviewee(s): José Fernandes
-Date: 27 de Dezembro de 2008
-Title: GSI obtém certificação de qualidade ISO 9001:2000
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 64 - Ano 4
+university: Universidade do Minho
+interviewee: José Fernandes
+date: 27 de Dezembro de 2008
+title: GSI obtém certificação de qualidade ISO 9001 - 2000
+interviewer: Ana Marques
 ---
 
-GSI obtém certificação de qualidade ISO 9001:2000
+
+GSI obtém certificação de qualidade ISO 9001: 2000
 Em entrevista ao UMdicas, José Fernandes Director do Gabinete
 de Sistemas de Informação (GSI), falou do processo e das
 motivações que conduziram à certificação e dos projectos
 futuros do organismo que dirige.
-
-Ana Marques
-anac@sas.uminho.pt
-
-UMdicas: Qual o papel do GSI no
+UMDicas Qual o papel do GSI no
 contexto da universidade?
 José Fernandes: O GSI orienta
 toda a sua actividade no sentido
@@ -45,10 +42,9 @@ técnica de supor te da
 Universidade do Minho,
 contribuindo para a sua gestão e
 funcionamento.
-
-UMdicas: GSI obteve a
+UMDicas GSI obteve a
 certificação de qualidade pela ISO
-9001:200 no dia 16 de
+9001: 200 no dia 16 de
 Dezembro. Qual foi o objectivo
 com esta certificação?
 J.F.: Foram várias as motivações
@@ -56,7 +52,7 @@ que conduziram à certificação
 pela ISO 9001 do GSI, no entanto,
 as que tiveram maior peso na
 decisão da certificação por este
-referencial foram as seguintes:
+referencial foram as seguintes: 
 - Reorganização interna;
 - Medição clara de objectivos e
 monitorização contínua dos
@@ -129,11 +125,10 @@ Visão, sendo por isso
 fundamental para dirigir o
 Gabinete de forma pró-activa a
 curto e médio prazo.
-
-UMdicas: Sucintamente, de que
+UMDicas Sucintamente, de que
 consta o processo?
 J.F.: A abordagem por processos
-promovida pela ISO 9001:2000
+promovida pela ISO 9001: 2000
 identifica e gere
 sistematicamente os processos
 que fazem o Sistema de Gestão
@@ -160,7 +155,7 @@ que a metodologia está a ser
 correctamente aplicada.
 O processo de implementação da
 ISO 9001 no GSI, passou pelas
-seguintes fases:
+seguintes fases: 
 - Diagnóstico inicial ao GSI do
 ponto de vista organizacional.
 - Definição da rede de processos
@@ -186,7 +181,7 @@ constatações.
 - Pedido de concessão com a
 realização da respectiva
 auditoria.
-UMdicas: Foi um processo
+UMDicas Foi um processo
 complicado?
 J.F.: Foi um processo acima de
 tudo desgastante, já que foi
@@ -223,8 +218,7 @@ especializada em intervenções
 nos domínios da Qualidade,
 Ambiente, Segurança e Saúde do
 Trabalho.
-
-UMdicas: Que melhorias vai
+UMDicas Que melhorias vai
 trazer para a UM e para os
 alunos?
 J.F.: A certificação pela ISO 9001
@@ -246,8 +240,7 @@ satisfação dos nossos Utentes,
 onde se incluem os alunos, algo
 que sem dúvida agradará à
 Universidade.
-
-UMdicas: Qual a importância
+UMDicas Qual a importância
 desta certificação para o GSI e
 para a UMinho?
 J.F.: Somos o primeiro Serviço da
@@ -289,13 +282,12 @@ cumpre as exigências legais e
 regulamentares de uma forma
 ef ica z sendo pionei ro na
 implementação desta norma.
-
-UMdicas: Quais os próximos
+UMDicas Quais os próximos
 projectos do GSI a curto e médio
 prazo?
 J.F.: Ao nível da certificação,
 temos que consol ida r a
-certificação ISO 9001:2000
+certificação ISO 9001: 2000
 agora obtida bem como manter a
 certificação QWEB do portal
 institucional da Universidade.
@@ -347,4 +339,4 @@ seja possível o tratamento e
 disponibilização da informação
 aos órgãos de gestão no suporte
 à decisão de uma forma mais
-eficiente.
+eficiente.eficiente.eficiente.eficiente.

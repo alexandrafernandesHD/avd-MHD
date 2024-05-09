@@ -1,9 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 49
-University: Universidade do Minho
-Interviewee(s): Sónia Duarte
-Date: 20 de Fevereiro de 2007
+journal: UMdicas
+issue: Número 49
+university: Universidade do Minho
+interviewee: Sónia Duarte
+date: 20 de Fevereiro de 2007
+interviewer: Ana Marques
 ---
 
 Núcleo de Estudantes de Medicina da
@@ -12,7 +13,6 @@ Universidade do Minho
 O UMDicas esteve à conversa com Sónia Duarte, aluna do 3º ano da Licenciatura em Medicina, e actual
 presidente da direcção do NEMUM, e que nos contou um pouco da história, objectivos e projectos do NEMUM
 para o futuro.
-
 UMDicas Quando foi criado o NEMUM e
 com que propósito?
 Sónia Duarte O Núcleo de Estudantes de
@@ -27,18 +27,15 @@ científicas, defender os seus interesses na
 área da educação médica pré e pósgraduada, e ainda permitir a sua aproximação
 à comunidade, através de acções de
 promoção de saúde.
-
 UMDicas Quantos associados tem?
 Sónia - Actualmente o NEMUM conta com 275
 associados.
-
 UMDicas - Qual foi o primeiro Presidente
 do NEMUM?
 Sónia - Teve como primeiro presidente Pedro
 Morgado, na altura aluno do 2ºano do curso
 de Medicina, que actualmente está no último
 ano da licenciatura.
-
 UMDicas - Quais são as grandes
 actividades e projectos do NEMUM ao
 longo do ano?
@@ -78,7 +75,6 @@ no passado mês de Janeiro não deixou em
 passar em branco o muito discutido tema do
 aborto, realizando um debate aberto a toda a
 comunidade da Universidade.
-
 UMDicas De entre esta lista de projectos e
 iniciativas, têm ainda em mente novos
 projectos?
@@ -97,7 +93,6 @@ Medicina (XVII ENEM), de longe o nosso
 projecto mais ambicioso, em parceria com a
 Associação Nacional de Estudantes de
 Medicina (ANEM), da qual é membro.
-
 UMDicas Por fim, qual é o grande
 objectivo do NEMUM?
 Sónia - Pretendemos acima de tudo continuar
@@ -105,4 +100,4 @@ a proporcionar, aos alunos de Medicina da
 Universidade do Minho, momentos de
 crescimento e boa disposição, sem nunca
 esquecer a defesa dos seus interesses, como
-o nosso maior propósito.
+o nosso maior propósito.o nosso maior propósito.o nosso maior propósito.o nosso maior propósito.

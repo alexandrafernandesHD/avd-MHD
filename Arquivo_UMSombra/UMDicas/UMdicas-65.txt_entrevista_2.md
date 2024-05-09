@@ -1,21 +1,20 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 65 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Prof. Dr. Acílio Rocha, Prof. Dr.ª Sun Lam
-Date: 29 de Janeiro de 2009
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 65 - Ano 4
+university: Universidade do Minho
+interviewee: Prof. Dr. Acílio Rocha, Prof. Dr.ª Sun Lam
+date: 29 de Janeiro de 2009
+interviewer: Ana Marques
 ---
+
 
 Prémio de Excelência reconhece o trabalho desenvolvido
 O Instituto Confúcio da Universidade do Minho (UMinho), prestes
 a fazer três anos de funcionamento, vê reconhecido o seu
 trabalho de desenvolvimento, aprofundamento e divulgação da
 língua e cultura chinesas, através do Prémio de Excelência.
-
 Ana Marques
 anac@sas.uminho.pt
-
 Um dos vinte Institutos Confúcio
 do mundo galardoados com tal
 distinção, entre 306 existentes. O
@@ -24,8 +23,7 @@ Presidente do Instituto Confúcio
 (IC), Prof. Dr. Acílio Rocha (na
 foto), para saber o que é, e como é
 desenvolvido o trabalho no IC.
-
-UMdicas: O que é o Instituto
+UMDicas O que é o Instituto
 Confúcio da Universidade do
 Minho? Quais são os objectivos da
 implementação destes institutos
@@ -77,8 +75,7 @@ responsáveis da China tenham
 atribuído à Universidade do Minho
 o primeiro Instituto Confúcio em
 Portugal.
-
-UMdicas: Como Presidente do
+UMDicas Como Presidente do
 Instituto Confúcio da UM, qual tem
 sido o seu trabalho?
 A.R.: O trabalho do Presidente do
@@ -96,12 +93,11 @@ Instituto junto de instâncias
 oficiais e estimular a actividade do
 IC na sua ligação à Academia e à
 sociedade.
-
-UMdicas: Como é constituído o
+UMDicas Como é constituído o
 órgão de direcção deste
 Instituto?
 A.R.: Os órgãos do Instituto
-são:
+são: 
 a)
 Conselho Directivo, composto pelo
 Presidente, Director e Secretário
@@ -132,8 +128,7 @@ relatórios de contas (depois
 enviado para o Tribunal de Contas
 de Portugal e para as instâncias
 competentes da China).
-
-UMdicas: Nesta altura , e
+UMDicas Nesta altura , e
 passados quase 4 anos da
 inauguração do Instituto Confúcio
 na UMinho, o que nos pode dizer
@@ -186,10 +181,8 @@ objecto de ampla divulgação e de
 comercialização. O copyright
 desta edição pertencerá
 natu ra l mente ao I nstitu to
-Confúcio da Universidade do
 Minho.
-
-UMdicas: Qual tem sido a adesão
+UMDicas Qual tem sido a adesão
 da população académica ao
 projecto e aos projectos
 desenvolvidos pela Instituto?
@@ -203,8 +196,7 @@ foram indicados mais de 4000
 par ticipantes nas muito
 diversificadas e numerosas
 iniciativas do Instituto Confúcio.
-
-UMdicas: Quais os públicos-alvo
+UMDicas Quais os públicos-alvo
 aos quais querem chegar?
 A.R.: Muito variados. Desde
 crianças das Escolas Secundárias
@@ -216,8 +208,7 @@ manifestações culturais
 organizadas pelo Instituto, alunos
 da licenciatura em Línguas e
 Culturas Orientais, etc.
-
-UMdicas: Existe também o
+UMDicas Existe também o
 Instituto Confúcio em Lisboa, e
 vários institutos espalhados pelo
 mundo, há algum tipo de relação
@@ -245,13 +236,11 @@ Colômbia, porquanto são
 Institutos que têm também a
 Universidade de Nankai como
 Universidade parceira.
-
-UMdicas: Quais as mais-valias
+UMDicas Quais as mais-valias
 destes projectos para o nosso
 país e para a nossa universidade?
 A.R.: No que diz respeito ao país,
 significa mais uma via de
-desenvolvimento e
 aprofunda mento das boas
 relações entre os dois Estados e
 as duas Nações, sobretudo no
@@ -275,8 +264,7 @@ a oferecer uma licenciatura em
 Estudos Or ienta i s com as
 características e a credibilidade
 que lhe não são disputadas.
-
-UMdicas: O Instituto Confúcio da
+UMDicas O Instituto Confúcio da
 UMinho recebeu o Prémio de
 Excelência da República Popular
 da China no passado dia 9 de
@@ -295,8 +283,7 @@ apenas vinte Institutos Confúcio
 do mundo, entre 306, foram
 galardoados com tal distinção de
 excelência.
-
-UMdicas: Depois deste
+UMDicas Depois deste
 reconhecimento, quais são os
 objectivos para o futuro?
 A .R.: O reconhecimento do
@@ -355,7 +342,6 @@ também intenção do Hanban
 extinguir os Institutos pouco
 activos.
 Sabemos bem como o Instituto
-Confúcio da Universidade do
 Minho é altamente considerado
 junto de instâncias do Hanban,
 apreciado como entre os melhores
@@ -368,12 +354,10 @@ social que promove, pelo que,
 como dizia o Poeta, o nosso
 caminho continuará a fazer-se,
 caminhando...
-
 O UMdicas conversou também
 com a Directora do Instituto
 Confúcio, Prof. Dr.ª Sun Lam.
-
-UMdicas: Como Directora do
+UMDicas Como Directora do
 Instituto Confúcio, qual tem sido o
 seu papel?
 Sun Lam: Sou um pouco a cara de
@@ -391,8 +375,7 @@ chinesa e mantenho uma ligação
 muito forte com a China e por isso
 tenho facilidade de conversação
 com o governo chinês.
-
-UMdicas: Já estava na UMinho
+UMDicas Já estava na UMinho
 antes da edificação do Instituto
 Confúcio ou veio para cá em
 consequência dele?
@@ -421,8 +404,7 @@ sobre o ensino de chinês na
 UMinho e só depois decidiram que
 o primeiro IC em Portugal seria
 aqui.
-
-UMdicas: O que mais a tem
+UMDicas O que mais a tem
 estimulado ao longo deste
 trajecto?
 S.L.: Temos uma licenciatura que é
@@ -445,8 +427,7 @@ em quatro escolas secundárias
 Tudo isto é muito trabalho, mas um
 grande incentivo para
 continuarmos a trabalhar.
-
-UMdicas: O que foi feito de mais
+UMDicas O que foi feito de mais
 relevante durante estes quase
 três anos?
 S.L.: Penso que o mais importante
@@ -462,8 +443,7 @@ internacional. Os números falam
 por si, durante 2008 tivemos mais
 de 4000 pessoas envolvidas nas
 nossas actividades.
-
-UMdicas: Qual o feedback que têm
+UMDicas Qual o feedback que têm
 obtido da parte dos alunos?
 S.L.: O feedback tem sido muito
 bom, temos uma boa
@@ -480,8 +460,7 @@ Aqueles que aprendem com
 facilidade são normalmente
 pessoas curiosas, com vontade de
 trabalhar e aprender.
-
-UMdicas: Este foi um dos 20
+UMDicas Este foi um dos 20
 Institutos que receberam o
 Prémio de Excelência. Quais
 pensa que foram os aspectos
@@ -500,8 +479,7 @@ actividades, e no nível cultural
 elevado destas. Penso que foi por
 aí que fomos colocados entre os
 melhores.
-
-UMdicas: Que mensagem quer
+UMDicas Que mensagem quer
 deixar a quem pretenda ingressar
 no ensino do Chinês?
 S.L.: O papel da china na vida
@@ -534,4 +512,4 @@ nossa vida. A experiencia de viver
 duas culturas é fantástica,
 devemos através da vivencia de
 várias culturas tornar a nossa vida
-mais interessante.
+mais interessante.mais interessante.mais interessante.mais interessante.

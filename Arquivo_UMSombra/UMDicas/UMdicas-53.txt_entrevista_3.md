@@ -1,15 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Número 53
-University: Universidade do Minho
-Interviewee(s): 
-Date: 30 de Julho de 2007
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Número 53
+university: Universidade do Minho
+interviewee: vencedoras do Prémio Nacional de Inovação Ambiental
+date: 30 de Julho de 2007
+interviewer: Ana Marques
 ---
 
 Entrevista às vencedoras do Prémio Nacional de Inovação
 Ambiental
-
 Qual tem sido o vosso percurso académico?
 Teresa Tavares: Licenciei-me em Engenharia Química
 pela Faculdade de Engenharia da Universidade do
@@ -43,7 +42,6 @@ Ciências e os meus interesses científicos incluem a
 catálise heterogénea, os sistemas de biossorção e a
 imobilização de complexos de metais de transição em
 materiais inorgânicos.
-
 O que significou para vocês este prémio?
 Este prémio é bastante motivador já que sempre
 tivemos em mente o carácter aplicado dos nossos
@@ -60,7 +58,6 @@ necessidades da sociedade. O prémio dá visibilidade
 à nossa tecnologia e permite, assim, dá-lo a conhecer
 a quem se interessa pelas questões da
 sustentabilidade ambiental da actividade industrial.
-
 Quanto tempo demorou a conclusão deste
 trabalho?
 Este trabalho não está concluído, já que ao tentar
@@ -71,7 +68,6 @@ de investigação a seguir. No entanto, o trabalho que
 mereceu o prémio foi iniciado em 2002, aquando do
 financiamento do mesmo por parte da Fundação para
 a Ciência e a Tecnologia.
-
 No início da vossa investigação pensaram que
 alguma vez chegariam a este patamar?
 Bom, sempre acreditamos que o nosso trabalho de
@@ -86,7 +82,6 @@ ligadas à Engenharia e Gestão Ambiental e que a
 nossa tecnologia é, de facto, uma boa proposta para a
 resolução de alguns dos problemas ambientais
 nacionais e não só.
-
 Qual foi o vosso propósito no desenvolvimento
 deste trabalho?
 A ideia sempre foi o estudo e o desenvolvimento de um
@@ -104,7 +99,6 @@ produtos químicos, propusemo-nos a desenvolver um
 processo alternativo de tratamento desses efluentes
 que permitisse a reutilização do metal evitanto a sua
 dispersão no meio ambiente.
-
 Como candidatas ao EEP Award, quais são as
 vossas perspectivas?
 Sabemos, de antemão, que entre os candidatos ao
@@ -121,7 +115,6 @@ entanto, que só o facto de representarmos Portugal
 neste concurso europeu e levar-mos o nome da
 Universidade do Minho ao certame já é, para nós,
 muito aliciante.
-
 Em poucas palavras defina-me este trabalho, ou
 seja, qual a sua aplicabilidade?
 Este trabalho define uma tecnologia que permite o
@@ -168,7 +161,6 @@ dos efluentes industriais contaminados com a forma
 mais perniciosa do crómio e propomos um catalisador
 muito competitivo aos industrias que tem problemas
 com os compostos orgânicos voláteis.
-
 Têm algum projecto que gostassem de ver
 realizado?
 Bom, temos muitos. Relacionados com este tema em
@@ -186,6 +178,5 @@ parcería com equipas estrangeiras que têm interesses
 complementares aos nossos. Esperamos, assim, que
 os resultados destes esforços correspondam às
 nossas expectativas.
-
 Ana Marques
-anac@sas.uminho.pt
+anac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.pt

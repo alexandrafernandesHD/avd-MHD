@@ -1,20 +1,19 @@
 ---
-Jornal: UMdicas
-Issue: Número 53
-University: Universidade do Minho
-Interviewee(s): Helder Dias
-Role: Presidente da ARCUM
-Date: 30 de Julho de 2007
-Title: ARCUM Balanço de uma Temporada
-Interviewer: Michael Ribeiro
+journal: UMdicas
+issue: Número 53
+university: Universidade do Minho
+interviewee: Helder Dias
+role: Presidente da ARCUM
+date: 30 de Julho de 2007
+title: ARCUM Balanço de uma Temporada
+interviewer: Michael Ribeiro
 ---
 
 ARCUM Balanço de uma Temporada
 “A ambição está um passo à frente do conseguido, só assim a associação pode ter uma evolução pautada pelo crescimento sustentado e contínuo.” Estas são as
 palavras de Helder Dias, Presidente da ARCUM. Helder Dias defende que a missão da ARCUM passa por “ preservar e divulgar as tradições, cultura e valores da nossa
 academia, região e país.”
-
-UMdicas: Qual o balanço que a ARCUM faz
+UMDicas Qual o balanço que a ARCUM faz
 destes dois semestres?
 Helder Dias: O balanço relativo a este ano lectivo é
 globalmente bom. Como é óbvio não estamos
@@ -34,8 +33,7 @@ constantemente os nossos limites e expectativas, na
 orientação objectiva à nossa missão, de preservar e
 divulgar as tradições, cultura e valores da nossa
 academia, região e país.
-
-UMdicas: Os objectivos propostos pela direcção
+UMDicas Os objectivos propostos pela direcção
 foram alcançados ou existe algum projecto que
 não foi realizado?
 H.D.: De uma forma global os objectivos foram
@@ -69,8 +67,7 @@ até atingirmos o objectivo a que nos propusemos. O
 horizonte desloca-se à velocidade do caminhante, e
 atingidos estes objectivos, outros tantos assomam a
 nossa ambição.
-
-UMdicas: Quais os Objectivos para o próximo
+UMDicas Quais os Objectivos para o próximo
 ano, e quais as inovações que podemos esperar
 por parte da ARCUM?
 H.D.: Existem vários objectivos e metas para o
@@ -139,4 +136,4 @@ procurado preencher, com o apoio, não só da
 Academia, mas também de diversas instituições
 regionais e nacionais.
 Michael Ribeiro
-mika@sas.uminho.pt
+mika@sas.uminho.ptmika@sas.uminho.ptmika@sas.uminho.ptmika@sas.uminho.pt

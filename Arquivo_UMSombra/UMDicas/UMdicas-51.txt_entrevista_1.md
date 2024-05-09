@@ -1,11 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 51
-University: Universidade do Minho
-Interviewee(s): 
-Role: Professor Associado do Departamento de Sistemas de Informação da Escola de Engenharia da Universidade do Minho
-Date: 25 de Abril de 2007
-Title: Pró-Reitor Luís Amaral em entrevista
+journal: UMdicas
+issue: Número 51
+university: Universidade do Minho
+interviewee: Luís Amaral
+role: Professor Associado do Departamento de Sistemas de Informação da Escola de Engenharia da Universidade do Minho
+date: 25 de Abril de 2007
+title: Pró-Reitor Luís Amaral em entrevista
+interviewer: UMdicas
 ---
 
 Pró-Reitor Luís Amaral em entrevista
@@ -14,7 +15,6 @@ Informática - especialidade de Sistemas de Informação pela Universidade do Mi
 Minho onde, desde 1984 é docente.
 O UMdicas foi falar com o pró-reitor e numa longa entrevista ficamos a saber algumas novidades no que toca a novos projectos e a sua opinião sobre várias temáticas
 emblemáticas para a UMinho.
-
 Quais são os principais áreas de
 intervenção da pró-reitoria que
 assume, quais os principais
@@ -57,7 +57,6 @@ Computação Gráfica), ou a parceria
 estabelecida com a Câmara Municipal de
 Vila Verde para a construção da Casa do
 Conhecimento.
-
 De que modo esses projectos têm sido,
 ou virão a ser, concretizados? São
 projectos inovadores no panorama do
@@ -84,7 +83,6 @@ orçamentos, mantendo-se uma posição
 de liderança reconhecida em algumas
 áreas, e optando por soluções estáveis e
 bastante controladas noutras áreas.
-
 Quais foram, ou serão, os principais
 benefícios/mais valias do trabalho que
 está a ser desenvolvido para os
@@ -114,7 +112,6 @@ informação curricular, o sistema anti-
 plágio e o Single Sign-On (um único login
 para acesso a todos os serviços) são
 apenas alguns exemplos.
-
 No que respeita, em concreto, à política
 de comunicações e sistemas de
 informação, que tem sido uma das
@@ -152,7 +149,6 @@ Naturalmente que estas novas
 circunstâncias abrem oportunidade para o
 estabelecimento de novos serviços que
 serão certamente identificados.
-
 Qual o projecto de maior relevo neste
 âmbito?
 Todos os projectos em curso me parecem
@@ -163,7 +159,6 @@ Contudo, um deles merece particular
 atenção não só pelo impacto que tem no
 sucesso da instituição, como por
 tradicionalmente dar origem a processos
-
 "O Dossier das Unidades
 Curriculares foi desenvolvido
 pelo GSI e integrado na
@@ -171,13 +166,11 @@ plataforma de e-learning
 BlackBoard, e ao que sabemos
 deverá ser apresentado
 brevemente na UM”
-
 adopção muito conturbados. Refiro-me
 naturalmente à adopção de uma
 plataforma de e-learning para suporte das
 unidades curriculares. Esta é uma das
 prioridades imediatas.
-
 Região Digital
 Ultimamente tem-se ouvido falar em
 Região Digital. O que é esta Região
@@ -200,7 +193,6 @@ Desenvolvimento Regional, etc. Nos
 últimos anos foram financiados 30
 projectos num total de mais de 200
 milhões de euros.
-
 No Minho existem diversos projectos a
 decorrer ou em arranque. A saber: Braga
 Digital; Vale do Ave Digital; Vale do Minho
@@ -231,9 +223,7 @@ destes consórcios que procura ajudar
 activamente na procura da satisfação dos
 objectivos assumidos em cada uma das
 candidaturas.
-
 Quais as acções já efectuadas nestes
-âmbito?
 Quer o projecto Braga Digital, quer o
 projecto Vale do Ave Digital tiveram
 processos de candidatura e aprovação
@@ -254,7 +244,6 @@ continuamos a desenvolver esforços no
 sentido de conseguir algum nível de
 articulação entre todos os projectos em
 curso no Minho.
-
 O que é a região do conhecimento?
 Qual a contribuição da UM para o seu
 desenvolvimento?
@@ -290,7 +279,6 @@ para a construção de uma região onde o
 conhecimento é reconhecido como factor
 de criação de riqueza e bem estar para a
 sua população.
-
 Campus Virtual
 Em que consiste o projecto do Campus
 Virtual?
@@ -321,7 +309,7 @@ aplicações e serviços.
 A Visão da Universidade do Minho para o
 seu Campus Virtual assenta nos
 seguintes princípios que orientam e
-justificam as iniciativas realizadas:
+justificam as iniciativas realizadas: 
 lTodos na e-UM têm existência na net ao
 nível oficial, de processo e privado
 lTodo o espaço da e-UM é um espaço de
@@ -345,7 +333,6 @@ propostas que permitirão dar continuidade
 aos projectos iniciados, esperando-se a
 abertura de uma nova fase de
 financiamento.
-
 As Tecnologias de Informação
 desempenham um papel fundamental
 na UMinho?
@@ -356,7 +343,6 @@ recurso constante e sistemático às TI para
 suportar os seus processos. A UM é hoje
 uma organização que utiliza
 intensivamente as TI.
-
 Sendo um projecto accionado há já
 algum tempo, quais os resultados
 visíveis deste?
@@ -379,7 +365,6 @@ quer para a oferta de novos serviços (ou
 modernização de já existentes), como são
 os serviços de directoria ou de correio
 electrónico para toda a UM.
-
 Quais serão os desenvolvimentos
 futuros nesta área?
 O cenário apontado pelos princípios
@@ -405,7 +390,6 @@ Um espaço onde muito há por fazer é o
 dos conteúdos de aprendizagem e da
 utilização da plataforma de e-learning
 para o suporte dos processos de ensinoa-prendizagem.
-
 E-learning
 Em que consiste a política de elearning da Universidade do Minho?
 Neste momento é clara a politica da UM
@@ -430,7 +414,6 @@ utilizada quer no apoio às unidades
 curriculares presenciais (b-learning), quer
 no suporte de processos de ensino-aprendizagem integralmente realizados à
 distância.
-
 Qual a relevância desta forma
 alternativa de ensino/aprendizagem?
 Quais os seus objectivos e benefícios
@@ -457,7 +440,6 @@ exploração e suporte, mas também pela
 grau de complexidade da integração com
 as diversas aplicações institucionais com
 que interage.
-
 Como tem sido implementada?
 A Blackboard está já em exploração na
 UM desde o início deste ano lectivo,
@@ -474,7 +456,6 @@ breve) das diversas extensões e
 integrações com outras aplicações, o
 número de utilizadores irá aumentar
 significativamente.
-
 Existem novos projectos para a sua
 área Reitoral?
 São inúmeras as solicitações e
@@ -497,7 +478,6 @@ diversas salas dos campi e a promoção
 das iniciativas necessárias para a
 banalização da sua utilização em
 contextos de ensino-aprendizagem.
-
 Quais foram as principais
 consequências para a sua área na
 redução do orçamento de estado?
@@ -517,4 +497,4 @@ lançamento de novos serviços e
 aplicações fica dificultado, mas acredito
 que por mais adversas que sejam as
 condições, é sempre possível encontrar
-soluções.
+soluções.soluções.soluções.soluções.

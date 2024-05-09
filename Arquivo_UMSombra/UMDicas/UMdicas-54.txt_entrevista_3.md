@@ -1,10 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Número 54
-University: Universidade do Minho
-Interviewee(s): Carlos Silva
-Role: Administrador dos SASUM
-Date: 11 de Outubro de 2007
+journal: UMdicas
+issue: Número 54
+university: Universidade do Minho
+interviewee: Carlos Silva
+role: Administrador dos SASUM
+date: 11 de Outubro de 2007
+interviewer: UMdicas
 ---
 
 SASUM operam revolução para melhoria dos serviços à comunidade
@@ -13,8 +14,7 @@ qualidade
 Os Serviços de Acção Social da UMinho operaram em 2006/07 uma
 verdadeira revolução em todos os seus serviços, o UMDicas foi saber
 com Carlos Silva, Administrador dos SASUM o porquê destes investimentos e como têm decorrido as obras.
-
-UMdicas: O ano lectivo de
+UMDicas O ano lectivo de
 2006/2007 fica marcado por uma
 série de obras e investimentos dos
 SASUM na melhoria das condições
@@ -66,8 +66,7 @@ uma verdadeira revolução no sentido
 de criar condições semelhantes e de
 grande de conforto em todas as
 Residências Universitárias.
-
-UMdicas: Como é que os SASUM
+UMDicas Como é que os SASUM
 resolveram o problema da oferta de
 alojamento durante este tempo de
 beneficiação da Residências
@@ -104,8 +103,7 @@ objectivo é sempre servir melhor.
 Neste momento temos o alojamento
 de todos os Bolseiros assegurado e
 não deixámos ninguém de fora.
-
-UMdicas: Qual o valor total do
+UMDicas Qual o valor total do
 investimento em obras nos
 diferentes sectores e como estão a
 decorrer neste momento?
@@ -145,8 +143,7 @@ de Outubro. A Residência Lloyd Braga
 que se encontra em fase de conclusão
 será reaberta em meados do mês de
 Outubro.
-
-UMdicas: A construção do Campo
+UMDicas A construção do Campo
 de Práticas de Golfe levantou
 algumas interrogações de alguns
 sectores da academia achando
@@ -204,8 +201,7 @@ projectos em causa porque será auto
 suficiente e tem o mérito de
 democratizar uma prática desportiva
 considerada apenas para elites.
-
-UMdicas: Estes planos de obras e
+UMDicas Estes planos de obras e
 melhoria dos serviços estão
 integrados em algum Plano de
 Qualidade ou Certificação de
@@ -239,8 +235,7 @@ realizado e a preparação já começou
 há algum tempo notando-se em todos
 os sectores transformações
 evidentes.
-
-UMdicas: Os SASUM têm realizado
+UMDicas Os SASUM têm realizado
 uma série de inquéritos de
 avaliação da satisfação dos
 utentes, quais os principais
@@ -273,8 +268,7 @@ melhorias efectuadas em termos
 físicos e dos serviços irão corrigir esta
 diferença de qualidade e de certo
 equilibrar toda a oferta de serviços.
-
-UMdicas: Recentemente o Governo
+UMDicas Recentemente o Governo
 anunciou um sistema de
 empréstimos com juros baixos aos
 Estudantes para quem optar por
@@ -302,8 +296,7 @@ acontecer no futuro e que poderá
 passar pela desresponsabilização do
 papel do Estado no financiamento do
 Ensino Superior.
-
-UMdicas: O Governo alterou
+UMDicas O Governo alterou
 também sistema de candidatura e
 pagamentos aos estudantes
 bolseiros, quais as principais
@@ -330,8 +323,7 @@ sistema entre em funcionamento
 todos os pagamentos das bolsas será
 realizado pela DGES directamente ao
 estudante.
-
-UMdicas: Quais as novidades para
+UMDicas Quais as novidades para
 2007/2008 no âmbito da Acção
 Social na Universidade do Minho?
 CS: As novidades vão prender-se
@@ -375,7 +367,6 @@ perspectiva de melhoria da saúde e de
 valor ambiental. O nosso lema para
 2008, será necessariamente o ano da
 saúde.
-
 Descrição do Projecto de Investimento
 Remodelação das Residências Residências do Campus de Azurém
 Remodelação das Cantinas do Campus de Azurém
@@ -383,19 +374,16 @@ Remodelação da Residência Universitária Loyd Braga - Lamaçães, Braga
 Remodelação das Residências de Santa Tecla - Blocos A, B e C
 TOTAL
 Valor Elegível
-
 Comparticipação
 FEDER
 aprovada (68,6%)
-
 102,243.00 € 102,243.00 €
 716,844.89 € 665,814.28 €
 829,965.00 € 829,965.00 €
 1,429,227.00 € 1,399,371.00 €
 3,078,279.89 € 2,997,393.28 €
-
 70,138.00 €
 456,748.60 €
 569,355.99 €
 959,968.51 €
-2,056,211.09 €
+2,056,211.09 €2,056,211.09 €2,056,211.09 €2,056,211.09 €

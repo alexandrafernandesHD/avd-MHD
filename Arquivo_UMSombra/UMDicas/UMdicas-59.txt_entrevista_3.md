@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 59 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Role: Vice-reitor
-Date: 29 de Julho de 2008
-Interviewer: Redação
+journal: UMdicas
+issue: Edição nº 59 - Ano 4
+university: Universidade do Minho
+interviewee: Prof. Leandro Almeida
+role: Vice-reitor
+date: 29 de Julho de 2008
+interviewer: Redação
 ---
 
 Universidade do Minho estabelece protocolos de cooperação com instituições
@@ -16,10 +16,8 @@ instituições de cariz sócio-cultural, uma delegação da UMinho
 deslocou-se a Maputo/Moçambique, tendo, neste âmbito, estabelecido
 diversos protocolos de cooperação com algumas das Instituições daquele
 país.
-
 Redação
 dicas@sas.uminho.pt
-
 A delegação, constituída por
 alguns elementos da reitoria da
 Universidade do Minho,
@@ -79,10 +77,9 @@ dos alunos dos dois mestrados
 para a realização de estágios e a
 supervisão científica conjunta das
 dissertações.
-
 Entrevista ao Vice-reitor Prof.
 Leandro Almeida
-UMdicas: Porquê as áreas da
+UMDicas Porquê as áreas da
 Saúde e dos Sistemas de
 Informação, e não outras áreas, na
 celebração destes protocolos?
@@ -105,7 +102,6 @@ na cidade de Maputo.
 Aliás uma das adendas agora
 assinada ao protocolo de âmbito
 geral existente com a
-Universidade Eduardo Mondlane
 pretende reactivar esse Mestrado
 e criar oportunidades de
 estuda ntes por tug ueses e
@@ -165,8 +161,7 @@ Universidade, ao mesmo tempo
 que vários docentes seus estão a
 realizar aqui na UM o mestrado e o
 doutoramento.
-
-UMdicas: O que levou a UM a
+UMDicas O que levou a UM a
 assinar estes dois protocolos? O
 que pretende edificar com estas
 iniciativas?
@@ -179,7 +174,6 @@ internacionalização.
 No presente estes protocolos
 estão muito voltados para a
 formação, nomeadamente
-formação pós-graduada dos
 docentes dessas instituições. No
 futuro a cooperação pode incidir já
 na realização de pesquisas e
@@ -211,8 +205,7 @@ de qualidade e da sua avaliação
 tem também suscitado o interesse
 dessas nossas instituições
 parceiras.
-
-UMdicas: Qual a importância
+UMDicas Qual a importância
 destas iniciativas para a nossa
 Academia? Quais as mais-valias
 das Escolas e Departamentos
@@ -264,4 +257,4 @@ PALOPs é considerada um vector
 estratégico da Reitoria da UM e
 assim se entendem os protocolos
 e as adendas que vão sendo
-propostos e assinados.
+propostos e assinados.propostos e assinados.propostos e assinados.propostos e assinados.

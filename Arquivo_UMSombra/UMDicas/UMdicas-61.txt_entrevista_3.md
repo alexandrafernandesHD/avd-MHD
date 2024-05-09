@@ -1,12 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 61 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Eduardo Rodrigues
-Date: 7 de Outubro de 2008
-Title: Entrevista ao Vice-presidente da AAUM para o Dep. Pedagógico
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 61 - Ano 4
+university: Universidade do Minho
+interviewee: Eduardo Rodrigues
+date: 7 de Outubro de 2008
+title: Entrevista ao Vice-presidente da AAUM para o Dep. Pedagógico
+interviewer: Ana Marques
 ---
+
+
 
 Entrevista ao Vice-presidente da AAUM para o Dep. Pedagógico
 O Departamento Pedagógico da AAUM é o departamento que mais
@@ -15,10 +17,8 @@ ao longo de todo o seu percurso académico. A equipa que compõe
 este Departamento preocupa-se em perceber todos os problemas relativos
 ao ensino/aprendizagem/ avaliação, procurando solucioná-los o mais
 rápido e o melhor possível.
-
 Ana Marques
 dicas@sas.uminho.pt
-
 Com o intuito de melhor perceber e
 dar a conhecer o funcionamento
 da AAUM neste momento de
@@ -27,8 +27,7 @@ Academia, o UMdicas esteve em
 contacto com o responsável do
 Depa r ta mento Pedag ó g ico,
 Eduardo Rodrigues.
-
-UMdicas: Dentro da AAUM, qual é a
+UMDicas Dentro da AAUM, qual é a
 função do Departamento
 Pedagógico?
 Eduardo Rodrigues: Este
@@ -51,17 +50,14 @@ que representam os seus colegas
 e realizam um papel fundamental
 na troca de informação entre os
 colegas e a AAUM.
-
-UMdicas: Desde quando está à
+UMDicas Desde quando está à
 frente deste Departamento?
 E.R.: Assumi funções no
 departamento pedagógico da
 AAUM no início de 2007, era o
 director por Guimarães, sou VicePresidente do Dep. Pedagógico
 desde o início de 2008.
-
-UMdicas: Qual o papel do vicepresidente da AAUM para o Dep.
-Pedagógico?
+UMDicas Qual o papel do vicepresidente da AAUM para o Dep.
 E.R.: É basicamente, cumprir todas
 as funções e objectivos
 delineados no início do ano.
@@ -73,8 +69,7 @@ além de interagir com os
 delegados e sub-delegados e
 acolher da melhor forma os novos
 alunos.
-
-UMdicas: Referiram que a Semana
+UMDicas Referiram que a Semana
 do Acolhimento seria em moldes
 mais dinâmicos e criativos, iriam
 dar uma nova cara à actividade.
@@ -105,8 +100,7 @@ onde fazíamos o login e
 mostrávamos todas as
 potencialidades do portal aos
 novos alunos.
-
-UMdicas: Falando das actividades
+UMDicas Falando das actividades
 Situa-te, Encaixa-te, Mostra-te e
 Orienta-te. Quais os traços que
 melhor podem definir estas
@@ -159,8 +153,7 @@ academia, tais como os SAS, o
 Pavilhão Desportivo, os Serviços
 Académicos, a biblioteca, todos os
 CPs., a cantina...
-
-UMdicas: Quais são os objectivos
+UMDicas Quais são os objectivos
 da AAUM e do Dep. Pedagógico com
 estas actividades?
 E.R.: Estas actividades tem o
@@ -181,8 +174,7 @@ que é, sem dúvida, uma das
 actividades mais importantes do
 ano e que é essencial para todos
 os novos alunos.
-
-UMdicas: Qual foi a resposta dos
+UMDicas Qual foi a resposta dos
 novos alunos a estas solicitações
 e como correram?
 E.R.: Os novos alunos foram
@@ -194,8 +186,7 @@ connosco muito rapidamente, sem
 dúvida que foram uma pedra
 fulcral para o sucesso deste
 acolhimento.
-
-UMdicas: No geral, como correu
+UMDicas No geral, como correu
 este ano a recepção aos novos
 estudantes?
 E.R.: O Acolhimento aos novos
@@ -208,8 +199,7 @@ e que todos os que intervieram
 neste processo directa ou
 indirectamente estão de 
 parabéns.
-
-UMdicas: Segundo a circular RT15/2008, as praxes estão sujeitas
+UMDicas Segundo a circular RT15/2008, as praxes estão sujeitas
 a novas sanções, que recaem
 agora sobre as respectivas
 instituições de ensino superior.
@@ -295,7 +285,6 @@ participação para garantir o
 cumprimento da Educação e do
 Ensino Superior como
 prioridades”.
-
 UMdicas : Que mensagem
 gostarias de deixar aos novos
 Estudantes?
@@ -309,4 +298,4 @@ vosso curso.
 E que nunca se esqueçam que há
 sempre alguém ao vosso lado, ou
 em www.aaum.pt ou
-aaum@aaum.pt.
+aaum@aaum.pt.aaum@aaum.pt.aaum@aaum.pt.aaum@aaum.pt.

@@ -1,28 +1,24 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 64 - Ano 4
-University: Universidade do Minho
-Interviewee(s): 
-Topic: A TecMinho
-Role: responsável pelo Departamento de Formação Contínua
-Date: 27 de Dezembro de 2008
-Title: TecMinho: a Associação
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 64 - Ano 4
+university: Universidade do Minho
+interviewee: Eng.ª Manuela Neves
+topic: A TecMinho
+role: responsável pelo Departamento de Formação Contínua
+date: 27 de Dezembro de 2008
+title: TecMinho: a Associação
+interviewer: Ana Marques
 ---
 
-TecMinho: a Associação
 
+TecMinho: a Associação
 A TecMinho é uma associação privada sem fins lucrativos,
 designada como “Associação Universidade-Empresa para o
 Desenvolvimento. O UMdicas esteve à conversa com a
 responsável pelo Departamento de Formação Contínua, a Eng.ª Manuela
 Neves para saber mais sobre esta estrutura de interface da Universidade
 do Minho.
-
-Ana Marques
-anac@sas.uminho.pt
-
-UMdicas: Como define a
+UMDicas Como define a
 TecMinho?
 Manuela Neves: Como a sua
 própria designação indica é uma
@@ -31,8 +27,7 @@ própria designação indica é uma
 lucrativos, que se constitui como
 uma estrutura de interface da
 Universidade do Minho.
-
-UMdicas: Como surgiu e com que
+UMDicas Como surgiu e com que
 objectivo?
 M.N.: A TecMinho foi criada em
 1990, na sequência de uma
@@ -43,7 +38,6 @@ do Ave, sendo uma associação de
 direito privado sem fins lucrativos
 que possui como missão
 fundamental o constituir-se como
-uma estrutura de interface da
 Universidade do Minho e a
 sociedade, contribuindo para o
 desenvolvimento regional através
@@ -63,10 +57,9 @@ formação contínua, do apoio ao
 desenvolvimento organizacional,
 à inovação e à promoção do
 empreendedorismo.
-
-UMdicas: Quais são as suas
+UMDicas Quais são as suas
 principais linhas de actuação?
-M.N.:As nossas actividades
+M.N.: As nossas actividades
 enquadram-se em 3 grandes
 linhas de actuação: Formação
 Contínua prestando serviços no
@@ -97,11 +90,9 @@ projectos empresariais de base
 tecnológica e de conhecimento
 intensivo gerados no meio
 académico – os spin-offs da
-Universidade do Minho.
-
-UMdicas: Qual a relação entre esta
+UMDicas Qual a relação entre esta
 e a Uminho?
-M.N.:A relação da TecMinho e a
+M.N.: A relação da TecMinho e a
 Universidade sempre foi muito
 próxima, sendo que a sua
 Presidência é assumida pela
@@ -160,11 +151,10 @@ acções de formação), assim como
 aos funcionários não docentes da
 UM, para quem é implementado
 um Plano de Formação específico.
-
-UMdicas: Como promovem o
+UMDicas Como promovem o
 interface entre a universidade e a
 região?
-M.N.:O interface é promovido
+M.N.: O interface é promovido
 através das actividades
 desenvolvidas pelos 3
 departamentos da TecMinho, que
@@ -201,8 +191,7 @@ tecnológico apoiando empresas,
 instituições e inventores
 independentes na gestão da
 Propriedade Intelectual.
-
-UMdicas: Qual o vosso papel a
+UMDicas Qual o vosso papel a
 nível da empregabilidade?
 M.N.: Toda a actividade do
 Departamento de Formação visa
@@ -268,11 +257,10 @@ das qualificações dos adultos, o
 que contribuirá para uma
 progressão na carreira
 profissional.
-
-UMdicas: A TecMinho tem agora o
+UMDicas A TecMinho tem agora o
 centro de novas oportunidades, o
 que esperam com este projecto?
-M.N.:O Centro Novas
+M.N.: O Centro Novas
 Oportunidades da TecMinho (CNO)
 surgiu na sequência de um convite
 endereçado pela Agência Nacional
@@ -305,9 +293,9 @@ CNO um agente privilegiado deste
 desígnio, nomeadamente junto
 dos que pretendem prosseguir
 estudos de nível superior.
-UMdicas: Qual o seu objectivo e a
+UMDicas Qual o seu objectivo e a
 que público se destina?
-M.N.:O CNO da TecMinho tem como
+M.N.: O CNO da TecMinho tem como
 objectivo melhorar os níveis de
 habilitações e qualificações de
 todos os adultos com mais de 18
@@ -334,11 +322,9 @@ habilitações.
 No CNO da TecMinho, os adultos
 podem, através deste processo,
 alcançar o 6º, 9º ou 12º ano de
-escolaridade.
-
-UMdicas: Qual tem sido a adesão
+UMDicas Qual tem sido a adesão
 por parte público-alvo?
-M.N.:A adesão tem sido grande,
+M.N.: A adesão tem sido grande,
 sendo que as pessoas que
 procuram o CNO da TecMinho
 fazem-no na expectativa de
@@ -362,13 +348,12 @@ competências que evidenciam os
 indivíduos que concluem esse
 nível de habilitações através do
 ensino regular.
-
-UMdicas: Existe um acordo entre a
+UMDicas Existe um acordo entre a
 TecMinho e Universidade do Minho.
 Como funciona essa cooperação e
 qual tem sido o feedback das
 associações intervenientes?
-M.N.:Uma das grandes
+M.N.: Uma das grandes
 preocupações do CNO da TecMinho
 tem sido a divulgação deste
 processo junto dos potenciais
@@ -439,8 +424,7 @@ alimentar empenharam-se muito
 nesta iniciativa, que contribuiu
 fortemente para os bons
 resultados.
-
-UMdicas:Que conclusões
+UMDicas Que conclusões
 /resultados se podem retirar desta
 colaboração?
 M.N.: No que respeita à
@@ -487,4 +471,4 @@ do que o 12º ano de escolaridade)
 podem constituir-se como veículo
 de informação junto de familiares,
 colegas e amigos para os quais
-este processo seja adequado
+este processo seja adequadoeste processo seja adequadoeste processo seja adequadoeste processo seja adequado

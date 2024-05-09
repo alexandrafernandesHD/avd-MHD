@@ -1,11 +1,11 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 59 - Ano 4
-University: Universidade do Minho
-Interviewee(s): António Guimarães Rodrigues
-Date: 29 de Julho de 2008
-Title: Prof. Doutor António Guimarães
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 59 - Ano 4
+university: Universidade do Minho
+interviewee: António Guimarães Rodrigues
+date: 29 de Julho de 2008
+title: Prof. Doutor António Guimarães
+interviewer: Ana Marques
 ---
 
 Prof. Doutor António Guimarães
@@ -14,12 +14,10 @@ Minho, António Guimarães Rodrigues para clarificar alguns
 aspectos sobre o futuro da academia e desvendar algumas das
 incertezas sob as quais vive o ensino superior em geral e a UMinho em
 particular.
-
 Ana Marques
 anac@sas.uminho.pt
-
 [22 de Julho de 2008, Largo do Paço]
-UMDicas: Completou recentemente 6
+UMDicas Completou recentemente 6
 anos à frente dos destinos da
 Universidade do Minho. Como tem
 sido este percurso e qual o balanço
@@ -69,14 +67,12 @@ Resíduos. A Universidade teve uma
 importante intervenção na
 viabilização e instalação do Parque
 de Ciência e Tecnologia das Taipas.
-
 “A divulgação da
 actividade da
 Universidade
 promoveu a sua
 visibilidade e
 reconhecimento.”
-
 Reforçou-se e desenvolveu-se a
 aproximação e parceria com os
 agentes da administração local e com
@@ -175,8 +171,7 @@ um ensino e formação de qualidade,
 um elevado grau de
 internacionalização, e uma singular
 ligação à sua envolvente.
-
-UMdicas: Um dos tópicos mais em
+UMDicas Um dos tópicos mais em
 vogue no seio das academias e
 instituições de ensino superior tem
 sido o Regime Jurídico das
@@ -190,7 +185,6 @@ enquadramento determinado na Lei
 62/2007. O documento é público
 desde a data da sua aprovação pela
 Assembleia Estatutária a 5 de Junho.
-
 “A elaboração dos
 Estatutos foi apenas o
 início de um processo
@@ -200,7 +194,6 @@ instituição, e cuja
 implementação se
 desenvolverá, ainda,
 por vários meses.”
-
 Para além da constituição dos órgãos
 de governo e consulta definidos nos
 Estatutos, nos termos da Lei, será
@@ -209,8 +202,7 @@ funcionamento da Universidade
 baseado nestes órgãos, e será
 necessário assimilar a cultura do
 novo modelo de governação.
-
-UMdicas: Com os novos estatutos já
+UMDicas Com os novos estatutos já
 publicados e estando neste momento
 para aprovação do MCTES, quais
 foram as mudanças mais
@@ -242,8 +234,7 @@ integra membros por inerência.
 Nos novos Estatutos, e nos termos da
 Lei, é criada a figura de Provedor do
 Estudante.
-
-UMdicas: O processo interno de
+UMDicas O processo interno de
 elaboração da nova legislação
 envolveu toda a academia e ao longo
 destes últimos meses houve
@@ -278,8 +269,7 @@ Foram também consultadas as
 Escolas e Institutos sobre as opções
 de reorganização das áreas do
 conhecimento.
-
-UMdicas: O corte orçamental por
+UMDicas O corte orçamental por
 parte do Governo e a obrigação de
 pagar 11% para a Caixa Geral de
 Aposentações criaram grandes
@@ -294,21 +284,18 @@ próprias. Alguns projectos em áreas
 estratégicas não puderam receber o
 apoio de financiamento que seria
 desejável.
-
-UMdicas: Julga, por exemplo, que o
+UMDicas Julga, por exemplo, que o
 aumento das propinas possa ser um
 meio para compensar estes cortes?
 G.R.: A questão não é diferente da que
 se colocou quando do primeiro
 aumento de propinas.
-
 “Complementar a
 redução do orçamento
 das universidades
 com o aumento das
 propinas é uma opção
 política.”
-
 Se as universidades não tiverem um
 orçamento que lhes garanta
 sustentabilidade, terão
@@ -322,8 +309,7 @@ modelos de suporte financeiro e o
 desenvolvimento económico, em
 particular na região mais próxima da
 Universidade.
-
-UMdicas: Uma das razões dos
+UMDicas Uma das razões dos
 referidos cortes foi a necessidade de
 desenvolver a iniciativa própria,
 nomeadamente na investigação e
@@ -347,8 +333,7 @@ resulta de um trabalho desenvolvido
 pela Universidade desde há muitos
 anos, e não de qualquer política
 recente dirigida ao ensino superior.
-
-UMdicas: Qual a sua opinião sobre o
+UMDicas Qual a sua opinião sobre o
 Ministro Mariano Gago e o seu
 trabalho?
 G.R.: Quem tem a grande
@@ -372,7 +357,6 @@ instituições, sem perder a mais valia
 da sua cultura construída ao longo de
 muitos anos. A reforma tem que ser
 feita em parceria com as próprias
-instituições.
 É certo que as dificuldades que se
 colocam ao País não podem nem
 devem ser estranhas às
@@ -395,7 +379,6 @@ impuseram-lhes um enquadramento
 que não favorece a motivação e a
 responsabilização, sendo passados
 sinais errados às academias.
-
 “O desenvolvimento da
 sociedade do
 conhecimento, em que
@@ -404,8 +387,7 @@ exige um papel crítico,
 não encontra neste
 contexto um clima
 favorável.”
-
 Mantenho que o papel das
 universidades deve ser
 perspectivado no contexto mais
-amplo do desenvolvimento.
+amplo do desenvolvimento.amplo do desenvolvimento.amplo do desenvolvimento.amplo do desenvolvimento.

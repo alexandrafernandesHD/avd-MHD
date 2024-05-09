@@ -1,18 +1,18 @@
 ---
-Jornal: UMdicas
-Issue: Número 56
-University: Universidade do Minho
-Interviewee(s): João Monteiro 
-Topic: O simbolismo do Passadiço
-Role: Pró-Reitor
-Date: 2 de Janeiro de 2008
+journal: UMdicas
+issue: Número 56
+university: Universidade do Minho
+interviewee: João Monteiro 
+topic: O simbolismo do Passadiço
+role: Pró-Reitor
+date: 2 de Janeiro de 2008
+interviewer: Ana Marques
 ---
 
 Passadiço de Azurém, uma ligação entre
 dois mundos
 O simbolismo do Passadiço foi ser uma ligação entre o mundo do “saber” e da “inovação” a Universidade e o “histórico” e “tradicional” a cidade de Guimarães.
 Em entrevista com o Pró-Reitor João Monteiro  e o arquitecto da obra, Ivo Silva o UMdicas foi saber mais algumas das particularidades que rodeiam esta infra-estrutura.
-
 UMdicas- Como surgiu a ideia do
 Passadiço?
 João Monteiro- A ideia surgiu já lá vão sete
@@ -28,7 +28,6 @@ projecto que potenciasse a dinamização
 daquela zona, criando uma nova entrada
 exclusivamente pedonal no campus de
 Azurém.
-
 UMd- Qual foi o objectivo desta obra?
 J.M. - O objectivo principal da obra foi criar
 uma passagem segura para os peões,
@@ -42,7 +41,6 @@ complementar com novo acesso nos
 jardins, nas vias de acesso no campus e,
 se possível nos atravessamento nos
 arruamentos exteriores ao campus.
-
 UMd- Em que consiste exactamente
 este Passadiço?
 J.M. - O Campus de Azurém tem adjacente
@@ -61,7 +59,6 @@ margem para margem, decidiu-se
 projectar um passadiço que não é mais
 que uma pequena ponte que atravessa o
 ribeiro (daí esse nome).
-
 UMd- Quais foram os custos desta
 obra?
 J.M. - Para a Universidade o Passadiço
@@ -79,16 +76,13 @@ vencedor o projecto de Ivo da Silva
 (actualmente um arquitecto no activo e
 que nos acompanhou neste processo),
 que deixou na UMinho uma obra sua.
-
 UMd- Quais os materiais utilizados na
 sua construção?
 J.M. - Os materiais foram o aço e o betão,
 existindo também a simbologia da
 universidade em relevo. A estrutura é
 ainda auxiliada por uma iluminação.
-
 UMd- O que pensa sobre a utilidade do
-Passadiço?
 J.M. - Até à abertura do passadiço, os
 peões saltavam por cima do riacho, que na
 parte mais estreita tem à volta de um
@@ -114,8 +108,6 @@ pedonal. Esta alteração, que esperamos
 seja para breve, permitirá garantir que o
 Passadiço seja finalmente a entrada
 pedonal por excelência no Campus de
-Azurém.
-
 UMd- Para quando a inauguração
 oficial da obra?
 J.M. - O Passadiço começou a ser
@@ -140,4 +132,4 @@ entre dois mundos: o do “saber” e da
 “histórico” e “tradicional”, a cidade de
 Guimarães. Foi esta preocupação que
 levou à utilização dos vários materiais
-(aço, madeira, granito e betão).
+(aço, madeira, granito e betão).(aço, madeira, granito e betão).(aço, madeira, granito e betão).(aço, madeira, granito e betão).

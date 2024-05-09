@@ -1,12 +1,13 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 66 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Prof. Dr. António Guimarães Rodrigues
-Date: 28 de Fevereiro de 2009
-Title: Entrevista ao Reitor da Universidade do Minho
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 66 - Ano 4
+university: Universidade do Minho
+interviewee: Prof. Dr. António Guimarães Rodrigues
+date: 28 de Fevereiro de 2009
+title: Entrevista ao Reitor da Universidade do Minho
+interviewer: Ana Marques
 ---
+
 
 Entrevista ao Reitor da Universidade do Minho
 O UMdicas esteve à conversa com o Reitor da Universidade do
@@ -14,12 +15,9 @@ Minho , Prof. Dr. António Guimarães Rodrigues para fazer o
 balanço de 2008, e sabermos a sua opinião sobre alguns temas
 que afectam o ensino superior em geral e o dia-a-dia da Academia Minhota
 em particular.
-
-
 Ana Marques
 anac@sas.uminho.pt
-
-UMdicas: No início de mais um ano e
+UMDicas No início de mais um ano e
 com a Universidade a fazer o seu 35º
 aniversário, que balanço se pode
 fazer do ano que passou?
@@ -59,8 +57,7 @@ Seminários, Ciclos de Seminários e
 Workshops, e 30 Conferências de
 grande vulto, das quais 20
 internacionais.
-
-UMdicas: Foram publicados no
+UMDicas Foram publicados no
 passado dia 5 de Dezembro, em
 Diário da República, os novos
 Estatutos da Universidade do Minho.
@@ -81,8 +78,7 @@ criados o Instituto de Educação e a
 Escola de Psicologia, sendo extintos
 o Instituto de Educação e Psicologia
 e o Instituto de Estudos da Criança.
-
-UMdicas: Que processos vêm
+UMDicas Que processos vêm
 implicar estas alterações?
 G.R.: Tem que ser desenvolvida a
 constituição dos novos órgãos e
@@ -91,8 +87,7 @@ regulamentos. Tem que ser
 definidos “novos” circuitos e
 assimilada uma nova forma de
 funcionamento.
-
-UMdicas: Neste momento assiste-se 
+UMDicas Neste momento assiste-se 
 á campanha para eleição do
 Conselho Geral da UMinho. Qual a
 sua opinião sobre o
@@ -102,8 +97,7 @@ normalmente, acompanhada pela
 Comissão Eleitoral, no cumprimento
 do regulamento e calendário
 eleitoral.
-
-UMdicas: A reitoria da Universidade
+UMDicas A reitoria da Universidade
 do Minho encerrou durante 15 dias,
 nas semanas do Natal e do Ano Novo.
 Contas feitas, qual foi a poupança
@@ -123,8 +117,7 @@ quando representa a racionalização
 na utilização de recursos e a
 possibilidade de a redireccionar
 para outras aplicações.
-
-UMdicas: Como classificaria a actual
+UMDicas Como classificaria a actual
 situação financeira da UMinho?
 Estamos perante um
 desinvestimento no ensino superior.
@@ -149,15 +142,14 @@ acção segundo orientações
 estratégicas.
 Em causa está a autonomia das
 Universidades.
-UMdicas: Como está a UMinho a
+UMDicas Como está a UMinho a
 responder ao desafio do Governo de
 conseguir mais receitas próprias?
 G.R.: Não existe qualquer incentivo
 ou desafio do Governo para a
 geração de receitas próprias por
 parte da Universidade.
-
-UMdicas: Que avaliação faz da
+UMDicas Que avaliação faz da
 actuação do ministro Mariano
 Gago?
 G. R . : Devem disso ciar-se a
@@ -168,8 +160,7 @@ tenho feito é uma crítica
 institucional, do conhecimento
 público, e dirigida particularmente à
 forma de implementação.
-
-UMdicas: Saiu recentemente o
+UMDicas Saiu recentemente o
 Relatório sobre o progresso na
 concretização do Processo de
 Bolonha na UMinho. Na sua opinião
@@ -183,4 +174,4 @@ existam condições de
 investimento para a
 implementação dos aspectos
 realmente importantes do
-Processo de Bolonha.
+Processo de Bolonha.Processo de Bolonha.Processo de Bolonha.Processo de Bolonha.

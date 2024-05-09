@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 55
-University: Universidade do Minho
-Interviewee(s): António Paisana
-Topic: uma das figuras mais carismáticas do desporto universitário dentro da Academia Minhota
-Date: 06 de Novembro de 2007
-Title: António Paisana: 20 anos de futsal
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Número 55
+university: Universidade do Minho
+interviewee: António Paisana
+topic: uma das figuras mais carismáticas do desporto universitário dentro da Academia Minhota
+date: 06 de Novembro de 2007
+title: António Paisana: 20 anos de futsal
+interviewer: Nuno Gonçalves
 ---
 
 António Paisana: 20 anos de futsal
@@ -16,7 +16,6 @@ organizada pelos Serviços de Acção Social da Universidade do Minho (SASUM) de
 desenvolvimento do futsal, entre muros, ao longo destas duas décadas. Nesta entrevista ficaremos a conhecer um pouco mais o
 futsal dentro da UMinho, os objectivos da equipa para a Liga Universitária e a fusão entre o SCBraga e a Associação Académica da
 Universidade do Minho (AAUM).
-
 UMDicas - O futsal é a modalidade com mais
 tradição na UMinho. A que se deve isso?
 António Paisana - À conjugação de muitos factores. O
@@ -35,7 +34,6 @@ da AAUMinho que granjeou visibilidade e prestigio
 para a modalidade internamente, para a Instituição
 AAUMinho e que constitui um incentivo para os
 melhores sobressaírem em competição.
-
 UMD - O Prof. estava com a equipa quando esta se
 sagrou campeã universitária em 1995 e trouxe
 para o Minho o seu primeiro título nas
@@ -43,7 +41,6 @@ modalidades colectivas? Como foi vivido esse
 momento dentro e fora da equipa?
 AP - …não estive. Estou com a equipa desde o final
 dessa época…
-
 UMD - Quais são as diferenças entre o futsal que se
 praticava na década de 90 e o que se pratica
 agora?
@@ -53,7 +50,6 @@ individualidades faziam muito mais a diferença. Era
 também tudo mais “amador”. Em termos organizativos
 e de métodos de trabalho técnico/táctico. Mas havia
 espectáculo e o “mundo” do futsal era mais puro.
-
 UMD - A AAUMinho no ano de 2006/07 classificouse em 3º lugar na Liga Universitária de Futsal
 (LUF). Os objectivos dessa época foram
 atingidos?
@@ -78,7 +74,6 @@ espírito de grupo para além de alguma sincronização
 táctica. O segredo das representações da equipa da
 sido exactamente o enorme espírito e empenho
 colectivo.
-
 UMD - Para esta nova época, quais são os
 objectivos a atingir?
 AP Esta época queremos naturalmente repetir a
@@ -88,7 +83,6 @@ parte dos jogadores da equipa da época passada
 mantém-se no grupo deste ano e a competição
 federada em que estão envolvidos é muito mais
 exigente.
-
 UMD - Quem serão os principais rivais da
 AAUMinho este ano na LUF?
 AP Na fase de grupos a Universidade de Trás-osMontes e Alto Douro (UTAD) e o Instituto Politécnico
@@ -96,14 +90,12 @@ do Porto (IPP), mas é na zona Sul onde penso que
 estarão os rivais mais fortes: Associação Académica
 de Coimbra (AAC), Instituto Politécnico de Leiria
 (IPLeiria) e Universidade da Beira Interior (UBI).
-
 UMD - Recentemente houve uma reunião
 preparatória da LUF em Leiria. O que é foi decidido
 nessa reunião?
 AP Decidiu-se manter o padrão da competição do ano
 anterior. Na fase de grupos haverá duas zonas: a
 Norte que terá seis equipas e a do Sul que terá cinco.
-
 UMD - No ano transacto houve a desistência de
 duas equipas na zona norte, o ISAVE e o ISMAI.
 Achas que a LUF vai ser menos competitiva este
@@ -111,7 +103,6 @@ ano?
 AP É evidente que toda a gente gostaria de ter uma
 participação mais alargada. No entanto, isso não
 retirará mérito algum… ao vencedor.
-
 UMD - Com a fusão do SCBraga e da AAUMinho no
 futsal federado, que mais-valia vai retirar dai a
 equipa que irá competir na LUF?
@@ -133,7 +124,6 @@ de formação. E isto é muito bom sinal. Temos
 encorajado os “miúdos” a continuar os estudos e claro,
 a escolher a UMinho. Onde poderão fazer as duas
 coisas: tirar em curso e jogar futsal.
-
 UMD - Que balanço faz destas quase duas décadas
 de futsal dentro da academia minhota?
 AP Serei suspeito nesta resposta… é natural que o
@@ -156,4 +146,4 @@ atletas/estudantes que praticam de uma forma tão
 intensa a modalidade em representação das duas
 instituições.
 Texto e Fotografia: Nuno Gonçalves
-nunog@sas.uminho.pt
+nunog@sas.uminho.ptnunog@sas.uminho.ptnunog@sas.uminho.ptnunog@sas.uminho.pt

@@ -1,14 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Edição nº 60 - Ano 4
-University: Universidade do Minho
-Interviewee(s): Eng.º Carlos Silva
-Topic: apresentação dos SASUM aos alunos
-Role: Administrador dos Serviços de Acção Social
-Date: 15 de Setembro de 2008
-Title: Entrevista ao Administrador dos Serviços de Acção Social, Eng.º Carlos Silva
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Edição nº 60 - Ano 4
+university: Universidade do Minho
+interviewee: Eng.º Carlos Silva
+topic: apresentação dos SASUM aos alunos
+role: Administrador dos Serviços de Acção Social
+date: 15 de Setembro de 2008
+title: Entrevista ao Administrador dos Serviços de Acção Social, Eng.º Carlos Silva
+interviewer: Ana Marques
 ---
+
+
 
 Entrevista ao Administrador dos Serviços de Acção Social, Eng.º Carlos Silva
 No início de mais um ano lectivo, O UMdicas esteve à conversa com
@@ -16,17 +18,14 @@ o Administrador dos Serviços de Acção Social, Eng.º Carlos Silva
 para que fizesse uma apresentação dos SASUM aos alunos e nos
 desvendasse algumas das novidades que a comunidade Académica pode
 esperar para este ano e num futuro próximo.
-
 Ana Marques
 anac@sas.uminho.pt
-
-UMdicas: Os Serviços de Acção Social
+UMDicas Os Serviços de Acção Social
 da Universidade do Minho (SASUM)
 estão agora a finalizar algumas obras
 em várias das suas estruturas. Quais
 foram as estruturas
 intervencionadas?
-
 Carlos Silva: Uma das ma i s
 importantes intervenções que foram
 realizadas nas nossas estruturas foi
@@ -100,8 +99,7 @@ nas residências e o pavilhão
 desportivo de Gualtar, mas que são
 muito importantes para a Certificação
 dos SASUM.
-
-UMdicas: Todas as obras estão
+UMDicas Todas as obras estão
 terminadas ou para quando a sua
 finalização?
 C.S.: Grande parte das obras estão
@@ -116,8 +114,7 @@ as primeiras de Outubro, porque
 embora a obra já esteja concluída
 estamos aguardar a instalação dos
 equipamentos.
-
-UMdicas: Que valores estiveram
+UMDicas Que valores estiveram
 envolvidos nestas intervenções?
 C.S.: No caso da residência Lloyd
 Braga estamos a falar de 830.000
@@ -152,8 +149,7 @@ Universidade. O nosso
 investimento tem sido
 feito nesta
 perspectiva.
-
-UMdicas: Quais os benefícios e
+UMDicas Quais os benefícios e
 novidades que estas obras trarão
 para os alunos?
 C.S.: O grande benefício é o aumento
@@ -188,8 +184,7 @@ que temos de melhorar
 nos próximos anos, as Residências
 em Azurém (G1, G2 e G3) e os Blocos
 D e E em Sta Tecla..
-
-UMdicas: Estas obras vêm ao
+UMDicas Estas obras vêm ao
 encontro da estratégia de
 certificação seguida pelos SASUM?
 C.S.: É claro que sim. Um dos aspectos
@@ -245,8 +240,7 @@ acessível a todos que nela
 desenvolvem o seu trabalho e isso
 tem sido um dos desafios mais
 interessantes e mais motivadores.
-
-UMdicas: Que as mais-valias trará a
+UMDicas Que as mais-valias trará a
 certificação para os alunos?
 C.S.: Um dos grandes objectivos é
 desburocratizar processos, para que
@@ -267,8 +261,7 @@ que as coisas são simples, que estão
 ao seu dispor, e que pode contactar a
 qualquer momento, que existimos
 para resolver os seus problemas.
-
-UMdicas: Pretendem ter a avaliação
+UMDicas Pretendem ter a avaliação
 do estudante?
 C.S.: A avaliação faz parte do
 processo de certificação. O estudante
@@ -281,8 +274,7 @@ diversas áreas, como é do
 conhecimento de todos, mas até
 finais de 2008 será alargado a todas
 as áreas
-
-UMdicas: Em que consiste este
+UMDicas Em que consiste este
 processo de certificação e como
 está a ser preparado pelos SASUM?
 C.S.: No início do processo, em 2004
@@ -326,8 +318,7 @@ sem dúvida que tem sido gratificante,
 pois cada dia que passa vemos a
 concretização do nosso objectivo
 mais perto.
-
-UMdicas: É sabido que os SASUM vão
+UMDicas É sabido que os SASUM vão
 ter em funcionamento em 2008/09
 um Centro Médico, qual será a sua
 mais-valia?
@@ -390,7 +381,6 @@ Pretendemos criar serviços médicos
 básicos e criar canais para
 encaminhamento dos tratamentos
 no exterior.
-
 Qual o objectivo dos SASUM com a
 conquista da certificação?
 C.S.: É um objectivo que tem a ver com
@@ -431,8 +421,7 @@ têm reduzido e isso permite investir o
 seu retorno no estudante. Tudo isto
 porque temos objectivos e uma
 estratégia bem definidos.
-
-UMdicas: Os departamentos dos
+UMDicas Os departamentos dos
 SASUM têm sido sujeitos a várias
 reestruturações tanto a nível de
 recursos humanos como logístico.
@@ -491,8 +480,7 @@ anos e cada vez mais os nossos
 f u n cion á r ios sentem essa
 motivação, sentem o serviço
 como algo que é seu.
-
-UMdicas: Estas iniciaram há dois
+UMDicas Estas iniciaram há dois
 anos na sede, posteriormente no
 Dep. Alimentar e vai iniciar agora
 no Dep. Desportivo e Cultural.
@@ -506,7 +494,6 @@ alojamento, dep. financeiro,
 manutenção), foi uma
 opor tunidade clara para a
 alteração das metodologias de
-trabalho.
 Isso obrigou a que quem está a
 administrar tenha que conhecer
 os problemas correntes das
@@ -573,8 +560,7 @@ para isso temos de aumentar as
 nossas receitas, para nos permitir
 construir um projecto sólido para
 nos próximos anos.
-
-UMdicas: Os SASUM
+UMDicas Os SASUM
 candidataram-se agora a vários
 projectos de financiamento no
 âmbito do Programa Operacional
@@ -604,8 +590,7 @@ infra-estruturas existentes e
 aumentar a qualidade e o leque
 dos ser viços a oferecer à
 Comunidade Académica.
-
-UMdicas: Com ou sem
+UMDicas Com ou sem
 financiamento os projectos são
 para seguir em frente?
 C.S.: Se não houver financiamento
@@ -624,14 +609,12 @@ que falta já é
 pequeno, não vale a
 pena deixar o
 projecto a meio.
-
-UMdicas: Qual o investimento
+UMDicas Qual o investimento
 financeiro estimado para estes
-projectos?
 C.S.: O nosso investimento é
 pequeno pois estaremos a contar
 com o financiamento do QREN. No
 global podemos dizer que são
 alguns milhões, com todos estes
 projectos candidatamo-nos a 18
-milhões do QREN.
+milhões do QREN.milhões do QREN.milhões do QREN.milhões do QREN.

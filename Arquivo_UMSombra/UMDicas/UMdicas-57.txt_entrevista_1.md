@@ -1,12 +1,12 @@
 ---
-Jornal: UMdicas
-Issue: Número 57
-University: Universidade do Minho
-Interviewee(s): José Fernandes
-Role: aluno de Engenharia Biomédica
-Date: 24 de Abril de 2008
-Title: TUTORUM - José Fernandes um campeão de Taekwondo
-Interviewer: Nuno Gonçalves
+journal: UMdicas
+issue: Número 57
+university: Universidade do Minho
+interviewee: José Fernandes
+role: aluno de Engenharia Biomédica
+date: 24 de Abril de 2008
+title: TUTORUM - José Fernandes um campeão de Taekwondo
+interviewer: Nuno Gonçalves
 ---
 
 TUTORUM - José Fernandes um campeão de Taekwondo
@@ -14,15 +14,13 @@ José Fernandes, aluno de Engenharia Biomédica, apesar de ainda muito jovem, co
 nacional universitário. Graças a sua performance nas competições universitárias, Pedro esteve em representação de Portugal nas Universiadas de 2007 (Jogos Olímpicos
 Universitários) onde se classificou entre os 10 melhores do mundo. Para além deste excelente resultado, o atleta que representa as cores do Ginásio Konceito, conta também
 já com participações em Campeonatos do Mundo, da Europa e no Torneio Pré-Olimpico Mundial realizado em Manchester.
-
-UMDicas: Com que idade é que iniciaste a prática
+UMDicas Com que idade é que iniciaste a prática
 competitiva do Taekwondo e onde?
 José Fernandes: Comecei a praticar por volta dos 6
 anos no Ginásio Koryo em Braga, actual Konceito, que
 tem alguma tradição nesta modalidade, mas, apenas
 comecei a fazer competição de combates aos 12
 anos.
-
 Achas que o taekwondo ajudou no teu
 desenvolvimento enquanto indivíduo?
 Completamente. Todas as decisões que tomei na
@@ -30,7 +28,6 @@ minha vida que me fizeram evoluir como pessoa foram
 baseadas nos princípios que adquiri no Taekwondo e
 na prática desportiva. Se foram as melhores, não sei
 mas, foi graças a elas que sou como sou hoje.
-
 Qual foi o papel da tua familia no teu percurso
 enquanto atleta de alta competição? A minha
 família tenta ajudar em tudo que pode e como o
@@ -40,12 +37,10 @@ meus pais que me pude deslocar a vários sítios para
 treinar, competir e evoluir. Tirando isso, a minha mãe
 nunca me viu combater, diz que fica muito nervosa e
 por isso prefere não ver.
-
 Quantas vezes treinas por semana, e quanto
 tempo?
 Faço cerca de 12 treinos por semana, com cerca de
 1h30min cada um. É só fazer as contas…
-
 Algumas pessoas associam as artes marciais a
 comportamentos violentos. O que tens a dizer a
 essas pessoas?
@@ -59,7 +54,6 @@ indivíduos e não actuem de maneira errada. Na parte
 que me toca, nunca me meto em confusões e a
 violência não é, de certeza, a posição que eu tomo
 para resolver qualquer tipo de problema.
-
 A maneira como tu lidas com a pressão e a
 ansiedade antes dos combates é algo que tu
 consegues trabalhar e treinar, ou simplesmente é
@@ -76,7 +70,6 @@ qualquer tipo de oportunidade que tenha, para que
 cada vez mais me sinta confortável e consiga reagir da
 melhor forma possível, seja num Campeonato
 regional ou num Campeonato do Mundo.
-
 Qual é para ti a grande diferença entre a
 competição federada e a competição
 universitária?
@@ -89,7 +82,6 @@ evolução que a modalidade está a ter em Portugal é
 perfeitamente natural que as competições
 universitárias nos próximos anos melhorem
 significativamente.
-
 O facto de competires pelo teu actual clube
 condicionou a tua escolha de Universidades
 quando concorreste? Porque?
@@ -98,7 +90,6 @@ região, dificilmente teria a mesma qualidade dos
 treinos que tenho no clube onde estou e iria perder um
 apoio importante que é a família o que complicaria
 muito a minha possibilidade de sucesso.
-
 Para muitos atletas de alta competição torna-se
 difícil conciliar os estudos com a prática
 desportiva. Como é que tu consegues gerir esta
@@ -117,7 +108,6 @@ organizado possível. Reduzo um pouco às cadeiras
 que faço por semestre e assim tento equilibrar um
 pouco as coisas de forma a ter sucesso nas duas
 áreas.
-
 Em ano de Jogos Olímpicos e após a tua
 participação nas Universiadas, que balanço fazes
 da tua participação nesta grande competição? E
@@ -152,13 +142,11 @@ Este programa é nitidamente uma mais-valia para
 ajudar na tão difícil relação estudos/desporto e como
 qualquer ajuda é bem-vinda, é obviamente de louvar
 este tipo de iniciativa.
-
 Em que áreas já recebeste apoio através do
 Tutorum?
 P.F.: Graças ao Tutorum estou a ter a oportunidade de
 trabalhar mais com a área da psicologia desportiva o
 que está a ser bastante benéfico.
-
 Os teus objectivos pessoais passam por uma
 carreira profissional no taekwondo ou os estudos
 vêm em primeiro lugar?
@@ -166,6 +154,5 @@ A nível desportivo tenho vários objectivos e sonhos
 importantes que quero atingir e muito provavelmente
 enquanto sentir que tenho condições para os alcançar
 talvez aposte mais no Taekwondo que nos estudos.
-
 Texto e Fotografia: Nuno Gonçalves
-nunog@sas.uminho.pt
+nunog@sas.uminho.ptnunog@sas.uminho.ptnunog@sas.uminho.ptnunog@sas.uminho.pt

@@ -1,10 +1,10 @@
 ---
-Jornal: UMdicas
-Issue: Número 53
-University: Universidade do Minho
-Interviewee(s): Prof. Sérgio Machado dos Santos
-Date: 30 de Julho de 2007
-Interviewer: Ana Marques
+journal: UMdicas
+issue: Número 53
+university: Universidade do Minho
+interviewee: Prof. Sérgio Machado dos Santos
+date: 30 de Julho de 2007
+interviewer: Ana Marques
 ---
 
 UMinho garante componente
@@ -16,7 +16,6 @@ perceber toda a problemática em que se encontra o Ensino Superior em Portugal e
 particular a situação da UMinho face ao quadro de financiamento por parte do
 governo, situação debatida na última reunião do Conselho Estratégico da qual
 resultou uma “carta aberta”.
-
 UMDicas- Da reunião do Conselho Estratégico da
 UMinho do passado fim-de-semana, 20 e 21 de
 Julho, resultou uma “carta aberta” manifestando
@@ -41,7 +40,6 @@ o impacto na qualidade do ensino. A indefinição quanto
 preocupação, dado não ser possível uma gestão
 estratégica eficaz num quadro de total
 imprevisibilidade.
-
 UMDicas - Referem que o Estado não tem cumprido
 os seus compromissos para com as Universidades
 e a necessidade de haver uma “clarificação pelo
@@ -65,7 +63,6 @@ essenciais para alguns projectos estratégicos em
 curso, como por exemplo os projectos ligados à
 qualidade e à adaptação dos cursos ao processo de
 Bolonha.
-
 UMDicas- No seu entender, qual deveria ser o papel
 do Estado dentro das universidades?
 M.S - O Estado deve ter um papel regulador, definindo
@@ -79,7 +76,6 @@ flexibilidade para se organizarem e gerirem as suas
 actividades, num quadro de autonomia
 responsabilizante com um controlo a posteriori através
 da avaliação de desempenho.
-
 UMDicas- Como vêem o panorama futuro? Terão os
 diversos agentes económicos e sociais
 capacidades para gerar algumas alterações na
@@ -94,7 +90,6 @@ para reagir a mudanças na sua envolvente, mas é
 imprescindível que se crie um mínimo de estabilidade
 no financiamento e que os contratos assinados pelo
 Governo sejam cumpridos.
-
 UMDicas- O caminho a seguir para as
 Universidades conseguirem sair da situação em
 que se encontram dependerá maioritariamente das
@@ -129,6 +124,5 @@ continuando a não o fazer, comprometer seriamente
 não só o futuro das Universidades mas também, pelas
 razões expressas no comunicado do Conselho
 Estratégico, o futuro do País.
-
 Ana Marques
-anac@sas.uminho.pt
+anac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.ptanac@sas.uminho.pt

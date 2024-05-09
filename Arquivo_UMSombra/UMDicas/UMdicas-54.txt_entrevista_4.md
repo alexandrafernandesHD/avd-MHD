@@ -1,16 +1,16 @@
 ---
-Jornal: UMdicas
-Issue: Número 54
-University: Universidade do Minho
-Interviewee(s): Dra. Carla Lavrador 
-Topic: processo de inscrições
-Role: responsável dos Serviços Académicos da UMinho (SAUM)
-Date: 11 de Outubro de 2007
+journal: UMdicas
+issue: Número 54
+university: Universidade do Minho
+interviewee: Dra. Carla Lavrador 
+topic: processo de inscrições
+role: responsável dos Serviços Académicos da UMinho (SAUM)
+date: 11 de Outubro de 2007
+interviewer: UMdicas
 ---
 
 Em conversa com a responsável dos Serviços Académicos da UMinho (SAUM), Dra. Carla Lavrador  fomos saber a sua opinião
 sobre o processo de inscrições  e quais a mudanças que estão previstas para o futuro.
-
 UMdicas - Como decorreu o processo de inscrições?
 Pela informação que tenho e pelo que tenho
 acompanhado, parece que correu bastante bem. Este
@@ -20,7 +20,6 @@ inquérito electrónico que nos foi enviado pela Direcção
 Geral de Ensino Superior e portanto tivemos algum
 receio de que ao alterar os passos as coisas se
 complicassem, mas aparentemente correu tudo bem.
-
 UMdicas - Quais são para si os pontos positivos e
 negativos deste formato de inscrição?
 Em relação aos pontos positivos, o que eu acho é que o
@@ -44,7 +43,6 @@ eventualmente a grande quantidade de intervenientes no
 processo que acaba por tornar o processo mais lento,
 lavando o aluno a demorar algum tempo a finalizar todo
 o processo.
-
 UMdicas-Para o próximo ano estão previstas
 alterações na inscrição dos novos alunos?
 Estão previstas algumas alterações, já há algum tempo
@@ -61,4 +59,4 @@ processo, tendo esse inquérito por via electrónica a
 nossa expectativa é que para o ano as inscrições desses
 alunos sejam feitas por via electrónica. Ainda não está
 nada pensado em relação a esse processo mas estou
-com expectativa que se consiga aplicar no próximo ano.
+com expectativa que se consiga aplicar no próximo ano.com expectativa que se consiga aplicar no próximo ano.com expectativa que se consiga aplicar no próximo ano.com expectativa que se consiga aplicar no próximo ano.
