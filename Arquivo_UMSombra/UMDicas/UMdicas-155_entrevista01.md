@@ -1,14 +1,15 @@
 ---
-jornal:UMdicas
-issue:155	
-interviewee:Daniel Monteiro
-topis:Desporto
-role:presidência da Federação Académica de Desporto Universitário (FADU)
-date:MAIO 2018
-num_pages:
-title:Daniel Monteiro
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 155	
+interviewee: Daniel Monteiro
+topic: Desporto
+role: presidência da Federação Académica de Desporto Universitário (FADU)
+date: MAIO 2018
+title: Daniel Monteiro
+interviewer: Ana Marques
 ---
+
+
 rigente
 que nos fez um balanço
 da sua experiência, falou do seu
@@ -246,7 +247,7 @@ na implementação de um estilo
 de vida saudável nos estudantes
 portugueses. Temos procurado
 combater este abandono de duas
-formas:promovendo o desporto
+formas: promovendo o desporto
 informal nas academias portuguesas,
 através de um programa
 de apoio e, por outro lado,
@@ -262,7 +263,7 @@ como forma de regressarem à
 modalidade, num nível adequado
 à sua vida académica. Este é, aliás,
 o público alvo do desporto
-universitário de competição:os
+universitário de competição: os
 jovens que foram praticantes
 desportivos federados e que, por
 um outro motivo, deixaram de o
@@ -278,7 +279,7 @@ Superior?
 A FADU tem dado particular atenção
 a esse relacionamento, não
 só com as duas entidades que nos
-tutelam:o Ministério da Educação,
+tutelam: o Ministério da Educação,
 pela via do Instituto Português
 do Desporto e Juventude
 (IPDJ), e o Ministério da Ciência,
@@ -526,7 +527,6 @@ comunidade.
 A AAUMinho apresentou
 também recentemente a sua
 candidatura às Fases Finais
-dos Campeonatos Nacionais
 Universitários de 2019.
 Já há resposta da parte da
 FADU?
@@ -539,7 +539,6 @@ anunciada muito em breve, até
 para dar possibilidade a todas as
 entidades de preparar o evento
 com a maior antecedência possível.
-
 A mensagem que gostaria de deixar vai no
 sentido de incentivar à prática desportiva no
 ensino superior. Um estilo de vida saudável é
@@ -557,4 +556,4 @@ Superior e informem-se sobre como se podem
 manter ativos, sobre como podem praticar
 desporto e fazer parte desta enorme família
 que é o desporto universitário português!
-Mensagem aos estudantes do Ensino Superior
+Mensagem aos estudantes do Ensino SuperiorMensagem aos estudantes do Ensino SuperiorMensagem aos estudantes do Ensino SuperiorMensagem aos estudantes do Ensino Superior

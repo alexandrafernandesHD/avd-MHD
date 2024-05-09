@@ -3,12 +3,11 @@ title: UMDicas
 issue: 139
 university: Universidade do Minho
 date: maio 2016
-num_pages: None
 file_name: UMdicas-139.txt
-interviewee_1: ROQUE TEIXEIRA, MESTRE EM ENGENHARIA E GESTÃO INDUSTRIAL
-interviewer_1: ANA MARQUES
-interviewee_2: Francisco Macedo
-interviewer_2: ANA MARQUES
+interviewee: ROQUE TEIXEIRA, MESTRE EM ENGENHARIA E GESTÃO INDUSTRIAL
+interviewer: Ana Marques
+interviewee: Francisco Macedo, diretor da Licenciatura em Física
+interviewer: Ana Marques
 ---
 
 “ESTAMOS A FALAR DE UMA
@@ -28,99 +27,68 @@ desportivo, desta feita na Federação Internacional
 de Pentatlo Moderno onde é o responsável pelo
 Marketing e Imagem.
 
-interessada e curiosa, sempre pronta a abraçar no-
 
-ano que sou o responsável de Marketing e Media da
-
-não só pela gestão corrente, quer administrativa
-
-vas oportunidades e desafios.
-
-Federação Internacional de Pentatlo Moderno.
-
-quer financeira, mas também por coisas simples
-
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
 
-como a forma de estar, falar ou até escrever. É sem
+
+
+Quem é Roque Teixeira?
+O Roque Teixeira é uma pessoa nascida no Peso da
+Régua há 34 anos que teve a oportunidade de moldar
+a sua personalidade através do contacto com
+diversas pessoas, dos mais diversos quadrantes.
+Esta aprendizagem contínua permitiu-me ter a possibilidade
+de desenvolver valências, abraçar desafios
+e obter conhecimento que possibilitaram o meu
+crescimento não só como pessoa mas também
+como profissional. Considero-me uma pessoa ativa,
+interessada e curiosa, sempre pronta a abraçar novas
+oportunidades e desafios.
 Descreve-nos o teu trajeto académico e
-
-O que significou para ti seres Presidente da
-
-dúvida uma experiência que todos os estudantes
-
 profissional?
-
-Associação Académica da Universidade do
-
-deveriam ter.
-
-Completei o Mestrado em Engenharia e Gestão In-
-
-Minho (AAUM)?
-
-dustrial na Universidade do Minho onde entrei ini-
-
-Tive a oportunidade de até agora ter abraçado pro-
-
-Esta passagem pela AAUM moldou o teu fu-
-
-cialmente em Engenharia de Sistemas e Informáti-
-
-jetos fantásticos mas sem dúvida que um dos mais
-
-turo enquanto pessoa e profissional?
-
-ca (atualmente LEI). Durante a minha passagem
-
-marcantes até ao momento foi o facto de ter tido o
-
-Sem dúvida. Como disse anteriormente, coisas
-
+Completei o Mestrado em Engenharia e Gestão Industrial
+na Universidade do Minho onde entrei inicialmente
+em Engenharia de Sistemas e Informática
+(atualmente LEI). Durante a minha passagem
 pela Universidade do Minho tive a oportunidade e
-
-privilégio de ser Presidente da AAUM. Não só pela
-
-simples como a forma de estar, falar, reagir às
-
-o privilégio de ser Presidente da Associação Aca-
-
-experiência em si mas também pela responsabi-
-
-contrariedades e ao stress fazem com que a nossa
-
-démica da Universidade do Minho (2005 e 2006).
-
-lidade inerente ao cargo. Uma Universidade jovem
-
-personalidade se adapte. Em todo o meu percur-
-
+o privilégio de ser Presidente da Associação Académica
+da Universidade do Minho (2005 e 2006).
 Iniciei a minha vida profissional na Administração
-
-que tinha e tem na sua Associação Académica um
-
-so profissional tentei sempre levar para os locais
-
 das Pastelarias e Pão Quente Nobreza em Braga,
-
-interlocutor ativo na procura do bem estar dos seus
-
-seguintes algumas das boas experiências que tive.
-
 seguindo-se a oportunidade de ser Assessor do
-
+Secretário de Estado da Ciência, Tecnologia e Ensino
+Superior do XVIII Governo Constitucional. Depois
+voltei à Universidade do Minho, mais especificamente
+ao Departamento Desportivo e Cultural dos
+Serviços de Ação Social tendo tido, entre outras, a
+responsabilidade da organização dos Campeonatos
+Mundiais Universitários de Futsal e Xadrez em
+2012. Posteriormente assumi o cargo de Administrador
+dos Serviços de Ação Social da Universidade
+da Beira Interior tendo, no final do mandato voltado
+ao DDC/SASUM para a organização do Mundial
+Universitário de Andebol 2014. Desde Agosto desse
+ano que sou o responsável de Marketing e Media da
+Federação Internacional de Pentatlo Moderno.
+O que significou para ti seres Presidente da
+Associação Académica da Universidade do
+Minho (AAUM)?
+Tive a oportunidade de até agora ter abraçado projetos
+fantásticos mas sem dúvida que um dos mais
+marcantes até ao momento foi o facto de ter tido o
+privilégio de ser Presidente da AAUM. Não só pela
+experiência em si mas também pela responsabilidade
+inerente ao cargo. Uma Universidade jovem
+que tinha e tem na sua Associação Académica um
+interlocutor ativo na procura do bem estar dos seus
 estudantes obriga ao desenvolvimento pessoal dos
-
-Por exemplo em relação à AAUM, algumas das fol-
-
-Secretário de Estado da Ciência, Tecnologia e Ensi-
-
 seus dirigentes em todos os instantes. E isso passa
-
-has de cálculo usadas na parte orçamental servi-
-
-no Superior do XVIII Governo Constitucional. Depois
+não só pela gestão corrente, quer administrativa
+quer financeira, mas também por coisas simples
+como a forma de estar, falar ou até escrever. É sem
+dúvida uma experiência que todos os estudantes
+deveriam ter.
 
 “TIVE A OPORTUNIDADE
 DE ATÉ AGORA TER
@@ -130,51 +98,34 @@ DÚVIDA QUE UM DOS
 MAIS MARCANTES ATÉ
 AO MOMENTO FOI O
 FACTO DE TER TIDO O
-PRIVILÉGIO DE SER PRESIDENTE DA AAUM.”
+PRIVILÉGIO DE SER PRESIDENTE
+DA AAUM.”
 
-ram de base para aquelas que uso ainda hoje.
 
-Quem é Roque Teixeira?
+“TRABALHAR NUM GOVERNO,
+SEJA ELE DE
+QUALQUER PAÍS, É SEMPRE
+UMA EXPERIÊNCIA
+ONDE O ESPÍRITO DE
+MISSÃO E DE PROCURA
+PELO BEM GERAL TEM
+DE PERMANECER NO
+NOSSO DIA-A-DIA.”
 
-voltei à Universidade do Minho, mais especifica-
 
-O Roque Teixeira é uma pessoa nascida no Peso da
-
-mente ao Departamento Desportivo e Cultural dos
-
-Régua há 34 anos que teve a oportunidade de mol-
-
-Serviços de Ação Social tendo tido, entre outras, a
-
-dar a sua personalidade através do contacto com
-
-responsabilidade da organização dos Campeona-
-
-diversas pessoas, dos mais diversos quadrantes.
-
-tos Mundiais Universitários de Futsal e Xadrez em
-
-Esta aprendizagem contínua permitiu-me ter a pos-
-
-2012. Posteriormente assumi o cargo de Adminis-
-
-sibilidade de desenvolver valências, abraçar desa-
-
-trador dos Serviços de Ação Social da Universidade
-
-fios e obter conhecimento que possibilitaram o meu
-
-da Beira Interior tendo, no final do mandato voltado
-
-crescimento não só como pessoa mas também
-
-ao DDC/SASUM para a organização do Mundial
-
-como profissional. Considero-me uma pessoa ativa,
-
-Universitário de Andebol 2014. Desde Agosto desse
-
-Fizeste parte do XVIII Governo Constitucional de Portugal. Como descreves essa
+Esta passagem pela AAUM moldou o teu futuro
+enquanto pessoa e profissional?
+Sem dúvida. Como disse anteriormente, coisas
+simples como a forma de estar, falar, reagir às
+contrariedades e ao stress fazem com que a nossa
+personalidade se adapte. Em todo o meu percurso
+profissional tentei sempre levar para os locais
+seguintes algumas das boas experiências que tive.
+Por exemplo em relação à AAUM, algumas das folhas
+de cálculo usadas na parte orçamental serviram
+de base para aquelas que uso ainda hoje.
+Fizeste parte do XVIII Governo Constitucional
+de Portugal. Como descreves essa
 experiência?
 Trabalhar num Governo, seja ele de qualquer País, é
 sempre uma experiência onde o espírito de missão
@@ -182,41 +133,24 @@ e de procura pelo bem geral tem de permanecer no
 nosso dia-a-dia. Juntando a isso o facto de ter tido
 a oportunidade de trabalhar com o Ministro Prof.
 Mariano Gago, com o Secretário de Estado (e agora
-
-UMdic
-as
-
-d
-
-www.dicas.sas.uminho.pt | desporto 3 de maio 2016
-
-“TRABALHAR NUM GOVERNO, SEJA ELE DE
-QUALQUER PAÍS, É SEMPRE UMA EXPERIÊNCIA
-ONDE O ESPÍRITO DE
-MISSÃO E DE PROCURA
-PELO BEM GERAL TEM
-DE PERMANECER NO
-NOSSO DIA-A-DIA.”
-
-Federação Internacional onde se chega quase a
-
 Ministro) Prof. Manuel Heitor e com um conjunto
-
-O Pentatlo Moderno é um desporto criado pelo fun-
-
 fantástico de pessoas com os mesmos ideais de
 responsabilidade tornou a experiência ainda mais
 completa e enriquecedora. Tudo o que é feito num
 Gabinete Ministerial tem impacto no dia-a-dia de
 uma sociedade o que só por si torna a experiência
 única.
-Como surgiu a tua ida para a Federação Internacional de Pentatlo Moderno?
+Como surgiu a tua ida para a Federação Internacional
+de Pentatlo Moderno?
 Como em tudo na vida é necessária alguma sorte.
-Na altura em que estávamos a preparar a organização do Mundial Universitário de Andebol, a Federação Internacional de Pentatlo Moderno (UIPM)
+Na altura em que estávamos a preparar a organização
+do Mundial Universitário de Andebol, a Federação
+Internacional de Pentatlo Moderno (UIPM)
 estava a encetar os contactos para que o Pentatlo
 Moderno fosse mais uma modalidade no quadro
 dos desportos dos Mundiais Universitários, através
-do contacto com o Paulo Ferreira (ex-aluno da Universidade do Minho e Diretor dos Campeonatos
+do contacto com o Paulo Ferreira (ex-aluno da Universidade
+do Minho e Diretor dos Campeonatos
 Mundiais da FISU). No meio de algumas conversas
 foi-lhe falada da necessidade da UIPM encontrar
 uma pessoa jovem para tratar de toda a área de
@@ -228,10 +162,13 @@ tivesse sido com outra pessoa, talvez nunca tivesse
 tido esta oportunidade.
 Em que se alterou a tua vida ao abraçares
 este projeto?
-Foi uma volta completa de um dia para o outro. Finalizamos o Mundial Universitário de Andebol num
+Foi uma volta completa de um dia para o outro. Finalizamos
+o Mundial Universitário de Andebol num
 domingo e na 2a feira estava a começar uma vida
 nova em França (Nice). Tive de mudar de hábitos,
-horários, passar a ter contacto com família, namorada e amigos através da internet e abraçar os poucos fins-de-semana que tenho oportunidade de ir a
+horários, passar a ter contacto com família, namorada
+e amigos através da internet e abraçar os poucos
+fins-de-semana que tenho oportunidade de ir a
 Portugal como se fossem as férias do ano.
 De todas estas experiências profissionais
 até ao momento, qual foi para ti o maior desafio?
@@ -239,24 +176,26 @@ Como já referi, tive a oportunidade de passar por
 diferentes responsabilidades e trabalhos até aos 34
 anos. Todas elas enriquecedoras e de todas trouxe
 um conjunto de experiências e amigos que ficarão
-para a vida. Mas sem dúvida que a experiência atual é a mais exigente, não só pela distância de casa
+para a vida. Mas sem dúvida que a experiência atual
+é a mais exigente, não só pela distância de casa
 mas também por todas as diferenças em relação
 aos trabalhos anteriores. Estamos a falar de uma
-
-5
-
+Federação Internacional onde se chega quase a
 trabalhar 24h por dia devido aos diferentes fusos
 horários das Federações Nacionais. Junta-se a isso
 o contacto com pessoas de todo o mundo com
 diferentes personalidades e o facto de, sendo uma
-modalidade Olímpica desde 1912, ser pouco conhecida. O trabalho de melhorar essa imagem neste
+modalidade Olímpica desde 1912, ser pouco conhecida.
+O trabalho de melhorar essa imagem neste
 desporto é muito exigente mas também desafiante
 e cativante.
 O que é o Pentatlo Moderno?
-dador dos Jogos Olímpicos Modernos, Barão Pierre
+O Pentatlo Moderno é um desporto criado pelo fundador
+dos Jogos Olímpicos Modernos, Barão Pierre
 de Coubertin, com o objetivo de encontrar o atleta
 mais completo dos Jogos Olímpicos. Faz parte do
-programa olímpico desde 1912 e conjuga 5 modalidades completamente distintas que são praticadas
+programa olímpico desde 1912 e conjuga 5 modalidades
+completamente distintas que são praticadas
 por cada atleta durante um dia. Começam o dia
 com 200m livres de natação, passando depois para
 a esgrima onde combatem entre todos num toque
@@ -265,117 +204,14 @@ onde encontram 12 saltos. Um dado curioso é que,
 ao contrario das provas normais de equitação, os
 atletas só conhecem e têm contacto com o cavalo
 com que saltarão 20 minutos antes de entrarem na
-arena. Por fim os atletas fazem um evento combinado onde correm 800m e têm de atingir um alvo
-
-esse tem sido a base do trabalho que tem sido feito.
-
-começas obrigatoriamente a imaginar que poderias
-
-Em conjugação com isso toda a apresentação do
-
-e gostarias de ter uma experiência no estrangeiro.
-
-evento desde a entrada dos atletas, passando pelas
-
-Se estava à espera que acontecesse como aconte-
-
-câmaras de televisão e fotógrafos até às músicas
-
-ceu, não estava! Mas sair da zona de conforto, para
-
-tocadas foi revisto e está a começar a ter um feed-
-
-um País e cultura diferentes e acima de tudo para
-
-back bastante positivo. No entanto trabalhar com
-
-um desporto que me poderia dar uma abrangência
-
-diferentes organizadores, diferentes países e difer-
-
-enorme era um desafio que não poderia recusar.
-
-entes culturas torna tudo mais difícil mas também
-mais desafiante.
-
-Quais as principais exigências deste tipo trabalho?
-
-Estudaste e trabalhaste na UMinho. Man-
-
-Acima de tudo é muito exigente a nível pessoal. Es-
-
-téns alguma ligação à Universidade?
-
-tar longe da família, da namorada, dos amigos é
-
-é o vencedor.
-
-A UMinho continua ligada ao meu dia-a-dia como
-
-algo muito difícil. Tudo o resto é uma questão de
-
-continuará sempre. Foi onde tive a minha for-
-
-hábito que nos fortalece.
-
-Qual a tua função e o que fazes exatamente?
-
-mação, é a Universidade da cidade onde tenho a
-
-A nível profissional uma das maiores exigências é o
-
-minha casa e onde tenho a maior parte dos meus
-
-facto de contactar com diferentes formas de trabal-
-
-amigos. Embora à distância, tento sempre estar a
-
-har e diferentes culturas. É necessária muita adap-
-
-par do que se vai passando e continuo a sofrer com
-
-tação na forma de apresentar os desafios depend-
-
-os resultados das equipas da UMinho e com a eq-
-
-endo de quem está à nossa frente. Tudo o resto,
-
-uipa de Futsal do SCBraga/AAUM.
-
-com dedicação e empenho é conseguido.
-
-Que memórias guardas da tua passagem por
-
-Gostarias de voltar a Portugal?
-
-esta academia?
-
-Sem dúvida que é o meu objetivo. Nunca deixou
-
-Diz-se que a melhor fase da vida de qualquer pes-
-
-de o ser desde o dia em que saí do País. É o meu
-
-soa é a vida Universitária. Eu afirmo, sublinho e
-
-País e por mais dificuldades que Portugal tenha é a
-
-ponho a bold essa afirmação. Tive a oportunidade
-
-minha casa e o que quero levar desta experiência é
-
-de estar numa Universidade jovem, dinâmica e
-
-a possibilidade de voltar e trazer algo de bom para
-
-acima de tudo uma Universidade de Futuro. Pode-
-
-o que seja o meu futuro.
-
+arena. Por fim os atletas fazem um evento combinado
+onde correm 800m e têm de atingir um alvo
 de 6cm a 10m de distância. Este procedimento é
 repetido 4x e o primeiro a cruzar a linha de meta
-
-Sou o responsável de Marketing e Media da Federação com a responsabilidade de toda a imagem
+é o vencedor.
+Qual a tua função e o que fazes exatamente?
+Sou o responsável de Marketing e Media da Federação
+com a responsabilidade de toda a imagem
 e apresentação da Federação. Para além de todo
 o contacto com organizadores e responsabilidade
 pela imagem diária da Federação, em todas as
@@ -389,82 +225,103 @@ sociais e informações que a federação transmite é
 também da responsabilidade deste departamento
 que tem mais 1 pessoa.
 
-ria enumerar imensas memórias boas que partilho
-
 “SOU O RESPONSÁVEL
 DE MARKETING E MEDIA
 DA FEDERAÇÃO COM A
 RESPONSABILIDADE DE
-TODA A IMAGEM E APRESENTAÇÃO DA FEDERAÇÃO.”
-
-com tantas pessoas quando estamos juntos mas
-
-Queres transmitir alguma mensagem aos
-
-escolhendo um momento terá de ser obrigatoria-
-
-alunos e futuros graduados da UMinho?
-
-mente o discurso de fim do meu segundo mandato
-
-Gostaria de lhes garantir que estão na realidade
-
-como Presidente da AAUM. Por tudo... pelo fim de
-
-numa fantástica Universidade de onde sairão com
-
-um ciclo na minha vida, pela emoção, pelo sentido
-
-valências que lhes serão essenciais para o futuro.
-
-de dever cumprido, por todos os que me acompan-
-
-Nos dias de hoje, o quadro da formação de base
-
-haram naquele percurso, pelo grupo fantástico de
-
-não é tão essencial como no passado mas a adapt-
-
-pessoas que fez parte das direções das quais fiz
-
-abilidade da formação ajuda a que os desafios do
-
-parte e acima de tudo pelos estudantes que tive a
-
-mercado de trabalho sejam abraçados de forma
+TODA A IMAGEM E APRESENTAÇÃO
+DA FEDERAÇÃO.”
 
 Relativamente à tua experiencia atual, que
-
-honra de representar.
-
-mais simples. A UMinho, por tudo o que tem no
-
 balanço fazes até ao momento?
 O balanço só poderá ser feito depois dos Jogos
 Olímpicos. Tem sido muito exigente e interessante
 tentar adaptar a realidade de uma Federação que
-tem os hábitos muito enraizados. A imagem da Federação e dos eventos tinha de ser uniformizada e
-
-seu quotidiano permite isso. Seja através do tipo
-Sempre ambicionaste ter este tipo de ex-
-
-de formação, seja através de atividades extracur-
-
-periência no estrangeiro? O que mais te fas-
-
-riculares como o desporto ou através das atividades
-
-cina?
-
-da Associação Académica. Aproveitem os anos na
-
+tem os hábitos muito enraizados. A imagem da Federação
+e dos eventos tinha de ser uniformizada e
+esse tem sido a base do trabalho que tem sido feito.
+Em conjugação com isso toda a apresentação do
+evento desde a entrada dos atletas, passando pelas
+câmaras de televisão e fotógrafos até às músicas
+tocadas foi revisto e está a começar a ter um feedback
+bastante positivo. No entanto trabalhar com
+diferentes organizadores, diferentes países e diferentes
+culturas torna tudo mais difícil mas também
+mais desafiante.
+Estudaste e trabalhaste na UMinho. Manténs
+alguma ligação à Universidade?
+A UMinho continua ligada ao meu dia-a-dia como
+continuará sempre. Foi onde tive a minha formação,
+é a Universidade da cidade onde tenho a
+minha casa e onde tenho a maior parte dos meus
+amigos. Embora à distância, tento sempre estar a
+par do que se vai passando e continuo a sofrer com
+os resultados das equipas da UMinho e com a equipa
+de Futsal do SCBraga/AAUM.
+Que memórias guardas da tua passagem por
+esta academia?
+Diz-se que a melhor fase da vida de qualquer pessoa
+é a vida Universitária. Eu afirmo, sublinho e
+ponho a bold essa afirmação. Tive a oportunidade
+de estar numa Universidade jovem, dinâmica e
+acima de tudo uma Universidade de Futuro. Poderia
+enumerar imensas memórias boas que partilho
+com tantas pessoas quando estamos juntos mas
+escolhendo um momento terá de ser obrigatoriamente
+o discurso de fim do meu segundo mandato
+como Presidente da AAUM. Por tudo... pelo fim de
+um ciclo na minha vida, pela emoção, pelo sentido
+de dever cumprido, por todos os que me acompanharam
+naquele percurso, pelo grupo fantástico de
+pessoas que fez parte das direções das quais fiz
+parte e acima de tudo pelos estudantes que tive a
+honra de representar.
+Sempre ambicionaste ter este tipo de experiência
+no estrangeiro? O que mais te fascina?
 Com a oportunidade que tive de fazer parte da
-
-Universidade. São sem dúvida os melhores anos da
-
 organização de vários eventos internacionais,
-
+começas obrigatoriamente a imaginar que poderias
+e gostarias de ter uma experiência no estrangeiro.
+Se estava à espera que acontecesse como aconteceu,
+não estava! Mas sair da zona de conforto, para
+um País e cultura diferentes e acima de tudo para
+um desporto que me poderia dar uma abrangência
+enorme era um desafio que não poderia recusar.
+Quais as principais exigências deste tipo trabalho?
+Acima de tudo é muito exigente a nível pessoal. Estar
+longe da família, da namorada, dos amigos é
+algo muito difícil. Tudo o resto é uma questão de
+hábito que nos fortalece.
+A nível profissional uma das maiores exigências é o
+facto de contactar com diferentes formas de trabalhar
+e diferentes culturas. É necessária muita adaptação
+na forma de apresentar os desafios dependendo
+de quem está à nossa frente. Tudo o resto,
+com dedicação e empenho é conseguido.
+Gostarias de voltar a Portugal?
+Sem dúvida que é o meu objetivo. Nunca deixou
+de o ser desde o dia em que saí do País. É o meu
+País e por mais dificuldades que Portugal tenha é a
+minha casa e o que quero levar desta experiência é
+a possibilidade de voltar e trazer algo de bom para
+o que seja o meu futuro.
+Queres transmitir alguma mensagem aos
+alunos e futuros graduados da UMinho?
+Gostaria de lhes garantir que estão na realidade
+numa fantástica Universidade de onde sairão com
+valências que lhes serão essenciais para o futuro.
+Nos dias de hoje, o quadro da formação de base
+não é tão essencial como no passado mas a adaptabilidade
+da formação ajuda a que os desafios do
+mercado de trabalho sejam abraçados de forma
+mais simples. A UMinho, por tudo o que tem no
+seu quotidiano permite isso. Seja através do tipo
+de formação, seja através de atividades extracurriculares
+como o desporto ou através das atividades
+da Associação Académica. Aproveitem os anos na
+Universidade. São sem dúvida os melhores anos da
 nossa vida!
+
 
 Entrevista ao diretor da Licenciatura em Física
 
@@ -477,7 +334,7 @@ Para o diretor, uma das grandes prioridades do
 curso, no muito curto prazo, será a divulgação do
 novo percurso em Física Médica, um “produto novo”
 que será lançado para o mercado.
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
 
 universitário deve concorrer à Licenciatura

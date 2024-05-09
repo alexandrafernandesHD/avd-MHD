@@ -1,14 +1,15 @@
 ---
-jornal:UMdicas
-issue:150	
-interviewee:Gueorgui Nikolov
-topis:Desporto
-role:
-date:AGOSTO 2017
-num_pages:
-title:“Ter uma universidade de topo na mesma cidade onde cresci era um bónus que decidi aproveitar”
-interviewer:Ana Marques
+jornal: UMdicas
+issue: 150
+university: Universidade do Minho
+date: 01 Ago 2017
+file_name: UMdicas-150.txt
+interviewee: Gueorgui Nikolov
+interviewer: Nuno Gonçalves
+title: “Ter uma universidade de topo na mesma cidade onde cresci era um bónus que decidi aproveitar”
+interviewer: Ana Marques
 ---
+
 Gueorgui Nikolov, também conhecido entre os seus pares como “O Bonitão”, é mais um excelente exemplo da
 carreira dual, sucesso nos estudos e no desporto.
 O que te levou à UMinho e ao

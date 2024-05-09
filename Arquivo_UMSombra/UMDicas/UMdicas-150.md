@@ -2,18 +2,16 @@
 title: UMDicas
 issue: 2018
 university: Universidade do Minho
-date: None
-num_pages: None
+date: AGOSTO 2017
 file_name: UMdicas-150.txt
-interviewee_1: Gueorgui Nikolov
-interviewer_1: NUNO GONÇALVES
-interviewee_2: Tun’Obebes, a primeira tuna feminina da UMinho!
-interviewer_2: NUNO GONÇALVES
+interviewee: Gueorgui Nikolov
+interviewer: Nuno Gonçalves
+interviewee: Tun’Obebes, a primeira tuna feminina da UMinho!
+interviewer: Nuno Gonçalves
 ---
 
 “Ter uma universidade de topo na mesma cidade
 onde cresci era um bónus que decidi aproveitar”
-
 Gueorgui Nikolov
 , também conhecido entre os seus pares como “O Bonitão”, é mais um excelente exemplo da
 carreira dual, sucesso nos estudos e no desporto.
@@ -28,12 +26,8 @@ para me adaptar à cultura, aos
 valores e à maneira de trabalhar
 da empresa. Aliando isso ao conhecimento que adquiri na Universidade, as coisas aconteceram
 naturalmente.
-
-
-NUNO GONÇALVES
-
+Nuno Gonçalves
 nunog@sas.uminho.pt
-
 O que te levou à UMinho e ao
 curso de Tecnologias e Sistemas de Informação?
 Em primeiro lugar, o prestígio,
@@ -81,7 +75,6 @@ desportivo, investe bastante em
 atividades desportivas e, durante
 o período que estudei lá foram
 imensas - campeonatos nacionais, torneios, jogos, inúmeros
-
 eventos e outras atividades sociais – isso tudo proporciona momentos para mais tarde recordar.
 Qual foi o momento mais
 marcante que tiveste enquanto atleta da UMinho?
@@ -114,7 +107,6 @@ a saber trabalhar em equipa que,
 hoje em dia, é algo essencial no
 mundo do trabalho.
 Numa altura em que cada
-
 vez mais se fala de mobilidade e o mercado de trabalho exige que hoje estamos
 aqui e amanhã do outro lado
 do oceano, como avalias a
@@ -151,14 +143,12 @@ Quando acabei a licenciatura na
 UM fui passar umas férias a minha terra natal (Bulgária) e gostei
 bastante, então decidi que fazer
 mestrado lá. No entanto nesse
-
 ano não consegui inscrever-me
 devido atrasos burocráticos e
 comecei a minha carreira profissional numa empresa local em
 webdesign...
 Foi difícil essa passagem do
 mundo académico para a
-
 O salto para a IBM, como
 se deu? Como foi essa experiência numa das maiores
 empresas do mundo na sua
@@ -170,16 +160,11 @@ oportunidade de trabalhar na
 IBM. Candidatei-me para ver o
 que acontecia e, passados dois
 meses já estava a trabalhar num
-
 UMdic
 as
-
 d
-
 www.dicas.sas.uminho.pt | desporto 01 de agosto 2017
-
 7
-
 edifício com mais de 400 pessoas
 de 15 diferentes nacionalidades.
 Foi uma experiência incrível e
@@ -207,7 +192,6 @@ desde Maio deste ano, sou Global
 Financial Controller e como principal função tenho que verificar
 que os nossos gastos de Operação
 estão dentro daquilo que foi pla-
-
 neado.
 Na tua área de conhecimento, como é que está o mercado de trabalho?
 Neste momento aqui na Bulgária
@@ -220,7 +204,6 @@ Durante os últimos 10 anos
 aprendi que o mundo é muito
 pequeno e dá muitas voltas… por
 isso não sei. Quem sabe de volta a
-
 Portugal e a trabalhar para a UM
 (sorrisos)?
 Achas que Portugal está a
@@ -234,7 +217,6 @@ imensos jovens com talento incrível, infelizmente nem sempre
 as empresas conseguem explorar
 o potencial todo dessas pessoas,
 especialmente nesta geração “Y”!
-
 Uma geração especial com uma
 mentalidade muito mais aberta,
 sem medo de arriscar e de questionar, o que nem sempre cai bem
@@ -261,7 +243,6 @@ faço desporto, vou ao cinema,
 teatro e também gosto de cozinhar. Tento passar o mais tempo
 possível com a minha mulher e
 os meus amigos. Durante o fimde-semana procuro dar sempre
-
 umas escapadelas para a montanha ou praia.
 Sentes saudades de Portugal?
 Sim, muitas - Adoro Portugal!
@@ -287,16 +268,9 @@ máximo a vida universitária, viajem, vejam que existe um outro
 mundo por aí fora e concentrem
 as vossas energias naquilo que
 realmente é importante!
-
 Tun’Obebes, a primeira tuna feminina da UMinho!
-
 Numa altura em que as engenharias eram completamente “dominadas” pelos homens, um grupo de futuras
 engenheiras decidiu ousar, inovar, e passados 25 anos aí estão elas mais fortes do que nunca!
-
-NUNO GONÇALVES
-
-nunog@sas.uminho.pt
-
 Foi a 11 de dezembro de 1992, no
 “Berço da Nação”, que nasceu um
 dos mais antigos projetos culturais da UMinho, a Tun’Obebes,
@@ -320,7 +294,6 @@ Vocês são a Tuna Feminina de Engenharia da Universidade do Minho, mas
 toda a gente vos conhece
 por Tun’Obebes. Porquê e
 como surgiu a designação
-Tun’Obebes?
 A origem do nome Tun’Obebes
 sempre foi bastante questionada
 por ser um nome peculiar a quem
@@ -342,7 +315,6 @@ feminina da UMinho, sobretudo no Pólo de Azurém,
 numa altura em que não
 haviam tantas mulheres
 como há hoje nas engenha-
-
 rias?
 Não foi, nem continua a ser.
 Estamos convictas que apenas
@@ -396,7 +368,6 @@ os membros que constituem o
 grupo cultural e a vontade de
 querer ser sempre mais para chegarmos mais longe. É um orgulho
 enorme sabermos que estamos a
-
 dar continuidade a um projeto de
 um quarto de século. Pertencer
 a esta família criada há mais de
@@ -430,7 +401,6 @@ Ao longo destes últimos 3 anos
 tem havido um grande investimento em termos musicais,
 desde a readaptação de algumas
 músicas que já integravam o
-
 nosso repertório, à introdução de
 outras tantas. Por isso, gostaríamos de ver este esforço culminar
 na gravação de um CD.
@@ -471,7 +441,6 @@ de querermos ser o melhor que
 podemos, de modo a representarmos aquilo que o Minho tem
 de melhor, foi a chave para o
 trabalho árduo que resultou em
-
 várias conquistas pelo território
 nacional.
 O vosso festival ao longo dos
@@ -506,4 +475,3 @@ só cantar e tocar instrumentos,
 conhecer novos locais, adquirir
 competências e acima de tudo,
 ganhar uma nova família.
-

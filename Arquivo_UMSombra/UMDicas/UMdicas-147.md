@@ -2,14 +2,13 @@
 title: UMDicas
 issue: None
 university: Universidade do Minho
-date: None
-num_pages: None
 file_name: UMdicas-147.txt
-interviewee_1: Sameiro Araújo
-interviewer_1: ANA MARQUES
-interviewee_2: Paulo Flores, Presidente da Sociedade Portuguesa de Biomecânica
-interviewer_2: ANA MARQUES E CATARINA SIMÕES
+interviewee: Sameiro Araújo
+interviewee: Paulo Flores, Presidente da Sociedade Portuguesa de Biomecânica
+interviewer: Ana Marques
 ---
+
+ E CATARINA SIMÕES
 
 A poucos meses do final do primeiro mandato como Vereadora do Desporto, Juventude, Associativismo, Saúde e
 Bem-estar, o UMdicas esteve à conversa com Sameiro Araújo que nos falou de si, desta sua primeira experiência
@@ -23,9 +22,8 @@ sempre com “intensidade e rigor para as alcançar”,
 valores que foi cultivando ao longo da vida e que
 continuam a orientar a sua forma de existir e
 trabalhar.
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
-
 O que a levou ao cargo de Vereadora da
 Câmara? Quais as razões e objetivos?
 Aceitei o repto do Dr. Ricardo Rio porque acreditei
@@ -41,7 +39,6 @@ Tive como objetivo criar uma dinâmica, uma nova
 orientação e qualidade de vida, proporcionar a toda
 a população uma prática desportiva salutar, uma
 visão que se pretendia de mudança e de sucesso
-
 para a Juventude, para o Desporto e para a Saúde,
 com esperança de um futuro melhor!
 Há quase 4 anos no executivo da Câmara
@@ -67,7 +64,6 @@ Desporto do Município de Braga, as previsões que
 possuía sobre o estado do desporto no Município
 confirmaram-se, ou seja, muito trabalho de base a
 efetuar.
-
 Constatou-se a ausência de uma Carta Desportiva,
 a inexistência de regulamentos de utilização das
 instalações desportivas e programas desportivos
@@ -95,17 +91,14 @@ regulamento geral das instalações desportivas e dos
 programas desportivos municipais, estabelecemos
 contratos-programa com a generalidade das
 modalidades desportivas e desporto adaptado,
-
 estamos prestes a lançar o 13º programa desportivo
 municipal (triplicamos os programas desportivos
 municipais) e ultrapassamos os 3.000 utentes
 (mais do dobro dos existentes).
 Durante este período, fomos também reforçando
 os quadros técnicos e promovendo a qualificação
-
 “
 Acreditei na abertura de novos horizontes,
-
 partindo em busca de
 novas conquistas que pudessem balizar todo o
 trabalho a desenvolver
@@ -114,16 +107,11 @@ da Saúde e Bem-estar, do
 Desporto e da Atividade
 Física para bem de toda a
 população.
-
 UMdic
 as
-
 d
-
 www.dicas.sas.uminho.pt | academia 29 de abril 2017
-
 8
-
 dos já existentes, promovendo desta forma a
 qualidade da intervenção junto dos utentes, não
 esquecendo o contínuo apelo aos bracarenses para
@@ -200,16 +188,12 @@ CMJ temos promovido iniciativas como o orçamento
 de Braga tinha uma intervenção muito diminuta,
 pelo que procuramos criar uma rede de sinergias
 entre os diversos atores da sociedade nesta área,
-
-“
 Em Braga, facilmente podemos constatar
-
 o número crescente de
 bracarenses que procura
 incorporar na sua rotina
 diária a realização de
 atividade física.
-
 como por exemplo o hospital, o ACES Braga e as
 associações de promoção da saúde. Realizamos e
 promovemos diversas iniciativas de promoção da
@@ -224,7 +208,6 @@ oral aos mais desfavorecidos. Juntamente com o
 Hospital de Braga iniciamos o “Pimpolho – Projeto
 de Prevenção da Ambliopia do Concelho de Braga”,
 que permite realizar todos os anos um despiste
-
 universal desta patologia às crianças bracarenses
 com 4 anos de idade ou o “PULSAR – Programa de
 Atividade Física para Doentes Oncológicos”. Mais
@@ -250,7 +233,6 @@ que me propus.
 Sobretudo deu-me a competência para provocar o
 despertar para uma responsabilização consciente
 do concelho na construção de um processo de
-
 desenvolvimento que pretendemos incutir nas
 diversas áreas.
 Muitos têm sido os acontecimentos
@@ -276,27 +258,21 @@ desportivos integram assim a política desportiva
 municipal, nomeadamente como forma por
 excelência para a promoção da atividade física, mas
 também, na estimulação do turismo desportivo,
-
 uma das formas de turismo que mais tem crescido
 nas últimas décadas.
-
-“
 O facto de Braga
 ser Cidade Europeia do
-
 Desporto em 2018, vem
 por um lado premiar todo
 o trabalho efetuado por
 este executivo municipal
 em prol do desporto.
-
 Braga foi eleita recentemente “Cidade
 Europeia do Desporto em 2018”. Como viu
 esta atribuição e que benefícios vai trazer
 este título à cidade?
 O processo de candidatura de Braga a Cidade
 Europeia do Desporto 2018 foi extremamente
-
 moroso, trabalhoso e burocrático, pelo que a
 atribuição deste título a Braga foi um momento de
 extrema felicidade. A qualidade da cidade adversária
@@ -308,19 +284,14 @@ do desporto. Ainda muita coisa há a fazer, no
 entanto, muita coisa foi já feita, e a sua visibilidade
 encontra-se bem demonstrada e comprovada com
 a atribuição deste título.
-
-“
 A construção do pavilhão multiusos continua
-
 também a ser um sonho a
 perseguir.
-
 Por outro lado, Braga ser Cidade Europeia do
 Desporto vai fazer com que Braga respire desporto
 todos os dias, sendo nosso objetivo possuir
 uma calendarização extremamente densa e
 multifacetada e multidimensional. Será o momento
-
 ideal para impulsionar ainda mais o fenómeno
 desportivo em Braga, surgindo como um dos
 principais objetivos, o aumento da percentagem de
@@ -341,14 +312,6 @@ conhecer a nossa cidade, na sua importância para
 as questões relacionadas com a saúde e qualidade
 de vida de uma população, mas, sobretudo, porque
 gostamos de desafios.
-
-UMdic
-as
-
-d
-
-www.dicas.sas.uminho.pt | academia 29 de abril 2017
-
 Braga sempre foi reconhecida pela sua qualidade
 em políticas de juventude. Queremos agora atingir
 o mesmo patamar nas políticas desportivas e fazer
@@ -392,7 +355,6 @@ Os próximos tempos serão, sobretudo, uma
 tentativa de corrigir as situações enunciadas,
 começando desde já com o novo Eixo Desportivo
 da Rodovia.
-A construção do pavilhão multiusos continua
 também a ser um sonho a perseguir.
 Braga é conhecida como capital da
 juventude, muito contribuindo para isso os
@@ -425,9 +387,7 @@ as condições que influenciam a sua qualidade de
 vida. Nestes aspectos, o município tem procurado
 criar condições, quer através da InvestBraga ou da
 própria StartUp Braga, através dos mais diversos
-
 9
-
 programas que implementam, para que os jovens
 tenham acesso a um emprego, uma função,
 que lhes permita criar a sua independência e
@@ -458,7 +418,7 @@ eventos que podem potenciar.
 Como podemos caracterizar a estratégia e
 política de desporto da Autarquia?
 A estratégia e política desportiva da autarquia
-pretende dar resposta ao seguinte:
+pretende dar resposta ao seguinte: 
 •
 Continuar a apoiar o trabalho efetuado
 pelas várias coletividades desportivas em prol
@@ -484,11 +444,8 @@ praticantes informais;
 • Continuar a promoção de Braga ao nível
 do turismo desportivo, relacionado diretamente
 com a receção de grandes eventos desportivos.
-
-“
 A Universidade do
 Minho tem sido um parceiro fundamental do Município.
-
 Quais são as áreas mais deficitárias em
 termos desportivos, no concelho?
 Apesar das conquistas que foram encetadas nos
@@ -499,7 +456,6 @@ instalações desportivas nas várias freguesias
 bracarenses, a requalificação das infraestruturas
 desportivas municipais, a falta de um “parque
 da cidade” e a falta de um pavilhão municipal
-
 multiusos se apresentam como as áreas mais
 deficitárias no concelho de Braga.
 Será em cada um destes pontos que tentaremos
@@ -533,7 +489,6 @@ mais destaca pela sua visibilidade e impacto
 na população?
 São de facto muitos os projetos que se vão
 articulando entre a Universidade e o Município.
-
 Na verdade, projetos que dizem respeito às mais
 diversas áreas de cooperação. Desde o desporto,
 passando pela área cultural, entre outras áreas
@@ -566,9 +521,7 @@ modo a poder contribuir para a melhoria de viva
 dos bracarenses que nos confiaram a gestão dos
 destinos municipais, não defraudando as suas
 expectativas.
-
 Paulo Flores, Presidente da Sociedade Portuguesa de Biomecânica
-
 “...vejo a Biomecânica como uma criança que está a entrar na adolescência e que tem
 ainda muito (tudo!) para aprender ...”
 O UMdicas esteve à conversa com Paulo Flores,
@@ -583,7 +536,6 @@ Sociedade Portuguesa de Biomecânica está ligado
 Biomecânica é uma das 10 profissões com maior
 crescimento e relevância económica para as
 próximas décadas”.
-
 num espaço privilegiado, universal e de referência
 no que respeita à intervenção e representação
 das comunidades científicas e académicas, bem
@@ -599,10 +551,8 @@ intercâmbio com comunidades relacionadas, em
 particular de áreas médicas, (iv) interação com
 o tecido empresarial e (v) consolidação do carácter internacional da Sociedade Portuguesa de
 Biomecânica.
-
-ANA MARQUES E CATARINA SIMÕES
+Ana Marques E CATARINA SIMÕES
 dicas@sas.uminho.pt
-
 Paulo Flores tem 44 anos, é natural de Rossas
 (Vieira do Minho) e é o quinto de seis filhos. Fez
 toda a formação académica na Universidade
@@ -647,7 +597,6 @@ auxiliares, etc. Um outro campo de atuação da
 Biomecânica prende-se com os estudos que têm em
 vista a melhoria do desempenho de atletas de alta
 competição. Um exemplo muito concreto da Bio-
-
 mecânica no Desporto pode ser aqui apresentado,
 nomeadamente o estudo do músculo-esquelético
 do Cristiano Ronaldo nos seus movimentos durante
@@ -656,7 +605,6 @@ disponíveis no youtube a este respeito.
 É atualmente Presidente da Sociedade
 Portuguesa
 de
-Biomecânica.
 Como
 caracteriza este novo papel e como o
 consegue conciliar com todos os outros
@@ -673,7 +621,6 @@ e as minhas responsabilidades com as agendas
 dos meus colegas. Contudo, tem corrido tudo bem
 e temos diversificado as nossas atividades, em
 locais diversos do país e, acima de tudo, é muito
-
 da qualidade da nossa investigação na área
 Biomecânica, e muito em particular do centro de investigação a que pertenço, o Centro de Investigação
 em Microssistemas Eletromecânicos (CMEMS).
@@ -695,24 +642,19 @@ germinou a primeira semente deste processo e
 que culminou numa candidatura à direção da
 sociedade. Acresce, ainda, o facto de que eu
 estar rodeado por colegas de todo o país que me
-
-“
 De uma maneira muito simples, podemos dizer
 que a Biomecânica é área científico-técnico em que se
 aplicam as leis da Mecânica aos seres vivos.
-
 importante fazer bem o trabalho de casa e preparar
 bem as reuniões de trabalho. Este é, sem dúvida,
 um aspeto fundamental para o sucesso de qualquer
 organização, não esque-cendo que é sempre
 preciso muito trabalho e muita dedicação à causa.
-
 acompanham e apoiam desde o primeiro instante.
 Quando assim é, não podemos deixar de assumir
 as nossas responsabilidades e de seguir as nossas
 convicções. Era, e é minha convicção de que
 podemos acrescentar algo à SPB.
-
 Como se sente por ser o primeiro professor
 da UMinho como Presidente da Sociedade
 Portuguesa de Biomecânica?
@@ -720,7 +662,6 @@ O facto de ser o primeiro Professor da nossa
 UMinho a assumir este cargo, em três décadas de
 Sociedade Portuguesa de Biomecânica, revestese também de especial relevância, pois podemos
 ver nesta feliz circunstância, o reconhecimento
-
 Quais são os seus objetivos como presidente
 da Sociedade Portuguesa de Biomecânica e
 quais são os objetivos desta?
@@ -729,7 +670,6 @@ consolidar os projetos e iniciativas anteriormente
 levadas a cabo e, por outro, promover ações e
 realizações em prol da comunidade da Biomecânica.
 Gostaria que a SPB se renovasse e transformasse
-
 Temos tido conhecimento de vários prémios
 que tem arrecadado na área da biomecânica.
 Quais foram para si os mais importantes e os
@@ -775,16 +715,7 @@ biológicas e químicas. A solução também passa
 por desenvolver estruturas metálicas e cerâmicas
 que fazem com que as propriedades mecânicas do
 implante e do osso se aproximem, o que faz diminuir problemas tais como perda óssea. O que se
-
-UMdic
-as
-
-d
-
-www.dicas.sas.uminho.pt | academia 29 de abril 2017
-
 14
-
 procura é desenvolver materiais que mimetizem o
 osso humano e que promovem a osteointegração
 e combatem a perda óssea. Além disso o grupo
@@ -815,7 +746,6 @@ e Portugal tem ainda um longo caminho a percorrer
 no sentido de gerar mais
 valor acrescentado e
 transacionável.
-
 indicam que a Biomecânica é uma das 10
 profissões com maior crescimento e relevância
 económica para as próximas décadas. Esta mesma
@@ -843,12 +773,8 @@ de novos materiais, com biofuncionalidade e
 biointegração. Não posso deixar de referir as
 excelentes condições laboratoriais e de recursos
 humanos que atualmente existem no domínio da
-Biomecânica.
-
-“
 ... o mercado de
 trabalho está em franco
-
 A biomecânica é uma
 área muito procurada
 a nível do ensino
@@ -859,15 +785,11 @@ privilegiadas no que diz
 respeito à atratividade dos estudantes do nosso
 país. Esta área tem crescido bastante e pode
 crescer ainda mais. Aliás, estudos internacionais
-
 Existem
 hoje
-em
 dia
 excesso
-de
 profissionais
-em
 determinadas áreas. O
 que pode esperar quem
 segue
@@ -880,19 +802,15 @@ referi acima, o mercado de trabalho está em
 franco crescimento, quer no espaço nacional,
 quer no espaço europeu. Devo, ainda, afirmar que
 procuramos que nos projetos de doutoramento haja
-
 crescimento, quer no espaço nacional, quer no espaço europeu.
-
 sempre um parceiro exterior à UMinho, refiro-me
 em particular a empresas da área médica, clinicas,
 etc. A este respeito temos tido excelentes resultados
 no que se refere à empregabilidade.
-
 de empresas e profissionais de saúde.
 Onde será o próximo?
 O 8º Congresso Nacional de Biomecânica realiza-se
 na Serra da Estrela em fevereiro de 2019.
-
 Realizou-se em fevereiro passado o 7º
 Congresso Nacional de Biomecânica em Guimarães. Como correu?
 A 7ª edição do congresso nacional de Biomecânica
@@ -902,7 +820,6 @@ e técnica da Biomecânica, de modo a potenciar
 o crescimento e a intervenção deste ramo do
 saber em território nacional. Este desiderato foi
 claramente alcançado.
-
 No futuro, quando olhar para trás, como
 espera ser recordado pelo trabalho desenvolvido?
 No final do mandato gostaria que a Biomecânica
@@ -911,18 +828,15 @@ na sua afirmação como charneira na área médica,
 quer em termos de investigação, quer em termos
 da ligação com outras sociedades congéneres, quer
 ainda com o tecido empresarial.
-
 Que balanço nos pode fazer do evento?
 Faço um balanço muito positivo do Congresso, que
 contou com mais de 150 participantes de mais de
 10 países. Estes números atestam bem a relevância
 e reconhecimento da Biomecânica Portuguesa.
 Nesta edição contamos ainda com a participação
-
 Como vê o futuro da Biomecânica em
 Portugal e no Mundo?
 Tendo eu o meu ADN na Mecânica, que é uma área
 clássica com vários séculos, vejo a Biomecânica
 como uma criança que está a entrar na adolescência
 e que tem ainda muito (tudo!) para aprender ...
-

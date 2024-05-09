@@ -3,38 +3,28 @@ title: UMDicas
 issue: 138
 university: Universidade do Minho
 date: março 2016
-num_pages: None
 file_name: UMdicas-138.txt
-interviewee_1: Rui Bragança, Bicampeão Europeu de Taekwondo
-interviewer_1: Nuno Gonçalves
-interviewee_2: Grupo de Poesia da Universidade do Minho
-interviewer_2: Nuno Gonçalves
+interviewee: Rui Bragança, Bicampeão Europeu de Taekwondo
+interviewer: Nuno Gonçalves
+interviewee: Grupo de Poesia da Universidade do Minho
+interviewer: Nuno Gonçalves
 ---
-
 Rui Bragança
 estará no Rio 2016
-
 Para esta celebração decorrida no passado dia 17
 de fevereiro, a temática escolhida foi a “Sustentabilidade”, reforçando o compromisso da Academia
 com os objetivos de desenvolvimento sustentável.
-
 Em entrevista, o estudante de Medicina e atleta de Alta
 Competição de Taekwondo fala dos seus sonhos e projetos,
 perspectiva os Jogos Olímpicos do Rio e fala-nos do que
 tem sido a dificuldade em conciliar o curso com o desporto.
-
 d
 UMdic
 as
-
 ação social
-
 2
-
 www.dicas.sas.uminho.pt 12 de março 2016
-
 Concurso de ideias SASUM 2016
-
 Ideias SASUM... Desafio à Comunidade Académica
 Os Serviços de Acção Social da Universidade do
 Minho, de forma a promover a participação e envolvimento dos trabalhadores no desenvolvimento
@@ -43,9 +33,7 @@ promoveu no final do ano de 2015, pela segunda
 vez, a iniciativa Concurso de “Ideias SASUM 2016 Inovar, Melhorar, Satisfazer”.
 sasum
 dicas@sas.uminho.pt
-
 Foram apresentadas 30 ideias pelos trabalhadores
-
 dos Serviços, que foram avaliadas de acordo com
 o definido no Regulamento do Concurso. Com o
 objetivo de avaliar a implementação destas ideias,
@@ -53,36 +41,30 @@ gostaríamos de partilhar algumas delas com os
 alunos, docentes e trabalhadores não docentes da
 Universidade do Minho.
 Desta forma, convidamos a Comunidade Académica a escolher uma das sugestões que considere
-mais útil e necessária, através do link:
-http://tinyurl.com/ideiasSASUM2016
-
+mais útil e necessária, através do link: 
+http: //tinyurl.com/ideiasSASUM2016
 Campanha de Recolha e Entrega de Roupa na UMinho
-
 Campanha de Solidariedade angariou 823
 peças
 A Campanha de Recolha e Entrega de Roupa na
 UMinho, a qual decorreu de 18 de janeiro a 19 de
 fevereiro, tendo como pontos de recolha os Complexos Desportivos Universitários de Gualtar e Azurém resultou num total de 823 peças de roupa,
 calçado e acessórios em bom estado.
-ana marques
+Ana Marques
 anac@sas.uminho.pt
-
 O Serviços de Acção Social da Universidade do
 Minho informam que, terminada a Campanha e o
 período em que todos os interessados em escolher/recolher as peças que se encontravam em exposição o poderiam fazer, a restante roupa vai agora
 ser entregue a Instituições de Solidariedade Social
 dos Concelhos de Braga e Guimarães.
 A campanha iniciada em 2008 tem procurado, não
-
 FICHA TÉCNICA
-
 só angariar roupas para os mais necessitados (alunos da UMinho e comunidade externa), mas também formar e garantir para o futuro uma atitude
 solidária junto dos estudante e restante comunidade académica.
 Desde 2008, a Campanha já recolheu cerca de
 16000 peças, funcionando como uma “feira” em
 que qualquer um pode entregar e levar as peças
 que quiser gratuitamente.
-
 Editorial
 Sendo esta uma edição especial do nosso jornal,
 que é distribuída, juntamente com o Diário do Minho por toda a região, preparamos também um conteúdo especial. Para esta temos uma grande entrevista com o Reitor da UMinho e na qual damos um
@@ -93,7 +75,6 @@ de Sangue, bem como a vertente desportiva, onde
 o destaque vai para a grande entrevista com o estudante de Medicina e atleta de Alta Competição
 de Taekwondo, Rui Bragança que já garantiu presença nos Jogos Olímpicos do Rio 2016, e onde
 fazemos também a apresentação do Campeonato
-
 Mundial Universitário de Karaté 2016, que decorrerá de 10 a 13 de agosto.
 Lançamos ainda nesta edição, o cartaz dos 40
 anos dos Serviços de Acção Social da Universidade
@@ -103,25 +84,14 @@ Serviço que tem marcado pela
 Excelência, Rigor, Competência, Responsabilidade, Qualidade, Perseverança, Evolução,
 Inovação…entre muitas outras
 características que fazem o Sucesso destes 40 anos.
-ana marques
 Parabéns SASUM!
-anac@sas.uminho.pt
-
 Propriedade: Serviços de Acção Social da Universidade do Minho Morada: Universidade do Minho, Campus de Gualtar, 4710-057 Braga Site: www.dicas.sas.uminho.pt Facebook: www.facebook.com/UMDicas
 Email: dicas@sas.uminho.pt Diretora: Ana Marques Subdiretores: Nuno Gonçalves Redação: Ana Marques, Nuno Gonçalves, Marta Borges, Andreia Cunha, Roberto Correia, Marta Alves Paginação: Ana Marques Fotografia e edição de imagem: Nuno Gonçalves Colaboração: Susana Botelho Impressão: Diário do Minho Tiragem: 2000 exemplares Publicação anotada na ERC: Depósito legal nº201354/03
-
 www.dicas.sas.uminho.pt 12 de março 2016
-
 d
-UMdic
-as
-
 desporto
-
 3
-
 Campeonato Mundial Universitário de Karaté 2016
-
 Braga e a UMinho serão palco para os melhores universitários do mundo de Karaté
 O Campeonato Mundial Universitário de Karaté
 2016, que decorrerá de 10 a 13 de agosto terá a
@@ -129,9 +99,6 @@ cidade de Braga e a UMinho como anfitriãs. A cidade que quer ser a capital euro
 2018 vê mais uma vez o seu nome ligado a um
 grande evento desportivo internacional que terá os
 melhores universitários do mundo da modalidade.
-ana marques
-anac@sas.uminho.pt
-
 A cerimónia de apresentação oficial do evento decorrida no passado dia 19 de fevereiro, pelas 10h00, no
 Salão Nobre dos Paços do Concelho em Braga, deu
 a conhecer alguns pormenores deste, como os seus
@@ -176,7 +143,6 @@ caso, a cidade Braga, o que é excelente na ótica do
 turismo” disse. Daniel Monteiro sublinhou ainda que
 esta competição internacional no nosso país “faz
 com que mais jovens tenham contacto com a modalidade e com desportistas de topo internacionais,
-
 o que é muito bom”. Para o responsável da FADU,
 os atletas participantes nestas competições “são
 atletas de exceção, pois conseguem conciliar uma
@@ -216,7 +182,6 @@ organizadoras e para a própria cidade que o acolhe.
 O evento ficará marcado, como referiu o Administrador dos SASUM “pela diferença”. Será um dos
 maiores em termos de participantes, dimensão
 que não assusta os organizadores, pois a exce-
-
 lente relação criada ao longo dos anos entre AAUM,
 UMinho e SASUM é “um casamento de sucesso”
 afirmou. Carlos Silva destacou ainda a estratégia de
@@ -256,7 +221,6 @@ vertente desportiva, é por
 isso um caminho que faz
 sentido continuar a ser
 seguido” disse. Segundo
-
 este, a prática desportiva é um elemento essencial
 da formação das pessoas e por isso não se pode
 só afirmar essa intenção, mas tem de se criar as
@@ -270,18 +234,10 @@ por isso, com a continuidade das parcerias e apoios
 que têm sido feitos com as federações e com as
 cidades “estão preenchidas as condições para que
 este evento seja mais um sucesso” afirmou.
-
 UMdic
-as
-
-d
-
 www.dicas.sas.uminho.pt | desporto 12 de março 2016
-
 4
-
 Comemorações do 42º Aniversário da UMinho
-
 Convidados vencem Academia nos “Jogo das Estrelas”
 Realizou-se no passado dia 20 de Fevereiro, no
 complexo Desportivo do Campus de Azurém, em
@@ -289,11 +245,9 @@ Guimarães, o tradicional “Jogo das Estrelas da Universidade do Minho”, send
 de Convidados, composta tradicionalmente por personalidades do meio político e desportivo regional
 e nacional.
 Redação
-dicas@sas.uminho.pt
-
 Pela Academia alinharam: Luis Rodrigues, Fernando Alexandre, Carlos Videira (3 golos), Filipe Vaz,
 Carlos Silva, Pedro Dias, Bruno Alcaide (1), Gabriel Oliveira, Fernando Parente e António Cunha.
-Na equipa dos convidados os selecionados foram:
+Na equipa dos convidados os selecionados foram: 
 Miguel Bandeira, Ricardo Rio (3 golos), Manuel Barros, Martim Rosendo (1), Bruno Salgado, Paulo Resende (2), Bruno Almeida (1) e Pedro Sousa.
 Após 15 minutos iniciais de estudo mútuo do adversário e alguma contenção no ataque onde não
 abundaram as oportunidades de golo, a equipa dos
@@ -301,7 +255,6 @@ Convidados, sentido que estaria em melhor forma
 física e não optando por fazer muitas substituições
 acabou por chegar ao primeiro golo, de autoria de
 Martin Rosendo, após uma brilhante iniciativa de
-
 sentido tático do Delegado regional do IPJD, Manuel
 Barros. Durante a primeira parte o jogo manteve-se
 equilibrado, com muitas oportunidades perdidas de
@@ -325,9 +278,7 @@ Francisco Carvalho e António Silva, coordenados
 por Paulo Paraty que tiveram uma excelente atuação e sem erros, os destaques individuais vão
 para o Guarda-Redes Miguel Bandeira (vereador
 da CMBraga), o MVP do Jogo, Carlos Videira (Ex-
-
 Comemorações do 42º aniversário da UMinho
-
 Comemorações terminam com Torneios de
 Desporto Escolar
 As comemorações do 42º aniversário da Universidade do Minho terminaram esta semana, com a
@@ -336,8 +287,6 @@ incluíram competições de Voleibol feminino, Basquetebol 3*3, Badminton misto 
 a festa com desporto e trouxeram muita alegria à
 Academia.
 Ana Marques
-anac@sas.uminho.pt
-
 Os torneios do desporto escolar fazem parte das
 comemorações do aniversário da UMinho há já
 muitos anos, uma oportunidade para a UMinho se
@@ -354,20 +303,19 @@ de si para arrecadar o “cepto” de campeão de
 2016. Competição à parte, o ambiente foi de festa,
 diversão, e em que o importante foi participar, conhecer novos colegas e as instalações da UMinho,
 tendo os participantes contacto, para além do Complexo Desportivo, com a cantina universitária e todos os espaços envolventes do Campus.
-
 Para além do momento que se saldou sobretudo
 pelo convívio saudável, a classificação final acaba
 por ser uns dos aspetos a reter, até por todos gostam de ganhar. Assim fica aqui a classificação nas
-várias modalidades:
-Andebol:
+várias modalidades: 
+Andebol: 
 1º lugar Escola Sec. de Maximinos
 2º lugar Sec. Alberto Sampaio
-Badminton:
+Badminton: 
 1º lugar Ana Gomes - Escola Sec. de Paços de Ferreira
 2º lugar Bárbara Sousa - Escola Sec. D. Maria II
 3º lugar Ana Sofia Andrade - Escola Sec. Alberto
 Sampaio
-Voleibol:
+Voleibol: 
 1º lugar Escola Sec. Alberto Sampaio
 2º lugar Escola Sec D. Maria II
 3º lugar Escola Sec. De Maximinos
@@ -377,21 +325,17 @@ no Pavilhão Desportivo da UMinho 318 atletas.
 Nesta prova não houve classificação final uma vez
 que vai contar para o apuramento (juntamente com
 outras provas) para o campeonato regional.
-
 Presidente da AAUM) e Ricardo Rio (Presidente da
 CMBraga), ambos marcadores de um hat-trick.
 Foi a sexta vez que estes conjuntos se encontraram,
 estando neste momento a contenda a favor dos
 Convidados por 3 jogos a 2 e com um empate pelo
 meio. Em termos individuais destacam-se como
-
 totalistas em presenças neste jogo, o Reitor da Universidade do Minho António M. Cunha, o Administrados dos Serviços de Acção Social Carlos Silva e o
 Presidente da Câmara Municipal de Braga Ricardo
 Rio, que é também o melhor marcador da prova
 com 12 golos nas 6 edições.
-
 CNU’s de Snowboard e Esqui Alpino
-
 AAUMinho é a nova Campeã Nacional
 Universitária de Desportos de Inverno!
 Na Serra da Estrela, bem perto das nuvens, a
@@ -403,12 +347,10 @@ nestas variantes deram o ouro coletivo à academia
 minhota.
 Nuno Gonçalves
 nunog@sas.uminho.pt
-
 O Minho, região verde e de grande beleza natural,
 não é conhecida pela neve e pela prática dos desportos de inverno, mas isso, no entanto não foi
 impedimento para que mais uma vez os atletas da
 AAUMinho lutassem com sucesso pelo lugar mais
-
 alto de um pódio.
 Nas Penhas da Saúde e, num dia com muito sol e
 frio, a comitiva minhota revelou-se muito rápida e
@@ -421,28 +363,16 @@ de prata.
 O somatório dos respetivos pontos destas três
 medalhas deu a vitória final à AAUMinho no coletivo
 dos Desportos de Inverno, tendo desta forma relegado para segundo e terceiro lugar o IPP e a AAUBI.
-
-UMdic
-as
-
-d
-
-www.dicas.sas.uminho.pt | desporto 12 de março 2016
-
 5
-
 CNU ‘s de Corta-mato e Pista Coberta
-
 AAUMinho em grande nas provas de atletismo!
 O atletismo da AAUMinho esteve em grande ao arrecadar um 2º lugar no CNU Corta-mato e duas
 medalhas de ouro nas provas de atletismo, uma
 bronze e um recorde nacional universitário no CNU
 Pista Coberta. Este novo recorde, nos 3000m, foi
 estabelecido pela aluna de Doutoramento, Ercília
-Machado, com um tempo de 9:41.99.
-nuno gonçalves
-nunog@sas.uminho.pt
-
+Machado, com um tempo de 9: 41.99.
+Nuno Gonçalves
 O fim-de-semana de 27 e 28 de fevereiro trouxe ao
 norte os melhores atletas universitários para dois
 dias de atletismo ao mais alto nível com direito
@@ -453,19 +383,18 @@ a participação de cerca de 70 atletas oriundos de
 oito academias.
 Com um terreno algo acidentado e um estado climatérico não muito favorável, os atletas da AAUMinho, alguns deles a fazerem a sua estreia nesta especialidade, sentiram algumas dificuldades durante
 o decorrer da prova.
-
 Ercília Machado, aluna do Doutoramento em Engenharia Química e Biológica, e uma “habitué” nestas
 andanças é que mostrou estar num bom momento
 de forma e já a pensar numa possível qualificação
 para os Jogos Olímpicos.
-Com um tempo de 14:56s, a atleta minhota assegurou a sua primeira medalha (prata) do fim-de-semana, deixando antever uma prestação de excelência no dia seguinte, no CNU de Pista Coberta.
+Com um tempo de 14: 56s, a atleta minhota assegurou a sua primeira medalha (prata) do fim-de-semana, deixando antever uma prestação de excelência no dia seguinte, no CNU de Pista Coberta.
 No coletivo, a AAUMinho classificou-se em 5º lugar.
 Já a 28 de fevereiro, e com cerca de 200 atletas
 inscritos, coube à cidade dos arcebispos, Braga, a
 organização da prova de Pista Coberta.
 Ana Monjane (Educação) e Ercília Machado surgiam
 como as grandes favoritas, da parte da AAUMinho
-à luta pelo ouro nas suas respetivas especialidades:
+à luta pelo ouro nas suas respetivas especialidades: 
 salto em altura e 3000m.
 Não defraudando as expectativas, Monjane “voou”
 bem alto e assegurou pela terceira vez consecutiva – 2014, 2015 e 2016 – a medalha de ouro
@@ -474,40 +403,30 @@ ainda assim “roubar” o protagonismo ao feito da
 sua colega. Nos 3000m, a futura Doutora teve uma
 performance “do outro mundo” e juntou à medalha
 de ouro um novo recorde nacional universitário com
-o tempo de 9:41.99 (menos sete segundos que o
-
+o tempo de 9: 41.99 (menos sete segundos que o
 CNU de Badminton
-
 anterior máximo).
 A outra medalha conquistada pela AAUMinho foi
 nos 5000m marcha, por Hugo Guedes (Engenharia
 Mecânica). Esta medalha de bronze marca a sua
 estreia em provas universitárias!
-
 e demonstrativa do espirito de equipa e de sacrifício que se vive no atletismo da AAUMinho”. Pereira
 quis ainda deixar um agradecimento particular para
 a Ercília “por ter feito o esforço de participar em
 duas provas exigentes em dois dias seguidos”.
-
 Para Francisco Pereira, técnico responsável pela
 modalidade, esta prestação dos seus atletas ao longo de dois dias de provas “é extremamente positiva
-
 As próximas duas provas que se seguem para ao
 atletismo são os CNU’s de Estrada e Pista Ar Livre
 a realizar respetivamente em abril e maio na cidade
 de Leiria.
-
 2ª Jornada Concentrada
-
 Badminton da AAUMinho de ouro e bronze!
 O Campeonato Nacional Universitário (CNU) de
 Badminton, na variante de pares, que decorreu na
 cidade de Aveiro, nos passados dias 15 e 16 de
 fevereiro mostrou uma boa performance dos atletas
 da AAUMinho que trouxeram para casa uma medalha de ouro e outra de bronze.
-nuno gonçalves
-nunog@sas.uminho.pt
-
 Com o término da época de exames recomeçou a
 competição desportiva universitária, e um pouco
 por todo o país, durante este mês de fevereiro os
@@ -525,7 +444,6 @@ nível competitivo das provas, bem como o nível exibicional das mesmas”.
 Joana, conjuntamente com a sua irmã, Rita Amaral
 (Biologia/Geologia), sagraram-se campeãs nacionais universitárias de Badmínton, pares femininos.
 As minhotas derrotaram na final as suas adversári-
-
 as da UPorto, Rita Santos e Diana Figueiredo.
 Já no masculino, as coisas não correram tão bem
 à dupla Ruben Vieira (Arquitetura) / Hugo Martins
@@ -543,7 +461,6 @@ no Pavilhão da UMinho no Campus de Gualtar. Esta
 competição promete muito espetáculo, visto estarem garantidas as presenças de “diversos atletas
 que já foram, ou estão presentes, nas convocatórias
 da Seleção Nacional”, concluiu Joana.
-
 Futebol 11 da AAUMinho pronto para
 revalidar o título de campeão
 A equipa de Futebol 11 da Associação Académica
@@ -553,7 +470,6 @@ após ter vencido dois dos três jogos disputados. Os
 atuais campeões em título estão agora prontos para
 a “luta” pela revalidação do título de campeão nacional universitário que acontecerá de 17 a 24 de
 abril, em Lisboa.
-
 por duas vezes, por intermédio de Ricardo Silva.
 Na segunda partida, a equipa do Minho defrontou a
 equipa da casa (AAUÉ) e perdeu por 1-0. A equipa
@@ -561,14 +477,10 @@ minhota criou várias oportunidades de golo que não
 conseguiu concretizar, acabando por perder o jogo
 (sendo este apenas o segundo jogo que perde em
 4 anos).
-
 redação
-dicas@sas.uminho.pt
-
 No último dia, a equipa comandada por Michael
 Ribeiro venceu a equipa de Santarém por 3-1. Depois de estar a perder por um golo, a equipa minhota deu a volta ao resultado com golos de João
 Ferreira, Ricardo Silva e Tiago Leite.
-
 Évora foi o palco escolhido para a realização da 2ª
 Jornada Concentrada (JC) de Futebol 11 masculino
 que juntou na cidade Património Mundial Unesco
@@ -588,7 +500,6 @@ CNU’s. E logo no primeiro jogo, os minhotos derrotaram o IPV por duas bolas a 
 AAUMinho controlou o jogo logo desde o início, não
 deixando IPV criar qualquer situação de golo. Com
 o jogo controlado foi com naturalidade que marcou
-
 O treinador minhoto, Michael Ribeiro mostrou-se
 satisfeito pelo apuramento para os CNU’s, mas
 alerta que “não será fácil o caminho até ao objetivo de revalidar o título de campeão nacional”. A
@@ -598,33 +509,15 @@ para ultrapassar todas as dificuldades que vamos
 encontrar. A equipa está bem e tenho cada vez mais
 orgulho na forma como estes jogadores defendem
 as cores da AAUMinho” afirmou.
-
-UMdic
-as
-
-d
-
-www.dicas.sas.uminho.pt | desporto 12 de março 2016
-
 6
-
-
 Rui Bragança, futuro médico garantiu a presença nos Jogos Olímpicos “Rio 2016”
-
 “É completamente possível conciliar o curso com o desporto”
-
 Rui Bragança, Bicampeão Europeu de Taekwondo
-
 e futuro médico, fala do seu trajeto até ao sonho
 olímpico, das suas dificuldades em conciliar estudos
 e alta competição, bem como do seu futuro a curto
 prazo.
-
-Nuno Gonçalves
-
-nunog@sas.uminho.pt
 Fotografia: Comité Olímpico de Portugal
-
 Em 2009, na tua primeira entrevista ao
 UMDicas, disseste que os Jogos Olímpicos
 de 2012 eram um sonho, mas também uma
@@ -657,7 +550,6 @@ Este trajeto até ao Rio, ao longo destes seis
 anos na UMinho, como tem sido em termos
 de apoio por parte da Universidade?
 Espetacular. Posso dizer que sem ele duvido que
-
 tivesse chegado a onde estou. Desde que entramos
 que a UMinho tem disponibilizado tudo o que pode
 para ajudar à nossa preparação (desde pavilhão,
@@ -710,7 +602,6 @@ são as minhas opções.
 Que especialidade médica vais procurar escolher e porquê?
 Neste momento estou inclinado para Ortopedia ou
 Anestesiologia. Ortopedia porque é uma especiali-
-
 dade em que me sinto muito confortável depois de
 todas as experiências como atleta e porque poderia
 facilmente continuar ligado ao desporto. Anestesia
@@ -753,7 +644,6 @@ tenha passado por situações
 semelhantes ou pelo menos
 ajudado pessoas em situações
 parecidas, vai eliminar esses
-
 erros e tornar o percurso mais fácil no desporto e
 nos estudos.
 A tua cidade (Guimarães) e o teu clube do
@@ -782,9 +672,7 @@ isso um enorme obrigado a estas cinco pessoas… e
 claro que não posso deixar de agradecer à UMinho,
 aos SASUM, à ECS e a todas as pessoas envolvidas
 nesta longa caminhada.
-
 Grupo de Poesia da Universidade do Minho
-
 “Tal como qualquer poeta, o Grupo de Poesia nasceu, vai renascendo, mas nunca morrerá.”
 O Grupo de Poesia da Universidade do Minho
 (UMinho) é um dos mais antigos da academia
@@ -795,9 +683,6 @@ grandeza e da imortalidade das palavras dos poetas
 nacionais, o Grupo de Poesia tem vindo a renascer
 ao longo da sua história, misturando música e
 palavras numa catarse emocional.
-Nuno Gonçalves
-nunog@sas.uminho.pt
-
 Quando e como nasceu o Grupo de Poesia?
 O Grupo de Poesia surgiu primeiramente como
 Grupo de Poesia, Guitarra e Flauta, fundado em
@@ -816,7 +701,6 @@ procurando “incutir” uma espécie de desconforto e
 provocação na audiência, sendo que o reflexo desta
 incute de igual forma essas sensações no Grupo.
 Dos membros fundadores, ainda há algum,
-
 ou alguns, que estejam no
 ativo?
 A passagem pelo Grupo de
@@ -865,7 +749,6 @@ força à poesia?
 Bem, dizer que a música
 dá mais força à poesia
 seria, de certo modo,
-
 balancear ambas com pesos diferentes. Não
 olhamos para elas dessa forma. Olhando para nós,
 membros do Grupo, todos podemos ser vistos como
@@ -890,7 +773,6 @@ Para além do 1º de Dezembro, quais são
 os outros momentos/récitas/festivais onde
 vocês costumam atuar?
 Além da mencionada, actuamos também em
-
 feiras do livro, exposições de pintura e outras,
 inaugurações, tomadas de posse, entre outras. O
 Grupo tem de facto um largo espectro de acção.
@@ -915,4 +797,3 @@ grupo, ensaios, etc.
 Como prevêem o futuro do grupo?
 Tal como qualquer poeta, o Grupo de Poesia nasceu,
 vai renascendo, mas nunca morrerá.
-

@@ -1,14 +1,16 @@
 ---
-jornal:UMdicas
-issue:150	
-interviewee:Tun’Obebes
-topis:Cultura
-role:primeira tuna feminina da UMinho
-date:AGOSTO 2017
-num_pages:
-title:Tun’Obebes, a primeira tuna feminina da UMinho!
-interviewer:NUNO GONÇALVES
+jornal: UMdicas
+issue: 150
+university: Universidade do Minho
+date: 01 Ago 2017
+file_name: UMdicas-150.txt
+interviewee: Tun’Obebes
+topic: Cultura
+role: primeira tuna feminina da UMinho
+title: Tun’Obebes, a primeira tuna feminina da UMinho!
+interviewer: Nuno Gonçalves
 ---
+
 Numa altura em que as engenharias eram completamente “dominadas” pelos homens, um grupo de futuras
 engenheiras decidiu ousar, inovar, e passados 25 anos aí estão elas mais fortes do que nunca!
 Foi a 11 de dezembro de 1992, no
@@ -244,7 +246,7 @@ Se uma aluna da Academia Minhota
 quiser pertencer a esta
 família, apenas deve deixar a
 vergonha de lado e aparecer num
-dos nossos ensaios:segundas e
+dos nossos ensaios: segundas e
 quartas, às 21h30, no 1º piso do
 Bar Académico de Guimarães
 (Rua da Veiga). Deve trazer nada

@@ -1,14 +1,15 @@
 ---
-jornal:UMdicas
-issue:152	
-interviewee:José Manuel Fernandes
-topis:Academia
-role:Eurodeputado
-date:DEZEMBRO 2017
-num_pages:
-title:António Paisana
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 152	
+interviewee: José Manuel Fernandes
+topic: Academia
+role: Eurodeputado
+date: DEZEMBRO 2017
+title: António Paisana
+interviewer: Ana Marques
 ---
+
+
 Olhados como embaixadores de
 excelência, no nosso país e pelo
 mundo, os ex-alunos da Universidade
@@ -152,7 +153,7 @@ funções que exerço e exerci sempre
 disse “sim” à minha Universidade.
 Que conselhos daria a um
 atual estudante da UMinho?
-O meu conselho:aproveitem,
+O meu conselho: aproveitem,
 sejam solidários, empenhem-se
 ao máximo no curso onde estão,
 com a consciência de que somos
@@ -179,7 +180,7 @@ Ainda tenho de ver as centenas
 de e-mails que recebo por dia,
 escrever livros e artigos, preparar
 conferências e entrevistas...
-A semana de Estrasburgo é atípica:
+A semana de Estrasburgo é atípica: 
 começa na segunda-feira à
 tarde e acaba à quinta-feira, com
 sessões plenárias que arrancam

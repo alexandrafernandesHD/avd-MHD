@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:158
-University:Universidade do Minho
-interviewee:Hugo Carvalho
-topis:Academia
-role:
-date:NOVEMBRO 2018
-num_pages:
-title:Hugo Carvalho “Um português com vontade de fazer coisas”
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 158
+university: Universidade do Minho
+interviewee: Hugo Carvalho
+topic: Academia
+date: NOVEMBRO 2018
+title: Hugo Carvalho “Um português com vontade de fazer coisas”
+interviewer: Ana Marques
 ---
+
+
 “Um português com vontade de fazer
 coisas”, é assim que se define Hugo Carvalho.
 Presidente do Conselho Nacional
@@ -78,7 +78,7 @@ responder a esta pergunta de
 forma justa para todos os jovens que
 passam por tantas dificuldades diferentes.
 Mas, pensando bem, há um desafio
-que se pode eleger:o acesso. Acesso
+que se pode eleger: o acesso. Acesso
 à profissão, contra o corporativismo das
 ordens profissionais e dos seus dirigentes
 que se acham donos do seu ofício.
@@ -128,7 +128,7 @@ mais antiga; até porque somos assim
 noticiados pelos meios de comunicação
 tradicionais. Desde logo, existe a questão
 de que tudo o que fazemos hoje é comunicado
-de forma difusa:pelas nossas
+de forma difusa: pelas nossas
 próprias redes sociais, pelos nossos canais,
 pela nossa rede natural. Ora, se os
 jornais e as redações também estiverem
@@ -263,7 +263,7 @@ Algures na Europa, com uma carreira
 profissional sólida e, claro, na política!
 Que mensagem gostarias de deixar
 aos jovens da Universidade do Minho?
-Termino como comecei:não sou
+Termino como comecei: não sou
 moralista e não sou melhor do que nenhum
 jovem para fazer nenhum tipo de
 comentários sobre a forma como estão
@@ -279,5 +279,4 @@ os nossos sonhos sem nos apercebermos
 disso. Ninguém faz nada sozinho.
 Façam política, respirem política, sejam
 estudantes, não sejam alunos.
-
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

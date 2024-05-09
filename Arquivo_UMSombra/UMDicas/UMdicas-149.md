@@ -2,15 +2,14 @@
 title: UMdicas
 issue: None
 university: Universidade do Minho
-date: None
-num_pages: None
 file_name: UMdicas-149.txt
-interviewee_1: Pedro Dias é Diretor executivo da Federação Portuguesa de Futebol (FPF)
-interviewer_1: ANA MARQUES
-interviewee_2: Entrevista à diretora da Licenciatura em Design e Marketing de Moda
-interviewer_2: ANA MARQUES
-interviewee_3: Entrevista Jograis
-interviewer_3: NUNO GONÇALVES
+interviewee: Pedro Dias é Diretor executivo da Federação Portuguesa de Futebol (FPF)
+interviewer: Ana Marques
+interviewee: Entrevista à diretora da Licenciatura em Design e Marketing de Moda
+interviewer: Ana Marques
+interviewee: Entrevista Jograis
+interviewee: Entrevista Jograis
+interviewer: Nuno Gonçalves
 ---
 
 Pedro Dias é Diretor executivo da Federação Portuguesa de Futebol (FPF) desde 2011, responsável pelas modalidades
@@ -18,11 +17,8 @@ de Futsal e Futebol de Praia e, desde agosto de 2016, coordena a Formação de q
 Eventos e Arbitragem. O UMdicas esteve à conversa com o também Técnico Superior dos Serviços de Acção Social
 da Universidade do Minho (SASUM) que nos falou de si, da sua paixão pelo desporto, da sua experiência na FPF, dos
 desafios que tem enfrentado, do estado atual e do futuro do desporto no nosso país, entre outras coisas.
-
-ANA MARQUES
-
+Ana Marques
 anac@sas.uminho.pt
-
 Quem é Pedro Dias?
 Tem 48 anos, é um apaixonado por Desporto,
 casado, com dois filhos.
@@ -44,7 +40,6 @@ missão profissional ou um prazer pessoal?
 É um prazer trabalhar profissionalmente no
 Desporto, é algo que faço com paixão e espírito de
 missão.
-
 Disse em outras entrevistas que o desporto
 “é uma paixão de menino”. O desporto já é
 acessível a todos?
@@ -58,15 +53,12 @@ assegurar este aspecto, democratizamos o acesso
 à prática desportiva, aspeto determinante para
 podermos ter mais e melhor desporto no nosso
 País.
-
 “
 ... a escola é o local
 onde todas as crianças
-
 devem tem oportunidade
 de iniciar a sua prática
 desportiva, independentemente da sua condição social ou económica.
-
 Como gostaria de ver o desporto nacional
 daqui a 10 anos?
 Ficaria muito satisfeito se a Democratização do
@@ -84,12 +76,10 @@ bem definido e com grande articulação entre estas
 entidades. Se tivessemos este cenário em 2027,
 era sinal que o país tinha percebido a relevância do
 tema e que tinhamos um rumo traçado.
-
 acesso à prática desportiva
 fosse uma realidade, utilizando a Escola como âncora, assegurando desta forma que o desporto integra
 os projectos educativos de
 todas as escolas do país...
-
 Gosta muito de desporto, mas a sua grande
 paixão é o futsal. Porquê?
 O meu primeiro contacto com o Futsal (futebol de
@@ -98,7 +88,6 @@ futebol, os meus pais eram proprietários de um café
 no Bairro do Gaia (Montanha), o torneio de futebol
 de salão organizado pelo FC Gaia nos meses de
 Junho, Julho e Agosto tinha uma dimensão muito
-
 interessante, o meu pai todos os anos organizava/
 patrocinava uma equipa do café montanha para
 participar nesse torneio, eu cresci com a ilusão de
@@ -107,18 +96,13 @@ equipa do café montanha, e assim foi o meu primeiro
 contacto com o Futsal. Posteriormente, em 1988,
 ingressei na Universidade da Beira Interior (UBI), e
 encontrei uma forte tradição da modalidade na UBI,
-
 “se Ficaria
 muito satisfeito
 a Democratização do
-
 UMdic
 as
-
 d
-
 www.dicas.sas.uminho.pt | desporto 07 de julho 2017
-
 tinha um torneio intercursos que enchia pavilhões,
 no meu ano de caloiro participei na equipa do meu
 curso e assim começou o meu percurso no Futsal
@@ -169,9 +153,7 @@ os aspetos que considero mais relevantes: a maioria
 das IES tem instalações desportivas próprias, a
 maioria da IES tem um departamento de desporto
 na instituição, a maioria das IES tem uma oferta
-
 9
-
 desportiva regular para a comunidade, a maioria
 das IES criou mecanismos de apoio à carreira dual,
 a maioria das IES considera estratégico ter uma
@@ -198,14 +180,10 @@ abrangente e estratégica das organizações, temos
 a oportunidade de tentar influenciar as decisões,
 algumas com forte repercussão na nossa actividade
 nacional.
-
-“
 Na minha opinião, a
 presença de Portugueses
-
 em organismos internacionais é muito importante,
 seja em organizações desportivas ou de outro âmbito.
-
 Com carreira construída na gestão
 desportiva, como começou a sua ligação ao
 futsal?
@@ -217,12 +195,10 @@ como quadro técnico superior no departamento
 desportivo e cultural dos Serviços de Acção Social
 da Universidade do Minho e desde 2011 como
 director executivo na Federação Portuguesa de
-
 Futebol. O meu ingresso nos SASUM em 1998 está
 relacionado, entre outros aspectos, com um evento
 internacional de Futsal, dado que a Universidade do
 Minho organizou em 1998 o Campeonato Mundial
-
 Universitário de Futsal, eu tive a responsabilidade
 de coordenar a área técnica desse evento. Tive
 o primeiro contacto com os responsáveis da FPF
@@ -248,16 +224,7 @@ Em que se alterou a sua vida com o abraçar
 deste projeto?
 É um projeto diferente, deixei de focar a minha
 intervenção em cerca de 35 modalidades
-
-UMdic
-as
-
-d
-
-www.dicas.sas.uminho.pt | desporto 07 de julho 2017
-
 10
-
 desportivas, passei a focar a minha actividade
 no Futsal, Futebol e Futebol de Praia. Além deste
 aspecto, tenho de estar fisicamente em Lisboa para
@@ -270,7 +237,6 @@ só. Considera terem sido estas experiências,
 as grandes bases para estar na posição que
 ocupa hoje?
 Todas
-as
 oportunidades
 para
 crescer
@@ -280,10 +246,7 @@ voluntária durante mais de duas décadas na
 organização de eventos desportivos a nível local,
 regional, nacional e internacional, contribuiram de
 forma relevante para a minha formação profissional.
-
-“
 Todas as oportunidades para crescer profissionalmente ajudam.
-
 Está desde 2011 na FPF. Que balanço faz
 desta experiência?
 A experiência de 66 meses de trabalho na FPF
@@ -322,7 +285,6 @@ da UEFA Futsal Cup para UEFA Futsal Champions
 League, como sabemos, estas questões têm forte
 impacto na nossa atividade interna.
 Foi condecorado com o Grau de Comendador
-
 da Ordem do Mérito pelo Presidente da
 República pelo serviço prestado ao país
 através da FPF, em especial nas modalidades
@@ -344,7 +306,6 @@ que superamos as metas definidas. Crescemos
 no número de clubes, equipas, praticantes,
 treinadores, árbitros, dirigentes, seleções nacionais,
 provas nacionais, resultados desportivos das
-
 seleções nacionais, protocolos de cooperação e
 desenvolvimento desportivo, entre outros.
 Quais são os projetos da Federação
@@ -364,19 +325,13 @@ uma evolução qualitativa e quantitativa das duas
 modalidades, consubstanciada num aumento muito
 significativo do número de praticantes desportivos.
 A FPF pela forte responsabilidade e reconhecimento
-
-“
 A FPF pela forte responsabilidade e reconheci-
-
-“
 Crescemos no número mento social que tem na sode clubes, equipas, prati-
-
 cantes, treinadores, árbitros, dirigentes, seleções
 nacionais, provas nacionais, resultados desportivos
 das seleções nacionais,
 protocolos de cooperação
 e desenvolvimento desportivo, entre outros.
-
 ciedade Portuguesa, pode
 dar um contributo decisivo
 para melhorar os índices de
@@ -385,7 +340,6 @@ empenhados na criação de
 condições para contribuir
 de forma ativa para essa
 realidade.
-
 social que tem na sociedade Portuguesa, pode dar
 um contributo decisivo para melhorar os índices
 de prática desportiva da população Portuguesa,
@@ -393,11 +347,9 @@ estamos empenhados na criação de condições para
 contribuir de forma ativa para essa realidade.
 Uma mensagem à Academia e a todos os que
 gostam de desporto?
-
 “adequada
 Acho que a mensagem
 para a Academia
-
 está intrinsecamente relacionada com a visão que
 a Universidade do Minho
 definiu para o desporto na
@@ -413,10 +365,7 @@ comunidade, proporcionando desta forma vivências
 extracurriculares positivas
 e gratificantes aos alunos,
 docentes e funcionários.
-
 Entrevista à diretora da Licenciatura em Design e Marketing de Moda
-
-
 “São alunos extremamente motivados e empenhados”
 O UMdicas esteve à conversa com Joana Cunha,
 para quem ser diretora de curso é, para além de
@@ -429,11 +378,6 @@ com os alunos “fantástico”. A responsável alerta
 que só deve ingressar nesta licenciatura quem
 tenha um muito gosto pela área e muita vontade de
 trabalhar pois exige muita dedicação!
-
-ANA MARQUES
-
-anac@sas.uminho.pt
-
 Qual a sua formação e trajeto académico?
 Sou uma filha da “casa”. A minha formação
 foi integralmente feita aqui na Universidade do
@@ -482,7 +426,6 @@ que tenha um gosto grande pela área e que tenha
 muita vontade de trabalhar. Este é um trabalho de
 três anos muito árduo e depois há uma vida prática
 de trabalho muito dura, mas é muito compensador,
-
 acho eu. O que vejo pelos nossos ex-alunos
 que estão no mercado de trabalho é que estão
 satisfeitos com o que fazem. Há boas possibilidade
@@ -546,7 +489,6 @@ importantíssimas para eles poderem desenvolver
 produtos de moda capazes de satisfazerem os
 consumidores.
 Existem hoje em dia excesso de profissionais
-
 em determinadas áreas. O que podem
 esperar os alunos desta Licenciatura quanto
 ao mercado de trabalho?
@@ -586,7 +528,6 @@ de financiamentos que têm surgido no sentido de
 apoiar jovens empreendedores na criação de novas
 empresas, o que não é nada fácil, mas alguns têmno conseguido com sucesso, o que nos deixa muito
 orgulhosos.
-
 Quais são as prioridades do curso nos
 próximos tempos?
 Primeiro que tudo será alargar a base docente,
@@ -629,10 +570,7 @@ termos de visibilidade, tivemos muito mais impacto
 na comunicação social, claro que também foi muito
 mais complexo, os alunos tiveram muito mais
 trabalho, mas correu muito bem.
-
 Entrevista Jograis
-
-
 “Bater bem sem olhar a quem, de duas maneiras, a torto e a direito e por dois motivos,
 por tudo e por nada”
 É este o lema dos Jograis, um dos mais icónicos
@@ -644,11 +582,8 @@ lhes fazem em 27 anos de existência, vamos passar
 a conhecer um pouco melhor os “amarelinhos” e
 perceber que afinal eles não têm nada a ver com o
 Testamento da Gata.
-
-NUNO GONÇALVES
-
+Nuno Gonçalves
 nunog@sas.uminho.pt
-
 Como e quando é que nasceram os Jograis?
 Antes de mais gostávamos de agradecer pela 3ª
 Entrevista que nos fazem em 27 anos de Existência.
@@ -701,7 +636,6 @@ permaneciam nesta Academia o tempo necessário
 para terem um background suficiente para criticar
 positivamente. Hoje o mais fácil é fazer um post do
 que redigir um texto de critica com superior poder
-
 de argumentação.
 Qual foi o presidente mais marcante (pela
 positiva ou negativa) da AAUM na vossa
@@ -714,7 +648,7 @@ Em termos negativos podemos falar de autênticos
 visionários que passaram nesta academia e que
 previram acontecimentos apocalípticos (não tem
 nada a ver com o Calipo da Olá) que nunca se
-viriam a concretizar. Nomeadamente:
+viriam a concretizar. Nomeadamente: 
 Acordo entre o AAUM/BA e a Meltino: fidelização
 de 23423452345 toneladas de café até deus sabe
 lá quando;
@@ -749,11 +683,10 @@ do Sócrates e Passos Coelho?
 Costumamos citar uma frase de Einstein que diz
 existirem duas coisas infinitas: uma é o Universo, a
 outra a estupidez humana. Do Universo não temos
-
 a certeza…
 Com este mote de partida torna-se fácil fazer critica
 seja com quem for…embora estes últimos sejam
-mais patos! :)
+mais patos! : )
 Os festivais de tunas continuam a ser os
 grandes momentos para os Jograis brilharem
 ou vocês intervêm em outros contextos?
@@ -791,18 +724,17 @@ INDIVIDUAL.
 Quanto a quem atualmente faz o testamento
 deixamos um pedido: Por favor parem de mandar a
 piada do Jerónimo pois já ninguém sabe quem é o
-homem. Por sinal até foi um bom presidente:)
+homem. Por sinal até foi um bom presidente: )
 Há algum projeto futuro que vocês tenham
 na gaveta e que nos queiram falar/revelar…
 tipo, um novo livro?
 Neste momento o nosso foco está virado para
-
 pagar a multa de 400€ às finanças. Também
 continuamos à espera que a AAUM (cujo presidente
 não é dos melhores) nos pague o subsídio do ano
 passado e a primeira tranche deste ano. Até lá, não
 podemos ser sonhadores como alguns presidentes
-que passaram na AAUM …:)
+que passaram na AAUM …: )
 E digressão ao estrangeiro? Falem-nos um
 pouco de como foi atuar na Irlanda e em
 Itália?
@@ -815,7 +747,7 @@ Como é que vocês fazem o recrutamento de
 novos membros? Ainda é à moda antiga ou já
 aderiram ao recrutamento online?
 Contando que elas gostem… fazemos de qualquer
-forma! :) (apenas limitados por alguma elasticidade
+forma! : ) (apenas limitados por alguma elasticidade
 humana). Já aderimos às novas tecnologias e
 redes sociais. Assim, podem contactar-nos pelo
 “facebronco”.
@@ -832,7 +764,7 @@ na cantina …
 do enterro. Risco elevado de vídeos caseiros de má
 qualidade.
 - Contratação de um “chef” de sushi em vez das
-máquinas de vending. A comida está fria e está ... :)
+máquinas de vending. A comida está fria e está ... : )
 - Celebração de um protocolo com a Bragalimpa
 para esterilização e desratização dos WC das salas
 de estudos.
@@ -845,4 +777,3 @@ não tenham 350 nomes e fotos.
 AAUM apareçam mais do que duas listas.
 - Xutos e Quim Barreiros só em concertos de fim
 de carreira.
-

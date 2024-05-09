@@ -1,14 +1,14 @@
 ---
-jornal:UMdicas
-issue:151	
-interviewee:Carlos Silva
-topis:Ação Social
-role:administrador executivo da InvestBraga
-date:NOVEMBRO 2017
-num_pages:
-title:Carlos Silva
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 151	
+interviewee: Carlos Silva
+topic: Ação Social
+role: administrador executivo da InvestBraga
+date: NOVEMBRO 2017
+title: Carlos Silva
+interviewer: Ana Marques
 ---
+
 O UMdicas esteve à conversa
 com Carlos Silva (ainda
 como Administrador dos
@@ -438,7 +438,7 @@ muito intenso, principalmente
 entre 2006 e 2009 e que culminou
 com o reconhecimento pela
 APCER pelas certificações ISO
-9001:2008 e ISO 22000:2005,
+9001: 2008 e ISO 22000: 2005,
 que acabaram por consolidar os
 SASUM, que se destacou em todas
 as áreas. A criação de infraestruturas
@@ -945,7 +945,6 @@ O desporto também deve ser
 visto como uma estrutura que
 tem uma vertente social com
 muito impacto, no dia a dia do
-estudante na Universidade do
 Minho.
 Já temos um conjunto de campeonatos
 atribuídos, tal como o
@@ -992,7 +991,6 @@ no interior do campus
 e por isso os alunos não estão cá
 o tempo que seria desejável e não
 participam nas nossas atividades.
-A Universidade do Minho
 recebe o Campeonato Mundial
 Universitário de Ciclismo
 em 2018, e em 2019 o
@@ -1164,11 +1162,11 @@ São uma equipa notável, para mim foi uma honra trabalhar nestes
 Serviços.
 O vosso trabalho tem sido reconhecido por entidades externas, ao
 longo dos anos, como seja, através da Certificação da Qualidade ISO
-9001:2008 e 22000:2005, através da atribuição dos prémios de Reconhecimento
+9001: 2008 e 22000: 2005, através da atribuição dos prémios de Reconhecimento
 da Excelência (em vários anos) e da confirmação pelo INA das
 boas práticas desenvolvidas nos SAS.
 Estes são só alguns dos exemplos que demonstram as vossas capacidades,
 e tenho a certeza que no futuro haverá mais reconhecimentos
 públicos do vosso trabalho.
 Estou grato pelo por todo o vosso apoio, o meu muito obrigado,
-Mensagem de Carlos Silva à Academia
+Mensagem de Carlos Silva à AcademiaMensagem de Carlos Silva à AcademiaMensagem de Carlos Silva à AcademiaMensagem de Carlos Silva à Academia

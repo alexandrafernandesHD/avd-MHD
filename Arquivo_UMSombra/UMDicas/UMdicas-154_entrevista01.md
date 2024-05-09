@@ -1,14 +1,14 @@
 ---
-jornal:UMdicas
-issue:154	
-interviewee:João Barros
-topis:Desporto
-role:Engenharia de Sistemas e antigo atleta da primeira “Geração D’Ouro” do Andebol da UMinho,
-date:ABRIL 2018
-num_pages:
-title:“Era responsável por uma operação com 600 pessoas e despachávamos 120 mil encomendas por dia”
-interviewer:NUNO GONÇALVES
+journal: UMDicas 
+issue: 154	
+interviewee: João Barros
+topic: Desporto
+role: Engenharia de Sistemas e antigo atleta da primeira “Geração D’Ouro” do Andebol da UMinho,
+date: ABRIL 2018
+title: “Era responsável por uma operação com 600 pessoas e despachávamos 120 mil encomendas por dia”
+interviewer: Nuno Gonçalves
 ---
+
 O que te levou à UMinho e ao
 curso de Engenharia de Sistemas?
 Desde miúdo que o mundo da

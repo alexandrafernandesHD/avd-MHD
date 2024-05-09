@@ -2,13 +2,11 @@
 title: UMDicas
 issue: None
 university: UNIVERSIDADE DO MINHO
-date: None
-num_pages: None
 file_name: UMdicas-148.txt
-interviewee_1: Eloy Rodrigues é Diretor dos Serviços de Documentação da Universidade do Minho
-interviewer_1: ANA MARQUES
-interviewee_2: Entrevista à diretora da Licenciatura em Estatística Aplicada
-interviewer_2: ANA MARQUES
+interviewee: Eloy Rodrigues é Diretor dos Serviços de Documentação da Universidade do Minho
+interviewer: Ana Marques
+interviewee: Entrevista à diretora da Licenciatura em Estatística Aplicada
+interviewer: Ana Marques
 ---
 
 Eloy Rodrigues é Diretor dos Serviços de Documentação da Universidade do Minho 
@@ -16,11 +14,8 @@ Eloy Rodrigues é Diretor dos Serviços de Documentação da Universidade do Min
 vão 15 anos. O UMdicas esteve à conversa com o responsável que nos falou de si, desta sua experiência, das
 dificuldades e dos desafios que tem enfrentado, do passado, do presente e do futuro dos Serviços que têm como
 lado mais visível a gestão das bibliotecas, mas que vai muito, muito além disso.
-
-ANA MARQUES
-
+Ana Marques
 anac@sas.uminho.pt
-
 O que são os Serviços de Documentação da
 Universidade do Minho (SDUM) e qual a sua
 importância para a Comunidade Académica?
@@ -45,7 +40,6 @@ Os SDUM e os seus responsáveis têm
 conquistado imensa visibilidade a nível
 nacional e internacional. A que se deve esse
 facto?
-
 Provavelmente deve-se a várias coisas. Desde sempre
 os SDUM têm tido uma grande preocupação com a
 qualidade dos serviços e com a inovação. Pode-se
@@ -73,7 +67,6 @@ conhecer a nossa experiência, e isso acaba por
 se transformar num daqueles “ciclos virtuosos”,
 em que cada vez temos mais visibilidade e mais
 reconhecimento. Foi portanto, algo que se reforçou
-
 nos últimos 15 anos e sobretudo nos últimos 10,
 pois em 2007 começamos a participar em projetos
 europeus (e já contamos com a participação em 11
@@ -100,7 +93,6 @@ serviços mais tradicionais,
 temos vindo a apostar em novos serviços como o
 empréstimo de portáteis para utilização local nas
 bibliotecas, serviços de impressão e digitalização
-
 3D, etc. Estes serviços são prestados nos campi,
 ou seja, na biblioteca geral em Gualtar, na biblioteca
 do campus de Azurém, localizada num edifício novo
@@ -120,11 +112,9 @@ acesso restrito) e para
 qualquer pessoa, no caso
 da esmagadora maioria dos
 recursos do RepositóriUM.
-
 “
 A nossa missão
 principal é prestar estes
-
 serviços de biblioteca ao
 conjunto da comunidade
 da UMinho, mas temos Para ter acesso
@@ -136,20 +126,14 @@ SDUM é necessário
 dirigir-se fisicamente às suas instalações?
 Para requisitar livros ou entregar livros é preciso
 dirigir-se a uma das bibliotecas, não tem que ser
-
 UMdic
 as
-
 d
-
 www.dicas.sas.uminho.pt | academia 03 de junho 2017
-
 9
-
 “2002,
 ...a partir do final de
 apostamos naquilo
-
 que era então uma área
 emergente, com visão e
 coragem para arriscar
@@ -212,7 +196,6 @@ satisfação muito elevados da comunidade UMinho.
 Depois, temos este reconhecimento internacional
 na área dos repositórios e da ciência aberta, que
 se traduz, por exemplo, na participação em muitos
-
 projetos. Não sendo uma unidade de investigação,
 os SDUM são uma das unidades da UMinho que já
 teve mais projetos europeus financiados, o que é
@@ -243,11 +226,8 @@ da qualidade, um processo
 que iniciamos por volta de
 2006/07 e que levou à certificação da qualidade
 em 2009 e, que desde aí, temos mantido.
-
-“
 ...as bibliotecas também estão disponíveis para
 utentes externos...
-
 Atualmente, em que patamar de situam os
 SDUM em termos nacionais, europeus e
 mundiais?
@@ -256,7 +236,6 @@ termos nacionais estamos no pelotão da frente, mas
 há outras boas bibliotecas universitárias em Portugal.
 Há, pelo menos, umas 5 ou 6 bibliotecas ao nosso
 nível. Umas até terão várias coisas melhores do que
-
 nós, nós teremos outras coisas mais desenvolvidas
 do que eles, mas existem várias instituições num
 patamar comparável. Se olharmos a nível europeu,
@@ -295,7 +274,6 @@ iniciativas. Mesmo em termos internacionais, diria
 que estamos no pelotão da frente neste domínio,
 temos tido muito boas experiências e somos vistos
 como uma referência internacional.
-
 aos recursos e serviços de informação em suporte
 digital. Temos as bibliotecas físicas que continuam
 a ser muito importantes, mas hoje, aqui e em todo
@@ -326,18 +304,13 @@ desse conjunto de recursos
 e dos serviços, como as
 bases de dados, que permitem pesquisar e aceder
 aos conteúdos.
-
-“
 Ao longo destes anos
 (...) inovamos muito nesta
-
 área do acesso aberto e
 dos repositórios e tornamos-mos uma referência
 em termos internacionais.
-
 O que é a biblioteca digital?
 O termo biblioteca digital é usado para nos referirmos
-
 Porque consideram o RepositóriUM como
 um dos projetos prioritários? O que é
 exatamente o RepositóriUM e quais são os
@@ -350,16 +323,7 @@ o conjunto da produção científica e académica
 da UMinho, ou seja, aquilo que os membros
 da comunidade académica, principalmente
 professores e investigadores produzem, sejam
-
-UMdic
-as
-
-d
-
-www.dicas.sas.uminho.pt | academia 03 de junho 2017
-
 10
-
 artigos de revistas cientificas, comunicações em
 conferências ou outro tipo de publicações, bem
 como as teses de doutoramento e dissertações de
@@ -430,7 +394,6 @@ foram publicados estão também depositados e
 disponíveis no RepositóriUM têm mais impacto,
 ou seja, mais citações que os artigos que lá não
 figuram.
-
 Desta forma, a UMinho em meados da década
 passada, logo depois da criação do RepositóriUM,
 era a primeira universidade pois também era das
@@ -497,7 +460,7 @@ aberta. O outro projeto, chama-se “FIT4RRI”, e tem
 como objetivo capacitar, sobretudo as instituições,
 como as universidades, os centros de investigação,
 etc., de forma a adotarem os princípios e a agenda
-do Responsible Research and Innovation (RRI):
+do Responsible Research and Innovation (RRI): 
 as questão da igualdade de género, da ética, do
 impacto social da investigação, do envolvimento do
 público, da disseminação da ciência, etc., nas suas
@@ -505,13 +468,10 @@ atividades. No caso do “FOSTER Plus” os SDUM
 coordenam todo o projeto. No caso do “FIT4RRI”,
 o nosso papel é de coordenação de uma área de
 trabalho que é precisamente a formação.
-
-“
 No que diz respeito aos
 serviços de bibliotecas, em
 termos nacionais estamos
 no pelotão da frente….
-
 A UMinho ainda é a universidade portuguesa
 com maior visibilidade na Internet?
 De acordo com a última edição do Ranking web das
@@ -519,9 +479,7 @@ universidades, neste momento a UMinho é a quarta
 universidade com maior visibilidade. Este ranking
 depende de vários fatores, incluindo até a dimensão
 total dos sítios e paginas web das Universidades.
-
 Foi assinado recentemente um acordo
-
 Internacional de reforço da aliança entre
 redes de repositórios de todo o mundo. Em
 que consiste e quais os seus objetivos?
@@ -548,7 +506,6 @@ comuns que promovam o
 desenvolvimento de novos
 serviços em cima dos
 repositórios.
-
 das bibliotecas.
 A UMinho inaugurou, oficialmente, em
 outubro passado, a Biblioteca do campus de
@@ -582,11 +539,8 @@ assim caracterizado pela
 diversidade de espaços,
 funções e serviços que procuraremos desenvolver
 ainda mais no futuro.
-
-“
 O RepositóriUM foi
 o primeiro repositório ins-
-
 titucional de língua portuguesa e tem sido sempre o
 repositório número um do
 Há alguma novidade
@@ -618,7 +572,6 @@ institucional neste domínio.
 Pretendemos, também, passar a ter a partir do
 início do próximo ano letivo, um programa mais
 regular de atividades culturais nos novos espaços
-
 Há alguma mensagem que gostasse de
 deixar à comunidade académica?
 Procurem e utilizem os nossos serviços, as
@@ -638,9 +591,7 @@ vários canais de comunicação dos SDUM (email,
 redes sociais, etc.), pois estamos sempre muito
 abertos, muito atentos e muito disponíveis para as
 implementar quando isso for adequado e possível.
-
 Entrevista à diretora da Licenciatura em Estatística Aplicada
-
 “...não temos desemprego nos nossos ex-alunos. É empregabilidade a 100%.”
 O UMdicas esteve à conversa com Inês Cunha
 Sousa, para quem ser diretora de curso é, para
@@ -652,9 +603,6 @@ a sua empregabilidade como os seus pontos mais
 fortes, pretendendo que os seus alunos e mais
 especificamente o NEEUM se envolvam mais na
 dinamização e promoção do curso.
-ANA MARQUES
-anac@sas.uminho.pt
-
 Qual a sua formação e trajeto académico?
 Licenciei-me em matemática pela Universidade do
 Minho, no final da qual fui trabalhar para o Instituto
@@ -687,7 +635,6 @@ já fui diretora do mestrado em Estatística de 2010 a
 2014 e depois fiquei com a licenciatura.
 As experiências anteriores têm-na ajudado
 no cumprimento da sua função de diretora
-de curso?
 Sim, o facto de ter sido diretora do mestrado deume alguma prática e depois temos a questão dos
 colegas, quem já foi diretor de curso vai transmitindo
 a sua experiência, ajudam-nos, vão-nos tirando
@@ -703,7 +650,6 @@ métodos de avaliação são diferentes de professor
 para professor, ou seja, o facto de ter que gerir
 um curso que tem pesos significativos de outras
 escolas, bem como o facto dessas UC’s serem em
-
 partilha com outros cursos, ou seja, o
 curso tem aulas juntamente com outros
 cursos e às vezes até de diferentes
@@ -764,7 +710,6 @@ sobre o curso de Lisboa, uma vez que o curso deles
 é bastante virado para as Bios, enquanto o nosso
 para além das Bios é bastante mais abrangente,
 uma vez que focamos muito a parte económicofinanceira.
-
 Existem hoje em dia excesso de profissionais
 em determinadas áreas. O que podem
 esperar os alunos da Licenciatura em
@@ -778,7 +723,6 @@ técnica, muito teórica e depois colapsam perante
 a resolução de problemas reais que as empresas
 lhes apresentam. Penso que ainda são muito pouco
 desenrascados.
-
 ao longo do tempo, pois, o curso também já teve
 anos maus! Por isso uma das preocupações é
 tentar sempre manter o curso num nível elevado
@@ -789,14 +733,12 @@ tempo conseguimos sempre ocupar todas as vagas
 disponíveis, é também um indicador que podemos
 abrir mais, é algo e uma prioridade que temos
 sempre em mente.
-
 Quais são os maiores desafios de um recémformado da Licenciatura em Estatística
 Aplicada?
 O maior desafio dos nossos recém-licenciados,
 penso que é mesmo a adaptação da teoria à prática.
 Eles aprendem a teoria, mas depois, perante os
 problemas não a sabem usar, adaptar à vida real.
-
 Quais os principais desafios do Curso?
 Penso que um dos principais desafios é continuar
 a manter sempre e cada vez mais a ligação
@@ -807,21 +749,18 @@ ser fomentada. Só com esta ligação próxima com
 as empresas nos podemos manter atualizados dos
 problemas reais e adaptando a nossa formação aos
 que os mercados pretendem.
-
 Quais são as prioridades do curso nos
 próximos tempos?
 A nossa preocupação é sempre aumentar o número
 de alunos. Nos últimos quatro anos preenchemos
 sempre o número de vagas, mas isto também é
 resultado de um trabalho que tem vindo a ser feito
-
 Outros dos desafios é o Núcleo de Estudantes de
 Estatística da Universidade do Minho (NEEUM), que
 eu, como diretora de curso pretendo que se tornem
 mais ativos, que façam coisas, que organizarem
 atividades, que se envolvam mais na dinamização e
 promoção do curso, etc.
-
 As escolhas de...Inês Sousa
 Melhor filme?
 ‘Bird’ de C.Eastwood, ‘Kill Bill’ de Tarantino, e outros ….
@@ -846,4 +785,3 @@ Sonho…?
 Ter tempo.
 Desporto preferido?
 Ténis para ver, natação para fazer.
-

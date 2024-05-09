@@ -3,12 +3,11 @@ title: UMDicas
 issue: 145
 university: Universidade do Minho
 date: fevereiro 2017
-num_pages: None
 file_name: UMdicas-145.txt
-interviewee_1: Entrevista ao diretor do Mestrado Integrado em Engenharia de Telecomunicações e Informática
-interviewer_1: ANA MARQUES
-interviewee_2: IPUM, ou Associação de Percussão Universitária do Minho
-interviewer_2: NUNO GONÇALVES
+interviewee: Entrevista ao diretor do Mestrado Integrado em Engenharia de Telecomunicações e Informática
+interviewer: Ana Marques
+interviewee: IPUM, ou Associação de Percussão Universitária do Minho
+interviewer: Nuno Gonçalves
 ---
 
 Entrevista ao diretor do Mestrado Integrado em Engenharia de Telecomunicações e Informática
@@ -26,7 +25,7 @@ mais fortes deste. Para além disso, o curso tem
 novos conteúdos e novas aplicações. Que
 desenvolvem novos sistemas de comunicações.
 
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
 
 Qual a sua formação e trajeto académico?
@@ -319,7 +318,7 @@ suas arrufadas, os seus ritmos e a sua particular
 sonoridade onde as gaitas de foles são “ouro sobre
 azul”, os IPUM contam já quase com 10 anos de
 existência e muitas histórias!
-NUNO GONÇALVES
+Nuno Gonçalves
 nunog@sas.uminho.pt
 
 Quem são os IPUM?
@@ -331,6 +330,7 @@ que se junta todas as semanas para tocar percussão
 e gaita-de-foles. Somos um grupo irreverente e
 inovador desde o nosso nascimento em 2008 e são
 essas características que emprestam o “i” à sigla.
+
 Como é que surgiram?
 A iPUM surgiu, em 2008, da vontade e necessidade
 de “fazer música” e reinventar tradições. Foi
@@ -342,6 +342,7 @@ O nosso objetivo, então, era ser um espaço de
 preservação, criação e inovação das tradições
 musicais percussionadas da região minhota, e creio
 que o temos vindo a conseguir.
+
 Os primeiros anos, como foram?
 Os primeiros anos, como é normal, foram de muito
 trabalho. No início, não tínhamos instrumentos
@@ -360,6 +361,7 @@ com essa enorme referência, fomos crescendo e
 inovando. Hoje já nos valemos por nós próprios, a
 iPUM já é um nome um tanto reconhecido por todo
 o país.
+
 Uma das vossas marcas é o uso das gaitasde-foles. Como é que estas surgiram no
 vosso alinhamento?
 Desde a fundação da iPUM que a ideia de inserir
@@ -398,6 +400,7 @@ melhor e agradar ao público é transversal a todas
 as atuações que temos e claro que o nosso esforço
 e vontade são sempre os mesmos, estando a tocar
 para 10 ou 1000 pessoas, num palco ou numa rua.
+
 Voltar a organizar um festival faz parte dos
 vossos planos?
 Faz, claro. O nosso festival iPanças teve a sua
@@ -413,6 +416,16 @@ arraiais e magustos. Mas no futuro essa será uma
 das nossas prioridades, até porque os nossos 10
 anos estão quase aí...
 
+E a gravação de um CD?
+A gravação de um CD é algo que já equacionamos
+há algum tempo. À medida que as músicas originais
+foram sido criadas, percebemos que teríamos bom
+material para tal. Mas creio ser algo que tem de ser
+muito bem pensado e planeado para ter o efeito
+e aceitação desejados. Por isso, a médio prazo é
+certamente algo que desejamos fazer.
+A digressão pela Europa de Leste deve
+ter sido um dos momentos altos da vossa
 história. Como é que surgiu a ideia para a
 realização da mesma?
 Quem programou essa digressão foi o Nuno
@@ -443,18 +456,6 @@ além-fronteiras, o último dos quais para ir ao Brasil,
 mas os custos de uma viagem dessas não são,
 ainda, suportáveis para nós. Em princípio, este ano
 faremos uma digressão por terras lusas.
-
-E a gravação de um CD?
-A gravação de um CD é algo que já equacionamos
-há algum tempo. À medida que as músicas originais
-foram sido criadas, percebemos que teríamos bom
-material para tal. Mas creio ser algo que tem de ser
-muito bem pensado e planeado para ter o efeito
-e aceitação desejados. Por isso, a médio prazo é
-certamente algo que desejamos fazer.
-A digressão pela Europa de Leste deve
-ter sido um dos momentos altos da vossa
-
 As vossas atuações normalmente costumam
 ser em festivais académicos ou noutro tipo
 de eventos?
@@ -466,13 +467,13 @@ de tunas, festivais de música folk, e, claro, os
 habituais desfiles de carnaval e festas regionais.
 Pode não parecer, mas um grupo de percussão,
 danças tradicionais e gaitas-de-foles como o
-nosso é bastante versátil, conseguimos inserirnos facilmente em qualquer contexto cultural...só
+nosso é bastante versátil, conseguimos inserirnos
+facilmente em qualquer contexto cultural...só
 mesmo a chuva nos pode limitar!
 É “cool” pertencer a um grupo cultural da
 UMinho?
 É cool e está sempre na moda. Afinal, a
 vida universitária deve ser vivida ao máximo,
-
 aproveitando tudo o que a Universidade tem para
 oferecer, e a do Minho tem muito! Pertencer a um
 grupo cultural é algo único que nos permite viajar,

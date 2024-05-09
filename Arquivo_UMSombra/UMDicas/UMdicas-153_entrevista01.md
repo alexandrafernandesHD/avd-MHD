@@ -1,14 +1,15 @@
 ---
-jornal:UMdicas
-issue:153	
-interviewee:Nuno Reis
-topis:Ação Social
-role:presidente da Associação Académica da Universidade do Minho (AAUM)
-date:FEVEREIRO 2018
-num_pages:
-title:Nuno Reis
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 153	
+interviewee: Nuno Reis
+topic: Ação Social
+role: presidente da Associação Académica da Universidade do Minho (AAUM)
+date: FEVEREIRO 2018
+title: Nuno Reis
+interviewer: Ana Marques
 ---
+
+
 Nuno Reis foi eleito presidente da Associação Académica da Universidade do Minho (AAUM) no passado dia 5 de
 dezembro, com a tomada de posse a realizar-se a 6 de janeiro. Com um longo historial de ligação à Associação
 Académica, o estudante de Engenharia e Gestão Industrial assume a “enorme responsabilidade pessoal e institucional”
@@ -57,7 +58,7 @@ enorme responsabilidade pessoal
 e institucional.
 Acredito que as caraterísticas
 necessárias residem em três
-pontos fundamentais:a capacidade
+pontos fundamentais: a capacidade
 de constituir uma equipa
 polivalente, competente e comprometida,
 próxima da comunidade
@@ -184,7 +185,7 @@ estrutura ou nas suas prioridades?
 Divido as linhas orientadoras em
 quatro prioridades que considero
 fundamentais, sem qualquer ordem
-de preferência:a primeira,
+de preferência: a primeira,
 a de promover, cada vez mais,
 a atividade de complemento ao
 percurso académico, no contexto
@@ -388,7 +389,7 @@ no Ensino Superior como uma
 alavanca para um futuro melhor
 para cada um de nós e para
 a sociedade em geral. E existem
-provas disso mesmo:todos os estudos
+provas disso mesmo: todos os estudos
 apontam nesse sentido. No
 entanto, Portugal continua muito
 abaixo da média da OCDE e da
@@ -496,4 +497,4 @@ a experiência que dela advém são
 fundamentais para que possamos,
 orgulhosamente, continuar
 a referir-nos à nossa “Casa” como
-a “Melhor Academia do País”.
+a “Melhor Academia do País”.a “Melhor Academia do País”.a “Melhor Academia do País”.a “Melhor Academia do País”.

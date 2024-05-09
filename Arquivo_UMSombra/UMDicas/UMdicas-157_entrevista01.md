@@ -1,14 +1,15 @@
 ---
-jornal:UMdicas
-issue:157
-interviewee:António Murta
-topis:Academia
-role:Co-Presidente da Comissão “UM Compromisso com a Sociedade”
-date:OUTUBRO 2018
-num_pages:
-title:Entrevista com António Murta, Co-Presidente da Comissão “UM Compromisso com a Sociedade”
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 157
+interviewee: António Murta
+topic: Academia
+role: Co-Presidente da Comissão “UM Compromisso com a Sociedade”
+date: OUTUBRO 2018
+title: Entrevista com António Murta, Co-Presidente da Comissão “UM Compromisso com a Sociedade”
+interviewer: Ana Marques
 ---
+
+
 O UMdicas esteve à conversa com o empreendedor que se define como “uma pessoa que gosta
 de estudar e que aprendeu a disciplina de o continuar a fazer durante a vida”. Ficamos ainda
 a saber o que pensa sobre o presente e o futuro da UMinho e do país, entre outras coisas.
@@ -104,7 +105,7 @@ presas); aforrar para investir, não para
 consumir; aprofundar práticas de saúde
 contínua para defender a sustentabilidade
 do SNS; passar a mensagem a TODOS
-os Portugueses:temos de estudar toda a
+os Portugueses: temos de estudar toda a
 Vida! (mais do que tudo aos Sindicatos).
 Foi Membro do CG da UM entre
 2009 e 2017. Como caracteriza
@@ -197,4 +198,4 @@ continue a estudar toda a vida – aqui
 ou noutros lugares, mas sempre (como
 defesa da sua empregabilidade e da dos
 que o rodeiam).
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

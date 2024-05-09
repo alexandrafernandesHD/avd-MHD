@@ -1,14 +1,14 @@
 ---
-jornal:UMdicas
-issue:154	
-interviewee:Luís Francisco Valente de Oliveira
-topis:Ação Social
-role:Presidente do Conselho Geral (CG) da UMinho.
-date:ABRIL 2018
-num_pages:
-title:Luís Francisco Valente de Oliveira
-interviewer:NUNO GONÇALVES
+journal: UMDicas 
+issue: 154	
+interviewee: Luís Francisco Valente de Oliveira
+topic: Ação Social
+role: Presidente do Conselho Geral (CG) da UMinho.
+date: ABRIL 2018
+title: Luís Francisco Valente de Oliveira
+interviewer: Nuno Gonçalves
 ---
+
 Luís Francisco Valente de Oliveira nasceu em 1937 em São João da Madeira. É doutorado e professor catedrático em
 Engenharia Civil pela Universidade do Porto, sendo ainda diplomado em Planeamento e Desenvolvimento Regional
 pelo Instituto de Estudos Sociais de Haia (Holanda) e em Planeamento de Transportes pelo Imperial College de

@@ -3,14 +3,12 @@ title: UMDicas
 issue: 140
 university: Universidade do Minho
 date: junho 2016
-num_pages: None
 file_name: UMdicas-140.txt
-interviewee_1: Nuno Sousa
-interviewer_1: ANA MARQUES
+interviewee: Nuno Sousa
+interviewer: Ana Marques
 ---
 
 Entrevista ao diretor do Mestrado Integrado em Medicina
-
 “…é o melhor curso de Medicina do país”
 O UMdicas esteve à conversa com Nuno Sousa,
 para quem o diretor de curso “É uma função
@@ -22,9 +20,8 @@ medicina e com uma sólida base científica, o qual
 garante ao seu graduado, conhecimentos (“sabe”),
 competências (“sabe fazer”) e que tem uma atitude
 profissional correta (“sabe estar”).
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
-
 Qual a sua formação e trajeto académico?
 Foi aluno do liceu Alexandre Herculano no Porto,
 onde fiz o meu ensino secundário. Depois entrei
@@ -39,128 +36,66 @@ agregação.
 Como caracteriza a sua função de diretor de
 curso?
 É uma função absolutamente crítica em qualquer
-
 de não haver vícios. Assim, na ECS-UMinho pudemos
-
 Primeiro as dificuldades dos próprios desafios,
-
 Porque acho que garante uma formação muito
-
 projeto pedagógico, é o garante da responsabilidade
-
 lançar um projeto pedagógico muito inovador que
-
 senão não eram desafios. Muitas vezes estamos a
-
 holística, centrada nos vários aspetos que são
-
 fiduciária de que a instituição está a cumprir com a
-
 garante uma formação de grande qualidade para os
-
 trilhar caminhos de que não estamos 100% seguros
-
 relevantes da medicina e com uma sólida base
-
 sua missão e de que o faz com qualidade (qualidade
-
 médicos. Queremos também combinar isso com um
-
 que são os melhores e isso é uma dificuldade, mas
-
 científica, centrado na aquisição de um conjunto
-
 formativa, qualidade do contexto profissional,
-
 fortíssimo investimento na área da investigação, na
-
 isso acaba por ser interessante, pois se estivermos
-
 de competências muito relevantes para a prática da
-
 qualidade do ambiente de trabalho). Para além
-
 capacidade de estabelecer pontos entre a formação
-
 numa estrutura que tem capacidade flexível
-
 medicina, que incluiu um grande enfoque na geração
-
 disso, tem responsabilidades estratégicas na
-
 e a geração do conhecimento, e em última análise
-
 para se ajustar às necessidades, obviamente vai
-
 de conhecimento científico, ou seja, na investigação
-
 definição daquilo que perspetiva como o futuro e as
-
 fazer isto enquadrado numa lógica de que isto
-
 encontrar as melhores soluções num determinado
-
 e centrado nos pacientes. Portanto muito orientado
-
 necessidades formativas de futuro na área, de forma
-
 gera valor, sobretudo para a população que em
-
 momento (mas que podem não ser as melhores
-
 para garantir que tornamos as nossas populações
-
 a assegurar que os alunos de um determinado
-
 determinada fase da vida apresenta doença.
-
 no momento subsequente). Depois um conjunto de
-
 mais saudáveis.
-
 momento e futuros graduados estão definitivamente
 preparados para os desafios que vão encontrar. É
-
 As experiencias anteriores têm-no ajudado
-
 uma figura central, que às vezes não é devidamente
-
 no cumprimento da sua função de diretor de
-
 valorizada.
-
-curso?
 Claro que sim. O capital de experiência prévio é
-
 O que o motivou a aceitar “comandar” este
-
 obviamente fundamental para estar minimamente
-
-curso?
-
 preparado para as funções. Costumo dizer que
-
 O desafio, o projeto, a possibilidade de termos aqui
-
 somos no presente aquilo que foi a nossa construção
-
 um projeto “from scratch”. O trabalhar sem heranças
-
 no passado, não apenas de um individuo, mas do
-
 tem duas vertentes: uma negativa que é facto de
-
 conjunto de indivíduos e do contexto.
-
 não haver heranças (e há muitas coisas boas nas
 instituições que vão ficando e perdurando), mas
-
 Quais são as maiores dificuldades no
-
 também tem o aspeto muito positivo, que é o facto
-
 cumprimento da sua função?
-
 dificuldades externas, que passam por coisas como
 a suborçamentação, falta de cultura estratégica de
 investimento partilhado, falta de massa crítica, mas
@@ -168,50 +103,31 @@ estes são desafios habituais de quem trabalha nesta
 área do contexto nacional. Depois há um conjunto
 de pequenas dificuldades que são específicas da
 medicina e que obviamente tentamos ultrapassa-las
-
 Quais são, na sua opinião os pontos fortes
 deste curso? E os pontos fracos?
 Os pontos fortes são então, um ensino que está
 centrado em última análise no paciente, que está
 centrado na aquisição de competências clínicas
 relevantes, muito alinhado com as linhas mais
-
 da melhor maneira possível.
-
 inovadoras internacionais, grande exigência e
-
 No seu entender, porque é que um futuro
-
 garantindo que o nosso graduado é um graduado
-
 universitário deve concorrer ao Mestrado
-
 que tem conhecimentos (“sabe”), que tem
-
 Integrado em Medicina?
-
-competências (“sabe fazer”) e que tem uma atitude
-
 Porque este é o melhor curso de Medicina do país.
-
 profissional correta (“sabe estar”). É este trajeto
-
 rigor científico para os alunos e para os docentes,
-
 www.aff.pt
 www.affsports.pt
 FABRICO, INSTALAÇÃO, MANUTENÇÃO E ASSISTÊNCIA TÉCNICA + REPRESENTAÇÕES, IMPORTAÇÃO E EXPORTAÇÃO
 PAVIMENTOS SINTÉTICOS E EM MADEIRA + RELVADOS SINTÉTICOS E PISTAS DE ATLETISMO + APETRECHAMENTO DESPORTIVO
-
 UMdic
 as
-
 d
-
 www.dicas.sas.uminho.pt | academia 15 de junho 2016
-
 11
-
 que torna este curso de grande qualidade, tal
 como está evidenciado em escrutínios, nacional e
 internacional. Não é por acaso que os nossos alunos
@@ -308,7 +224,7 @@ alguém que deixe de fazer formação, rapidamente
 fica desatualizado; competências na área do “Health
 advocacy”, para serem agentes muito ativos na
 educação das populações e portanto conseguirem
-refocar a prática clínica para dois tipos de cuidados:
+refocar a prática clínica para dois tipos de cuidados: 
 a gestão da doença crónica e por outro lado, a
 prevenção.
 Quais os principais desafios do Curso?
@@ -318,13 +234,8 @@ no portfolio formativo desta comunidade pedagógica
 essas competências possam ser adquiridas,
 treinadas, e retrinadas para que as pessoas sejam
 capacitadas para o exercício profissional.
-
-
 As escolhas de...
 Nuno Sousa
-
-as pessoas mais capacitadas para enfrentarem
-
 Melhor momento de quando estudava na
 Universidade?
 O convívio com os colegas e essa experiencia
@@ -353,4 +264,3 @@ ser autossustentável e com grande visibilidade
 internacional.
 Desporto preferido?
 Xadrez e Rugby.
-

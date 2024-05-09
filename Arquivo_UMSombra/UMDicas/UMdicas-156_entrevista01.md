@@ -1,14 +1,15 @@
 ---
-jornal:UMdicas
-issue:156
-interviewee:Rui Vieira de Castro
-topis:Academia
-role:Reitor da UMinho
-date:JULHO 2018
-num_pages:
-title:Entrevista ao Reitor da UMinho
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 156
+interviewee: Rui Vieira de Castro
+topic: Academia
+role: Reitor da UMinho
+date: JULHO 2018
+title: Entrevista ao Reitor da UMinho
+interviewer: Ana Marques
 ---
+
+
 Rui Vieira de Castro nasceu há 60 anos em Caldas de Vizela. Em
 novembro passado tomou posse como Reitor da Universidade do Minho
 Rui Vieira de Castro nasceu há 60 anos
@@ -105,7 +106,7 @@ para este período?
 O Plano de Ação que apresentei ao Conselho
 Geral para o Quadriénio fixa um conjunto
 de prioridades estratégicas, de que
-destaco:
+destaco: 
 - promover uma educação superior
 de elevada qualidade, através de projetos
 inovadores e socialmente relevantes,
@@ -135,7 +136,7 @@ sobretudo no quadro do Espaço Europeu
 de Ensino Superior.
 No plano da organização da Universidade
 foram estabelecidas como prioridades
-estratégicas:incrementar a qualidade
+estratégicas: incrementar a qualidade
 institucional da UMinho através de novas
 orientações e metodologias relacionadas
 com a gestão da Instituição; melhorar a
@@ -431,7 +432,6 @@ este assunto no Conselho Geral tive ocasião
 de manifestar a minha disponibilidade
 para encarar as iniciativas que nesse sentido
 venham a ser tomadas pelos nossos
-trabalhadores.
 Propôs ainda reforçar o corpo de investigadores
 da UMinho. Como está esse processo?
 São vários os instrumentos que estamos
@@ -453,7 +453,6 @@ internacional de
 que, também na
 área do desporto,
 estamos a fazer
-o percurso certo.
 responder a 137 posições. No âmbito do
 Programa FCT de Estímulo ao Emprego
 Científico - Modalidade Institucional, as
@@ -481,7 +480,7 @@ crítico, aberto ao mundo e atento
 às condições e necessidades das sociedades
 contemporâneas.
 A Universidade tem um compromisso
-forte com a educação integral dos seus estudantes:
+forte com a educação integral dos seus estudantes: 
 valoriza fortemente a formação
 técnica e científica especializada, promove
 o desenvolvimento de competências transversais

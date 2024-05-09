@@ -2,13 +2,11 @@
 title: UMDicas
 issue: 144
 university: Universidade do Minho
-date: dezembro 2016
-num_pages: None
 file_name: UMdicas-144.txt
-interviewee_1: Paula Cristina Martins é a atual Provedora do Estudante da Universidade do Minho
-interviewer_1: ANA MARQUES
-interviewee_2: Entrevista a Cristina Santos, diretora do Mestrado Integrado em Engenharia Biomédica
-interviewer_2: ANA MARQUES
+interviewee: Paula Cristina Martins é a atual Provedora do Estudante da Universidade do Minho
+interviewer: Ana Marques
+interviewee: Entrevista a Cristina Santos, diretora do Mestrado Integrado em Engenharia Biomédica
+interviewer: Ana Marques
 ---
 
 Paula Cristina Martins é a atual Provedora do Estudante da Universidade do Minho. A Professora auxiliar do
@@ -20,9 +18,8 @@ Cristina Martins para saber mais sobre este
 cargo, como podem os estudantes usufruir
 do serviço, como tem sido a experiência,
 entre muitas outras coisas.
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
-
 O Provedor do Estudante é um órgão
 independente e ainda recente na
 Universidade do Minho. Qual a sua missão e
@@ -34,13 +31,11 @@ Em conformidade, os Estatutos da Universidade
 do Minho, homologados em novembro de 2008,
 consagram, no seu artigo 113º, a figura do
 Provedor do Estudante, definindo genericamente
-
 O Provedor do Estudante é
 uma personalidade ligada ao
 meio académico, eleita por
 maioria absoluta no Conselho Geral, que é incumbida da
 função de promover os direitos dos estudantes no contexto da vida universitária.
-
 as suas funções, âmbito de atuação, o dever de
 cooperação da universidade e modo de eleição. O
 Provedor do Estudante é uma personalidade ligada
@@ -74,7 +69,6 @@ naturaliza no tecido universitário, sendo apropriada
 por todos os agentes e órgãos da Universidade,
 para além dos próprios estudantes. A par deste
 processo, outras iniciativas diretas e indiretas
-
 contribuem para esta divulgação, a saber: por
 ocasião da matrícula, os alunos do 1º ano recebem
 uma mensagem de boas-vindas do Provedor do
@@ -108,7 +102,6 @@ académica, dos seus órgãos, estruturas e agentes
 e pelo seu envolvimento na solução dos problemas;
 pelos contributos que, a partir dos casos
 experienciados por alguns estudantes, foi possível
-
 dar para a melhoria das disposições, processos e
 procedimentos adotados nos diferentes níveis da
 estrutura organizativa da Universidade, com uma
@@ -116,7 +109,6 @@ repercussão positiva para todos os estudantes.
 O Provedor do Estudante foi algo novo no
 meio académico. Tem sido complicado o
 cumprimento desta função?
-
 Não diria complicado, mas
 tem caraterísticas e requisitos certamente desafiantes...
 Não diria complicado, mas tem caraterísticas e
@@ -136,16 +128,11 @@ universidade, cuja resolução e qualificação nos
 envolve e interessa a todos, enquanto comunidade
 académica.
 As expectativas que tinha sobre o cargo têmse confirmado?
-
 UMdic
 as
-
 d
-
 www.dicas.sas.uminho.pt | academia 31 de dezembro 2016
-
 9
-
 Não tinha expetativas formadas (...). É uma espécie de
 roupa, que não se compra
 feita no pronto-a-vestir, mas
@@ -217,7 +204,6 @@ que carecem de atenção, consciencialização
 e apoio. Antes de mais, devem ser ouvidas
 atentamente, interpretadas e contextualizadas.
 Posteriormente, com base na informação relevante,
-
 são analisadas as alternativas de ação. O Provedor
 do Estudante pode desempenhar um papel
 de facilitação, encaminhamento ou mediação,
@@ -268,11 +254,9 @@ para a qualificação das relações entre os atores
 institucionais, numa lógica de promoção da
 qualidade do ambiente académico e de coesão
 institucional.
-
 Quais são atualmente as suas maiores
 preocupações com os estudantes da
 UMinho?
-
 O recurso ao Provedor do Estudante ocorre no âmbito da
 autonomia do estudante, é
 uma opção. É importante que
@@ -302,7 +286,6 @@ iniciativa da sua utilização. O recurso ao Provedor
 do Estudante ocorre no âmbito da autonomia do
 estudante, é uma opção. É importante que estejam
 criadas as condições para que esta escolha possa
-ser feita.
 Qual foi para si, em termos pessoais, a maior
 aprendizagem que tem tirado desta sua nova
 função?
@@ -314,12 +297,10 @@ muito enriquecedora. Salientaria especialmente a
 possibilidade de ter acesso a perspetivas plurais
 sobre a realidade e de coordenar pontos de vista
 alternativos, construindo assim entendimentos
-
 mais inclusivos.
 Como é que um aluno que necessite da sua
 atenção para a resolução de um problema
 pode contactá-la?
-
 Pode contactar-nos presencialmente, por telefone e por
 correio eletrónico.
 Pode contactar-nos presencialmente, por telefone e
@@ -333,7 +314,6 @@ provedorestudante.uminho.pt.
 Há ainda ex-estudantes e outras pessoas que nos
 contactam por via postal para o endereço acima
 descrito.
-
 Uma mensagem aos
 estudantes da UMinho...
 A mensagem é de estímulo à
@@ -344,9 +324,7 @@ seu papel enquanto membros
 da comunidade académica
 e na procura das melhores
 condições de formação e desenvolvimento que a Universidade pode oferecer.
-
 Entrevista a Cristina Santos, diretora do Mestrado Integrado em Engenharia Biomédica
-
 “Este curso é altamente multidisciplinar…”
 O UMdicas esteve à conversa com Cristina
 Santos, para quem ser diretora de curso é ser um
@@ -358,9 +336,6 @@ científica com que saem os recém-formados. Para
 além disso, o curso tem uma elevada relação com
 o tecido empresarial o que é uma mais valia para
 os seus estudantes.
-ANA MARQUES
-anac@sas.uminho.pt
-
 Qual a sua formação e trajeto académico?
 Sou graduada desde 1994 na licenciatura em
 Engenharia Electrónica Industrial, terminei o
@@ -396,8 +371,6 @@ convite nem hesitei e estou muito satisfeita com
 esta experiência.
 As experiencias anteriores têm-na ajudado
 no cumprimento da sua função de diretora
-de curso?
-
 A maior dificuldade foi exatamente a falta
 de experiências anteriores a nível de gestão.
 Certamente que numa próxima oportunidade
@@ -419,7 +392,6 @@ Ao Mestrado Integrado em Engenharia Biomédica
 deve concorrer um futuro universitário que goste
 das áreas de engenharia e de medicina. Mais
 tarde poderá ainda refinar a sua especialização
-
 dependendo das áreas com as quais melhor
 se identifique. O curso potencia a interligação
 entre a medicina e a engenharia, possibilitando a
@@ -458,7 +430,6 @@ Se os três primeiros anos são altamente
 multidisciplinares e transversais, nos dois últimos
 anos os alunos especializam-se numa determinada
 área dentro da Engenharia biomédica. Para tal, os
-
 alunos no final do 3º ano necessitam escolher um
 perfil vocacional entre quatro ramos disponíveis.
 A Engenharia Clínica aprofunda tópicos como o
@@ -498,14 +469,6 @@ Research Center), Center for Biomedical Imaging at
 Harvard Medical School and Massachusetts General
 Hospital, Johns Hopkins University, Baltimore, USA,
 ISR Paris; O Instituto Europeu de Excelência em
-
-UMdic
-as
-
-d
-
-www.dicas.sas.uminho.pt | academia 31 de dezembro 2016
-
 Engenharia de Tecidos e Medicina Regenerativa,
 coordenado pelo grupo de investigação 3B´s,
 compreende diferentes instituições europeias,
@@ -542,9 +505,7 @@ Dissertações de Mestrado produzidas, numerosas
 e de elevada qualidade (cerca de 60 anualmente),
 representam um importante contributo para o
 desenvolvimento do conhecimento na área, que se
-
 13
-
 traduz em publicações, desenvolvimento de novos
 produtos, tecnologias e novas empresas. Destas
 dissertações têm resultados produtos inovadores
@@ -566,7 +527,7 @@ diversas empresas. Existe um número significativo
 de Hospitais e empresas, bem como outras
 Universidades, que participaram ou acolheram
 alunos do MIEBIOM para o desenvolvimento
-de tarefas relacionadas com a UC Dissertação:
+de tarefas relacionadas com a UC Dissertação: 
 Hospital de Braga, Centro Hospitalar do Porto,
 Casa de Saúde de Guimarães, IBERDATA, INEB,
 etc. Alguns destes locais são também focos de
@@ -581,7 +542,6 @@ Engenharia Biomédica?
 É necessário que um recém-formado do Mestrado
 Integrado em Engenharia Biomédica consiga
 endereçar os diferentes desafios com os quais
-
 é enfrentado quando começa a trabalhar. Estes
 engenheiros necessitam de abrir caminho e
 continuar a mostrar o impacto significativo que
@@ -600,7 +560,6 @@ necessitam de estar sempre atualizados para
 lecionarem as matérias relevantes e necessárias
 para acompanhar esta evolução. Por outro lado, é
 necessário manter e estabelecer novos contactos e
-
 parcerias com o tecido empresarial.
 Este contacto é também estabelecido através dos
 novos engenheiros que todos os anos terminam
@@ -616,4 +575,3 @@ bons candidatos, alunos empenhados e dedicados
 que consigam continuar a produzir os excelentes
 resultados dos seus antecessores e a levar o curso
 a atingir as metas que nos propomos.
-

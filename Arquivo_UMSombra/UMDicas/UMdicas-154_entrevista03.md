@@ -1,14 +1,15 @@
 ---
-jornal:UMdicas
-issue:154	
-interviewee:Pedro Martins
-topis:Academia
-role:Presidente do Conselho Geral (CG) da UMinho.
-date:ABRIL 2018
-num_pages:
-title:“…a entrada no mercado de trabalho, para um licenciado em filosofia, não é propriamente fácil…”
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 154	
+interviewee: Pedro Martins
+topic: Academia
+role: Presidente do Conselho Geral (CG) da UMinho.
+date: ABRIL 2018
+title: “…a entrada no mercado de trabalho, para um licenciado em filosofia, não é propriamente fácil…”
+interviewer: Ana Marques
 ---
+
+
 com Pedro Martins, para quem
 ser diretor de curso é, apesar de
 todas as dificuldades “um cargo
@@ -23,7 +24,7 @@ qualquer área.
 Qual a sua formação e trajeto
 académico?
 O percurso normal num Diretor
-do Curso de Filosofia:Licenciatura
+do Curso de Filosofia: Licenciatura
 em filosofia (Universidade
 Nova de Lisboa), Mestrado
 em História Cultural e Política
@@ -238,7 +239,7 @@ Quais são, na sua opinião os
 pontos fortes deste curso? E
 os pontos fracos?
 Entre os “pontos fortes” do curso
-destacam-se os seguintes:
+destacam-se os seguintes: 
 - Curso que tem quase sempre
 registado uma procura relativamente
 alta, tendo-se verificado
@@ -274,7 +275,7 @@ o índice de empregabilidade do
 Curso é relativamente bom em
 relação à generalidade dos cursos
 de humanidades.
-Quanto aos pontos “fracos”:
+Quanto aos pontos “fracos”: 
 - Excesso de burocracia e dificuldades
 na coordenação entre
 diversos organismos da Universidade,
@@ -407,8 +408,8 @@ Para conhecer de uma forma
 mais concreta estas atividades
 basta consultar as notícias patentes
 na página do curso no facebook,
-recentemente criada:
-https://www.facebook.com/cursofilosofiauminho/
+recentemente criada: 
+https: //www.facebook.com/cursofilosofiauminho/
 Devemos destacar ainda outros
 fatores que podem ser considerados
 vantajosos, como o
@@ -502,12 +503,12 @@ também a capacidade de analisar
 todos os problemas humanos de
 uma forma mais global e integrada,
 nunca de uma forma estreita,
-rígida e redutora (por exemplo:
+rígida e redutora (por exemplo: 
 estritamente tecnológica ou
 económico-financeira). Mas também
 podemos ver o papel prático
 da filosofia (em todos os campos
-da ação) de outra forma:se os
+da ação) de outra forma: se os
 nossos comportamentos e hábitos
 são determinados por ideias
 e conceções do mundo e da vida
@@ -523,7 +524,7 @@ ação, seja em que domínio for…
 Quais são os maiores desafios
 de um recém-formado em
 Filosofia?
-Eu diria que são dois:caso escolha
+Eu diria que são dois: caso escolha
 a via que referi atrás
 (prosseguir os estudos a nível da
 pós-graduação), optar pelo curso

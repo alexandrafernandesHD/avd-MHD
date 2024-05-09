@@ -1,14 +1,14 @@
 ---
-jornal:UMdicas
-issue:152	
-interviewee:António Paisana
-topis:Ação Social
-role:Administrador dos Serviços de Acção Social da Universidade do Minho (SASUM)
-date:DEZEMBRO 2017
-num_pages:
-title:António Paisana
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 152	
+interviewee: António Paisana
+topic: Ação Social
+role: Administrador dos Serviços de Acção Social da Universidade do Minho (SASUM)
+date: DEZEMBRO 2017
+title: António Paisana
+interviewer: Ana Marques
 ---
+
 O UMdicas esteve à conversa
 com António Paisana,
 que nos falou do seu trajeto
@@ -191,7 +191,7 @@ Quais vão ser as suas prioridades
 durante este período?
 A missão e os objetivos dos SASUM
 que constam dos seus Estatutos
-são claros:os SASUM
+são claros: os SASUM
 foram criados para conceder
 apoios (contexto da Lei) e prestar
 serviços, de modo a contribuir
@@ -202,7 +202,7 @@ e compreende, para além da
 atribuição de bolsas de estudo,
 a alimentação, o alojamento,
 o desporto e a saúde. A lógica é
-simples:estudantes que possuam
+simples: estudantes que possuam
 capacidades financeiras dignas,
 uma alimentação equilibrada e
 um alojamento confortável, e que
