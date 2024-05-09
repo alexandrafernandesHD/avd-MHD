@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:167
-University:Universidade do Minho
-interviewee:André Reis
-topis:
-role:Presidente da FADU
-date:NOVEMBRO 2019
-num_pages:
-title:André Reis Presidente da FADU
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 167
+university: Universidade do Minho
+interviewee: André Reis
+role: Presidente da FADU
+date: NOVEMBRO 2019
+title: André Reis Presidente da FADU
+interviewer: Ana Marques
 ---
+
+
 André Reis tomou posse como presidente da Federação Académica de Desporto Universitário
 (FADU) no passado dia 8 de outubro. O jovem estudante de 27 anos estará à frente da instituição
 para o biénio 2019-2021, assumindo a aposta no “Desporto para Todos” como prioridade.
@@ -82,7 +82,7 @@ os melhores e, sempre que escolhemos
 os melhores, outros ficam para trás.
 Temos que ter respostas e oferta para
 todos, temos que ter ‘Desporto para
-Todos’. Mas que fique claro:este
+Todos’. Mas que fique claro: este
 caminho não se faz sozinho. A FADU
 não consegue atingir este objetivo,
 este desígnio nacional, sem os seus
@@ -252,7 +252,7 @@ encontro desta preocupação.
 Na vertente internacional, a FADU
 acaba de apresentar três candidaturas à
 organização de campeonatos mundiais
-universitários para 2022 e 2024:triatlo
+universitários para 2022 e 2024: triatlo
 no Porto, futsal em Braga e corta mato
 em Aveiro. Quais são as perspetivas de
 sucesso destas candidaturas?
@@ -282,7 +282,7 @@ com atividade física ou desportiva
 regular é a grande prioridade da atual
 direção da FADU para o biénio 2019-
 2021. Identificamos três grandes áreas
-para a promoção da prática desportiva:
+para a promoção da prática desportiva: 
 recreação/informal, competição
 interna e desporto adaptado. Na
 vertente recreação/informal trata-se
@@ -329,7 +329,7 @@ e contribuir para estas metas.
 O ano de 2019 fica marcado por
 duas distinções que foram atribuídas
 à UMinho em resultado da sua
-dinâmica desportiva:a medalha de
+dinâmica desportiva: a medalha de
 honra ao mérito desportivo, entregue
 pelo Governo de Portugal, e o prémio
 de melhor universidade europeia da
@@ -413,7 +413,7 @@ Gostaria de deixar alguma
 mensagem para os estudantes do
 ensino superior, em geral, e para os
 da UMinho, em particular?
-Sim. Uma mensagem óbvia:
+Sim. Uma mensagem óbvia: 
 participem nas atividades
 extracurriculares que as Instituições
 de Ensino Superior oferecem e, claro,

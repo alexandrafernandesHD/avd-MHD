@@ -1,14 +1,12 @@
 ---
-jornal:UMdicas
-issue:193
-University:Universidade do Minho
-interviewee:Grupo de Fados e Serenatas da UMinho (GFSUM)
-topis:Cultura, Fado Académico, Grupo de Fados e Serenatas da UMinho (GFSUM)
-role:
-date:AGOSTO 2023
-num_pages:
-title:...o grande objetivo do grupo é perpetuar a tradição do Fado Académico...
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 193
+university: Universidade do Minho
+interviewee: Grupo de Fados e Serenatas da UMinho (GFSUM)
+topic: Cultura, Fado Académico, Grupo de Fados e Serenatas da UMinho (GFSUM)
+date: AGOSTO 2023
+title: ...o grande objetivo do grupo é perpetuar a tradição do Fado Académico...
+interviewer: Ana Marques
 ---
 
 “...o grande objetivo do grupo 
@@ -101,7 +99,7 @@ tenha interesse pode demonstrá-lo
 através de email, através das nossas redes 
 sociais, certamente daremos feedback. 
 Atualmente, os nossos ensaios são a cada 
-15 dias, a partir das 21:30, num espaço 
+15 dias, a partir das 21: 30, num espaço 
 cedido no Colégio de São Caetano, em 
 Maximinos. Aparecendo num dos 
 nossos ensaios, para nós, o fundamental 
@@ -138,8 +136,7 @@ também o espetáculo, no final do ano, em
 conjunto com a Orquestra de Cordofones 
 Tradicionais de Braga. 
 A dinamização do grupo, torná-lo cada 
-ANA MARQUESEm que se destaca e diferencia o Grupo 
-de Fados e Serenatas da Universidade 
+Ana MarquesEm que se destaca e diferencia o Grupo 
 do Minho dos outros grupos culturais? 
 Os nossos espetáculos, por norma, e 
 atualmente, não se direcionam a grandes 
@@ -250,4 +247,4 @@ contactem-nos, apareçam, teremos
 todo o gosto em recebê-los nos ensaios.
 Venham preparados para uma tertúlia,
 para criar laços.
-AAUM
+AAUMAAUMAAUMAAUM

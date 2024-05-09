@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:164
-University:Universidade do Minho
-interviewee:António Paisana
-topis:Academia
-role:Administrador dos SASUM
-date:JUNHO 2019
-num_pages:
-title:António Paisana Administrador dos SASUM
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 164
+university: Universidade do Minho
+interviewee: António Paisana
+topic: Academia
+role: Administrador dos SASUM
+date: JUNHO 2019
+title: António Paisana Administrador dos SASUM
+interviewer: Ana Marques
 ---
+
+
 António Paisana é Administrador dos Serviços de Acção Social da Universidade do Minho
 (SASUM) há cerca de um ano e meio. Em entrevista ao UMDicas fez um balanço deste trajeto
 à frente dos Serviços, falou-nos do presente e projetou o futuro da Instituição.
@@ -114,7 +115,7 @@ reconhecem devidamente a realidade
 da atividade dos Serviços de Acção
 Social. Acresce que o Estado continua a
 não cumprir com aquilo que determina
-e das duas uma:ou as organizações
+e das duas uma: ou as organizações
 suportam – com custos a longo prazo
 por não poderem alocar recursos
 para outros fins (nomeadamente em
@@ -133,7 +134,7 @@ em 2019, sem que para tal tenham sido
 ressarcidos.
 Os SASUM disponibilizam à
 comunidade valências e atividades
-como:alojamento, alimentação,
+como: alojamento, alimentação,
 desporto, bolsas de estudo, apoio
 médico, bem como outras atividades
 direcionadas para a proteção e bemestar
@@ -172,7 +173,7 @@ As bases de orientação estratégica
 definidas para balizar as atividades
 dos SASUM, a partir de 2019,
 assentam em três pilares principais
-que se conjugam entre eles. A saber:
+que se conjugam entre eles. A saber: 
 as pessoas, o investimento e mais e
 melhores serviços. No que às pessoas
 diz respeito, decidiu-se adotar o ano
@@ -252,7 +253,7 @@ desenvolvem e nos SASUM este padrão
 confirmou-se, assim como também
 se seguiu uma estrutura para o seu
 desenvolvimento à volta das 3 grandes
-dimensões normativas, a saber:
+dimensões normativas, a saber: 
 ambiental, social e económica. Mas
 tudo começou com a conceção de um
 Plano Estratégico de Sustentabilidade,
@@ -303,7 +304,7 @@ pontos de recolha de roupa usada nos
 Campi Universitários.
 Presentemente, estamos a
 trabalhar na obtenção da certificação
-da ISO 14001:2015 Sistema de
+da ISO 14001: 2015 Sistema de
 Gestão Ambiental, tornando-nos os
 primeiros Serviços de Acção Social do
 país a sê-lo e estamos empenhados
@@ -354,7 +355,7 @@ mais de 900 – incluindo perto de 150
 voluntários – e os números associados
 ao apoio que será disponibilizado ao
 longo das 2 semanas de competição
-são impressionantes:prevêem-se
+são impressionantes: prevêem-se
 servir cerca de 15 000 refeições e alojar
 cerca de 700 pessoas nas Residências
 Universitárias e em mais duas unidades
@@ -367,7 +368,7 @@ da FPF no que a ações de formação
 – diz respeito. Será certamente
 um acontecimento com grande
 visibilidade internacional, com equipas
-provenientes de 15 países:Alemanha,
+provenientes de 15 países: Alemanha,
 Croácia, Espanha, França, Geórgia,
 Israel, Itália, Noruega, Polónia,
 Portugal, Roménia, Reino Unido,
@@ -450,5 +451,4 @@ desenvolvimento pessoal e profissional.
 Proximidade e reconhecimento do valor
 que acrescentam, partilhando o sucesso
 que vamos alcançando!
-
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

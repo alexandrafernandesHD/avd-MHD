@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:170
-University:Universidade do Minho
-interviewee:
-topis:Academia
-role:
-date:MARÇO 2020
-num_pages:
-title:UMinho comemorou 46 anos com reconhecimento à sua Comunidade
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 170
+university: Universidade do Minho
+interviewee: 
+topic: Academia
+date: MARÇO 2020
+title: UMinho comemorou 46 anos com reconhecimento à sua Comunidade
+interviewer: Ana Marques
 ---
+
+
 Cerimónia solene decorreu no passado dia 17 de fevereiro, no Salão Medieval do Largo do
 Paço, em Braga.
 “A universidade tem nas pessoas que a
@@ -180,7 +180,7 @@ a Universidade do Minho e o Governo
 Português apontam estratégias conjuntas
 que contrariam a capacidade instalada
 pelo atual sistema e rede de ação social
-escolar. Questionando sobre:“Como é
+escolar. Questionando sobre: “Como é
 que vamos aumentar progressivamente o
 número de estudantes no Ensino Superior
 se não temos onde os alojar?”; “Onde

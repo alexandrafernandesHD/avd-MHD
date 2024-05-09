@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:176
-University:Universidade do Minho
-interviewee:A Gatuna
-topis:Cultura
-role:Tuna Feminina da Universidade do Minho
-date:ABRIL 2021
-num_pages:
-title:“Sentimos saudades... de poder tocar a nossa música e sentir os aplausos do público”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 176
+university: Universidade do Minho
+interviewee: A Gatuna
+topic: Cultura
+role: Tuna Feminina da Universidade do Minho
+date: ABRIL 2021
+title: “Sentimos saudades... de poder tocar a nossa música e sentir os aplausos do público”
+interviewer: Ana Marques
 ---
+
+
 A Gatuna é uma das mais emblemáticas Tunas Femininas da Universidade do Minho e do
 país. A pandemia não as parou, mas obrigou a novas formas de trabalhar.
 Ao longo dos anos têm marcado pela
@@ -40,7 +41,7 @@ A Gatuna foi a primeira Tuna Feminina
 em Portugal a realizar um videoclipe do
 nosso original “Braguesa”. Deixamos o
 link e convidamos todos a ver e deixar o
-vosso like:https://www.youtube.com/
+vosso like: https: //www.youtube.com/
 watch?v=lyPyDt5Wlig
 Em que se destaca e diferencia a Gatuna
 das outras tunas femininas?
@@ -150,4 +151,4 @@ ser prejudicada. É bastante triste que não
 possamos assistir a espetáculos, peças
 de teatro, concertos e principalmente
 festivais de tunas, que tanto nos
-enriquecem culturalmente.
+enriquecem culturalmente.enriquecem culturalmente.enriquecem culturalmente.enriquecem culturalmente.

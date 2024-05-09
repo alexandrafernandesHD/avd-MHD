@@ -1,14 +1,13 @@
 ---
-jornal:UMdicas
-issue:181
-University:Universidade do Minho
-interviewee:Isabel Baião
-topis:Ação Social
-role:Serviços de Acção Social da Universidade do Minho (SASUM)
-date:NOVEMBRO 2021
-num_pages:
-title:PERCURSOS
-interviewer:
+journal: UMdicas 
+issue: 181
+university: Universidade do Minho
+interviewee: Isabel Baião
+topic: Ação Social
+role: Serviços de Acção Social da Universidade do Minho (SASUM)
+date: NOVEMBRO 2021
+title: PERCURSOS
+interviewer: 
 ---
 Isabel Baião nasceu em Amarante e vive em Braga há 32 anos.  A desempenhar funções 
 nos Serviços de Acção Social da Universidade do Minho (SASUM) há 18 anos, é, desde 2015, 
@@ -67,7 +66,7 @@ quase no imediato, mas por vezes é
 muito difícil termos um equilíbrio entre 
 a ponderação e a celeridade.
 Mais importante do que soluções 
-é apontar caminhos:“não existem 
+é apontar caminhos: “não existem 
 soluções, existem caminhos” e o caminho 
 dos SASUM é um crescer constante e 
 saber que faço parte deste crescimento 
@@ -102,7 +101,6 @@ Apesar disso, avalio de forma muito
 positiva todo o trajeto que tenho feito e 
 que tem sido muito enriquecedor, quer 
 em termos pessoais, quer profissionais. 
- 
 Como tem sido passar por esta pandemia, 
 a nível pessoal e profissional?
 A Universidade do Minho foi a primeira 
@@ -135,7 +133,7 @@ Lugar que me abriu a porta há 31 anos.
 Sinónimo de diferença, de cultura e 
 de aposta constante e contínua na 
 qualidade.  Isabel Baião é responsável pela Divisão de Alojamento do Departamento de Apoio Social.
-ANA MARQUESNeste contexto pandémico, que era 
+Ana MarquesNeste contexto pandémico, que era 
 novidade para todos, não sabíamos muito 
 bem como atuar, foi imprescindível o 
 apoio, a dedicação, o espirito de interajuda 
@@ -162,4 +160,4 @@ Com esperança, cautela e alguma
 incerteza, mas nunca deixo de acreditar 
 que para a frente é que é o caminho… e 
 citando Charles Chaplin “A persistência 
-é o caminho do êxito”! 
+é o caminho do êxito”! é o caminho do êxito”! é o caminho do êxito”! é o caminho do êxito”! 

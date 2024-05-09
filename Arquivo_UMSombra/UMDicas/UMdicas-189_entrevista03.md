@@ -1,15 +1,13 @@
 ---
-jornal:UMdicas
-issue:189
-University:Universidade do Minho
-interviewee:Bomboémia
-topis:Cultura
-role:
-date:
-num_pages:
-title:“... podemos estar muito orgulhosos da qualidade e do nível dos grupos culturais universitários portugueses...”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 189
+university: Universidade do Minho
+interviewee: Bomboémia
+topic: Cultura
+title: “... podemos estar muito orgulhosos da qualidade e do nível dos grupos culturais universitários portugueses...”
+interviewer: Ana Marques
 ---
+
 Fundados a 14 de setembro de 2004, os Bomboémia são um grupo dinâmico e inovador que
 chegou este ano à maior idade.
 Os Bomboémia são um dos grupos
@@ -146,7 +144,7 @@ e explorem! Podem estar a perder a
 oportunidade de conhecer gente nova
 e de se apaixonarem por um projeto
 novo! Fica aqui a informação relativa aos
-ensaios:2ªas e 5ªas feiras por baixo do
+ensaios: 2ªas e 5ªas feiras por baixo do
 Bar Académico de Braga às 21h30!
 2020 e 2021 foram anos particularmente
 difíceis para a cultura. Como viveram
@@ -226,9 +224,8 @@ Para os que ainda não nos conhecem,
 estejam atentos às nossas redes sociais
 (Instragram e Facebook) para que possam
 saber por onde andamos! Assim terão a
-oportunidade de nos ver e, das duas uma:
+oportunidade de nos ver e, das duas uma: 
 ou gostam, ficam curiosos e juntam-se
 a nós, ou então simplesmente gostam e
 vibram connosco!
-
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

@@ -1,15 +1,14 @@
 ---
-jornal:UMdicas
-issue:184
-University:Universidade do Minho
-interviewee:António Ferreira
-topis:Ação Social
-role:Serviços de Acção Social da Universidade do Minho (SASUM)
-date:
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 184
+university: Universidade do Minho
+interviewee: António Ferreira
+topic: Ação Social
+role: Serviços de Acção Social da Universidade do Minho (SASUM)
+title: PERCURSOS
+interviewer: Ana Marques
 ---
+
 
 António Ferreira nasceu há 61 anos em Novais, Vila Nova de Famalicão. A desempenhar 
 funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 24 anos, faz parte 
@@ -21,7 +20,7 @@ vive em Braga desde 1982, ano em que
 ingressou como aluno na Universidade do 
 Minho (UMinho), fala-nos do seu percurso de 
 vida e experiência profissional, conta como é 
-vivido o dia a dia, sempre com o mesmo lema:
+vivido o dia a dia, sempre com o mesmo lema: 
 “viver um dia de cada vez”.
 Como chegou aos SASUM e qual o seu 
 percurso profissional? 
@@ -53,7 +52,6 @@ são, atualmente, as suas funções?
 Em julho de 2022 fará 24 anos que estou 
 nos Serviços. Atualmente, exerço funções 
 técnicas ligadas à atividade física.
- 
 Gosta do que faz?
 Já exerci várias funções e em todas 
 houve coisas de que gostei e outras nem 
@@ -61,7 +59,6 @@ tanto, no entanto, de uma coisa tenho a
 certeza, todas fizeram e fazem parte do 
 meu crescimento pessoal e profissional 
 e tentei aprender sempre com todas elas.
- 
 O que mais o motiva e quais as maiores dificuldades, no dia a dia, no 
 desenvolvimento do seu trabalho?
 O que mais me motiva é o bom ambiente 
@@ -74,7 +71,6 @@ Sobre as dificuldades, por vezes surgem
 situações que necessitam de uma 
 abordagem diferente do habitual, mas 
 em equipa, tudo se soluciona.
- 
 Como é um dia de trabalho de António 
 Ferreira?
 Nesta fase está centrado em funções 
@@ -96,7 +92,6 @@ Um dos objetivos dos SASUM é o apoio
 Nós, no DDC, trabalhamos para atingir 
 e cumprir, com o máximo de qualidade, 
 esses objetivos.
- 
 Como tem sido passar por esta pandemia?
 Como se ouve muita gente dizer “nunca 
 pensei passar por uma coisa destas…”, 
@@ -110,7 +105,6 @@ elas mantivessem uma atividade física
 regular, como permitiu não perdermos o 
 contacto com elas, facilitando a retoma 
 da atividade presencial. 
- 
 Como olha para o futuro?
 O futuro é algo que está por acontecer e 
 quando acontecer, logo se vê o que deve 
@@ -141,4 +135,4 @@ Um lugar?
 Montanha.
 A Universidade do Minho?
 A melhor Academia do país!António Ferreira é Tecnico Desportivo no DDC, com funções específicas na área da musculação e cardiofitness, treino funcional e avaliações físicas.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

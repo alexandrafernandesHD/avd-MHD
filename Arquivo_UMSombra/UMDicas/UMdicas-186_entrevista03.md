@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:186
-University:Universidade do Minho
-interviewee:
-topis:Cultura
-role:
-num_pages:
-date:JUNHO 2022
-title:“… não temos dúvidas que a passagem de um universitário por um grupo cultural é única e transformadora ...”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 186
+university: Universidade do Minho
+interviewee: 
+topic: Cultura
+date: JUNHO 2022
+title: “… não temos dúvidas que a passagem de um universitário por um grupo cultural é única e transformadora ...”
+interviewer: Ana Marques
 ---
+
+
 A Tun’ao Minho - Tuna Académica Feminina da Universidade foi criada em 2012, por um
 grupo de amigas unidas pela paixão à música.
 A Tun’ao Minho - Tuna Académica
@@ -33,7 +33,7 @@ caracterizam?
 A Tun’ao Minho é composta por
 elementos de diversos cursos e áreas de
 trabalho que se unem todas por uma só
-paixão:a música.
+paixão: a música.
 O nosso traje possui pormenores alusivos
 ao folclore minhoto, como o Lenço dos
 Namorados que algumas Lavradeiras
@@ -136,7 +136,7 @@ e nos fazem crescer enquanto grupo.
 No entanto, destacamos a participação no
 nosso primeiro festival, o X FATFUBI na
 bela cidade da Covilhã, do qual tivemos
-o prazer de trazer para casa 3 prémios:
+o prazer de trazer para casa 3 prémios: 
 Melhor Tuna, Melhor Solista e Prémio
 Azul. Com apenas um ano de existência,
 esta foi a prova que a vontade de levar
@@ -152,7 +152,7 @@ Universidade do Minho, mas também a
 cidade de Braga, tem para oferecer.
 A última edição voltou a dar-nos um
 vislumbre de como era Braga antes da
-pandemia:mais de 300 participantes
+pandemia: mais de 300 participantes
 estiveram presentes no V Tunão - Festival
 de Tunas Femininas. Promovemos
 quatro dias de muita música e convívio,
@@ -232,7 +232,6 @@ imprescindível a nossa presença no
 seio académico. Afinal, há uma enorme
 lacuna na maioria dos estudantes ao
 nível da cultura e das tradições dentro
-da academia minhota.
 Por isso, temos tentado participar em
 todas as iniciativas que surjam e para
 as quais somos convidadas, seja pela
@@ -314,4 +313,4 @@ do seu pequeno cantinho, assim como
 oferecer cada vez mais atividades para
 enriquecer o percurso académico de todos
 os presentes.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

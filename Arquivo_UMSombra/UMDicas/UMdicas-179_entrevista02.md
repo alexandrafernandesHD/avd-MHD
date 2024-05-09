@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:179
-University:Universidade do Minho
-interviewee:A Afonsina – Tuna de Engenharia da Universidade do Minho
-topis:Cultura
-role:Tuna de Engenharia da Universidade do Minho
-date:SETEMBRO 2021
-num_pages:
-title:“Neste momento, o nosso maior sonho (...) é voltarmos a subir a palco em contexto de festival de tunas.”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 179
+university: Universidade do Minho
+interviewee: A Afonsina – Tuna de Engenharia da Universidade do Minho
+topic: Cultura
+role: Tuna de Engenharia da Universidade do Minho
+date: SETEMBRO 2021
+title: “Neste momento, o nosso maior sonho (...) é voltarmos a subir a palco em contexto de festival de tunas.”
+interviewer: Ana Marques
 ---
+
+
 A Afonsina – Tuna de Engenharia da Universidade do Minho comemorou no passado mês de
 março, 27 anos de existência!
 Feita de uma vontade enorme de marcar

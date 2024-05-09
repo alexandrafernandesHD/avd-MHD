@@ -1,21 +1,17 @@
 ---
-jornal:UMdicas
-issue:195
-University:Universidade do Minho
-interviewee:Alexandra Seixas
-topis:SASUM
-role:Administradora dos Serviços de Ação Social da Universidade do Minho (SASUM)
-date:
-num_pages:
-title:Entrevista à Administradora 
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 195
+university: Universidade do Minho
+interviewee: Alexandra Seixas
+topic: SASUM
+role: Administradora dos Serviços de Ação Social da Universidade do Minho (SASUM)
+title: Entrevista à Administradora 
+interviewer: Ana Marques
 ---
-Academia
-Entrevista à Administradora 
+
 dos SASUM, Alexandra Seixas
 Administradora dos Serviços de Ação Social da Universidade do Minho (SASUM) há pouco 
 mais de um ano, revela estar a ser um desafio “ainda maior do que estava à espera”.
-ENTREVISTA
 Alexandra Seixas é Administradora dos 
 Serviços de Ação Social da Universidade 
 do Minho (SASUM) desde 14 de 
@@ -79,7 +75,6 @@ diferentes, porventura mais estratégicas,
 mas eu não consigo desligar estratégia, 
 de ação. Sou de terreno, gosto de ver 
 acontecer. O maior desafio diria que é o da Alexandra Seixas é licenciada e mestre pela Universidade do Minho. 
-NUNO GONÇALVES
 “... gosto de pensar que 
 é porque temos cada vez 
 mais mulheres preparadas 
@@ -142,7 +137,7 @@ a cabo as estratégias e respetivas
 ações que a concretizem. Estou certa 
 de que a qualidade da colaboração e o 
 comprometimento de cada membro 
-NUNO GONÇALVES
+Nuno Gonçalves
 A Administradora é a primeira mulher à frente da Instituição. sustentabilidade financeira do Serviço, 
 pois sem ela não é possível prosseguir a 
 nossa missão. 
@@ -200,7 +195,7 @@ vai duplicar a oferta de quartos e a sua
 operacionalização vai ser um desafio 
 gigantesco para a estrutura.Qual o orçamento dos SASUM para 2024?
 Cerca de 9.800 milhões de euros. Valor do 
-orçamento submetido:9.850.866,00 €.
+orçamento submetido: 9.850.866,00 €.
 Os SASUM têm uma grande capacidade de 
 arrecadação de receitas próprias. O que 
 representam estas, atualmente, no 
@@ -350,7 +345,7 @@ Que mensagem gostaria de deixar
 à Academia e aos trabalhadores dos 
 SASUM?
 Aos estudantes, reforçar o que o 
-maravilhoso hino da UMinho afirma:
+maravilhoso hino da UMinho afirma: 
 “estes anos são viagem” e ela deve 
 mesmo ser aproveitada ao máximo! 
 Estamos cá para ajudar nesse percurso!  
@@ -376,4 +371,4 @@ a todos os estudantes
 que dele precisam para 
 frequentar o ensino 
 superior. A alumna da UMinho assume o papel à frente dos SASUM com “espírito de missão”. 
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

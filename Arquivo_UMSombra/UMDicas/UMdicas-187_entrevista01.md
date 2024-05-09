@@ -1,15 +1,14 @@
 ---
-jornal:UMdicas
-issue:187
-University:Universidade do Minho
-interviewee:Paula Cristina Leite
-topis:Ação Social
-role:
-date:
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 187
+university: Universidade do Minho
+interviewee: Paula Cristina Leite
+topic: Ação Social
+title: PERCURSOS
+interviewer: Ana Marques
 ---
+
+
 Paula Cristina Leite nasceu e vive em Guimarães há 53 anos. 
 Desempenha funções nos Serviços de Acção Social da Universidade 
 do Minho (SASUM) há 19 anos. Atualmente, faz parte do Departamento 
@@ -138,4 +137,4 @@ O local onde trabalho há 28 anos, que
 me proporciona grandes ensinamentos 
 profissionais e pessoais. 
 Paula Cristina é Secretária da Administração dos SASUM. 
-ANA MARQUES
+Ana Marques

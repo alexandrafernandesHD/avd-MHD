@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:183
-University:Universidade do Minho
-interviewee:Augustuna
-topis:Cultura
-role:
-date:FEVEREIRO 2022
-num_pages:
-title:“O nosso trajeto durante estes 25 anos foi todo um carrossel de momentos e emoções vividas.”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 183
+university: Universidade do Minho
+interviewee: Augustuna
+topic: Cultura
+date: FEVEREIRO 2022
+title: “O nosso trajeto durante estes 25 anos foi todo um carrossel de momentos e emoções vividas.”
+interviewer: Ana Marques
 ---
+
+
 Fundada em 1996, a Augustuna comemorou em fevereiro de 2021, as bodas de prata.
 A Augustuna foi a primeira tuna mista
 da Universidade do Minho (UMinho), que
@@ -83,7 +83,7 @@ e emoções vividas. Lembramo-nos
 particularmente de uma das edições
 da Récita em que a AAUM começou
 a descrição da nossa tuna com esta
-singular frase:“Once upon a time… or
+singular frase: “Once upon a time… or
 maybe twice!”, o que nos descreve de
 forma exímia. Convém relembrar que a
 Augustuna foi a primeira tuna mista a
@@ -242,7 +242,7 @@ O maior sonho da Augustuna é continuar
 a trabalhar para que o crescimento seja
 sustentável. Não se pode sonhar com
 grandeza se não se tiver uma base para
-isso. É como a construção de uma casa:
+isso. É como a construção de uma casa: 
 nunca se começa pelo telhado. Toda
 a gente sabe ou pelo menos deve ter
 uma perceção de que as vistas no topo
@@ -322,7 +322,7 @@ culturais na vida da Universidade e de
 um universitário?
 Claramente que um universitário tem
 como seu principal objetivo o estudo. Mas
-lembremo-nos do seguinte:a vida de um
+lembremo-nos do seguinte: a vida de um
 universitário não é nada mais nem nada
 menos do que a fase de transição da sua
 juventude para a sua fase mais madura,

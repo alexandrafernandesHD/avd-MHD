@@ -1,15 +1,12 @@
 ---
-jornal:UMdicas
-issue:190
-University:Universidade do Minho
-interviewee:Filipa Oliveira
-topis:Ação Social
-role:
-date:
-num_pages:
-title:PERCURSOS
-interviewer:
+journal: UMdicas 
+issue: 190
+university: Universidade do Minho
+interviewee: Filipa Oliveira
+topic: Ação Social
+title: PERCURSOS
 ---
+
 Filipa Oliveira nasceu e vive em Braga há 44 anos. Casada, mãe de 3 filhos, desempenha funções 
 nos Serviços de Acção Social da Universidade do Minho (SASUM) há 20 anos. Atualmente, faz 
 parte do Departamento Contabilístico e Financeiro, uma equipa com cerca de 20 trabalhadores.
@@ -111,7 +108,7 @@ bastante suspense e reviravoltas que me
 cativou logo nos primeiros capítulos.
 Filme? 
 Há alguns filmes que me marcaram, 
-como:ET; Braveheart; A paixão de 
+como: ET; Braveheart; A paixão de 
 Cristo; Indiana Jones.
 Uma música e/ou um músico? 
 Sou muito eclética no que toca a gostos 
@@ -120,9 +117,9 @@ de espírito…
 O que gosta de fazer nos tempos livres? 
 Passar tempo de qualidade com os meus
 Vício? 
-Acho que não tenho :)… talvez comer :)
+Acho que não tenho : )… talvez comer : )
 Um lugar? 
 A minha casa.
 A Universidade do Minho? 
 Um orgulho trabalhar aqui.
-Filipa Oliveira presta serviço de Apoio Técnico à Contratação e à Gestão do DCF . ANA MARQUESNUNO GONÇALVES
+Filipa Oliveira presta serviço de Apoio Técnico à Contratação e à Gestão do DCF . Ana MarquesNuno GonçalvesFilipa Oliveira presta serviço de Apoio Técnico à Contratação e à Gestão do DCF . Ana MarquesNuno GonçalvesFilipa Oliveira presta serviço de Apoio Técnico à Contratação e à Gestão do DCF . Ana MarquesNuno GonçalvesFilipa Oliveira presta serviço de Apoio Técnico à Contratação e à Gestão do DCF . Ana MarquesNuno Gonçalves

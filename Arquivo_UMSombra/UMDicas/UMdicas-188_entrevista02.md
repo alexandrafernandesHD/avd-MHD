@@ -1,15 +1,14 @@
 ---
-jornal:UMdicas
-issue:188
-University:Universidade do Minho
-interviewee:António Paisana
-topis:Academia
-role:Administrador dos SASUM
-date:
-num_pages:
-title:Entrevista ao Administrador dos SASUM, António Paisana
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 188
+university: Universidade do Minho
+interviewee: António Paisana
+topic: Academia
+role: Administrador dos SASUM
+title: Entrevista ao Administrador dos SASUM, António Paisana
+interviewer: Ana Marques
 ---
+
 Após cinco anos, e prestes a deixar a gestão da organização, o Administrador faz um
 balanço do trajeto à frente dos Serviços, assumindo que foi o maior desafio da sua carreira.
 António Paisana é Administrador dos
@@ -35,7 +34,7 @@ organização, o que nos tem a dizer sobre
 a experiência? Que balanço faz?
 Os 5 anos de que fala – 2018 a 2022 –
 podem ser divididos em 3 grandes grupos,
-nomeadamente:
+nomeadamente: 
 O primeiro grupo engloba os anos de 2018
 e 2019.
 Os anos de 2018 (dado que tomei posse
@@ -160,7 +159,7 @@ Na energia, posso dar-lhe o exemplo dos
 montantes pagos em eletricidade nos
 meses de janeiro de 2021 e novembro
 de 2021 relativos à Residência de Santa
-Tecla:13k€ e 40k€, respetivamente!
+Tecla: 13k€ e 40k€, respetivamente!
 De facto, se não houver um compromisso
 forte do Governo e da Instituição no
 apoio à componente social da atividade
@@ -541,5 +540,4 @@ Presidentes da AAUM pela lealdade e
 firmeza das suas posições na resolução
 de matérias de grande relevância para os
 estudantes ao longo destes 5 anos.
-
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

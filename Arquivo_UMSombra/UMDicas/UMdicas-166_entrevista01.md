@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:166
-University:Universidade do Minho
-interviewee:Manuel João Costa
-topis:Academia
-role:Pró-reitor para os Assuntos Estudantis e Inovação Pedagógica
-date:OUTUBRO 2019
-num_pages:
-title:Manuel João Costa Pró-reitor para os Assuntos Estudantis e Inovação Pedagógica
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 166
+university: Universidade do Minho
+interviewee: Manuel João Costa
+topic: Academia
+role: Pró-reitor para os Assuntos Estudantis e Inovação Pedagógica
+date: OUTUBRO 2019
+title: Manuel João Costa Pró-reitor para os Assuntos Estudantis e Inovação Pedagógica
+interviewer: Ana Marques
 ---
+
+
 Neste arranque do ano letivo 2019/20, o Pró-reitor para os Assuntos Estudantis e Inovação
 Pedagógica, Manuel João Costa diz-se muito satisfeito com o programa de acolhimento levado
 a cabo neste início de ano e impressionado com o primeiro ano de mandato.
@@ -277,7 +278,6 @@ aprender e, segundo os questionários
 aos estudantes, com resultados
 positivos sobre a sua motivação para
 assistir às aulas. Por conseguinte, os
-estudantes podem esperar docentes
 mais motivados, confiantes e cada vez
 mais empenhados na lecionação das
 suas aulas.
@@ -448,7 +448,7 @@ uma mensagem de estímulo a todos,
 para continuarem a enriquecer a
 Universidade com participações
 desta natureza. Acrescentaria um
-desafio para o futuro próximo:o de
+desafio para o futuro próximo: o de
 conseguirmos comunicar melhor, para
 darmos a conhecer o que fazemos a
 toda a Universidade. Teremos mais
@@ -456,4 +456,4 @@ participação, menos competição
 inadvertida entre iniciativas e,
 seguramente, mais estímulos
 interessantes para sermos UMinho.
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

@@ -1,15 +1,13 @@
 ---
-jornal:UMdicas
-issue:183
-University:Universidade do Minho
-interviewee:Jorge Rodrigues
-topis:Ação Social
-role:
-num_pages:
-date:FEVEREIRO 2022
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 183
+university: Universidade do Minho
+interviewee: Jorge Rodrigues
+topic: Ação Social
+date: FEVEREIRO 2022title: PERCURSOS
+interviewer: Ana Marques
 ---
+
 
 Jorge Rodrigues nasceu há 50 anos e vive em Castelões (Guimarães). A desempenhar funções 
 nos Serviços de Acção Social da Universidade do Minho (SASUM) há 17 anos, faz parte de uma 
@@ -38,13 +36,11 @@ minhas funções são orientar uma equipa
 excelente, fazer encomendas, rececionar 
 os produtos, e, é claro, atender os nossos 
 clientes o melhor possível.
- 
 Gosta do que faz?
 Claro que gosto. A prova disso é que já 
 trabalho neste ramo há 35 anos. É um 
 desafio diário, e quando se gosta de 
 desafios, aceitá-los dá-me muito gozo. 
- 
 O que mais o motiva e quais as 
 maiores dificuldades, no dia a dia, no 
 desenvolvimento do seu trabalho?
@@ -60,7 +56,6 @@ outros, mas tentamos responder sempre
 da melhor forma e adaptarmo-nos a 
 cada um. Se pensarmos assim, o dia a 
 dia torna-se muito mais fácil. 
- 
 Como é um dia de trabalho de Jorge Rodrigues?
 Os dias são todos diferentes, interagimos 
 com diversas pessoas e até pessoas 
@@ -73,7 +68,6 @@ haja rotina. Para mim, um dia de trabalho
 serviço o melhor que sei, sempre com 
 simpatia e profissionalismo, e saber que 
 deixei o cliente satisfeito. 
- 
 Como caracteriza o trabalho que é 
 feito no Departamento Alimentar, em 
 particular na sua unidade?
@@ -87,7 +81,6 @@ que visa, principalmente, o fornecimento
 de refeições seguras, com qualidade e 
 a preços acessíveis, valorizando a 
 diversificação alimentar e a qualidade dos serviços prestados.
- 
 Quais são as melhores e as piores 
 memórias que tem do seu trajeto nos 
 SASUM?
@@ -99,7 +92,6 @@ do Departamento Alimentar. Quanto às
 piores, não me lembro de nenhuma em 
 especial, quando os problemas aparecem, 
 tudo se resolve com calma. 
- 
 Como tem sido passar por esta pandemia, 
 a nível pessoal e profissional?
 A nível pessoal tem sido complicado, tal 
@@ -110,7 +102,6 @@ a uma maior higienização… A nível
 profissional, também tem sido bastante 
 difícil, estão sempre a haver alterações 
 às quais temos de nos adaptar. 
- 
 Como olha para o futuro?O que o marcou?
 O nascimento das minhas duas filhas. 
 Ainda tem um grande sonho?
@@ -132,6 +123,6 @@ A Universidade do Minho?
 Uma casa onde me sinto bem. 
 Acolheu-me da melhor maneira, gosto 
 muito de aqui trabalhar.Jorge Rodrigues  é responsável pelo bar de Engenharia II, em Azurém, Guimarães. 
-ANA MARQUESCom algum otimismo, esperando que 
+Ana MarquesCom algum otimismo, esperando que 
 a pandemia acabe para voltarmos à 
-normalidade. 
+normalidade. normalidade. normalidade. normalidade. 

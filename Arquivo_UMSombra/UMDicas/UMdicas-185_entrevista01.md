@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:185
-University:Universidade do Minho
-interviewee:Joaquina Sá
-topis:Ação Social
-role:Serviços de Acção Social da Universidade do Minho (SASUM)
-date:ABRIL 2022
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 185
+university: Universidade do Minho
+interviewee: Joaquina Sá
+topic: Ação Social
+role: Serviços de Acção Social da Universidade do Minho (SASUM)
+date: ABRIL 2022
+title: PERCURSOS
+interviewer: Ana Marques
 ---
+
+
 Joaquina Sá nasceu em Braga há 65 anos. Casada, mãe de uma filha e avó de dois meninos, 
 desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 41 
 anos. Atualmente, faz parte de uma equipa com cerca de 20 trabalhadores que compõem o 
@@ -48,11 +49,9 @@ administrativa e só depois fui para a
 Atualmente, tenho como funções mais 
 específicas, a introdução no sistema de 
 toda a receita dos SASUM. 
- 
 Gosta do que faz?
 Sim. Apesar de bastante cansada, 
 sinto-me realizada nas minhas funções. 
- 
 O que mais a motiva e quais as 
 maiores dificuldades, no dia a dia, no 
 desenvolvimento do seu trabalho?
@@ -64,7 +63,6 @@ apesar de eu ser uma pessoa bastante
 stressada e não gostar de trabalhar sob pressão, com o apoio da equipa com quem 
 trabalho, a minha tarefa e o cumprimento 
 do meu dever fica muito mais facilitado.  
- 
 Como é um dia de trabalho de Joaquina 
 Sá?
 O dia de trabalho começa com a 
@@ -103,7 +101,6 @@ estivemos um pouco mais sós e isolados
 em algumas alturas pois deixou de 
 haver tanta convivência… foi um pouco 
 assustador!
- 
 Como olha para o futuro?
 Olho-o com preocupação devido à fase 
 que estamos a passar. Neste momento 
@@ -136,4 +133,4 @@ Um lugar?
 Esposende, a olhar para o mar. 
 A Universidade do Minho?
 É a minha vida. A minha segunda casa. Joaquina Sá é Assistente Técnica no DCF . Ligada aos SASUM há 41 anos, são ainda mais os anos de ligação à Universidade do Minho. 
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

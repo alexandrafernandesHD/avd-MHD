@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:176
-University:Universidade do Minho
-interviewee:Rui Vieira de Castro
-topis:Academia
-role:Reitor da UMinho
-date:ABRIL 2021
-num_pages:
-title:Entrevista ao Reitor da UMinho, Rui Vieira de Castro
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 176
+university: Universidade do Minho
+interviewee: Rui Vieira de Castro
+topic: Academia
+role: Reitor da UMinho
+date: ABRIL 2021
+title: Entrevista ao Reitor da UMinho, Rui Vieira de Castro
+interviewer: Ana Marques
 ---
+
+
 A poucos meses de terminar o seu mandato como Reitor da UMinho, Rui Vieira de Castro
 assume a recandidatura ao cargo, num balanço positivo do trabalho feito
 Rui Vieira de Castro foi eleito Reitor
@@ -256,7 +257,7 @@ postos pela pandemia, veio afetar a vida
 da instituição e a vida das pessoas que
 a fazem. Ao nível mais institucional,
 muitas iniciativas e projetos ficaram
-prejudicados:os projetos educativos
+prejudicados: os projetos educativos
 viram-se amputados ou diminuídos em
 algumas das suas componentes, com
 prejuízo para a formação dos estudantes;
@@ -543,7 +544,7 @@ e resistiu, transformou-se e aprendeu.
 Aprendizagem que será muito importante
 para a organização futura das nossas
 atividades.
-A minha mensagem é a de sempre:a
+A minha mensagem é a de sempre: a
 afirmação de uma convicção inabalável
 acerca da relevância da Universidade do
 Minho. Uma instituição essencial para
@@ -575,4 +576,3 @@ Ensino Superior
 Fator essencial de desenvolvimento.
 Portugal
 O meu país.
-

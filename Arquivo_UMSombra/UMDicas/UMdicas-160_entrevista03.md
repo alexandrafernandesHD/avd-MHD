@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:160
-University:Universidade do Minho
-interviewee:Grupo Folclórico da Universidade do Minho (GFUM)
-topis:Cultura
-role:Grupo Folclórico da Universidade do Minho (GFUM)
-date:JANEIRO 2019
-num_pages:
-title:“É nossa missão fazer com que ela (tradição) perdure até às próximas gerações...”
-interviewer:Nuno Gonçalves
+journal: UMDicas 
+issue: 160
+university: Universidade do Minho
+interviewee: Grupo Folclórico da Universidade do Minho (GFUM)
+topic: Cultura
+role: Grupo Folclórico da Universidade do Minho (GFUM)
+date: JANEIRO 2019
+title: “É nossa missão fazer com que ela (tradição) perdure até às próximas gerações...”
+interviewer: Nuno Gonçalves
 ---
+
 Através da música e da dança, o GFUM tem feito um trabalho de divulgação em diferentes
 contextos dando a conhecer as variadas manifestações típicas da cultura da região.
 O Grupo Folclórico da Universidade do
@@ -59,7 +59,7 @@ e modernidade. Nada melhor do que um
 vídeo mapping que, desde logo, suscitou
 o interesse e apoio da Reitoria da Universidade
 do Minho, pelos objetivos pretendidos
-com este evento:evidenciar a
+com este evento: evidenciar a
 cultura popular e como ainda hoje é possível
 aliar a contemporaneidade na sua
 apresentação. Os objetivos foram alcançados
@@ -88,7 +88,7 @@ no que toca à promoção do companheirismo
 e boas relações entre elementos
 de idades tão díspares como dos oito
 aos sessenta e oito. A relação entre os elementos
-do grupo passa por isto:os mais
+do grupo passa por isto: os mais
 velhos gostam da jovialidade que encontram
 no grupo e os mais novos procuram
 a assertividade e camaradagem dos mais
@@ -136,7 +136,6 @@ Minho. Além deste projeto, estamos a
 preparar um novo festival bem como diferentes
 espetáculos integrados em protocolos
 com municípios e instituições
-da região.
 A tradição ainda é o que era?
 Nós sentimos que sim. A tradição acompanha
 os tempos e reinventa-se consoante
@@ -153,13 +152,11 @@ ensaiam?
 Os ensaios são às terças-feiras, pelas
 21h30 no Bar Académico, em Braga.
 Querem deixar uma mensagem à Academia?
-O Grupo Folclórico da Universidade do
 Minho convida todos os elementos da
 comunidade académica a ingressar no
 grupo, motivo de orgulho para a academia,
 mas também para a cidade de
 Braga. Juntem-se a nós para defendermos
 aquilo que é mais nosso e que mais
-nos caracteriza:as tradições. Apareçam!
-
-Nuno Gonçalves
+nos caracteriza: as tradições. Apareçam!
+Nuno GonçalvesNuno GonçalvesNuno GonçalvesNuno Gonçalves

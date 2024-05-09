@@ -1,14 +1,11 @@
 ---
-jornal:UMdicas
-issue:189
-University:Universidade do Minho
-interviewee:Conceição Rodrigues
-topis:PERCURSOS
-role:
-date:
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 189
+university: Universidade do Minho
+interviewee: Conceição Rodrigues
+topic: PERCURSOS
+title: PERCURSOS
+interviewer: Ana Marques
 ---
 
 Conceição Rodrigues nasceu em Amares há 55 anos e vive em Braga há 36. Casada, mãe de um
@@ -121,4 +118,4 @@ A Universidade do Minho?
 O melhor local para se trabalhar e
 estudar, uma Universidade onde se
 prepara o futuro.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

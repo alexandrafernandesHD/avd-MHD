@@ -1,16 +1,15 @@
 ---
-jornal:UMdicas
-issue:177
-University:Universidade do Minho
-interviewee:Helena Ferreirinha
-topis:Ação Social
-role:ivisão de Recursos Humanos dos Serviços 
-de Acção Social da Universidade do Minho (DRH-SASUM)
-date:
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 177
+university: Universidade do Minho
+interviewee: Helena Ferreirinha
+topic: Ação Social
+role: ivisão de Recursos Humanos dos Serviços de Acção Social da Universidade do Minho (DRH-SASUM)
+title: PERCURSOS
+interviewer: Ana Marques
 ---
+
+
 Helena Ferreirinha está na Divisão de Recursos Humanos dos Serviços 
 de Acção Social da Universidade do Minho (DRH-SASUM) desde o início 
 deste ano, depois de 11 anos no Departamento Alimentar. É a prova 
@@ -82,7 +81,6 @@ e aprender, já que todos os dias são dias
 para adquirir mais conhecimentos, 
 mais aptidões e estar, sempre, apta às 
 mudanças.
- 
 Tem sido fácil a adaptação?
 “Adaptação, resiliência, organização, 
 flexibilidade e disponibilidade para 
@@ -93,7 +91,6 @@ velho e começamos a construir o novo
 eu. Neste sentido, com a colaboração e 
 disponibilidade de todos os colegas, tem 
 sido muito agradável a adaptação.
- 
 Gosta do que faz?
 Muito.  Os Recursos Humanos são muito 
 mais que contratar, acolher e pagar 
@@ -103,7 +100,6 @@ ter a certeza de que o bem-estar dos
 trabalhadores é fundamental para a 
 organização, bem como para o sucesso 
 da mesma. 
- 
 O que mais o motiva no dia a dia no 
 desenvolvimento do seu trabalho?
 Ver o resultado do meu trajeto incentiva-me a continuar, a querer 
@@ -118,7 +114,6 @@ conhecimentos amplos e diversificados.
 Desta forma, o que mais me motiva é a 
 diversidade de tarefas e que nenhum dia 
 é igual ao outro, não existe monotonia.
- 
 Como é um dia de trabalho de Helena 
 Ferreirinha?
 O meu dia começa por efetuar o registo 
@@ -134,7 +129,6 @@ faço deslocações às unidades, garantindo
 o esclarecimento e o contacto direto com 
 os trabalhadores. No entanto, tenho noção 
 de que ainda tenho muito que aprender.
- 
 Quais são as melhores e as piores 
 memórias que tem do seu trajeto nos 
 SASUM?
@@ -177,11 +171,11 @@ um orgulho para mim.
 Pela transformação que a UMinho me 
 proporcionou, hoje sou claramente, uma 
 pessoa diferente.Helena Ferreirinha licenciou-se em Educação após ter entrado via concurso especial para maiores de 23.
-ANA MARQUES
+Ana Marques
 “Acredito que daqui 
 por diante é aprender e 
 aprender, já que todos os 
 dias são dias para adquirir 
 mais conhecimentos, mais 
 aptidões e estar, sempre, 
-apta às mudanças.
+apta às mudanças.apta às mudanças.apta às mudanças.apta às mudanças.

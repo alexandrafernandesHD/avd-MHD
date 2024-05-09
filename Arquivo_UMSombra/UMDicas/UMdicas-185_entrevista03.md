@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:185
-University:Universidade do Minho
-interviewee:Tun’Obebes
-topis:Cultura
-role:primeira tuna feminina da Universidade do Minho (UMinho)
-date:ABRIL 2022
-num_pages:
-title:“Os grupos culturais, quer nacionais, quer internacionais, estão cada vez mais presentes.”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 185
+university: Universidade do Minho
+interviewee: Tun’Obebes
+topic: Cultura
+role: primeira tuna feminina da Universidade do Minho (UMinho)
+date: ABRIL 2022
+title: “Os grupos culturais, quer nacionais, quer internacionais, estão cada vez mais presentes.”
+interviewer: Ana Marques
 ---
+
+
 Criada em 1992, a partir do desejo de
 viver ao máximo a vida académica, fez no
 final de 2021, 29 anos de existência. A sua
@@ -90,7 +91,7 @@ instrumentos são aqueles.
 Por quantos elementos é constituído o
 grupo atualmente, e quem pode fazer
 parte dele?
-O nosso grupo está divido em duas partes:
+O nosso grupo está divido em duas partes: 
 pessoas ativas e não ativas. Todos os
 elementos que chegaram ao patamar
 de tunante ficam eternamente ligados
@@ -248,11 +249,11 @@ de todo o stress da parte mais séria da
 vida académica.
 Uma mensagem à comunidade
 académica?
-O apelo que queremos fazer é:venham
+O apelo que queremos fazer é: venham
 experimentar, venham deixar a vossa
 marca na UMinho e venham criar
 memórias que ficarão eternas no vosso
 percurso académico. Mais do que uma
 tuna, somos um grupo de amigas que a
 Universidade juntou.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

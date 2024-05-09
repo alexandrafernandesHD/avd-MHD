@@ -1,23 +1,18 @@
 ---
-jornal:UMdicas
-issue:195
-University:Universidade do Minho
-interviewee:Sina-Grupo de Fados
-topis:Cultura, Sina-Grupo de Fados, AAUMinho
-role:
-date:
-num_pages:
-title:Os grupos culturais têm como missão inspirar a Universidade e os universitários
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 195
+university: Universidade do Minho
+interviewee: Sina-Grupo de Fados
+topic: Cultura, Sina-Grupo de Fados, AAUMinho
+title: Os grupos culturais têm como missão inspirar a Universidade e os universitários
+interviewer: Ana Marques
 ---
 
-Cultura
 “Os grupos culturais têm como 
 missão inspirar a Universidade 
 e os universitários...”
 Com o objetivo de cumprir a tradição dos fados nas Serenatas da Academia, o Sina nasceu a 1 
 de março de 2022, sendo o grupo mais recente da Universidade do Minho (UMinho). 
-ENTREVISTA
 O Sina-Grupo de Fados da AAUMinho, 
 é um grupo de Fados com influência do 
 Fado de Coimbra e de Lisboa, mas que se 
@@ -79,7 +74,6 @@ pode fazer parte do grupo.Participação do Sina - Grupo de Fados da AAUMinho na
 “Procuramos sempre abordar o fado no seu todo e em 
 todas as suas facetas, assim como demonstrar que é
 possível criar novas culturas musicais e artísticas.
-AAUM
 “O nosso trajeto tem sido 
 de procura constante por 
 evolução, por desafios e
@@ -90,7 +84,7 @@ grupo.
 No vosso percurso, quais os momentos e 
 participações que destacam? Qual o vosso 
 ponto alto do ano?
-Há que destacar duas atuações recentes:
+Há que destacar duas atuações recentes: 
 a atuação nas Serenatas Velhas, neste 
 último mês de outubro, e a atuação nas 
 Estrelas ao Sábado, um programa na 
@@ -158,9 +152,4 @@ atuações sejam cada vez melhores,
 e sempre memoráveis. E a qualquer 
 interessado em entrar no grupo, que 
 entre em contacto com o grupo através 
-das redes sociais.
-ANA MARQUES
-O maior sonho do Sina é podermos passar a nossa 
-mensagem e a nossa paixão a todos os que nos ouvem.
-Atuação na Récita de 2022. 
-AAUM
+das redes sociais.das redes sociais.das redes sociais.das redes sociais.

@@ -1,14 +1,14 @@
 ---
-jornal:UMdicas
-issue:182
-University:Universidade do Minho
-interviewee:Maurício Queiroz
-topis:Ação Social
-role:Serviços de Acção Social da Universidade do Minho (SASUM)
-date:
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 182
+university: Universidade do Minho
+interviewee: Maurício Queiroz
+topic: Ação Social
+role: Serviços de Acção Social da Universidade do Minho (SASUM)
+title: PERCURSOS
+interviewer: Ana Marques
+---
+
 
 Maurício Queiroz nasceu em São Paulo e vive em Viana do Castelo há 30 anos.  A desempenhar 
 funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 27 anos, faz 
@@ -52,7 +52,6 @@ responder a todos os pedidos na área de
 informática, por vezes somos obrigados a 
 sair destas funções e fazer muito trabalho 
 administrativo, entre outros.
- 
 Porquê a área da informática? 
 Comecei pela eletrónica e daí para a 
 informática foi um pequeno passo. O meu 
@@ -84,7 +83,6 @@ passado, aliado à pandemia, deixamos
 de ser bens de primeira necessidade, pois 
 o relevante é salvar as infraestruturas que 
 dão receita.
- 
 Como é um dia de trabalho de Maurício 
 Queiroz?
 Não existe uma rotina, para além do 
@@ -99,7 +97,6 @@ eletrónicos e processos administrativos
 que necessitam de acompanhamento 
 “personalizado”, e eu tento dar o meu 
 apoio ao máximo.
- 
 Como caracteriza o trabalho feito na 
 divisão de sistemas de informação?
 É um trabalho transversal a toda 
@@ -114,7 +111,6 @@ apercebam. Por outro lado, o fato de
 evitarmos problemas dá a impressão que 
 não fazemos nada e por vezes este esforço 
 adicional não é reconhecido.
- 
 Como olha para o futuro?Sou um otimista de nascença. Estou 
 sempre à espera que o dia seguinte seja 
 melhor. Neste momento acredito que o 
@@ -130,7 +126,7 @@ que a Universidade fez por nós, que
 tipo de reconhecimento obtivemos, 
 entristece-me um pouco e vejo que 
 possivelmente, é hora de procurar outro 
-rumo.     NUNO GONÇALVES
+rumo.     Nuno Gonçalves
 O que o marcou?
 A minha passagem pela Força Aérea 
 onde estive no pelotão de polícia 
@@ -164,4 +160,4 @@ Tem sido a minha segunda casa,
 muitos amigos, muitas lembranças e 
 uma referência incontestável na minha 
 existência.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

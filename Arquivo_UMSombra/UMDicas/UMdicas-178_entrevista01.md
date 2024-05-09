@@ -1,14 +1,16 @@
 ---
-jornal:UMdicas
-issue:178
-University:Universidade do Minho
-interviewee:Carlos Azevedo
-topis:Ação Social
-role:Departamento de Desporto e Cultura dos SASUM
-date:AGOSTO 20214
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 178
+university: Universidade do Minho
+interviewee: Carlos Azevedo
+topic: Ação Social
+role: Departamento de Desporto e Cultura dos SASUM
+date: AGOSTO 20214
+title: PERCURSOS
+interviewer: Ana Marques
 ---
+
+
 Carlos Azevedo nasceu e vive em Guimarães há 53 anos. Está no 
 Departamento de Desporto e Cultura dos SASUM há 19 anos e é um 
 dos rostos que mais reconhecemos no Pavilhão Desportivo do campus 
@@ -46,12 +48,10 @@ devolver a gestão à AAUM, e as instalações
 desportivas em Azurém estavam quase 
 concluídas, fui convidado para integrar 
 este novo projeto.
- 
 Porquê a área do desporto? Foi uma 
 opção? 
 Vim para a área do desporto por acidente 
 de percurso! 
- 
 Gosta do que faz? 
 Sim, adoro o contacto com as pessoas, 
 este trabalho permite-me conhecer/
@@ -62,7 +62,6 @@ desenvolvimento do seu trabalho?
 Fundamentalmente é a possibilidade de 
 contribuir para o desenvolvimento e apoio 
 à comunidade onde estou inserido.
- 
 Como é um dia de trabalho de Carlos 
 Azevedo? 
 Depende muito dos dias, da altura 
@@ -91,7 +90,6 @@ finais dos CNU’s (2019). Como pior
 memória, foi este confinamento em que 
 me vi privado do contacto com os colegas 
 e com os utentes.
- 
 Como tem sido passar por esta pandemia, 
 a nível pessoal e profissional? 
 A nível pessoal foi um período bastante 
@@ -132,9 +130,9 @@ Ainda tem um grande sonho?
 Não, agora só desejo ser feliz!
 Livro?
 Tenho vários, mas de momento o que 
-estou a ler:“O Castelo” de Franz Kafka
+estou a ler: “O Castelo” de Franz Kafka
 Filme?
-Um que vi recentemente:“O homem 
+Um que vi recentemente: “O homem 
 que vendeu a sua pele” de Kaouther Ben 
 Hania
 Uma música e/ou um músico?
@@ -149,8 +147,8 @@ Um lugar?
 Guimarães, Terra onde nasci…
 A Universidade do Minho?
 A minha segunda Casa…Carlos Azevedo é representante eleito dos trabalhadores no Senado Académico da UMinho.
-ANA MARQUES
+Ana Marques
 “Sempre tive uma 
 consciência para intervir 
 na sociedade que me 
-rodeava.
+rodeava.rodeava.rodeava.rodeava.

@@ -1,15 +1,14 @@
 ---
-jornal:UMdicas
-issue:186
-University:Universidade do Minho
-interviewee:Fernanda Pereira
-topis:Ação Social
-role:Acção Social da Universidade do Minho (SASUM)
-date:
-num_pages:
-title:PERCURSOS
-interviewer:NUNO GONÇALVES
+journal: UMdicas 
+issue: 186
+university: Universidade do Minho
+interviewee: Fernanda Pereira
+topic: Ação Social
+role: Acção Social da Universidade do Minho (SASUM)
+title: PERCURSOS
+interviewer: Nuno Gonçalves
 ---
+
 Fernanda Pereira nasceu em Braga há 52 anos. Casada, mãe de um casal, desempenha funções 
 nos Serviços de Acção Social da Universidade do Minho (SASUM) há 29 anos. Atualmente, faz 
 parte de uma equipa com cerca de 50 trabalhadores que compõem o Departamento de Apoio 
@@ -129,7 +128,7 @@ O local onde trabalho há 29 anos, onde
 já aprendi muito, de bem e de bom, com 
 as admiráveis pessoas que trabalham 
 comigo. Fernanda Pereira é a responsável de secretariado do Departamento de Apoio Social.
-ANA MARQUESQuais são as melhores e as piores 
+Ana MarquesQuais são as melhores e as piores 
 memórias que tem do seu trajeto nos 
 SASUM?
 As melhores memórias são aquelas em 
@@ -156,4 +155,4 @@ construiu. No entanto, tenho a esperança
 que a pandemia seja controlada, a guerra 
 acabe e tenhamos pessoas dotadas de 
 valores humanos e morais para termos 
-um mundo mais saudável, justo, amigo.NUNO GONÇALVES
+um mundo mais saudável, justo, amigo.Nuno Gonçalvesum mundo mais saudável, justo, amigo.Nuno Gonçalvesum mundo mais saudável, justo, amigo.Nuno Gonçalvesum mundo mais saudável, justo, amigo.Nuno Gonçalves

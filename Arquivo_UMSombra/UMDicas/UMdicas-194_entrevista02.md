@@ -1,15 +1,14 @@
 ---
-jornal:UMdicas
-issue:194
-University:Universidade do Minho
-interviewee:João Cardoso Rosas
-topis:Academia, 50 anos da UMinho
-role:
-date:outubro de 2023
-num_pages:
-title:Entrevista ao Presidente da Comissão Comemorativa dos 50 anos da UMinho, João Cardoso Rosas
-interviewer:NUNO GONÇALVES
+journal: UMdicas 
+issue: 194
+university: Universidade do Minho
+interviewee: João Cardoso Rosas
+topic: Academia, 50 anos da UMinho
+date: outubro de 2023
+title: Entrevista ao Presidente da Comissão Comemorativa dos 50 anos da UMinho, João Cardoso Rosas
+interviewer: Nuno Gonçalves
 ---
+
 Entrevista ao Presidente da 
 Comissão Comemorativa dos 
 50 anos da UMinho, João 
@@ -85,7 +84,7 @@ comemorativas dos 50 anos?
 Sem dúvida, memória e futuro têm de 
 estar associados. Por isso a programação 
 tem muitos aspetos que remetem para A Universidade do Minho fará 50 anos, dia 17 de fevereiro de 2024, contados a partir da tomada de posse da sua Comissão Instaladora. 
-NUNO GONÇALVES
+Nuno Gonçalves
 “Aquilo que eu senti ao 
 chegar a uma universidade 
 nova, vindo de uma 
@@ -113,7 +112,6 @@ programa?
 Aproveitaria para destacar, 
 restringindo-me apenas aos próximos 
 meses, o lançamento do estudo sobre a 
-NUNO GONÇALVES
 Até 1972 existiam em Portugal apenas 4 universidades públicas – Porto, Coimbra, Lisboa e Técnica. Em 1973 (Decreto-Lei n.º 402/73 de 11 de agosto), criou 
 mais 4 instituições universitárias (Universidade do Minho, Universidade de Aveiro, Universidade Nova e Instituto Universitário de Évora). a reflexão sobre o passado e para a sua 
 celebração. Mas tem também muito 
@@ -231,7 +229,7 @@ UMinho, torná-la mais ágil
 e motivar as pessoas para 
 trabalhar onde são mais 
 necessárias...
-ANA MARQUESreformar a orgânica interna da UMinho, 
+Ana Marquesreformar a orgânica interna da UMinho, 
 torná-la mais ágil e motivar as pessoas 
 para trabalhar onde são mais necessárias, 
 aprendendo com o que não correu 
@@ -325,4 +323,4 @@ seguindo o exemplo dos seus fundadores.“Tem de ser uma
 universidade implantada 
 na região, mas aberta ao 
 mundo, plural e inclusiva. 
-NUNO GONÇALVES
+Nuno GonçalvesNuno GonçalvesNuno GonçalvesNuno Gonçalves

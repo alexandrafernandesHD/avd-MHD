@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:168
-University:Universidade do Minho
-interviewee:Rosa Vasconcelos
-topis:
-role:Provedora do Estudante
-date:DEZEMBRO 2019
-num_pages:
-title:Rosa Vasconcelos Provedora do Estudante
-interviewer:Ana Marques
+journal: UMdicas
+issue: 168
+university: Universidade do Minho
+interviewee: Rosa Vasconcelos
+role: Provedora do Estudante
+date: DEZEMBRO 2019
+title: Rosa Vasconcelos Provedora do Estudante
+interviewer: Ana Marques
 ---
+
+
 Rosa Vasconcelos tomou posse como Provedora do Estudante da Universidade do Minho no
 passado dia 4 de novembro, tornando-se na terceira ocupante do cargo na Academia Minhota.
 Professora associada do
@@ -184,4 +184,4 @@ e o telefone.
 Uma mensagem aos estudantes
 da UMinho?
 Informem-se, participem,
-capacitem-se, aprendam e divirtam-se.
+capacitem-se, aprendam e divirtam-se.capacitem-se, aprendam e divirtam-se.capacitem-se, aprendam e divirtam-se.capacitem-se, aprendam e divirtam-se.

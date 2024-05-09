@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:160
-University:Universidade do Minho
-interviewee:Nuno Reis
-topis:Academia
-role:Presidente da Associação Académica
-date:JANEIRO 2019
-num_pages:
-title:Entrevista com Nuno Reis, Presidente da Associação Académica
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 160
+university: Universidade do Minho
+interviewee: Nuno Reis
+topic: Academia
+role: Presidente da Associação Académica
+date: JANEIRO 2019
+title: Entrevista com Nuno Reis, Presidente da Associação Académica
+interviewer: Ana Marques
 ---
+
+
 Nuno Reis foi reeleito presidente da Associação Académica (AAUMinho) no passado dia 5 de
 dezembro, encarando este como o maior desafio da sua vida até ao momento.
 Após um ano à frente da Associação
@@ -88,7 +89,7 @@ O que é que os estudantes poderão
 esperar desta renovada direção da AAUM?
 Quais são as principais mudanças em
 termos estruturais?
-Podem esperar essencialmente compromisso:
+Podem esperar essencialmente compromisso: 
 com a inovação e, simultaneamente,
 a consolidação da atividade
 desta instituição. O mandato que acaba
@@ -128,7 +129,7 @@ quer para utilização por parte da comunidade
 estudantil e dos muitos grupos cul-
 turais que também possuem sede neste
 local. Não existem quaisquer perspetivas
-concretas por dois motivos:a direção da
+concretas por dois motivos: a direção da
 AAUMinho considera complicada a coexistência
 de determinados serviços, como
 o Bar Académico, no interior da Universidade
@@ -254,10 +255,10 @@ desporto, a cultura, a pedagogia ou o empreendedorismo,
 entre outras.
 Uma das grandes questões do momento
 tem sido a discussão em torno das
-propinas. Qual é a posição da AAUM:é a
+propinas. Qual é a posição da AAUM: é a
 favor ou contra a existência de propinas?
 A posição da AAUMinho é a posição
-do Movimento Associativo Nacional:defendemos
+do Movimento Associativo Nacional: defendemos
 uma redução progressiva das
 propinas e um Ensino Superior progressivamente
 gratuito, tal como expresso
@@ -267,7 +268,7 @@ ação política no Ensino Superior que priorize
 a redução das propinas, como se
 sucederá a partir do início do próximo
 ano letivo, quando existem muitos out-
-NUNO GONÇALVES
+Nuno Gonçalves
 ros indicadores que nos levam para a necessidade
 de priorizar outras áreas, como
 é o caso da ação social escolar. Quando
@@ -275,7 +276,7 @@ de priorizar outras áreas, como
 proveniente de fundos europeus que deviam
 ser canalizados para a construção
 de infraestruturas, como residências universitárias,
-reside a pergunta:faz sentido
+reside a pergunta: faz sentido
 baixar o valor das propinas quando o Estado
 não é sequer capaz de pagar a totalidade
 dos custos com o investimento nas
@@ -297,7 +298,7 @@ de garantir compromissos para as
 suas reivindicações?
 De duas formas distintas. A primeira
 passará por garantir a informação da
-comunidade académica:no plano de
+comunidade académica: no plano de
 atividades para 2019, constará a nossa
 associação a campanhas nacionais e europeias
 que visam a redução da abstenção
@@ -418,7 +419,7 @@ da AAUMinho, e, por isso, espero
 que, também naturalmente, possa ir escrevendo
 muitas páginas da minha vida
 que ainda espero ter oportunidade de
-fazer:viajar e aprender muito, construir
+fazer: viajar e aprender muito, construir
 uma família e, principalmente, manter-
 me fiel à pessoa que tenho sido e que
 acredito que me carateriza – ser compreensivo
@@ -449,5 +450,4 @@ quando vêm uma injustiça. Não se resignem
 dia de eleições. Nunca se esqueçam que o
 direito de existir é também ele um dever.
 Sejam felizes, a fazer os outros felizes.
-
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

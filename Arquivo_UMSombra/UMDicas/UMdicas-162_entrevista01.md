@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:162
-University:Universidade do Minho
-interviewee:António Pontes
-topis:Academia
-role:Pró-reitor:Coordenador da parceria UMinho - Bosch
-date:ABRIL 2019
-num_pages:
-title:Entrevista com António Pontes - Coordenador da parceria UMinho - Bosch
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 162
+university: Universidade do Minho
+interviewee: António Pontes
+topic: Academia
+role: Pró-reitor - Coordenador da parceria UMinho - Bosch
+date: ABRIL 2019
+title: Entrevista com António Pontes - Coordenador da parceria UMinho - Bosch
+interviewer: Ana Marques
 ---
+
+
 O UMdicas esteve à conversa com o coordenador que define a parceria como uma das mais
 ambiciosas em Portugal entre uma Universidade e uma Empresa.
 A parceria entre a Bosch e a
@@ -55,7 +56,7 @@ submetido e posteriormente aprovado
 o primeiro projeto de I&DT e Inovação,
 intitulado HMIExcel (Human Machine
 Interface Excellence), que se enquadrava
-em três grandes áreas tecnológicas:
+em três grandes áreas tecnológicas: 
 eletrónica e instrumentação, tecnologias
 de informação e engenharia mecânica e
 de materiais.
@@ -136,7 +137,7 @@ I&DT, em projetos de formação avançada,
 inclusivamente a nível doutoral,
 no reforço das infraestruturas de
 investigação traduzido, designadamente,
-na instalação do Done Lab:Laboratório
+na instalação do Done Lab: Laboratório
 de Manufatura Avançada de Produtos e
 Ferramentas.
 Atualmente estamos na terceira fase
@@ -435,5 +436,4 @@ interfaces (centros de conhecimento
 multidisciplinar por excelência) são
 os melhores parceiros para quem quer
 inovar nesta área.
-
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

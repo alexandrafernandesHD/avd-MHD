@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:160
-University:Universidade do Minho
-interviewee:Nuno Reis
-topis:Academia
-role:Presidente da Associação Académica
-date:JANEIRO 2019
-num_pages:
-title:Nuno Reis tomou posse para um segundo mandato com estrutura renovada
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 160
+university: Universidade do Minho
+interviewee: Nuno Reis
+topic: Academia
+role: Presidente da Associação Académica
+date: JANEIRO 2019
+title: Nuno Reis tomou posse para um segundo mandato com estrutura renovada
+interviewer: Ana Marques
 ---
+
 Cerimónia decorreu a 4 de janeiro, tendo sido empossados também os restantes órgãos
 sociais da Associação Académica.
 Nuno Reis tomou posse como presidente
@@ -101,7 +101,7 @@ política” para colocar o ensino superior
 como uma “prioridade real”.
 Lamentando o facto de a Academia
 ainda não ter sido capaz de encontrar
-uma solução para a nova sede da AAUM, ANA MARQUES
+uma solução para a nova sede da AAUM, Ana Marques
 em Braga, Nuno Reis requereu que “a
 UMinho, o Município de Braga e os nossos
 governantes devem ser capazes de
@@ -116,12 +116,12 @@ dar uma nova vida”, disse.
 Já em Guimarães, o dirigente diz estarem
 num processo de reunião de parceiros
 e fundos para arrancar com as
-obras de reabilitação da sede de Azurém:
+obras de reabilitação da sede de Azurém: 
 “queremos tornar aquele espaço inteiramente
 dos estudantes”, afirmou.
 Sobre as ambições para 2019, entre
 outras, o representante dos estudantes
-diz que a AAUM terá como focos:no
+diz que a AAUM terá como focos: no
 desporto, focar-se na promoção desportiva,
 competição e informal, deixando
 o desejo da UMinho voltar ao TOP 3 do
@@ -166,4 +166,4 @@ a muito curto prazo, no quadro de um
 protocolo que globalmente clarifique, sistematize
 e formalize as relações entre a
 Universidade e a AAUM.”
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

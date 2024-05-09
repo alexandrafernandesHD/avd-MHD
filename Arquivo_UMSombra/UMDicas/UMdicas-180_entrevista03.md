@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:180
-University:Universidade do Minho
-interviewee:Tuna de Letras da Universidade do Minho
-topis:Cultura
-role:
-date:OUTUBRO 2021
-num_pages:
-title:“Sentimos muito a falta dos nossos ensaios presenciais (...) somos muito de calor humano...”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 180
+university: Universidade do Minho
+interviewee: Tuna de Letras da Universidade do Minho
+topic: Cultura
+role: 
+date: OUTUBRO 2021
+title: “Sentimos muito a falta dos nossos ensaios presenciais (...) somos muito de calor humano...”
+interviewer: Ana Marques
 ---
+
+
 A Literatuna – Tuna de Letras da Universidade do Minho comemora em dezembro 8 anos de
 existência.
 Fundada em 2013, a Literatuna foi a
@@ -104,7 +105,7 @@ Indo um bocado pelo que dissemos na
 resposta anterior… Nos ensaios é um
 “Deus nos acuda”, mas gostamos de
 acreditar que o que escrevemos é que
-conta por isso fica a resposta oficial:
+conta por isso fica a resposta oficial: 
 “Sabemos aliar o popular e tradicional
 ao erudito e inovador através do contar
 de histórias.”
@@ -201,9 +202,9 @@ e ressurgir. Haverá coisas diferentes,
 porque ninguém passa por uma pandemia
 de ano e meio sem mudar algumas coisas,
 mas, pelo que percebemos, estamos todos
-em sintonia:trabalhando no retorno à
+em sintonia: trabalhando no retorno à
 normalidade, pelo menos naquilo que às
-Tunas é identitário:música e convívio. O
+Tunas é identitário: música e convívio. O
 resto o tempo dirá.
 Como analisam o contexto dos grupos
 culturais na vida da Universidade e de um

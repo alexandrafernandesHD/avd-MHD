@@ -1,18 +1,15 @@
 ---
-jornal:UMdicas
-issue:193
-University:Universidade do Minho
-interviewee:Cecília Leão
-topis:
-role:Professora Catedrática Emérita da Escola de Medicina da Universidade do Minho
-date:AGOSTO 2023
-num_pages:
-title:Entrevista à Presidente do Conselho de Ética da UMinho
-interviewer:
+journal: UMdicas 
+issue: 193
+university: Universidade do Minho
+interviewee: Cecília Leão
+role: Professora Catedrática Emérita da Escola de Medicina da Universidade do Minho
+date: AGOSTO 2023
+title: Entrevista à Presidente do Conselho de Ética da UMinho
+---
 
 Cecília Leão, é Professora Catedrática Emérita da Escola de Medicina da Universidade do
 Minho, desde 2019. É presidente do Conselho de Ética desde novembro de 2022.
-
 Cecília Leão, integrou a UMinho em 1976
 por altura da sua fundação, e é aqui na
 UMinho que tem decorrido o seu percurso
@@ -254,7 +251,7 @@ central e muito relevante,
 no panorama nacional, a criar, 
 em 2011, por despacho reitoral, a 
 Comissão de Ética da UMinho...
-NUNO GONÇALVES
+Nuno Gonçalves
 “... o CEUMinho é o órgão 
 de consulta da UMinho 
 de apoio à conceção 
@@ -268,7 +265,7 @@ alinhamento e atualização das suas estratégias de atuação, com os
 grandes desafios éticos e bioéticos das sociedades contemporâneas. 
 ano, com referência ao grau de execução 
 das atividades planeadas (disponíveis 
-em https://www.uminho.pt/PT/uminho/
+em https: //www.uminho.pt/PT/uminho/
 Etica ).
 Quais são, atualmente, os maiores 
 desafios/preocupações da Universidade a 
@@ -362,7 +359,6 @@ Comissões.
 Sim, com certeza, em 2023 teremos o 
 Fórum de Ética UMinho. A próxima edição 
 do Fórum de Ética UMinho | 2023 está A Professora Catedrática Emérita é, desde 2018, coordenadora da Cátedra Alumni Medicina – Professor Pinto Machado. 
-NUNO GONÇALVES
 “O Fórum de Ética UMinho 
 é (...) um espaço de reflexão 
 e de debate em torno de 
@@ -376,7 +372,7 @@ quadro de estratégias e
 políticas de ação essenciais 
 para a promoção da ética e 
 integridade académica. 
-ANA MARQUES a ser planeada, com data a anunciar 
+Ana Marques a ser planeada, com data a anunciar 
 brevemente.
 Contamos com o UMDicas para a sua 
 divulgação!
@@ -429,7 +425,6 @@ planos e relatórios anuais de atividades),
 bem como sobre o Código de Conduta 
 Ética da UMinho, encontra-se disponível 
 na página Ética do portal da Universidade, 
-em https://www.uminho.pt/PT/uminho/
 Etica. Contactos para pedidos de informação ou solicitação de pareceres 
 poderão ser estabelecidos com o 
 Secretariado do CEUMinho, através do 
@@ -454,7 +449,7 @@ Código de Conduta Ética da UMinho
 foi objeto de aprovação por deliberação 
 do Conselho Geral da Universidade em 
 outubro de 2020. 
-O CCE-UMinho ( https://www.uminho.pt/
+O CCE-UMinho ( https: //www.uminho.pt/
 PT/uminho/Etica/Codigo-de-conduta-
 etica ), atualmente em vigor, reafirma 
 os valores e princípios éticos adotados 
@@ -463,7 +458,7 @@ de normas de conduta norteadoras da
 sua atividade, a verificar globalmente 
 pela Instituição e individualmente 
 por todos os membros da comunidade 
-UMinho:docentes, investigadores, 
+UMinho: docentes, investigadores, 
 bolseiros de investigação, trabalhadores 
 técnicos, administrativos e de gestão, 
 colaboradores e pelos estudantes dos 
@@ -523,11 +518,9 @@ o futuro, garantindo que o CEUMinho
 acompanha os novos tempos, no 
 alinhamento e atualização das suas 
 estratégias de atuação, atento à 
-dinâmica temporal dos grandes desafios, 
 controvérsias e dilemas éticos e bioéticos 
 que a ciência e a tecnologia suscitam para 
 a humanidade e para o meio ambiente.
-NUNO GONÇALVES
 Cecília Leão recebeu em 2019 a Medalha de Mérito Científico, instituída pelo Ministério da Ciência, 
 Tecnologia e Ensino Superior.
 “O CCE-UMinho (...)
@@ -539,4 +532,4 @@ SASUM foram o primeiro serviço
 desportivo de uma Instituição de 
 Ensino Superior a ser certificado 
 com a atribuição da Bandeira da 
-Ética ...
+Ética ...Ética ...Ética ...Ética ...

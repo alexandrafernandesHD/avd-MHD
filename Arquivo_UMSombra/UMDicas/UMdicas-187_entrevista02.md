@@ -1,14 +1,12 @@
 ---
-jornal:UMdicas
-issue:187
-University:Universidade do Minho
-interviewee:Mariana Pinto
-topis:Desporto
-role:
-num_pages:
-date:JULHO 2022
-title:Desporto e Desenho, os hobbies libertadores de uma futura médica!
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 187
+university: Universidade do Minho
+interviewee: Mariana Pinto
+topic: Desporto
+date: JULHO 2022
+title: Desporto e Desenho, os hobbies libertadores de uma futura médica!
+interviewer: Ana Marques
 ---
 
 Mariana Pinto vai produzir (desenhar) a imagem do UMinhoSports dos Serviços de Acção
@@ -339,7 +337,7 @@ tornar-me mais eficiente durante o meu
 tempo de estudo. Sinto-me feliz depois
 de cada treino.
 O que tens a dizer a quem diz que não
-tem tempo para fazer desporto? ANA MARQUES
+tem tempo para fazer desporto? Ana Marques
 Na vida, tudo é uma questão de
 organização. Cada dia dá-nos a
 possibilidade de cumprir todos os
@@ -413,4 +411,4 @@ só dia. Quanto melhor conseguirmos
 gerir o nosso tempo, mais tempo vamos
 conseguir dedicar aos elementos que
 gostamos.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

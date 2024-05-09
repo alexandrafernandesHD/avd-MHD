@@ -1,18 +1,18 @@
 ---
-jornal:UMdicas
-issue:185
-University:Universidade do Minho
-interviewee:Joana Marques Vidal
-topis:Academia
-role:Presidente do Conselho Geral (CG)
-date:
-num_pages:
-title:Entrevista à Presidente do Conselho Geral, Joana Marques Vidal
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 185
+university: Universidade do Minho
+interviewee: JoAna Marques Vidal
+topic: Academia
+role: Presidente do Conselho Geral (CG)
+title: Entrevista à Presidente do Conselho Geral, JoAna Marques Vidal
+interviewer: Ana Marques
 ---
+
+
 Presidente do Conselho Geral (CG) desde 17 de maio de 2021, após quase um ano de mandato,
-Joana Marques Vidal assume que foi um ano muito enriquecedor.
-Joana Marques Vidal foi eleita Presidente
+JoAna Marques Vidal assume que foi um ano muito enriquecedor.
+JoAna Marques Vidal foi eleita Presidente
 do Conselho Geral da Universidade
 do Minho (UMinho) de entre os seis
 membros externos cooptados, tomando
@@ -31,7 +31,7 @@ no Ministério Público do Tribunal
 Constitucional (2018-21), sendo
 atualmente procuradora-geral adjunta
 jubilada.
-Quem é Joana Marques Vidal e o que a
+Quem é JoAna Marques Vidal e o que a
 levou a aceitar comandar os destinos do
 órgão colegial máximo de Governo e de
 decisão estratégica da UMinho?
@@ -496,4 +496,4 @@ o papel dos Serviços de Ação Social na
 prossecução da missão da UMinho?
 Relevante e imprescindível. Por tudo o
 que fui conversando no decurso desta
-entrevista.
+entrevista.entrevista.entrevista.entrevista.

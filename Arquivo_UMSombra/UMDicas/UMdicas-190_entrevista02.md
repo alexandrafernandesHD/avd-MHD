@@ -1,17 +1,17 @@
 ---
-jornal:UMdicas
-issue:190
-University:Universidade do Minho
-interviewee:Armando Osório
-topis:Academia
-role:Presidente da Delegação de Braga da Cruz Vermelha Portuguesa
-date:DEZEMBRO 2022
-num_pages:
-title:Entrevista ao Presidente da Delegação de Braga da Cruz Vermelha Portuguesa
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 190
+university: Universidade do Minho
+interviewee: Armando Osório
+topic: Academia
+role: Presidente da Delegação de Braga da Cruz Vermelha Portuguesa
+date: DEZEMBRO 2022
+title: Entrevista ao Presidente da Delegação de Braga da Cruz Vermelha Portuguesa
+interviewer: Ana Marques
 ---
+
 Armando Osório está à frente da instituição humanitária desde 2011, depois de 29 anos ao
-serviço dos SASUM. Com quase 80 anos, assegura que faz o que gosta:“ajudar as pessoas”.
+serviço dos SASUM. Com quase 80 anos, assegura que faz o que gosta: “ajudar as pessoas”.
 O Presidente da Delegação de Braga da
 Cruz Vermelha Portuguesa, Armando
 Osório, é o nosso entrevistado da edição
@@ -84,7 +84,7 @@ dos conflitos e em proteger a vida e a
 saúde das populações. A nossa atividade
 é desenvolvida em autonomia face ao
 Estado e de acordo com os 7 Princípios
-Fundamentais:Imparcialidade,
+Fundamentais: Imparcialidade,
 Neutralidade, Independência,
 Voluntariado, Unidade e Universalidade.
 A nossa Missão “Prestar assistência
@@ -100,10 +100,9 @@ com vista a prevenir e aliviar o sofrimento
 humano, e assim contribuir para a
 manutenção e promoção da dignidade
 humana e paz no mundo”
-Os nossos Valores:Pessoas; Integridade;
+Os nossos Valores: Pessoas; Integridade;
 Diversidade; Liderança; Inovação; e
 Sustentabilidade.
-A Delegação de Braga da Cruz Vermelha
 Portuguesa realiza o seu trabalho
 humanitário junto dos mais vulneráveis,
 das famílias, das minorias étnicas, dos
@@ -308,7 +307,7 @@ associados e também do público apoiado
 pelos projetos, pelos serviços, pelas ações
 que desenvolvem?
 A instituição em números, isto referentes
-a 2021, foram os seguintes:servimos 65
+a 2021, foram os seguintes: servimos 65
 347 refeições, apoiamos 490 pessoas
 em situação de sem-abrigo, recolhemos
 10 104 seringas e distribuímos 9 532
@@ -458,7 +457,6 @@ culturais da Universidade, o que me deixa
 muito feliz.
 Em que é que o seu trajeto anterior o
 ajudou no papel/função que assumiu na
-Delegação de Braga da Cruz Vermelha
 Portuguesa?
 A vida é uma aprendizagem contínua.
 Estou com quase 80 anos e aprendo
@@ -467,7 +465,6 @@ aprendi muito. Tive a felicidade de
 trabalhar com gente nova com boas ideias
 e, por isso, trouxe uma boa bagagem.
 Os SASUM têm sido parceiros da
-Delegação de Braga da Cruz Vermelha
 em diversas situações. Como vê o papel
 dos SASUM na Universidade e na própria
 região?
@@ -483,7 +480,6 @@ de que o seu posto de trabalho só existe
 porque há alunos.
 O que é preciso para se fazer voluntariado
 na Delegação de Braga da Cruz Vermelha
-Portuguesa?
 Primeiro, é preciso ter disponibilidade,
 querer dar, querer trabalhar, querer
 ajudar. Depois, querer integrar-se num
@@ -540,16 +536,5 @@ e somos todos iguais. A discriminação
 pode ter.
 Aproveito igualmente para desejar a todos
 umas Boas Festas!
-ANA MARQUES
-
-
-
-
-
-
-
-
-
-
-
-NUNO GONÇALVES
+Ana Marques
+Nuno GonçalvesNuno GonçalvesNuno GonçalvesNuno Gonçalves

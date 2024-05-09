@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:161
-University:Universidade do Minho
-interviewee:Álvaro Laborinho Lúcio e Frei Bento Domingues
-topis:Academia
-role:Novos Dourotes da UMinho
-date:MARÇO 2019
-num_pages:
-title:Álvaro Laborinho Lúcio e Frei Bento Domingues são os novos doutores da UMinho
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 161
+university: Universidade do Minho
+interviewee: Álvaro Laborinho Lúcio e Frei Bento Domingues
+topic: Academia
+role: Novos Dourotes da UMinho
+date: MARÇO 2019
+title: Álvaro Laborinho Lúcio e Frei Bento Domingues são os novos doutores da UMinho
+interviewer: Ana Marques
 ---
+
+
 Laborinho Lúcio recebeu o título de Doutor Honoris Causa em Ciências da Educação,
 enquanto Frei Bento Domingues recebeu o título em Estudos Culturais.
 A Universidade do Minho (UMinho)
@@ -115,5 +116,4 @@ do humano, pessoas comprometidas
 com a ação”, as quais a Universidade
 valoriza e assume como inspiradoras para
 a comunidade universitária e para o país.
-
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

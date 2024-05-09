@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:186
-University:Universidade do Minho
-interviewee:Miguel Bandeira
-topis:Academia
-role:Presidente do Conselho Cultural
-date:JUNHO 2022
-num_pages:
-title:Entrevista ao presidente do Conselho Cultural, Miguel Bandeira
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 186
+university: Universidade do Minho
+interviewee: Miguel Bandeira
+topic: Academia
+role: Presidente do Conselho Cultural
+date: JUNHO 2022
+title: Entrevista ao presidente do Conselho Cultural, Miguel Bandeira
+interviewer: Ana Marques
 ---
+
 
 Miguel Bandeira é presidente do Conselho Cultural da Universidade do Minho (UMinho) desde
 março de 2022, é a sexta figura a ocupar o cargo na academia minhota.
@@ -38,7 +38,6 @@ Lisboa, e a quem deve os fundamentos de
 ter tido uma educação artística e cultural,
 dizia que era o seu filho desportista.
 Tomou posse como presidente do
-Conselho Cultural (CC) da Universidade
 do Minho no passado dia 11 de março. O
 que o levou o aceitar este novo cargo?
 Desde logo o desafio colocado pelo Reitor,
@@ -119,7 +118,7 @@ plano da sua atividade permanente tem
 por objetivo promover a articulação entre
 as Unidades Culturais da Universidade
 do Minho, que são oito, nunca sendo
-demais nomeá-las, a saber:o Arquivo
+demais nomeá-las, a saber: o Arquivo
 Distrital de Braga; a Biblioteca Pública
 de Braga; a Unidade de Arqueologia; o
 Museu Nogueira da Silva; o Centro de
@@ -185,7 +184,7 @@ Educação de Adultos, que cumpriu, de
 um modo pioneiro, a sua nobre missão
 no contexto temporal da implementação
 da democracia; e, entretanto, foram
-criadas novas Unidades, como:a Casa
+criadas novas Unidades, como: a Casa
 do Conhecimento, e o Museu Virtual da
 Lusofonia, correspondendo às solicitações
 contemporâneas que hoje são colocadas
@@ -246,7 +245,6 @@ domínio da cultura, pela própria natureza
 humana, é sempre uma obra inacabada.
 Mais do que um desígnio pessoal, o que
 interessa verdadeiramente é deixar as
-melhores condições de desenvolvimento
 aqueles que nos irão suceder. O CC
 pode e deve reforçar-se dentro do
 espírito dos fundadores da Universidade
@@ -363,7 +361,7 @@ redundâncias ou sobreposições. De um
 modo muito impressivo, dispomos de
 três tipos de atractores, que não sendo
 exclusivos, podem agrupar o conjunto
-das Unidades Culturais deste modo:as
+das Unidades Culturais deste modo: as
 que têm uma matriz fundacional voltada
 para o serviço público, que compreende
 a prestação de serviços para lá da
@@ -423,7 +421,7 @@ a gripe espanhola, na segunda década do
 século XX. O tempo encarrega-se sempre
 de repor todas as normalidades, embora
 se saiba que tudo nunca fica exatamente
-ANA MARQUES
+Ana Marques
 como dantes. Neste ponto, a Cultura, pela
 abordagem da memória, desempenha
 um papel notável na compreensão do
@@ -497,4 +495,4 @@ exortar os valores da vida e da liberdade
 fraterna, nestes momentos que também
 são o de poder voltar a conviver em direto
 e ao vivo!
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

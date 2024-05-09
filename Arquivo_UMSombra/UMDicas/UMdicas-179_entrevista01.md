@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:179
-University:Universidade do Minho
-interviewee:Lurdes Conceição
-topis:Ação Social
-role:Departamento Alimentar dos Serviços de Acção Social da Universidade do Minho (DA-SASUM)
-date:SETEMBRO 2021
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 179
+university: Universidade do Minho
+interviewee: Lurdes Conceição
+topic: Ação Social
+role: Departamento Alimentar dos Serviços de Acção Social da Universidade do Minho (DA-SASUM)
+date: SETEMBRO 2021
+title: PERCURSOS
+interviewer: Ana Marques
 ---
+
+
 Lurdes Conceição nasceu em Benguela (Angola), mas vive em Braga há 45 anos. Está no 
 Departamento Alimentar dos Serviços de Acção Social da Universidade do Minho (DA-SASUM) 
 há 29 anos e faz parte de uma equipa de cerca de 140 pessoas que prestam apoio à Comunidade 
@@ -49,17 +50,14 @@ ingressei no Departamento Alimentar,
 não tinha necessariamente que ter 
 conhecimentos nesta área, eram funções 
 basicamente administrativas.
- 
 Gosta do que faz?  
 Sim, gosto muito. O trabalho que faço 
 envolve muitas áreas, é um trabalho 
 muito dinâmico e interativo. Não há lugar 
 à monotonia.
- 
 O que mais a motiva no dia a dia no 
 desenvolvimento do seu trabalho? 
 As pessoas e a diversidade de tarefas.
- 
 Como é um dia de trabalho de Lurdes 
 Conceição?  
 Na maioria das vezes inicia-se com 
@@ -68,7 +66,6 @@ seguimento a tarefas agendadas, o que
 nem sempre é fácil cumprir o planeado. 
 Surgem sempre questões ao longo do dia, que não estavam previstas, e requerem 
 resolução imediata.
- 
 Como caracteriza o trabalho feito no DA?  
 É um trabalho de evolução e adaptação 
 contínua com vista à melhoria dos 
@@ -77,7 +74,6 @@ Académica. Um trabalho, por vezes com
 recursos escassos, que tem o contributo 
 e empenho de uma excelente equipa de 
 cerca de 140 trabalhadores.
- 
 Quais são as melhores e as piores 
 memórias que tem do seu trajeto nos 
 SASUM? 
@@ -111,9 +107,9 @@ Benguela, cidade onde nasci.
 A Universidade do Minho?  
 A minha segunda casa. Local de 
 trabalho, estudo e também convívio. Lurdes Conceição é responsável da Divisão de Gestão Alimentar de Braga.
-ANA MARQUES
-NUNO GONÇALVES
+Ana Marques
+Nuno Gonçalves
 trabalho presencial, ajudou a ultrapassar 
 a questão do isolamento e a não alterar 
 totalmente as rotinas diárias.
-Lurdes iniciou o seu trajeto profissional na AAUM.
+Lurdes iniciou o seu trajeto profissional na AAUM.Lurdes iniciou o seu trajeto profissional na AAUM.Lurdes iniciou o seu trajeto profissional na AAUM.Lurdes iniciou o seu trajeto profissional na AAUM.

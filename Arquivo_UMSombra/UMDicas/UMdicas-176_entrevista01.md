@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:176
-University:Universidade do Minho
-interviewee:Ana Paula Machado
-topis:Ação Social
-role:responsável pela Divisão de Bolsas dos SASUM
-date:ABRIL 2021
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 176
+university: Universidade do Minho
+interviewee: Ana Paula Machado
+topic: Ação Social
+role: responsável pela Divisão de Bolsas dos SASUM
+date: ABRIL 2021
+title: PERCURSOS
+interviewer: Ana Marques
 ---
+
+
 Ana Paula Machado, responsável pela Divisão de Bolsas dos SASUM, 
 fala do seu percurso de vida e experiência profissional, conta como é 
 vivido o dia a dia na sua Divisão e apresenta-nos uma perspetiva de 
@@ -35,7 +36,7 @@ equipa da DB em prol de objetivos comuns
 no interesse da população discente. 
 Os princípios e valores interiorizados 
 em todas as pessoas que constituem a 
-equipa de trabalho como:proximidade 
+equipa de trabalho como: proximidade 
 com os estudantes primando por um 
 atendimento personalizado; justiça 
 social e rigor na aplicação das normas 
@@ -121,7 +122,7 @@ estudo e complementos) e indiretos
 (alojamento e apoio clínico) no sentido de 
 garantia do bem-estar dos estudantes na 
 frequência da Universidade, colmatando 
-dificuldades inerentes:à carência 
+dificuldades inerentes: à carência 
 económica, ao afastamento da residência 
 do agregado familiar e ao estado de saúde.    
   
@@ -149,7 +150,6 @@ desses estudantes e o valor que deram
 ao nosso apoio e à atribuição da bolsa de 
 estudo na prossecução e conclusão dos 
 estudos.
- 
 Como olha para o futuro?
 Considero que o futuro se constrói com 
 a aprendizagem e conhecimentos que 
@@ -205,4 +205,4 @@ nomeadamente no científico.
 tenho vivido grande parte da minha
 vida.
 Ana Paula Machado é trabalhadora dos SASUM há 34 anos. 
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

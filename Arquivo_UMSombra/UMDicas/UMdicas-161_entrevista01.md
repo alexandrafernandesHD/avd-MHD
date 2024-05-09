@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:161
-University:Universidade do Minho
-interviewee:Rui Vieira de Castro
-topis:Academia
-role:Reitor da UMinho
-date:MARÇO 2019
-num_pages:
-title:Entrevista ao Reitor da UMinho, Rui Vieira de Castro
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 161
+university: Universidade do Minho
+interviewee: Rui Vieira de Castro
+topic: Academia
+role: Reitor da UMinho
+date: MARÇO 2019
+title: Entrevista ao Reitor da UMinho, Rui Vieira de Castro
+interviewer: Ana Marques
 ---
+
+
 Rui Vieira de Castro considera que em 45 anos se construiu uma instituição de referência
 nacional e internacionalmente reconhecida, que deve ser motivo de orgulho e confiança.
 Após um ano de mandato (feito em
@@ -129,7 +130,7 @@ de formação. Fá-lo num domínio em que
 claramente o país tem necessidades.
 Quanto à investigação, assistimos a uma
 situação particularmente interessante
-no ano passado:conseguimos obter
+no ano passado: conseguimos obter
 resultados muitíssimo interessantes
 de projetos que foram obtidos. Foram
 cerca de 250 os projetos financiados
@@ -342,7 +343,7 @@ a sua atividade desportiva, etc. Essa será
 uma grande aposta que vamos fazer este
 ano.
 No domínio da investigação, diria que há
-dois grandes desafios:um tem a ver com
+dois grandes desafios: um tem a ver com
 o reequipamento científico e tem estado
 a ser negociada entre as universidades
 do Norte a CCDR, a abertura de uma call
@@ -488,7 +489,7 @@ são absolutamente essenciais. Por isso,
 também, este modo como entendemos o
 serviço de ação social deve ser valorizado.
 Os Serviços de Ação Social são
-isso, são o que a expressão diz:são
+isso, são o que a expressão diz: são
 serviços orientados para o apoio social
 predominantemente e preferencialmente,
 aos nossos estudantes. Portanto, a lógica
@@ -607,7 +608,7 @@ colocados em cima da mesa e que iam
 desde o edifício da fábrica Confiança até à
 Quinta dos Peões, etc… Verdadeiramente,
 só vejo, neste momento, duas
-alternativas:uma delas já a coloquei aos
+alternativas: uma delas já a coloquei aos
 estudantes. Há um espaço no campus que
 eu julgo que pode ser cedido à Associação.
 Julgo que esta, naquilo que me têm dito,
@@ -633,7 +634,7 @@ aspirações e acho-as absolutamente
 justas. Acho que o edifício da D. Pedro
 V não oferece hoje as condições de
 dignidade adequadas. As alternativas
-são:ou é no interior do campus, ou
+são: ou é no interior do campus, ou
 é, naquilo que pode ser uma eventual
 expansão do campus. Aqui a Associação
 tem uma palavra importante, eu diria
@@ -730,7 +731,7 @@ A UMinho é um dos grandes atores
 desta região com significativo impacto
 na sociedade. Como caracteriza a relação
 da UMinho com a Sociedade, nas suas
-várias dimensões:cultural, social e com
+várias dimensões: cultural, social e com
 as empresas?
 Se eu quisesse encontrar uma marca
 distintiva da UMinho face às outras
@@ -846,5 +847,4 @@ e cada vez mais seremos capazes de
 afirmar a Universidade do Minho como
 uma instituição decisiva para o futuro do
 nosso país.
-
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

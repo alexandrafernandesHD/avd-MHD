@@ -1,14 +1,15 @@
 ---
-jornal:UMdicas
-issue:165
-University:Universidade do Minho
-interviewee:José Mendes
-topis:Academia
-role:Secretário de Estado Adjunto e da Mobilidade
-date:JULHO 2019
-title:José Mendes Secretário de Estado Adjunto e da Mobilidade
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 165
+university: Universidade do Minho
+interviewee: José Mendes
+topic: Academia
+role: Secretário de Estado Adjunto e da Mobilidade
+date: JULHO 2019
+title: José Mendes Secretário de Estado Adjunto e da Mobilidade
+interviewer: Ana Marques
 ---
+
 José Mendes é Secretário de Estado Adjunto e da Mobilidade desde 2015, tendo assumido o
 “compromisso de operar uma revolução no sistema de mobilidade”. Em entrevista ao UMDicas
 falou-nos do seu trabalho e não esqueceu a forte ligação à UMinho.
@@ -82,7 +83,7 @@ para o país?
 A melhor forma de garantir a
 sustentabilidade é equilibrar uma
 equação que é, na atualidade, muito
-desequilibrada:a utilização de recursos
+desequilibrada: a utilização de recursos
 naturais e as externalidades socioambientais
 negativas são superiores,
 em várias ordens de grandeza, ao que
@@ -147,7 +148,7 @@ A tarefa que se nos apresenta
 é gigantesca e demanda uma ação
 concertada e transversal. Todos
 estamos convocados para este desafio
-de combate às alterações climáticas:
+de combate às alterações climáticas: 
 os indivíduos, as famílias, as
 empresas e instituições, as cidades e
 regiões e os governos locais e central.
@@ -172,7 +173,6 @@ abrem-se oportunidades para os nossos
 investigadores. E, sim, é necessário
 investir na literacia climática, de forma
 a que se produza a necessária alteração
-de mentalidades.
 Como tem visto as políticas de
 sustentabilidade implementadas pelos
 SASUM?
@@ -249,4 +249,4 @@ nosso mundo mais vivível no futuro.
 É para mim claro que os jovens, como
 os estudantes desta academia, são os
 principais motores da mudança.
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

@@ -1,16 +1,13 @@
 ---
-jornal:UMdicas
-issue:180
-University:Universidade do Minho
-interviewee:Cristina Sousa
-topis:Ação Social
-role:Departamento Contabilístico e Financeiro (DCF)
-date:
-num_pages:
-title:PERCURSOS
-interviewer:
+journal: UMdicas 
+issue: 180
+university: Universidade do Minho
+interviewee: Cristina Sousa
+topic: Ação Social
+role: Departamento Contabilístico e Financeiro (DCF)
+title: PERCURSOS
+interviewer: 
 ---
-
 Cristina Sousa nasceu e vive em Braga há 43 anos. Desempenha funções no Departamento 
 Contabilístico e Financeiro (DCF) dos Serviços de Acção Social da Universidade do Minho 
 (SASUM) há 20 anos e faz parte de uma equipa de 22 pessoas que prestam apoio na área financeira 
@@ -39,7 +36,7 @@ do Património no DCF.
 Há quantos anos está nos Serviços e quais 
 são as suas funções?
 Vinte anos, desde maio de 2001.
-As principais funções são:garantir o 
+As principais funções são: garantir o 
 registo e controlo das dívidas de terceiros; 
 gerir eficazmente o procedimento 
 de conferência e venda de títulos de 
@@ -146,11 +143,11 @@ Chocolate.
 A Universidade do Minho?
 Instituição que potencia a igualdade de 
 oportunidades.Cristina Sousa é responsável pelo Setor da Tesouraria e do Património no DCF .
-ANA MARQUESintegrado ao estudante. 
+Ana Marquesintegrado ao estudante. 
 Como tem sido passar por esta pandemia, 
 a nível pessoal e profissional?
 Tem sido difícil, o sentimento de 
 incerteza, mas com alguma resiliência 
 e uma procura de novas formas de 
 trabalhar, conseguimos minimizar os 
-efeitos desta pandemia
+efeitos desta pandemiaefeitos desta pandemiaefeitos desta pandemiaefeitos desta pandemia

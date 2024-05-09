@@ -1,15 +1,14 @@
 ---
-jornal:UMdicas
-issue:191
-University:Universidade do Minho
-interviewee:Margarida Isaías
-topis:Academia
-role:presidente da AAUMinho
-date:
-num_pages:
-title:Entrevista a Margarida Isaías, presidente da AAUMinho
-interviewer:ANA MARQUESNUNO GONÇALVES
+journal: UMdicas 
+issue: 191
+university: Universidade do Minho
+interviewee: Margarida Isaías
+topic: Academia
+role: presidente da AAUMinho
+title: Entrevista a Margarida Isaías, presidente da AAUMinho
+interviewer: Ana Marques
 ---
+
 A estudante do 6.º ano do Mestrado Integrado em Medicina é a 31.ª presidente da
 Associação Académica da Universidade do Minho (AAUMinho).
 Margarida Isaías foi eleita presidente da
@@ -45,7 +44,7 @@ atitude curiosa levou-me a querer sempre
 expandir os meus horizontes e foi na
 Associação Académica que encontrei
 o local ideal para o fazer. O desafio da
-presidência surgiu naturalmente:a
+presidência surgiu naturalmente: a
 experiência na estrutura e a contínua
 vontade de defender os estudantes do
 Minho fez com que este fosse o próximo
@@ -64,7 +63,7 @@ mudança da sociedade em que vivemos.
 Veem-se já muitas mulheres em cargos
 de responsabilidade na Universidade
 (desde órgãos de gestão da mesma a
-associações juvenis:núcleos, secções,
+associações juvenis: núcleos, secções,
 delegações e grupos culturais) e hoje,
 a direção da AAUMinho tem inclusive
 mais mulheres que homens. É o princípio
@@ -145,7 +144,7 @@ da AAUM e alcançou a vitória com 82,51%
 dos votos. Esperava um resultado tão 
 expressivo?
 Trabalhamos com esse objetivo em 
-mente:dar a conhecer o nosso projeto 
+mente: dar a conhecer o nosso projeto 
 aos estudantes, que o reconheceram como 
 sólido, representativo dos seus interesses 
 e capaz de agir no agora, mantendo 
@@ -156,9 +155,7 @@ para exercermos a nossa atividade e
 sentimos o peso da responsabilidade de 
 um resultado tão positivo. Contudo, não estamos alheios à abstenção eleitoral e 
 iremos trabalhar, durante todo o ano, 
-para a reduzir.
 Como caracteriza a equipa que a 
-acompanha?
 É uma equipa altamente diversa e 
 com provas dadas nos diferentes 
 departamentos. Temos dirigentes 
@@ -180,10 +177,8 @@ melhoria. No entanto, não deixamos de
 apresentar uma grande renovação na 
 conjuntura total, reflexo da importância 
 que damos à inserção de novas ideias e 
-mentalidades na AAUMinho.
 Pensa que este percurso de associativismo 
 será relevante para o seu futuro. Em que 
-medida?
 O percurso associativo e sobretudo a 
 vontade do estudante em se envolver 
 noutros projetos, que não os puramente 
@@ -204,7 +199,7 @@ auscultação dos mesmos.
 preparado para lidar 
 com a mudança e 
 com a diversidade de 
-circunstâncias...NUNO GONÇALVES
+circunstâncias...Nuno Gonçalves
 “Penso ser importante ter 
 a versatilidade de entender 
 os diversos pontos de 
@@ -216,33 +211,6 @@ e necessidades...
 à abstenção eleitoral e 
 iremos trabalhar, durante 
 todo o ano, para a reduzir.
-Como caracteriza a equipa que a
-acompanha?
-É uma equipa altamente diversa e
-com provas dadas nos diferentes
-departamentos. Temos dirigentes
-de todos os ciclos de estudo, de uma
-grande variedade de escolas e todos
-com experiência associativa, entre
-Núcleos, Secções, Delegações, Grupos
-Culturais e Órgãos de Representação
-Estudantil da Academia. Além disso, é
-uma equipa que preserva a experiência de
-dirigentes com passagem pela AAUMinho,
-especialmente nos cargos de liderança.
-Consideramos esta continuidade crucial
-para o desenvolvimento de um projeto
-de qualidade, já que o conhecimento e
-a perceção da estrutura fazem com que
-seja possível perceber os seus pontos de
-melhoria. No entanto, não deixamos de
-apresentar uma grande renovação na
-conjuntura total, reflexo da importância
-que damos à inserção de novas ideias e
-mentalidades na AAUMinho.
-Pensa que este percurso de associativismo
-será relevante para o seu futuro. Em que
-medida?
 O percurso associativo e sobretudo a
 vontade do estudante em se envolver
 noutros projetos, que não os puramente
@@ -481,7 +449,7 @@ e acrescentar mais qualidade ainda
 àqueles que já são imagens de marca
 da Associação Académica. Então, vemos
 também com bons olhos algumas adições
-na já típica rotina:falo do cortejo dos
+na já típica rotina: falo do cortejo dos
 pequeninos, em que se prevê alargar
 a tradição académica a toda a cidade,
 nomeadamente com crianças, também
@@ -639,7 +607,7 @@ se vê a fazer nesta área?
 No meu discurso de tomada de posse tive
 a oportunidade de refletir um pouco sobre
 aquele que tem sido o meu percurso pela
-Universidade:“a jovem de 17 anos que
+Universidade: “a jovem de 17 anos que
 tudo o que queria era entrar no curso de
 Medicina, pouco pensou sobre aquele que
 iria ser o seu percurso durante os longos
@@ -692,7 +660,7 @@ UMinho e aos estudantes do ensino
 superior?
 A mensagem que tenho a deixar aos
 estudantes pode ser transmitida num
-simples verbo:“participar”. Participem,
+simples verbo: “participar”. Participem,
 interessem-se pelo mundo que vos
 rodeia e façam parte da mudança. Quer
 seja na vossa turma, no vosso ano, no
@@ -706,4 +674,4 @@ politicamente em sociedade e não tenham
 medo de dar a vossa opinião e de defender
 os vossos interesses, contribuindo para o
 debate saudável e o alargar de horizontes
-por parte de toda a Academia.
+por parte de toda a Academia.por parte de toda a Academia.por parte de toda a Academia.por parte de toda a Academia.

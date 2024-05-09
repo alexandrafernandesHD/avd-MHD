@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:178
-University:Universidade do Minho
-interviewee:Helena Sousa
-topis:Academia
-role:presidente do Conselho Cultural da Universidade do Minho
-date:AGOSTO 20214
-num_pages:
-title:Entrevista à presidente do Conselho Cultural da Universidade do Minho
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 178
+university: Universidade do Minho
+interviewee: Helena Sousa
+topic: Academia
+role: presidente do Conselho Cultural da Universidade do Minho
+date: AGOSTO 20214
+title: Entrevista à presidente do Conselho Cultural da Universidade do Minho
+interviewer: Ana Marques
 ---
+
+
 Helena Sousa é presidente do Conselho Cultural da Universidade do Minho (UMinho) desde
 2019 e foi a quinta figura a ocupar o cargo na academia minhota.
 Helena Sousa é Professora Catedrática
@@ -135,7 +136,7 @@ transformadora da cultura.
 É presidente do CC desde 10 de outubro
 de 2019. O que a levou a aceitar o cargo?
 O mesmo de sempre quando aceito um
-cargo:querer dar o meu contributo,
+cargo: querer dar o meu contributo,
 imaginando que tal é possível e útil.
 Trata-se de um exercício de imaginação
 e vontade. Gosto de trabalho em equipa
@@ -187,7 +188,7 @@ visto a evolução deste órgão e as opções
 feitas ao longo dos anos?
 Tenho a mais profunda admiração por
 todos os antigos presidentes do Conselho
-Cultural da Universidade do Minho:Prof.
+Cultural da Universidade do Minho: Prof.
 Lúcio Craveiro da Silva, Prof. José Viriato
 Capela, Profª Gabriela Macedo, da Profª
 Eduarda Keating. Infelizmente o Prof.

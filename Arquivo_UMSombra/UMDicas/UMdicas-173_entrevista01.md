@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:173
-University:Universidade do Minho
-interviewee:Rui Oliveira 
-topis:Academia
-role:Presidente da Associação Académica
-date:NOVEMBRO 2020
-num_pages:
-title:Entrevista ao Presidente da Associação Académica, Rui Oliveira 
-interviewer:Ana Marques
+journal: UMdicas 
+issue: 173
+university: Universidade do Minho
+interviewee: Rui Oliveira 
+topic: Academia
+role: Presidente da Associação Académica
+date: NOVEMBRO 2020
+title: Entrevista ao Presidente da Associação Académica, Rui Oliveira 
+interviewer: Ana Marques
 ---
+
+
 Quase a fazer um ano de mandato, Rui Oliveira aponta como “prioridade” continuar a dar 
 resposta às necessidades dos estudantes. 
 ENTREVISTA
@@ -173,7 +174,7 @@ bem, mas é necessário tomar este tipo
 de atitude colaborativa. Estamos todos a 
 caminhar para que tudo melhore.
 Em relação às cantinas e residências 
-da UMinho:como perceciona estas 
+da UMinho: como perceciona estas 
 realidades atuais, quais os problemas 
 nestas áreas e, existindo, que soluções 
 propõe?
@@ -357,4 +358,4 @@ convicto que disponho
 da motivação necessária 
 para tal e, por isso, 
 é minha vontade 
-recandidatar-me ...
+recandidatar-me ...recandidatar-me ...recandidatar-me ...recandidatar-me ...

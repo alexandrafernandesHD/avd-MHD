@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:184
-University:Universidade do Minho
-interviewee:Entrevista ao Reitor da UMinho, Rui Vieira de Castro
-topis:Academia
-role:reitor da Universidade do Minho
-date:
-num_pages:
-title:Reeleito reitor da Universidade do Minho (UMinho) até 2025, Rui Vieira de Castro diz-se comprometido com a afirmação da Academia.
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 184
+university: Universidade do Minho
+interviewee: Entrevista ao Reitor da UMinho, Rui Vieira de Castro
+topic: Academia
+role: reitor da Universidade do Minho
+title: Reeleito reitor da Universidade do Minho (UMinho) até 2025, Rui Vieira de Castro diz-se comprometido com a afirmação da Academia.
+interviewer: Ana Marques
 ---
+
+
 Rui Vieira de Castro foi reeleito reitor
 da Universidade do Minho (UMinho),
 para o período 2021-2025. O professor
@@ -47,7 +47,7 @@ aquilo que se quer que a Universidade
 venha a ser. Esse projeto foi conhecido
 como sendo um projeto de qualidade, um
 projeto ganhador, e, portanto, não tenho
-senão de fazer duas coisas:agradecer a
+senão de fazer duas coisas: agradecer a
 confiança que em mim foi depositada e,
 depois, dizer que darei o meu melhor na
 condução dos destinos da Universidade
@@ -72,7 +72,7 @@ Fazendo uma leitura muito sintética,
 o projeto que vimos interpretando
 é, claramente, um projeto de grande
 sucesso. Quando olhamos para as
-NUNO GONÇALVES
+Nuno Gonçalves
 Rui Vieira de Castro foi reeleito reitor da UMinho a 27 de outubro 2021.
 pessoas que a Universidade conseguiu
 qualificar ao longo destas décadas,
@@ -103,7 +103,7 @@ conseguimos até hoje e nos vai dar
 também energia e responsabilidade para
 o futuro. A Universidade não pode perder
 de vista aquilo que são os seus objetivos
-essenciais:qualificar as pessoas ao mais
+essenciais: qualificar as pessoas ao mais
 alto nível; promover o desenvolvimento
 do conhecimento humano; interagir
 com sociedade, e por essa via, promover
@@ -235,7 +235,7 @@ reconhecimento da pertinência do projeto
 da Universidade.
 No domínio da Investigação, diria que
 temos aqui um objetivo essencial,
-que decorre também de um facto:o
+que decorre também de um facto: o
 da transformação significativa que o
 corpo investigador da Universidade vem
 conhecendo. Tínhamos há cinco anos um
@@ -448,7 +448,7 @@ novas formas de atuar, que podem,
 com vantagem, ser incorporadas neste
 regresso à normalidade, que vai ser
 uma normalidade diferente. Há um
-facto que é indesmentível:a pandemia
+facto que é indesmentível: a pandemia
 acelerou imenso os processos de
 transformação digital, com grande
 impacto no funcionamento da instituição
@@ -587,7 +587,7 @@ de assegurar, em particular do corpo
 docente, a renovação geracional. Diria
 que há um conjunto de fatores que são
 perturbadores, olhando também para o
-caso dos investigadores:a instabilidade
+caso dos investigadores: a instabilidade
 do seu vínculo contratual. Portanto,
 quando olhamos para estes nossos
 corpos, percebemos que há elementos
@@ -798,7 +798,6 @@ que sim. A verdade é que se temos este
 instrumento ao nosso dispor, então,
 sejamos capazes de o aproveitar para,
 fundamentalmente, reforçar o projeto
-da Universidade.
 A questão do Alojamento universitário
 continua, mais que nunca, na ordem
 do dia. A expectativa, recentemente
@@ -965,7 +964,7 @@ Sei que isso dificilmente se fará se não
 houver um reforço do orçamento para
 as instituições de ensino superior. Mas,
 aí, a pergunta que se deve colocar aos
-responsáveis políticos é:o que é que
+responsáveis políticos é: o que é que
 querem das universidades? As atuais
 condições não são boas condições,
 vivemos em contínua pressão, financeira

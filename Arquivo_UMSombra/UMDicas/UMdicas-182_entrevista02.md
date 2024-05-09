@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:182
-University:Universidade do Minho
-interviewee:Rosa Vasconcelos
-topis:Academia
-role:Provedora do Estudante da Universidade do Minho
-date:DEZEMBRO 2021
-num_pages:
-title:Entrevista à Provedora do Estudante da Universidade do 
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 182
+university: Universidade do Minho
+interviewee: Rosa Vasconcelos
+topic: Academia
+role: Provedora do Estudante da Universidade do Minho
+date: DEZEMBRO 2021
+title: Entrevista à Provedora do Estudante da Universidade do 
+interviewer: Ana Marques
 ---
+
+
 Rosa Vasconcelos foi reconduzida no cargo de Provedora do Estudante da Universidade do
 Minho no passado dia 10 de dezembro.
 A docente, que foi eleita para o cargo
@@ -43,7 +44,7 @@ não tendo deixado de ser analisadas e
 discutidas as diversas situações, tendo
 todo esse trabalho dado origem a um
 conjunto alargado de recomendações
-(https://www.uminho.pt/PT/uminho/
+(https: //www.uminho.pt/PT/uminho/
 Orgaos-da-Universidade/Provedoria/
 Provedor-do-Estudante/Paginas/default.
 aspx).
@@ -195,7 +196,6 @@ situações desta natureza, que tiveram o
 tratamento adequado.
 Quais pensa que serão as maiores
 dificuldades com que se irá deparar neste
-novo mandato?
 A expectável falta de recursos para
 a promoção de ações preventivas de
 situações problemáticas e de conflito.

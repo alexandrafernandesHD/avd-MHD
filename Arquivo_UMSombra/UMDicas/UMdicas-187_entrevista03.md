@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:187
-University:Universidade do Minho
-interviewee:Jorge Braz
-topis:Desporto
-role:Selecionador Nacional de Futsal
-date:JULHO 2022
-num_pages:
-title:Entrevista ao Selecionador Nacional de Futsal
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 187
+university: Universidade do Minho
+interviewee: Jorge Braz
+topic: Desporto
+role: Selecionador Nacional de Futsal
+date: JULHO 2022
+title: Entrevista ao Selecionador Nacional de Futsal
+interviewer: Ana Marques
 ---
+
 Jorge Braz é, desde 2010, o selecionador nacional da equipa A de futsal. O professor estará a
 coordenar as seleções nacionais que irão disputar o Mundial Universitário de Futsal.
 Jorge Braz iniciou a sua carreira de
@@ -213,4 +213,4 @@ competições. Este Mundial Universitário
 será, certamente, mais um momento
 de enorme ligação entre o público e as
 Seleções Nacionais!
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

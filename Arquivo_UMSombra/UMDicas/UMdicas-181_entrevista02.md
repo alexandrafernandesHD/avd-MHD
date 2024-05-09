@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:181
-University:Universidade do Minho
-interviewee:Graciete Dias
-topis:Academia
-role:Presidente do Conselho de Ética da Universidade do Minho (CEUMinho)
-date:
-num_pages:
-title:Entrevista à Presidente do Conselho de Ética da Universidade do Minho
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 181
+university: Universidade do Minho
+interviewee: Graciete Dias
+topic: Academia
+role: Presidente do Conselho de Ética da Universidade do Minho (CEUMinho)
+title: Entrevista à Presidente do Conselho de Ética da Universidade do Minho
+interviewer: Ana Marques
 ---
+
+
 Graciete Dias é Presidente do Conselho de Ética da Universidade do Minho (CEUMinho)
 desde junho de 2018, a primeira figura a ocupar o cargo na academia minhota.
 A atual Presidente, é professora
@@ -133,12 +133,11 @@ projetos de investigação com solicitação
 de avaliação ética, foram criadas três
 Comissões de Ética para a Investigação.
 Assim, integram atualmente o CEUMinho
-as seguintes comissões especializadas:
+as seguintes comissões especializadas: 
 Comissão de Ética para a Investigação
 em Ciências da Vida e da Saúde (CEICVS);
 Comissão de Ética para a Investigação em
 Ciências Sociais e Humanas (CEICSH);
-Comissão de Ética para a Investigação em
 Ciências do Ambiente (CEICA).
 Está à frente do órgão há cerca de três
 anos e meio. Que balanço faz desta
@@ -154,7 +153,7 @@ sete objetivos estratégicos, a que se
 reportam medidas de operacionalização
 e indicadores de realização. Os relatórios
 anuais de atividade, disponíveis em
-https://www.uminho.pt/PT/uminho/
+https: //www.uminho.pt/PT/uminho/
 Etica, apresentam uma síntese dos
 resultados obtidos em cada ano, com
 referência ao grau de execução das
@@ -268,7 +267,6 @@ académica e científica nacional e
 internacional. Trata-se de um evento
 anual que tem como destinatários todos
 os membros da comunidade académica
-(docentes, investigadores, estudantes
 de graduação e pós-graduação,
 trabalhadores técnicos, administrativos
 e de gestão), bem como colaboradores.
@@ -316,12 +314,12 @@ humana e social, da saúde e qualidade
 de vida.
 O Fórum Ética 2021 realiza-se no
 próximo dia 10 de dezembro, subordinado
-ao tema, “Ética e Ambiente:pensar o
+ao tema, “Ética e Ambiente: pensar o
 terceiro milénio”. Quer falar-nos um
 pouco sobre a pertinência/iminência do
 tema na atualidade?
 A crise global do ambiente é uma
-realidade indiscutível e devastadora:
+realidade indiscutível e devastadora: 
 cheias, ondas de calor, incêndios, degelo e
 subida do nível médio das águas do mar,
 alteração dos ecossistemas e perda da
@@ -349,7 +347,7 @@ em conta as responsabilidades das IES
 nesta matéria, quisemos contribuir,
 organizando na UMinho um evento, o
 Fórum Ética UMinho 2021, sob o tema
-Ética e Ambiente:pensar o terceiro
+Ética e Ambiente: pensar o terceiro
 milénio. Esta iniciativa tem como objetivo
 viabilizar um espaço de discussão das
 relações entre ética e ambiente e debater
@@ -452,7 +450,7 @@ suas Comissões Especializadas
 (competências, constituição, organização
 e funcionamento, atividades) encontra-se
 disponível na página Ética do portal da
-Universidade, em https://www.uminho.
+Universidade, em https: //www.uminho.
 pt/PT/uminho/Etica. Contactos para
 pedidos de informação ou solicitação de
 pareceres poderão ser estabelecidos com

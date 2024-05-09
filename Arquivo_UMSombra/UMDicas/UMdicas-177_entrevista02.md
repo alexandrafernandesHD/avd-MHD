@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:177
-University:Universidade do Minho
-interviewee:Aníbal Augusto Alves
-topis:Academia
-role:Provedor Institucional da UMinho
-date:JUNHO 2021
-num_pages:
-title:Entrevista ao Provedor Institucional da UMinho
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 177
+university: Universidade do Minho
+interviewee: Aníbal Augusto Alves
+topic: Academia
+role: Provedor Institucional da UMinho
+date: JUNHO 2021
+title: Entrevista ao Provedor Institucional da UMinho
+interviewer: Ana Marques
 ---
+
+
 Aníbal Augusto Alves é Provedor Institucional da Universidade do Minho (UMinho) desde
 2018, a primeira figura a ocupar o cargo na academia minhota.
 O atual Provedor Institucional, é, desde
@@ -96,7 +97,7 @@ consideração devida a cada uma, e tendo
 em conta a experiência vivida, dirige-se
 para as pessoas com estatuto e funções
 mais dependentes. O horizonte é sempre
-o mesmo:a eminente dignidade de cada
+o mesmo: a eminente dignidade de cada
 pessoa humana, conforme o Artigo 1.º da
 Constituição da República Portuguesa.
 É manifesto que as pessoas referidas,
@@ -149,7 +150,6 @@ Conselho Geral, foi publicado em Diário
 da República apenas em 24 de maio de
 2019.
 O Gabinete do Provedor tem contado, no
-atendimento às pessoas que procuraram
 o Provedor, com o apoio técnico
 voluntário da Senhora Dra. Maria José
 Oliveira, Técnica Superior, que exerce
@@ -162,7 +162,6 @@ da sua notável competência e qualidades
 morais, intelectuais e humanas, aliás,
 unanimemente reconhecidas.
 Que “marca” gostaria de deixar enquanto
-Provedor Institucional?
 Não pretendo deixar qualquer “marca”.
 Desejo, sim, ao futuro Provedor
 Institucional as maiores felicidades no
@@ -175,7 +174,7 @@ Qual a sua opinião relativamente ao
 panorama atual do ensino superior?
 Olho com algum pessimismo pessoal
 para o panorama atual do ensino
-superior em relação a dois aspetos:um,
+superior em relação a dois aspetos: um,
 o que julgo ser alguma desvalorização
 dos Professores Universitários, o seu
 Estatuto e condições de progressão na
@@ -190,7 +189,7 @@ pessoa singular desta Comunidade de
 pessoas, que é a UMinho, na convicção
 de que a pessoa cresce e realiza-se com
 e graças a outra pessoa. Tal é o caminho
-e sentido da vida, a descobrir ou criar:-
+e sentido da vida, a descobrir ou criar: -
 “Caminhante, não há caminho; faz-se
-o caminho ao andar:ao andar se faz
+o caminho ao andar: ao andar se faz
 caminho…”!

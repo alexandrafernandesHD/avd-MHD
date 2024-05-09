@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:172
-University:Universidade do Minho
-interviewee:Rui Vieira de Castro
-topis:Academia
-role:Reitor da UMinho
-date:OUTUBRO 2020
-num_pages:
-title:Entrevista ao Reitor da UMinho, Rui Vieira de Castro 
-interviewer:Ana Marques
+journal: UMdicas
+issue: 172
+university: Universidade do Minho
+interviewee: Rui Vieira de Castro
+topic: Academia
+role: Reitor da UMinho
+date: OUTUBRO 2020
+title: Entrevista ao Reitor da UMinho, Rui Vieira de Castro 
+interviewer: Ana Marques
 ---
+
+
 Rui Vieira de Castro garante que a UMinho “está preparada” para um ano letivo atípico, mas
 será necessário da parte de todos a adoção de práticas e de comportamentos adequados.
 Na abertura de mais um ano letivo e perante
@@ -429,7 +430,7 @@ Serviços?
 Sobre os efeitos, evidentemente são
 negativos e penalizadores. A UMinho
 tomou há muitos anos, e, a meu ver bem, a
-opção que foi:a generalidade dos serviços
+opção que foi: a generalidade dos serviços
 prestados pelos SASUM devia ser prestada
 no quadro de serviço de ação social com
 pessoal próprio. Há universidades onde
@@ -657,7 +658,7 @@ as nossas unidades disponibilizaram
 tudo o que tinham. Essa primeira
 resposta acabou por marcar, de certa
 forma, a maneira como a Universidade
-foi atuando. Enumerando alguns casos:
+foi atuando. Enumerando alguns casos: 
 primeiro, tivemos e continuamos a ter
 investigadores que estão na base de uma
 média de realização de cerca de 300 testes
@@ -827,7 +828,7 @@ responsabilidade, um grande sentido de
 reinvenção. Isto deve-se a este esforço, a
 esta disponibilidade, a este compromisso.
 A este agradecimento eu juntava outra
-palavra:confiança. Se fomos capazes de
+palavra: confiança. Se fomos capazes de
 numa situação como aquela, reagir como
 reagimos, então devemos ter confiança
 em nós próprios, na nossa capacidade
@@ -868,5 +869,4 @@ de agradecimento aos estudantes e às
 suas famílias que decidiram escolher a
 UMinho para fazer a sua formação no
 ensino superior.
-
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

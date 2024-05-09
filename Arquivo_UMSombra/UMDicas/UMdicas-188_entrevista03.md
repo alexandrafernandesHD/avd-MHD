@@ -1,19 +1,15 @@
 ---
-jornal:UMdicas
-issue:188
-University:Universidade do Minho
-interviewee:
-topis:Cultura
-role:
-date:OUTUBRO 2022
-num_pages:
-title:“É necessário saber reequacionar o nosso papel no seio da comunidade 
-académica.”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 188
+university: Universidade do Minho
+topic: Cultura
+date: OUTUBRO 2022
+title: “É necessário saber reequacionar o nosso papel no seio da comunidade académica.”
+interviewer: Ana Marques
 ---
+
 Criado algures entre finais de novembro e princípios de dezembro de 1990, os Jogralhos
 comemoram este ano, 32 anos de vida.
-
 Universitários do Minho, são um
 dos grupos culturais mais antigos da
 Academia Minhota. A Récita do 1º de
@@ -32,7 +28,7 @@ por cerca de trinta membros - em
 termos de quantidade, certamente dos
 mais pequenos do nosso panorama
 cultural - e a sua missão é, digamos,
-muito indefinida:poderão encontrarnos
+muito indefinida: poderão encontrarnos
 habitualmente na nossa acolhedora
 salinha no Bar Académico, onde nos
 reunimos para discutir ideias regadas
@@ -60,7 +56,7 @@ várias hipóteses, mas podemos apenas
 especular acerca dos motivos - talvez
 para sermos facilmente identificáveis à
 distância, em noites pejadas do nebular
-efeito alcoólico? (extáticos:derivado de
+efeito alcoólico? (extáticos: derivado de
 êxtase. Fomos ao Priberam, e parece que
 existe. Continuemos.)
 Fundado em 1990, comemoram este
@@ -87,7 +83,7 @@ sabemos que ao longo de todo este tempo
 teve graus variados de sucesso.
 Em que se destacam e diferenciam os
 Jogralhos dos outros grupos culturais?
-No talento, claro:em geral, os outros
+No talento, claro: em geral, os outros
 grupos são largamente mais capazes do
 que nós, mais trabalhadores, e muito
 mais sérios no seu trabalho - constitui
@@ -169,13 +165,13 @@ deixou-nos com vontade de palcos e
 eventos cada vez maiores.
 A confiança que todos os grupos
 depositam em nós deixa-nos muito
-contentes:tem-se manifestado nos vários
+contentes: tem-se manifestado nos vários
 convites que já recebemos, e nos últimos
 anos tivemos o privilégio de fazer parte
 da apresentação de praticamente todos
 os festivais de tunas da nossa academia.
 Não obstante, há um momento que ano
-após ano nos é muito querido:a Récita do
+após ano nos é muito querido: a Récita do
 1º de Dezembro. Não só por ser o nosso
 aniversário, mas porque, de todos os
 eventos tunantes, nos parece ser das que
@@ -226,7 +222,7 @@ fascina! Apresentar o nosso próprio late
 night show e derrotar, nas audiências, a
 cristina!”
 O que nos parece um retrato fiel de
-um dos nossos sonhos. Mas há mais:
+um dos nossos sonhos. Mas há mais: 
 grandes produções audiovisuais e cénicas;
 abastadas e incomensuráveis fortunas; a
 adoração inequívoca e perpétua por parte
@@ -293,7 +289,7 @@ da comunidade académica.
 Uma mensagem à comunidade
 académica?
 Há vários lugares comuns a que
-habitualmente se recorre:aproveitem
+habitualmente se recorre: aproveitem
 isto; o tempo passa; etc. etc.; e, se dúvidas
 houvesse, podemos de facto confirmar
 que é verdade. O ensino superior constitui
@@ -303,4 +299,4 @@ fazer. Respeitem esse tempo. Sejam bons
 uns para os outros, e assim. Normalizem
 dar passos atrás, se vos trouxer felicidade.
 E paguem finos aos Jograis.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

@@ -1,18 +1,17 @@
 ---
-jornal:UMdicas
-issue:183
-University:Universidade do Minho
-interviewee:Ricardo Duarte Lopes
-topis:Academia
-role:
-date:FEVEREIRO 2022
-num_pages:
-title:Entrevista a Ricardo Duarte Lopes, presidente da AAUMinho
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 183
+university: Universidade do Minho
+interviewee: Ricardo Duarte Lopes
+topic: Academia
+date: FEVEREIRO 2022
+title: Entrevista a Ricardo Duarte Lopes, presidente da AAUMinho
+interviewer: Ana Marques
 ---
+
+
 O estudante do primeiro ano do mestrado em Direito dos Contratos e da Empresa é o 30º
 presidente da Associação Académica da Universidade do Minho (AAUMinho).
-
 Ricardo Duarte Faria Lopes foi eleito
 presidente da Associação Académica da
 Universidade do Minho (AAUMinho)
@@ -41,7 +40,6 @@ licenciatura em Direito, estando agora
 no primeiro ano do mestrado em Direito
 dos Contratos e da Empresa.
 Abraçar o desafio da presidência é o
-resultado de um caminho que tenho
 vindo a fazer e que se intensificou
 nos últimos dois anos, com a minha
 passagem na Associação Académica
@@ -596,7 +594,7 @@ que podem contar comigo e com a direção
 da AAUMinho para defender aquelas que
 são as preocupações dos estudantes,
 em geral e da academia, em particular.
-Espero que não tenham receio de procurar ANA MARQUES
+Espero que não tenham receio de procurar Ana Marques
 e recorrer à AAUMinho para resolver os
 seus problemas. Paralelamente quero
 passar uma mensagem de esperança,
@@ -616,4 +614,4 @@ ter um papel ativo nos núcleos, secções
 e delegações, bem como nos grupos
 culturais. Porque estes anos são viagem.
 E quanto mais derem a esta casa, mais
-dela receberão!
+dela receberão!dela receberão!dela receberão!dela receberão!

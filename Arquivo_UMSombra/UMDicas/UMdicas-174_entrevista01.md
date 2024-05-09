@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:174
-University:Universidade do Minho
-interviewee:Laurinda Leite
-topis:Cultura
-role:Vice-reitora para a Educação
-date:DEZEMBRO 2020
-num_pages:
-title:Entrevista à Vice-reitora para a Educação, Laurinda Leite
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 174
+university: Universidade do Minho
+interviewee: Laurinda Leite
+topic: Cultura
+role: Vice-reitora para a Educação
+date: DEZEMBRO 2020
+title: Entrevista à Vice-reitora para a Educação, Laurinda Leite
+interviewer: Ana Marques
 ---
+
+
 Há dois anos no cargo, assume como principal preocupação a qualidade da formação que é
 facultada aos estudantes da UMinho.
 Laurinda Leite é alumna da Universidade do
@@ -266,7 +267,7 @@ faz desta experiência na UMinho?
 Quando, em março passado, por indicação
 da Direção-Geral da Saúde, tivemos que
 suspender as aulas presenciais, tivemos
-uma preocupação:não ter interrupção
+uma preocupação: não ter interrupção
 ou ter a menor interrupção possível
 nas atividades letivas. Não podíamos
 ter atividades presenciais; teríamos
@@ -317,7 +318,6 @@ estudantes internacionais que se
 encontrem em dificuldade económica.
 O programa de apoio informático, que
 foi coordenado pelo Pró-Reitor para
-a Avaliação Institucional e Projetos
 Especiais, contou com a colaboração de
 alumni e de empresas e permitiu que
 todos, sublinho todos, os estudantes
@@ -467,4 +467,4 @@ embora rentabilizando as aprendizagens,
 de diversa natureza, que fizemos no
 contexto pandémico, a bem da formação
 dos nossos estudantes, que são a razão
-de ser da Universidade.
+de ser da Universidade.de ser da Universidade.de ser da Universidade.de ser da Universidade.

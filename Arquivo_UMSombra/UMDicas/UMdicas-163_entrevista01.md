@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:163
-University:Universidade do Minho
-interviewee:Paulo Cruz
-topis:Academia
-role:Pró-reitor:Qualidade de Vida e Infraestruturas
-date:MAIO 2019
-num_pages:
-title:Paulo Cruz Pró-reitor:Qualidade de Vida e Infraestruturas
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 163
+university: Universidade do Minho
+interviewee: Paulo Cruz
+topic: Academia
+role: Pró-reitor - Qualidade de Vida e Infraestruturas
+date: MAIO 2019
+title: Paulo Cruz Pró-reitor: Qualidade de Vida e Infraestruturas
+interviewer: Ana Marques
 ---
+
+
 O UMdicas esteve à conversa com o Pró-reitor que nos falou de si, da UMinho, do pelouro que
 lidera, do futuro…garantindo que o que mais o fascina em todos os cargos que já desempenhou
 é a oportunidade de dar o seu melhor contributo para o progresso das entidades e instituições
@@ -88,7 +89,7 @@ Quais são os principais objetivos
 da pró-reitoria da Qualidade de Vida e
 Infraestruturas até 2021?
 São muitos e variados, mas destacaria
-os seguintes:a promoção de qualidade
+os seguintes: a promoção de qualidade
 de vida nos campi; a elaboração de um
 plano estratégico de desenvolvimento
 dos campi; a elaboração de um plano
@@ -159,7 +160,7 @@ Desenvolvimento Sustentável das Nações
 Unidas.
 A Universidade do Minho apresentou
 evidências em cinco desses objetivos, a
-saber:ODS 3 - Saúde de qualidade; ODS
+saber: ODS 3 - Saúde de qualidade; ODS
 4 - Educação de qualidade; ODS 9 -
 Indústria, inovação e infraestrutura; ODS
 11 - Cidades e comunidades sustentáveis e
@@ -409,7 +410,7 @@ de oito modalidades. Importa referir que
 será a primeira vez que os Campeonatos
 Nacionais Universitários são subordinados
 a uma causa, que me parece muito bem
-escolhida:Sustentabilidade Ambiental
+escolhida: Sustentabilidade Ambiental
 no Desporto.
 A atração do Campeonato Europeu
 Universitário de Futsal a Braga é o
@@ -448,5 +449,4 @@ mais sustentável, mais inclusiva e com
 melhor qualidade de vida, todos temos
 de fazer parte e fazer a nossa parte com
 entusiasmo e convicção.
-
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

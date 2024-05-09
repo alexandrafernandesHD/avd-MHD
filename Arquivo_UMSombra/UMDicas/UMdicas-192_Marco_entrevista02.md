@@ -1,15 +1,12 @@
 ---
-jornal:UMdicas
-issue:192
-University:Universidade do Minho
-interviewee:
-topis:Academia
-role:
-date:
-num_pages:
-title:Entrevista ao Reitor da UMinho, Rui Vieira de Castro
-interviewer:ANA MARQUES, NUNO GONÇALVES
+journal: UMdicas 
+issue: 192
+university: Universidade do Minho
+topic: Academia
+title: Entrevista ao Reitor da UMinho, Rui Vieira de Castro
+interviewer: Ana Marques
 ---
+
 Entrevista ao Reitor da
 UMinho, Rui Vieira de Castro
 Rui Vieira de Castro é reitor da UMinho desde 2017. A exercer o seu segundo mandato à
@@ -241,7 +238,7 @@ número de publicações científicas da
 UMinho continua a crescer regularmente
 ao longo dos anos. Tivemos também
 ocasião de ter uma participação que
-cresceu significativamente:estamos hoje
+cresceu significativamente: estamos hoje
 presentes em 9 laboratórios associados,
 em 13 laboratórios colaborativos e
 isto representa o salto daquilo que é a
@@ -492,20 +489,6 @@ As exigências hoje colocadas sobre a
 administração da Universidade são muito
 grandes e, por isso, temos de encontrar
 caminhos de simplificação administrativa
-Universidade como organização, a
-Universidade cresceu muito, tornou-se
-muito mais complexa, o contexto
-envolvente é muito mais desafiante,
-coloca-nos novos problemas e requer
-novas respostas, e nós temos de adequar
-a nossa organização a esta realidade
-interna e externa. A revisão dos estatutos,
-que está já lançada e que esperamos
-que esteja concluída ao longo de 2023,
-busca precisamente isso. A proposta está
-entregue no Conselho Geral, ela admite
-a criação de novas unidades dentro da
-Universidade. Vamos ainda este mês,
 por um lado, e temos de encontrar
 também caminhos de modernização de
 todos os nossos sistemas de informação.
@@ -817,9 +800,9 @@ que pretende sinalizar a Universidade como detentora de
 um património relevante, mas sobretudo, como detentora 
 de uma visão para o futuro da instituição, da região e do 
 país.
-NUNO GONÇALVES
+Nuno Gonçalves
 True-
--Página:13-
+-Página: 13-
 MARÇO  202314
 Academia
 Diria que quem, nos anos 70, pensou este 
@@ -948,7 +931,7 @@ assenta no reconhecimento que de
 facto a Universidade não está a ser 
 adequadamente financiada. Há aquele 
 valor que a este propósito costumamos 
-sempre mobilizar:o estudante da UMinho 
+sempre mobilizar: o estudante da UMinho 
 é financiado em 1/3 do que são financiadas 
 algumas instituições em Portugal. Isto 
 é absolutamente inaceitável, traduz-se 
@@ -970,11 +953,8 @@ foi o Professor Doutor Veiga Simão, tinha, de facto,
 uma visão justa para o ensino superior em Portugal 
 e para o país. 
 Apesar das diiculdades, Rui Vieira de Castro releva a enorme vitalidade que a UMinho tem. 
-NUNO GONÇALVES
-True-
--Página:14-
+-Página: 14-
 UMDICAS15
-Academia
 em prejuízos enormíssimos para a 
 Universidade. Nós, com a atualização 
 daquilo que decorre do contrato-programa 
@@ -1175,11 +1155,8 @@ um problema de
 subfinanciamento da ação 
 social da UMinho. É mais 
 um caso incompreensível. 
-NUNO GONÇALVES
-True-
--Página:15-
+-Página: 15-
 MARÇO  202316
-Academia
 Estatutos da Universidade do Minho. 
 Em que ponto estamos do processo e 
 quais as principais alterações que se 
@@ -1405,11 +1382,8 @@ sobre o qual vale a pena intervirmos.
 das nossas contas e até de 
 alguma recuperação. 
 A aposta na formação não conferente de grau será um dos grandes objetivos dos próximos anos. 
-NUNO GONÇALVES
-True-
--Página:16-
+-Página: 16-
 UMDICAS17
-Academia
 Tem havido várias iniciativas dentro da 
 Universidade que têm vindo a funcionar 
 como uma espécie de alertas para esta 
@@ -1507,7 +1481,7 @@ correr dentro daquilo que são as nossas
 melhores expectativas. 
 Dos vários projetos, dos vários 
 processos, dos vários temas que 
-tem em mãos:qual é aquele que, 
+tem em mãos: qual é aquele que, 
 manifestamente, quer concluir antes 
 de terminar o seu mandato?
 No desenho de ação que fiz para este 
@@ -1556,7 +1530,6 @@ ponto de vista são exequíveis, e se assim
 for, obviamente, ficarei satisfeito. 
 Como habitualmente e para finalizar, 
 que mensagem gostaria de deixar à 
-Academia?
 É uma mensagem que não pode ignorar os 
 tempos de dificuldade que atravessamos, 
 mas considerando esta natureza 
@@ -1618,7 +1591,6 @@ ponto de vista são exequíveis, e se assim
 for, obviamente, ficarei satisfeito.
 Como habitualmente e para finalizar,
 que mensagem gostaria de deixar à
-Academia?
 É uma mensagem que não pode ignorar os
 tempos de dificuldade que atravessamos,
 mas considerando esta natureza
@@ -1626,7 +1598,6 @@ desafiante das nossas circunstâncias,
 a palavra que eu gostaria sobretudo de
 deixar, é uma palavra de esperança e
 uma palavra de otimismo no futuro da
-instituição.
 A UMinho foi uma Universidade que
 cresceu continuamente em condições
 que lhe foram bastante adversas, mas foi
@@ -1650,7 +1621,6 @@ o desenvolvimento social, cultural e
 económico da região e das pessoas e,
 dessa maneira, contribuir para um futuro
 mais promissor para todos nós e para o
-nosso país.
 Queria ainda deixar uma palavra de
 agradecimento à resiliência evidenciada
 por todos, no modo como vamos
@@ -1665,5 +1635,5 @@ mas que se baseia numa convicção forte
 acerca da relevância do projeto da UMinho
 para todos.
  ...Repensar a Universidade como organização será um dos projetos principais para os próximos tempos. 
-ANA MARQUES
-NUNO GONÇALVES
+Ana Marques
+Nuno GonçalvesNuno GonçalvesNuno GonçalvesNuno Gonçalves

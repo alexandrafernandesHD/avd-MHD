@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:178
-University:Universidade do Minho
-interviewee:Tuna Universitária do Minho (TUM)
-topis:Cultura
-role:Tuna Universitária do Minho (TUM)
-date:AGOSTO 20214
-num_pages:
-title:“... ter novamente um grande público a aplaudir foi memorável”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 178
+university: Universidade do Minho
+interviewee: Tuna Universitária do Minho (TUM)
+topic: Cultura
+role: Tuna Universitária do Minho (TUM)
+date: AGOSTO 20214
+title: “... ter novamente um grande público a aplaudir foi memorável”
+interviewer: Ana Marques
 ---
+
+
 A TUM é feita de jovens estudantes e ex-estudantes da Universidade do Minho (UMinho)
 com muita vontade de se juntarem e fazerem música.
 A Tuna Universitária do Minho (TUM) é
@@ -109,7 +110,7 @@ Com tantas atividades especiais em que
 nós participamos anualmente é bastante
 difícil escolher. No entanto, destacamos
 três atividades que marcaram a nossa
-fundação:a nossa antestreia, no dia 2
+fundação: a nossa antestreia, no dia 2
 de maio de 1990, no Pub John Lennon,
 num espetáculo para um público só com
 convidados; a estreia oficial, que ocorreu
@@ -152,7 +153,7 @@ que ainda não pode ser divulgado...
 Qual é o maior sonho da TUM?
 O nosso maior sonho passa pelo
 cumprimento constante do nosso
-principal objetivo:cantar e encantar as
+principal objetivo: cantar e encantar as
 belas discípulas de Vénus, bem como
 difundir a alegria e jovialidade através
 da música no seio da comunidade

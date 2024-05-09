@@ -1,16 +1,14 @@
 ---
-jornal:UMdicas
-issue:192
-University:Universidade do Minho
-interviewee:Marco Monteiro
-topis:Ação Social,PERCURSOS
-role:Serviços de Ação Social da Universidade do Minho (SASUM)
-date:
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES, NUNO GONÇALVES
+journal: UMdicas 
+issue: 192
+university: Universidade do Minho
+interviewee: Marco Monteiro
+topic: Ação Social,PERCURSOS
+role: Serviços de Ação Social da Universidade do Minho (SASUM)
+title: PERCURSOS
+interviewer: Ana Marques
 ---
-      …
+
 Marco Monteiro é natural e vive em Braga há 46 anos. Casado e pai de dois filhos, desempenha 
 funções nos Serviços de Ação Social da Universidade do Minho (SASUM) há 17 anos. Atualmente, 
 faz parte do DAA, uma equipa com cerca de 23 trabalhadores.
@@ -132,4 +130,4 @@ Um lugar?
 Praia.
 A Universidade do Minho? 
 Onde passo o maior tempo de vida.
-Marco Monteiro é Assistente Operacional com funções específicas de eletricista. ANA MARQUES, NUNO GONÇALVES
+Marco Monteiro é Assistente Operacional com funções específicas de eletricista. Ana Marques, Nuno GonçalvesMarco Monteiro é Assistente Operacional com funções específicas de eletricista. Ana Marques, Nuno GonçalvesMarco Monteiro é Assistente Operacional com funções específicas de eletricista. Ana Marques, Nuno GonçalvesMarco Monteiro é Assistente Operacional com funções específicas de eletricista. Ana Marques, Nuno Gonçalves

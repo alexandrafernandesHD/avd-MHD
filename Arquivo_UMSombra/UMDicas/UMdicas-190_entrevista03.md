@@ -1,14 +1,11 @@
 ---
-jornal:UMdicas
-issue:190
-University:Universidade do Minho
-interviewee:
-topis:Cultura
-role:
-date:16 DEZEMBRO 2022
-num_pages:
-title:“O nosso trajeto faz-se de muita ambição e humildade”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 190
+university: Universidade do Minho
+topic: Cultura
+date: 16 DEZEMBRO 2022
+title: “O nosso trajeto faz-se de muita ambição e humildade”
+interviewer: Ana Marques
 ---
 
 Fundados a 25 de abril de 2008, a IPUM são um grupo irreverente e inovador, marcado por
@@ -73,7 +70,7 @@ performances em palco? O que trouxeram
 e trazem de novo ao panorama cultural
 da Universidade?
 A nossa performance só tem um
-segredo:dar sempre 100%. Não importa
+segredo: dar sempre 100%. Não importa
 o tamanho do palco ou da plateia, o nosso
 som vai contagiar toda a gente. As gaitas
 transmontanas são certamente a parte
@@ -157,4 +154,4 @@ profissional de hoje em dia. Aquilo que
 somos está ligado à nossa cultura e se
 esta for esquecida então também seremos
 esquecidos.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

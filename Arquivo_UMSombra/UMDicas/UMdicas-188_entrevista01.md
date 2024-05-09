@@ -1,14 +1,12 @@
 ---
-jornal:UMdicas
-issue:188
-University:Universidade do Minho
-interviewee:Lídia Parente
-topis:Ação Social
-role:Departamento Alimentar
-date:
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 188
+university: Universidade do Minho
+interviewee: Lídia Parente
+topic: Ação Social
+role: Departamento Alimentar
+title: PERCURSOS
+interviewer: Ana Marques
 ---
 
 Lídia Parente nasceu na Covilhã há 51 anos e vive em Braga há 25. 
@@ -146,4 +144,4 @@ terceira casa, porque é um local que já
 preenche 25 anos da minha vida e onde 
 fui bem-recebida. 
 Lídia Parente é responsável pela Divisão Alimentar em Guimarães.
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

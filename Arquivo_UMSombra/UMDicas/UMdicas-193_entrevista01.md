@@ -1,16 +1,14 @@
 ---
-jornal:UMdicas
-issue:193
-University:Universidade do Minho
-interviewee:José Albano da Silva Conde
-topis:PERCURSOS
-role:Serviços de Ação Social da Universidade do Minho (SASUM)
-date:
-num_pages:
-title:José Albano da Silva Conde
-interviewer:ANA MARQUES, NUNO GONÇALVES
+journal: UMdicas 
+issue: 193
+university: Universidade do Minho
+interviewee: José Albano da Silva Conde
+topic: PERCURSOS
+role: Serviços de Ação Social da Universidade do Minho (SASUM)
+title: José Albano da Silva Conde
+interviewer: Ana Marques
 ---
-                     …
+
 José Albano da Silva Conde nasceu em Moçambique há 58 anos e vive 
 em Guimarães há 42. Casado, pai de um rapaz, desempenha funções 
 no Departamento Alimentar desde 1981, do qual faz parte até hoje, 
@@ -154,4 +152,4 @@ A Universidade do Minho?
 A melhor universidade do país. Para 
 mim significa tudo, significa o meu ser, 
 estou cá há 42 anos. 
-Albano Conde é, atualmente, encarregado do Bar do Teatro Jordão. ANA MARQUES NUNO GONÇALVES
+Albano Conde é, atualmente, encarregado do Bar do Teatro Jordão. Ana Marques Nuno GonçalvesAlbano Conde é, atualmente, encarregado do Bar do Teatro Jordão. Ana Marques Nuno GonçalvesAlbano Conde é, atualmente, encarregado do Bar do Teatro Jordão. Ana Marques Nuno GonçalvesAlbano Conde é, atualmente, encarregado do Bar do Teatro Jordão. Ana Marques Nuno Gonçalves

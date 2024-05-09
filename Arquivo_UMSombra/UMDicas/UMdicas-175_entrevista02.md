@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:175
-University:Universidade do Minho
-interviewee:Azeituna
-topis:Cultura
-role:Tuna de Ciências da Universidade do Minho
-date:FEVEREIRO 2021
-num_pages:
-title:“É importante para a UMinho ter grupos que a representem de forma digna no setor da cultura”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 175
+university: Universidade do Minho
+interviewee: Azeituna
+topic: Cultura
+role: Tuna de Ciências da Universidade do Minho
+date: FEVEREIRO 2021
+title: “É importante para a UMinho ter grupos que a representem de forma digna no setor da cultura”
+interviewer: Ana Marques
 ---
+
+
 Com 28 anos de existência, a Azeituna - Tuna de Ciências da Universidade do Minho tem-se
 vindo a renovar e reinventar ao longo dos anos.
 Marcada pelo espírito jovem característico

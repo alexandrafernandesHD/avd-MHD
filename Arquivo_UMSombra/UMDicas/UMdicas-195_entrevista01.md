@@ -1,17 +1,14 @@
-jornal:UMdicas
-issue:195
-University:Universidade do Minho
-interviewee:Fátima Gomes 
-topis:Ação Social, PERCURSOS, Fátima Gomes
-role:Divisão de Contabilidade e Tesouraria
-date:
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUESNUNO GONÇALVES
 ---
-Ação Social
-PERCURSOS
-                     …
+journal: UMdicas 
+issue: 195
+university: Universidade do Minho
+interviewee: Fátima Gomes 
+topic: Ação Social, PERCURSOS, Fátima Gomes
+role: Divisão de Contabilidade e Tesouraria
+title: PERCURSOS
+interviewer: Ana Marques
+---
+
 Fátima Gomes é natural e vive em Braga (Gondizalves) há 62 anos. 
 Casada, com duas filhas e dois netos, desempenha funções nos SASUM 
 há 33 anos. Atualmente, faz parte do DCF, uma equipa com cerca de 
@@ -144,4 +141,4 @@ A Universidade do Minho?
 Instituição importante tanto para 
 o ensino quanto para as cidades de 
 Braga e Guimarães.
-Fátima Gomes é assistente administrativa no Departamento Contabilístico e Financeiro dos SASUM. ANA MARQUESNUNO GONÇALVES
+Fátima Gomes é assistente administrativa no Departamento Contabilístico e Financeiro dos SASUM. Ana MarquesNuno GonçalvesFátima Gomes é assistente administrativa no Departamento Contabilístico e Financeiro dos SASUM. Ana MarquesNuno GonçalvesFátima Gomes é assistente administrativa no Departamento Contabilístico e Financeiro dos SASUM. Ana MarquesNuno GonçalvesFátima Gomes é assistente administrativa no Departamento Contabilístico e Financeiro dos SASUM. Ana MarquesNuno Gonçalves

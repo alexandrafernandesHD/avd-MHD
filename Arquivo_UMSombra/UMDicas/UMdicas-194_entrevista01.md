@@ -1,17 +1,13 @@
 ---
-jornal:UMdicas
-issue:194
-University:Universidade do Minho, Ação 
-Social da Universidade do Minho (SASUM)
-interviewee:Eduardo Fernandes
-topis:Eduardo Fernandes
-role:PERCURSOS, Ação Social
-date:
-num_pages:
-title:
-interviewer:ANA MARQUESNUNO GONÇALVES
+journal: UMdicas 
+issue: 194
+university: Universidade do Minho, Ação Social da Universidade do Minho (SASUM)
+interviewee: Eduardo Fernandes
+topic: Eduardo Fernandes
+role: PERCURSOS, Ação Social
+interviewer: Ana Marques
 ---
-         …
+
 Eduardo Fernandes nasceu e vive em Guimarães há 45 anos. Casado e 
 pai de uma menina (Rita), desempenha funções nos Serviços de Ação 
 Social da Universidade do Minho (SASUM) há 13 anos. Atualmente, faz 
@@ -141,4 +137,4 @@ Um lugar?
 Las Vegas.
 A Universidade do Minho?
 Orgulho. 
-Eduardo Fernandes trabalha na receção do Complexo Desportivo Universitário do campus de Azurém, em Guimarães. ANA MARQUESNUNO GONÇALVES
+Eduardo Fernandes trabalha na receção do Complexo Desportivo Universitário do campus de Azurém, em Guimarães. Ana MarquesNuno GonçalvesEduardo Fernandes trabalha na receção do Complexo Desportivo Universitário do campus de Azurém, em Guimarães. Ana MarquesNuno GonçalvesEduardo Fernandes trabalha na receção do Complexo Desportivo Universitário do campus de Azurém, em Guimarães. Ana MarquesNuno GonçalvesEduardo Fernandes trabalha na receção do Complexo Desportivo Universitário do campus de Azurém, em Guimarães. Ana MarquesNuno Gonçalves

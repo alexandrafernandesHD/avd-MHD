@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:175
-University:Universidade do Minho
-interviewee:Luís Valente de Oliveira
-topis:Academia
-role:Presidente do Conselho Geral
-date:FEVEREIRO 2021
-num_pages:
-title:Entrevista ao Presidente do Conselho Geral, Luís Valente de Oliveira
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 175
+university: Universidade do Minho
+interviewee: Luís Valente de Oliveira
+topic: Academia
+role: Presidente do Conselho Geral
+date: FEVEREIRO 2021
+title: Entrevista ao Presidente do Conselho Geral, Luís Valente de Oliveira
+interviewer: Ana Marques
 ---
+
+
 Presidente do Conselho Geral (CG) desde 5 de junho de 2017, Luís Valente de Oliveira termina
 o seu mandato com um balanço positivo e com o sentimento de dever cumprido.
 O UMdicas esteve à conversa com o professor

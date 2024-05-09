@@ -1,14 +1,13 @@
 ---
-jornal:UMdicas
-issue:194
-University:Universidade do Minho
-interviewee:Grupo de Música Popular da Universidade do Minho (GMP)
-topis:Cultura, Grupo de Música Popular da Universidade do Minho (GMP)
-role:Grupo de Música Popular da Universidade do Minho (GMP)
-date:outubro de 2023
-num_pages:
-title:Grupo de Música Popular da Universidade do Minho (GMP)
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 194
+university: Universidade do Minho
+interviewee: Grupo de Música Popular da Universidade do Minho (GMP)
+topic: Cultura, Grupo de Música Popular da Universidade do Minho (GMP)
+role: Grupo de Música Popular da Universidade do Minho (GMP)
+date: outubro de 2023
+title: Grupo de Música Popular da Universidade do Minho (GMP)
+interviewer: Ana Marques
 ---
 
 “...temos uma grande vontade 
@@ -89,7 +88,7 @@ o convívio e a amizade
 se tornaram parte 
 fundamental do Grupo. 
 True-
--Página:21-
+-Página: 21-
 OUTUBRO 202322
 Cultura
 temos trabalhado bastante para trazer o 
@@ -192,7 +191,7 @@ coro harmoniosamente associado
 à simplicidade dos instrumentos 
 tradicionais e populares portugueses. 
 Após um período de menor atividade, europeia, que contemplou as seguintes 
-cidades:Paris, Bruxelas, Hannover, 
+cidades: Paris, Bruxelas, Hannover, 
 Hamburgo, Berlim, Praga, Budapeste, 
 Viena e Zurique. A passagem por um 
 conjunto de países tão diferentes permitiu 
@@ -270,11 +269,9 @@ vindos e respeitados
 aqui. Além disso, estamos 
 comprometidos com a 
 aprendizagem constante. FOTO GMP
-True-
--Página:22-
+-Página: 22-
 UMDICAS23
-Cultura
-paixão pela música (não só popular):
+paixão pela música (não só popular): 
 se adoras música e queres explorar 
 diferentes estilos e culturas musicais, 
 este é o sítio certo para ti. Valorizamos 
@@ -306,7 +303,7 @@ Qual é maior sonho do GMP? O que ainda
 não fizeram e gostavam de concretizar?
 O Grupo de Música Popular, desde a sua 
 criação, já fez aquilo que todos os grupos 
-culturais académicos desejam:gravou 
+culturais académicos desejam: gravou 
 o seu trabalho em estúdio, viajou pelo 
 mundo, participou em grandes eventos e 
 organizou o seu próprio festival (FUMP – 
@@ -427,4 +424,4 @@ oportunidade de aprender,
 crescer e, acima de tudo, 
 divertir-se através da 
 música. 
-ANA MARQUES
+Ana MarquesAna MarquesAna MarquesAna Marques

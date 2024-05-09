@@ -1,16 +1,15 @@
 ---
-jornal:UMdicas
-issue:191
-University:Universidade do Minho
-interviewee:Óscar Melo
-topis:Ação Social
-role:Serviços de Ação Social da Universidade do Minho (SASUM)
-date:FEVEREIRO  2023
-num_pages:
-title:PERCURSOS
-interviewer:ANA MARQUESNUNO GONÇALVES
+journal: UMdicas 
+issue: 191
+university: Universidade do Minho
+interviewee: Óscar Melo
+topic: Ação Social
+role: Serviços de Ação Social da Universidade do Minho (SASUM)
+date: FEVEREIRO  2023
+title: PERCURSOS
+interviewer: Ana Marques
 ---
-                    …
+
 Óscar Melo é natural de Lamego mas vive em Guimarães. Com 47 anos, é casado e pai de um 
 filho, desempenhando funções nos Serviços de Ação Social da Universidade do Minho (SASUM) 
 há 17 anos. Atualmente, faz parte do DAS, uma equipa com cerca de 50 trabalhadores.
@@ -124,4 +123,4 @@ Um lugar?
 São Leonardo de Galafura.
 A Universidade do Minho? 
 Mais de metade dos meus anos de vida.
-Óscar Melo presta funções na Divisão de Apoio ao Bem-Estar do Estudante. ANA MARQUESNUNO GONÇALVES
+Óscar Melo presta funções na Divisão de Apoio ao Bem-Estar do Estudante. Ana MarquesNuno GonçalvesÓscar Melo presta funções na Divisão de Apoio ao Bem-Estar do Estudante. Ana MarquesNuno GonçalvesÓscar Melo presta funções na Divisão de Apoio ao Bem-Estar do Estudante. Ana MarquesNuno GonçalvesÓscar Melo presta funções na Divisão de Apoio ao Bem-Estar do Estudante. Ana MarquesNuno Gonçalves

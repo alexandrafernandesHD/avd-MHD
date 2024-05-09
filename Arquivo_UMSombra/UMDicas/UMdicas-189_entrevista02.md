@@ -1,14 +1,12 @@
 ---
-jornal:UMdicas
-issue:189
-University:Universidade do Minho
-interviewee:Ricardo Nora
-topis:Desporto
-role:Presidente da FADU
-date:
-num_pages:
-title:Entrevista ao Presidente da FADU, Ricardo Nora
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 189
+university: Universidade do Minho
+interviewee: Ricardo Nora
+topic: Desporto
+role: Presidente da FADU
+title: Entrevista ao Presidente da FADU, Ricardo Nora
+interviewer: Ana Marques
 ---
 
 Ricardo Nora tomou posse no passado dia 13 de novembro, como presidente da Federação
@@ -92,7 +90,6 @@ nosso grande objetivo.
 Quais serão as grandes prioridades para
 este mandato?
 A grande prioridade-chave é ter cada
-vez mais estudantes-atletas a praticar
 desporto, ou seja, aumentar os números
 de participação nos campeonatos, chegar
 aos números pré-pandemia e conseguir
@@ -149,7 +146,7 @@ internacionalmente, que tem crescido nos
 últimos anos, e, há aqui muito trabalho
 que tem sido feito. Queremos continuar
 esse caminho, no sentido de conjugar
-da melhor forma os dois mundos:a
+da melhor forma os dois mundos: a
 frescura de uma nova Direção com o
 “saber fazer” que os quadros da FADU
 nos proporcionam.
@@ -404,4 +401,4 @@ de modalidades ao dispor, aproveitem
 esta frequência no ensino superior, e,
 acima de tudo, pratiquem desporto e
 abracem o desporto universitário.
-ANA MARQUES
+Ana Marques

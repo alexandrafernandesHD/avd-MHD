@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:163
-University:Universidade do Minho
-interviewee:Célia Pais
-topis:Academia
-role:Pró-reitor:Diretora do curso de Bioquímica
-date:MAIO 2019
-num_pages:
-title:Diretora do curso de Bioquímica “... a nossa licenciatura é competitiva.”
-interviewer:Ana Marques
+journal: UMDicas 
+issue: 163
+university: Universidade do Minho
+interviewee: Célia Pais
+topic: Academia
+role: Pró-reitor - Diretora do curso de Bioquímica
+date: MAIO 2019
+title: Diretora do curso de Bioquímica “... a nossa licenciatura é competitiva.”
+interviewer: Ana Marques
 ---
+
+
 O UMdicas esteve à conversa com Célia Pais, para quem ser diretora de curso é,
 essencialmente, coordenar e gerir no sentido do bom funcionamento do curso.
 Licenciada em Biologia pela
@@ -133,7 +134,7 @@ Quais são os maiores desafios de um
 recém-formado em Bioquímica?
 Penso que não serão muito diferentes
 Célia Pais é a atual diretora de curso.
-NUNO GONÇALVES
+Nuno Gonçalves
 daqueles que enfrentam outros
 licenciados em áreas afins. Sendo os
 primeiros ciclos de estudos graduados,
@@ -189,5 +190,4 @@ horizontes e dar-lhes competências que
 não apenas as científicas e pedagógicas
 de que eles podem tirar partido no seu
 futuro profissional.
-
-Ana Marques
+Ana MarquesAna MarquesAna MarquesAna Marques

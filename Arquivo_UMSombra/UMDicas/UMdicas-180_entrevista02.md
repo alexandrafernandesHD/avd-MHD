@@ -1,15 +1,16 @@
 ---
-jornal:UMdicas
-issue:180
-University:Universidade do Minho
-interviewee:Pedro Dias
-topis:Desporto
-role:executivo da Federação Portuguesa de Futebol
-date:OUTUBRO 2021
-num_pages:
-title:Entrevista a Pedro Dias, diretor executivo da Federação Portuguesa de Futebol
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 180
+university: Universidade do Minho
+interviewee: Pedro Dias
+topic: Desporto
+role: executivo da Federação Portuguesa de Futebol
+date: OUTUBRO 2021
+title: Entrevista a Pedro Dias, diretor executivo da Federação Portuguesa de Futebol
+interviewer: Ana Marques
 ---
+
+
 Ligado à Universidade do Minho/Serviços de Acção Social da Universidade do Minho entre
 1998 e 2011, o dirigente foi cedido à FPF por interesse público.
 Pedro Dias é diretor executivo da
@@ -36,7 +37,6 @@ em Braga, ano em que ingressou nos
 quadros dos Serviços de Acção Social da
 UMinho.
 Atualmente é diretor executivo da
-Federação Portuguesa de Futebol
 (FPF). Quais são as suas funções e
 responsabilidades?
 Exerço essas funções desde 17 de
@@ -84,7 +84,7 @@ Ingressei na Universidade da Beira
 Interior em 1988, no curso de Engenharia
 Têxtil, tendo praticado futebol e futsal
 universitário em representação da UBI/
-AAUBI e federado em 3 clubes da região:
+AAUBI e federado em 3 clubes da região: 
 Unhais da Serra e AD Manteigas no
 futebol, e no GD Mata no Futsal. Neste
 período na UBI, iniciei o percurso no
@@ -171,7 +171,7 @@ desporto universitário?
 Volvidas cerca de três décadas, é
 complicado fazer comparações, é
 necessário contextualizar. Destaco os
-aspetos que considero mais relevantes:
+aspetos que considero mais relevantes: 
 a maioria das Instituições do Ensino
 Superior (IES) tem instalações
 desportivas próprias, a maioria da IES
@@ -342,7 +342,6 @@ convicção que a presença de portugueses
 em organismos internacionais é muito
 relevante. Temos a possibilidade de
 contactar com as melhores práticas,
-temos acesso a informação privilegiada
 sobre o que de melhor está a ser feito no
 mundo, esta internacionalização cultiva
 uma visão mais abrangente e estratégica
@@ -382,9 +381,8 @@ e que este processo seja qualificado e
 fortalecido a cada dia que passa.
 Quais são os projetos da Federação
 Portuguesa de Futebol para o contínuo
-desenvolvimento das modalidades que
 enquadra?
-Destaco 5 medidas:
+Destaco 5 medidas: 
 • Articular com o Ministério da
 Educação e o Ministério da Ciência
 Tecnologia e do Ensino Superior
@@ -402,7 +400,6 @@ forma ativa nas etapas iniciais de
 formação dos jovens praticantes
 • Reforçar e qualificar o Programa
 Deteção e Seleção de Talentos
-• Reforçar e qualificar o Programa
 de Comunicação entre as equipas
 técnicas das FPF, das Associações
 de Futebol e dos clubes.
@@ -449,4 +446,4 @@ desportivos de excelência, e numa relação
 forte com a comunidade, proporcionando
 desta forma vivências extracurriculares
 positivas e gratificantes aos alunos,
-docentes e funcionários.
+docentes e funcionários.docentes e funcionários.docentes e funcionários.docentes e funcionários.

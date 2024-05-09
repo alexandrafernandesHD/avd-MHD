@@ -1,15 +1,15 @@
 ---
-jornal:UMdicas
-issue:177
-University:Universidade do Minho
-interviewee:TMUM
-topis:Cultura
-role:
-date:JUNHO 2021
-num_pages:
-title:“Sentimos falta de conviver ... de sermos a alma da festa, de atuar para o público e ouvir as suas palmas”
-interviewer:ANA MARQUES
+journal: UMdicas 
+issue: 177
+university: Universidade do Minho
+interviewee: TMUM
+topic: Cultura
+date: JUNHO 2021
+title: “Sentimos falta de conviver ... de sermos a alma da festa, de atuar para o público e ouvir as suas palmas”
+interviewer: Ana Marques
 ---
+
+
 A Tuna de Medicina da Universidade do Minho (TMUM) foi criada em 2009, e, ao contrário do
 que se possa pensar, tem membros de vários cursos.
 jovem tuna mista, caracterizada pela
@@ -140,19 +140,19 @@ e participações que destacam?
 Com apenas 11 anos de existência,
 podíamos pensar que seriam poucos os
 marcos importantes, contudo, temos
-exatamente o oposto:
-• 2010:a primeira atuação como tuna
+exatamente o oposto: 
+• 2010: a primeira atuação como tuna
 no auditório da Escola de Medicina;
-• 2014:a primeira edição do nosso
+• 2014: a primeira edição do nosso
 MOMENTMUM. Desde então este
 realiza-se anualmente, estando,
 atualmente na sua 7.ª edição;
-• 2016/2017:a nossa primeira
+• 2016/2017: a nossa primeira
 digressão, tendo essa decorrido
 em Espanha, e a primeira vez que
 ganhamos o prémio “Melhor Tuna”
 num festival;
-• 2019/2010:celebração dos 10 anos
+• 2019/2010: celebração dos 10 anos
 da TMUM.
 Quais as vossas atividades anuais
 principais?
