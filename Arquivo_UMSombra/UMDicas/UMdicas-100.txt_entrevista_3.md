@@ -1,16 +1,15 @@
 ---
-Jornal: UMdicas
-Issue: Edição 100 - Fevereiro 2012
-University: Universidade do Minho
-Interviewee(s): Emanuel Gouveia
-Role: presidente deste grupo cultural
-Date: 26.FEV.12
-Title: UM VINTAGE CHAMADO “AZEITUNA”
-Interviewer: JOÃO NOGUEIRA DIAS
+jornal: UMdicas
+issue: Edição 100 - Fevereiro 2012
+university: Universidade do Minho
+interviewee: Emanuel Gouveia
+role: presidente deste grupo cultural
+date: 26.FEV.12
+title: UM VINTAGE CHAMADO “AZEITUNA”
+interviewer: JOÃO NOGUEIRA DIAS
 ---
 
 UM VINTAGE CHAMADO “AZEITUNA”
-
 A Azeituna – Tuna de Ciências da Universidade do
 Minho celebra, este ano, o seu vigésimo aniversário.
 Tudo começou com a ideia de um grupo de amigos,
@@ -21,7 +20,6 @@ presidente deste grupo cultural, aceitou fazer um balanço destes vinte anos, be
 desejos para os próximos vinte.
 JOÃO NOGUEIRA DIAS
 dicas@sas.uminho.pt
-
 Qual o balanço destes 20 anos da Azeituna?
 O balanço só pode ser muito positivo. Ao fim destes
 anos, a Azeituna conta com cinco trabalhos discográficos editados, organiza anualmente o CELTA, um
@@ -30,7 +28,6 @@ envolvimento constante em iniciativas culturais e festivas têm feito das meias 
 uma imagem de marca da Universidade do Minho e
 da cidade de Braga, cujas bandeiras a Azeituna tem
 levado por esse mundo fora, nas suas muitas digressões internacionais.
-
 Quais os momentos mais marcantes da vossa
 história?
 Em 20 anos de actuações, festivais de tunas e digressões dentro e fora do país, entre outras actividades, a quantidade de histórias que há para contar é
@@ -63,13 +60,12 @@ o XIV CELTA, a partir do qual o festival passou a ter
 carácter temático e o XVIII CELTA, que teve como
 tema o Brasil, e como convidada a escola de samba
 brasileira Saci-Pô.
-
 A procura dos novos alunos da UM pelas tunas tem sofrido variação?
 A Azeituna tem tido de ano para ano um crescimento
 consistente. Actualmente, os novos alunos já chegam
 à UM minimamente informados sobre os grupos
 culturais, muitas vezes já decididos a pertencer a algum! Os grupos de novos alunos que, ano após ano,
-procuram a Azeituna não podiam ser mais diversos:
+procuram a Azeituna não podiam ser mais diversos: 
 estudantes de vários cursos da UM, alguns com formação musical de nível avançado, outros que nunca
 pegaram num instrumento; uns mais extrovertidos,
 outros nem tanto... Se um estudante se identificar
@@ -80,7 +76,6 @@ novos alunos, foi o “Arraial Azeiteiro”, evento que organizamos em Setembro,
 caloiros. Com música ao vivo e inspirado no típico
 arraial minhoto, o “Arraial Azeiteiro” tem como objectivo dar aos novos alunos uma amostra do ambiente
 académico que podem esperar encontrar na UM.
-
 Como analisa o contexto dos grupos culturais,
 no actual momento da vida da universidade?
 A formação de um estudante universitário não se limita à sua formação académica. Tipicamente, um
@@ -95,7 +90,6 @@ um instrumento (ou mais) e renovar o interesse pela
 cultura. Tudo isto, complementado com a formação
 curricular, pode fazer do percurso académico um
 processo de crescimento muito mais completo.
-
 O que falta, ainda, fazer à Azeituna?
 Nos planos de comemoração dos 20 anos da Azeituna estão já algumas actividades em que o grupo se vai estrear. Perto da data do aniversário (1 de Maio),
 a Azeituna apresenta à cidade de Braga um espectáculo a solo com as músicas mais emblemáticas
@@ -109,7 +103,6 @@ curiosidades, cronologia, fotos, entre outros elementos. Outras metas que podem 
 do ano de 2012 incluem visitar os continentes asiático e africano (possivelmente numa volta ao Mundo),
 editar um videoclip, organizar uma iniciativa solidária
 e quebrar um recorde do Guinness.
-
 Que desejo formula para os próximos 20
 anos?
 Desejo que a Azeituna continue a crescer, que mantenha a sua forte ligação à Universidade do Minho
@@ -118,4 +111,4 @@ um novo destino aonde levar a sua música. Desejo, também, que as próximas ger
 queiram sempre fazer mais e melhor e que o nosso
 país e a cidade de Braga correspondam com mais
 vontade e disponibilidade para apoiar a cultura local
-e aquilo que é seu.
+e aquilo que é seu.e aquilo que é seu.e aquilo que é seu.e aquilo que é seu.

@@ -1,14 +1,14 @@
 ---
-Jornal: UMdicas
-Issue: Edição 100 - Fevereiro 2012
-University: Universidade do Minho
-Interviewee(s): Prof. Dr. António Cunha
-Date: 26.FEV.12
-Interviewer: ANA MARQUES
+jornal: UMdicas
+issue: Edição 100 - Fevereiro 2012
+university: Universidade do Minho
+interviewee: Prof. Dr. António Cunha
+date: 26.FEV.12
+interviewer: Ana Marques
 ---
 
-Reitor da UMinho em grande entrevista
 
+Reitor da UMinho em grande entrevista
 “O importante será sabermos, nos diferentes níveis da Instituição, para onde queremos ir e para onde resistiremos a sermos empurrados.”
 O UMdicas esteve à conversa com o Reitor da
 Universidade do Minho, Prof. Dr. António Cunha
@@ -16,9 +16,8 @@ que nos fez um balanço destes 38 anos de vida
 da Academia, do seu trajeto à frente dos destinos
 da UMinho, e nos falou das dificuldades sentidas,
 dos grandes projetos da instituição, das mudanças a que a crise tem obrigado, do futuro que adivinha para o ensino superior entre outros.
-ANA MARQUES
+Ana Marques
 anac@sas.uminho.pt
-
 A UMinho faz agora o seu 38º aniversário.
 Que balanço se pode fazer destes 38 anos
 de vida da Instituição?
@@ -31,7 +30,6 @@ no domínio da produção científica e pela capacidade de induzir mudanças exp
 tem contribuído decisivamente para os percursos de desenvolvimento das cidades de Braga e
 Guimarães. Acresce que esse impacto positivo,
 conseguido à custa da atração de muitos recursos humanos para região, foi consumado de forma harmoniosa.
-
 Desde 2009 à frente dos destinos da UMinho que balanço faz do seu papel como
 Reitor da UMinho?
 Penso que ainda é cedo para esse tipo de balanços. No entanto, o programa de ação que
@@ -41,7 +39,6 @@ importa assinalar o que considero mais importante: a UMinho está a crescer sign
 de estudos. Atualmente, temos um total 18.490
 alunos, o que significa um aumento de 2000
 alunos nos últimos dois anos.
-
 Tem sido fácil dirigir a Academia? Em alguma altura se arrependeu
 de ter assumido este papel?
 Uma Academia como a nossa
@@ -58,7 +55,6 @@ a Universidade do Minho, acho que nunca nos
 arrependemos do que assumimos com espírito
 de missão.
 Neste contexto, importa assinalar que os desafios referidos são enfrentados por uma equipa reitoral de grande qualidade, coesa e empenhada.
-
 Quais têm sido as maiores dificuldades
 com que se tem deparado?
 A degradação da situação sócio-económica do
@@ -73,7 +69,6 @@ espírito de missão.
 que obriga, diariamente,
 ao dispêndio de energia adicional para
 resolver grandes e pequenos problemas.
-
 Qual o balanço do
 último ano letivo?
 O ano letivo 2010/11
@@ -89,7 +84,6 @@ resultados de referência, incluindo os prémios
 BES Inovação.
 Foi também um ano com muita atividade e bons
 resultado nos domínios cultural e desportivo.
-
 Com mandato até 2013. Quais os próximos grandes projetos da instituição?
 Os principais projetos em que Universidade estará empenhada no curto prazo estão explicitados no nosso Plano de Atividades para 2012 e
 incluem, na dimensão do ensino, a conclusão
@@ -128,7 +122,6 @@ lançamento dos projetos
 de requalificação do Edifício do Largo do Paço. Estamos ainda em outros
 processos que envolvem parcerias com entidades externas, mas que só poderão ser anunciados quando estiver totalmente clarificado o seu
 quadro de desenvolvimento.
-
 Um dos grandes projectos da Instituição
 é o Instituto de Ciência e Inovação para a
 Bio-Sustentabilidade (IB-S). Em que situação se encontra?
@@ -139,7 +132,6 @@ quase 7 milhões de euros. Os concursos para
 a construção dos respetivos edifícios, em Gualtar e Azurém, serão lançados proximamente e
 deverão estar concluídos antes do fim do ano.
 A construção deverá durar cerca de 12 meses.
-
 Que projectos estão a ser desenvolvidos
 no âmbito da Capital Europeia da Cultura
 e como tem sido o seu progresso?
@@ -182,7 +174,6 @@ estudantes e os restantes membros da academia fazem parte deste projeto, fazendo
 um dos intangíveis desta Capital Europeia seja
 o aprofundamento da sua integração com a comunidade vimaranense, num processo em que
 o projeto Campurbis e o espaço da Zona de Couros são elementos simbólicos dessa simbiose.
-
 Nesta conjuntura de crise, quais têm sido
 as principais mudanças a que a UMinho
 se viu obrigada a implementar?
@@ -197,7 +188,6 @@ esforço de redução da fatura energética e dos
 custos operacionais da Universidade, o que se
 conseguirá também através de dois períodos de
 paragem (em agosto e dezembro) em 2012.
-
 Quais têm sido os avanços na sustentabilidade energética da instituição?
 A agência da Universidade para a utilização racional de energia, AUMEA, tem vindo a atuar em
 diversos níveis: campanhas de sensibilização
@@ -211,7 +201,6 @@ atuação que incluem intervenções diretas em
 edifícios, substituição de equipamentos ou alteração de regimes de funcionamento.
 O resultado, em 2011, foi uma redução da fatura
 em cerca de 140 k€.
-
 A Academia é muito importante no contexto geográfico em que se insere, vista
 como um “motor” da região. Quais têm
 sido as mais-valias desta em prol da região nortenha?
@@ -229,7 +218,6 @@ através do empreendedorismo académico, seja
 o resultante dos processos de incubação ou da
 proatividade de docentes, investigadores e estudantes. Por fim, quero ainda assinalar o papel
 que a Universidade tem como agente de divulgação cultural e promotor da atividade desportiva.
-
 Quais os principais apoios ou ideias da
 UMinho para ajudar a região a ultrapassar uma conjuntura tão difícil?
 A Universidade poderá ajudar a região a mudar
@@ -237,7 +225,6 @@ o seu perfil de especialização económica, com
 base em empresas de maior incorporação de
 conhecimento e/ou criatividade.
 Poderá fazê-lo através do envolvimento com o tecido produtivo existente ou através da incubação de novas empresas.
-
 Neste ano lectivo foram realizados mais
 uma vez os Fóruns UMinho. Num deles, o
 encontro com os alunos não se realizou
@@ -250,14 +237,12 @@ de primeiro ciclo.
 A experiência será para continuar, até porque
 há sempre espaço para melhorar na divulgação
 desta iniciativa.
-
 A UMinho pretende atingir, no próximo
 ano lectivo um total de 19000 alunos. De
 que forma pretendem atingir esses números?
 Esse crescimento resultará da evolução natural
 dos projetos em curso, nomeadamente da entrada em funcionamento do terceiro ano da oferta
 pós-laboral
-
 Quais vão ser as alterações a nível da
 oferta formativa para o novo ano lectivo
 em termos de horários diurnos, pós-laborais e pós-graduações?
@@ -270,7 +255,6 @@ mais vastos sectores da
 população, mas também pela sua intrínseca associação ao desenvolvimento do conhecimento
 científico, componente essencial da missão da
 Universidade.
-
 A aposta no pós-laboral tem sido enorme
 da parte da UMinho. Como tem sido a resposta da comunidade?
 Muito boa, sobretudo nos cursos em ciências
@@ -280,7 +264,6 @@ de ciência ou tecnologias. No entanto, estamos
 conscientes que estes cursos são frequentados
 por um público com necessidades diferentes, às
 quais a Universidade ainda não responde integralmente.
-
 Tem vindo a ser feita uma reforma curricular dos vários cursos da UMinho. O
 processo está terminado? Quais foram os
 principais objetivos?
@@ -297,19 +280,16 @@ A reforma curricular visa também introduzir disciplinas transversais que serão
 cursos e unidades orgânicas e decisivas para
 desenvolver nos nossos estudantes as marcas
 identitárias da ética, da criatividade e do empreendedorismo.
-
 Em que situação se encontra o Plano Estratégico da UMinho?
 O processo está em curso e espero que esse
 documento venha ser aprovado pelo Conselho
 Geral em outubro. Até lá, haverá um intenso processo de articulação interna entre a reitoria e as
 unidades orgânicas, em paralelo com debates a
 ter lugar no Conselho Geral.
-
 Como tem sido a convivência com a actual
 tutela do ensino superior?
 É uma relação boa e leal, num contexto muito
 difícil.
-
 Qual o futuro que adivinha para o ensino
 superior em Portugal?
 A competitividade do país jogar-se-á, também,
@@ -327,7 +307,6 @@ As metas europeias para
 40% da população com formação superior no
 escalão etário dos 30 aos 34 anos. Este cenário
 abre expetativas positivas.
-
 O que está mal, e no seu entender quais
 as mudanças necessárias para um melhoramento nesta área?
 Importa que o sistema seja enquadrado por regras transparentes e que os critérios de financiamento sejam ajustados à realidade pós-Bolonha. A Agência de Avaliação e Acreditação do
@@ -338,14 +317,12 @@ de competitividade saudável que potenciará a
 melhoria contínua do sistema, desde que sejam
 garantidos os níveis de autonomia adequados ao
 desenvolvimento de projetos educativos e institucionais diferenciados.
-
 Em que situação se encontra o sistema de
 garantia de qualidade?
 Está muito avançado e será muito importante
 na atividade diária da Universidade. Fomos selecionados pela A3ES para o programa piloto neste domínio. Esperamos ser certificados a curto
 prazo, devendo as respetivas auditorias ter lugar
 durante o primeiro semestre deste ano.
-
 Estava-se à espera da aprovação da lei sobre as fundações para ser discutido com o
 Governo a passagem da UMinho a Fundação. Como está este processo?
 A nova proposta de Lei relativa ao enquadramento das instituições de regime fundacional já foi aprovada pelo Governo e aguarda discussão na
@@ -353,7 +330,6 @@ Assembleia da República, sendo o seu enunciado conhecido. Esse enunciado explic
 universidades-fundação previstas nos RJIES não
 são abrangidas por esse diploma legal.
 Neste contexto, espero que seja iniciado proximamente o processo negocial com o Governo.
-
 A ação social escolar tem sido motivo de
 protestos a nível nacional, principalmente
 sobre a questão da atribuição das bolsas
@@ -377,13 +353,11 @@ enquanto instituição com capacidade organizativa e competitiva nestas modalida
 a região, nomeadamente para Braga – Capital
 Europeia da Juventude e Guimarães – Capital
 Europeia da Cultura.
-
 A UMinho é a Universidade a nível nacional que mais eventos desportivos internacionais tem recebido/organizado. A aposta no desporto é para continuar?
 Certamente que sim. Essa aposta tem resultados muito importantes na visibilidade da
 Universidade, bem como no complemento da
 formação dos nossos estudantes e no desenvolvimento de dinâmicas de grupo e capacidades
 de liderança. Felizmente temos muitos estudantes que conseguem aliar o mérito desportivo ao mérito académico.
-
 Que mensagem gostaria de deixar à Academia nesta altura?
 Gostaria de reiterar uma das mensagens do
 meu recente discurso na sessão do 17 de Fevereiro, a propósito dos constrangimentos que
@@ -394,4 +368,4 @@ Universidade, terá de ser mais forte que esses
 constrangimentos, terá que ser suficiente para
 exigir de nós próprios e da nossa organização
 a melhoria permanente do nosso desempenho
-individual e organizacional.
+individual e organizacional.individual e organizacional.individual e organizacional.individual e organizacional.
