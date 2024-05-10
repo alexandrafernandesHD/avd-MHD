@@ -48,6 +48,7 @@ Transcrição_Entrevista_Prof_Mario_Farelo_TurboScribe.txt (2a transcrição por
 Entrevista Professor Mario Farelo_Final_copy_and_paste.txt (1a limpeza)
 
 Entrevista_Professor_Mario_Farelo_por_Daniella_Monteiro_Cavalheiro_Editado.txt (Arquivo editado para ser editorado em formato revista)
+Entrevista Professor Mario Farelo_FINAL_VERSION (arquivo em pdf da entrevista editorada para ser transformada em livro)
 
 Extract_Meta_Interview_Prof_Farelo.py (1a tentativa de extrtação de Metadados)
 Interview_Prof_Farelo.md (escuta do code acima)
