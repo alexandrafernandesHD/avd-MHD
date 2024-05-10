@@ -40,10 +40,14 @@ https://issuu.com/danimcav/docs/entrevista_professor_mario_farelo_f_7be33718c95d
 
 # Arquivos adicionados ao diretório
 Perguntas Entrevista Professor Mário Farelo por Daniella Monteiro Cavalheiro.pdf (Preparação das perguntas para entrevista)
+
 1a_Transcrição_Entrevista _Prof_Mario_Farelo_MeetGeek.txt (1a transcrição por AI)
+
 Transcrição_Entrevista_Prof_Mario_Farelo_TurboScribe.txt (2a transcrição por AI)
+
 Entrevista Professor Mario Farelo_Final_copy_and_paste.txt (1a limpeza)
-Entrevista_Professor_Mario_Farelo_por_Daniella_Monteiro_Cavalheiro_Editado.txt (Arquivo editado para ser formatado de revista)
+
+Entrevista_Professor_Mario_Farelo_por_Daniella_Monteiro_Cavalheiro_Editado.txt (Arquivo editado para ser editorado em formato revista)
 
 Extract_Meta_Interview_Prof_Farelo.py (1a tentativa de extrtação de Metadados)
 Interview_Prof_Farelo.md (escuta do code acima)
@@ -52,7 +56,7 @@ Extract_Meta_Interview_Prof_Farelo_Data.py (extração dos metadados)
 Entrevista_Professor_Mario_Farelo_Metadata.md (escuta do code acima)
 
 Entrevista_Professor_Mario_Farelo_Metadata.md (escuta do code Extract_Meta_Interview_Prof_Farelo_Data.py)
-Entrevista_Professor_Mario_Farelo_Metadata_Final.md (adição manual de etiquetas que o code não leu)
+Entrevista_Professor_Mario_Farelo_Metadata_Final.md (adição manual de etiquetas que o code não leu. Arquivo md final)
 
 
 Mais informações e atualizações sobre o progresso do projeto serão adicionadas conforme necessário.
