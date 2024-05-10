@@ -1,4 +1,4 @@
-##README do Projeto "UM Sombra" - Entrevista com o Professor Mário Farelo
+## README do Projeto "UM Sombra" - Entrevista com o Professor Mário Farelo
 
 Este é o README específico para a entrevista realizada com o Professor Mário Farelo, como parte do projeto "UM Sombra". Abaixo, estão os detalhes sobre a entrevista, os desafios enfrentados durante a transcrição e extração dos metadados, bem como informações sobre a organização do conteúdo.
 
@@ -8,7 +8,7 @@ https://app.meetgeek.ai/meeting/f10dd912-ccf4-48ba-afe5-00d92237f5b8
 
 Também incluí no diretório o arquivo txt da primeira transcrição (1a_Transcrição_Entrevista _Prof_Mario_Farelo_MeetGeek.txt) com o MeetGeek.ai. Houve uma taxa de acerto de cerca de 90% com utlização dessa AI.
 
-#Desafios Enfrentados
+# Desafios Enfrentados
 
 Em um trecho da transcrição não era possível compreender o que o entrevistado dizia (minuto 9:30). O meet Geek identificou como 'téocientes de saber). Enviei email para o entrevistado que não respondeu sobre a palavra em questão, mas 'editou' a resposta sem comentar a palavra. Então tentei usar outra AI para verificar a acurácia da transcrição (Transcrição_Entrevista_Prof_Mario_Farelo_TurboScribe.txt) e ela identificou 'até os centros de saber', mas errou em alguns outros trechos, tendo a mesma taxa de acerto de cerca de 90%.
 
@@ -19,7 +19,7 @@ Edição: Necessidade de editar a transcrição para melhorar a legibilidade e o
 Criação de Parágrafos: Estruturação do texto em parágrafos perguntas e respostas.
 Inserção de Pontuação: Adição de pontuação para melhorar a fluidez do texto.
 
-#Processo de Organização
+# Processo de Organização
 O processo de organização do conteúdo da entrevista incluiu as seguintes etapas:
 
 Transcrição Bruta: Inicialmente, foi realizada a transcrição completa da entrevista.
@@ -28,10 +28,10 @@ Melhoria da Legibilidade: Foram feitos ajustes para tornar a transcrição mais 
 Inclusão de Títulos de Seção: Quando apropriado, foram adicionados títulos de seção para organizar o conteúdo (perguntas e repostas).
 Finalização: A transcrição final foi preparada para inclusão no projeto "UM Sombra" e para criação de um livro no Issuu a ser entregue ao entrevistado.
 
-#Link para a Entrevista
+# Link para a Entrevista
 https://app.meetgeek.ai/meeting/f10dd912-ccf4-48ba-afe5-00d92237f5b8 (Link da 1a transcrição - Meet Geek)
 
-#Arquivos adicionados ao diretório
+# Arquivos adicionados ao diretório
 Perguntas Entrevista Professor Mário Farelo por Daniella Monteiro Cavalheiro.pdf (Preparação das perguntas para entrevista)
 1a_Transcrição_Entrevista _Prof_Mario_Farelo_MeetGeek.txt (1a transcrição por AI)
 Transcrição_Entrevista_Prof_Mario_Farelo_TurboScribe.txt (2a transcrição por AI)
