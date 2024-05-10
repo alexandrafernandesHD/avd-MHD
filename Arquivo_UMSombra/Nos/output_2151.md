@@ -1,5 +1,5 @@
 ---
-date: 13-10-2015
+date: 2015/10/13
 author: Nuno Passos  Fotos de Nuno Gonçalves e arquivo
 image: http://www.nos.uminho.pt/Images/destaques/20151012130448_NsRUI3.jpg
 title: O porto de abrigo dos alunos com necessidades especiais
@@ -12,7 +12,7 @@ type: article
 # O porto de abrigo dos alunos com necessidades especiais
 
 
-  
+
 
 Entrevista com a coordenadora do Gabinete para a Inclusão (GPI), Sandra Estêvão Rodrigues, sobre os apoios, preocupações e desafios neste ano letivo.
 
@@ -20,13 +20,13 @@ Entrevista com a coordenadora do Gabinete para a Inclusão (GPI), Sandra Estêv�
 
 Acontecem ambas as situações: ou vêm até ao GPI (Gabinete para a Inclusão da UMinho) informar-se dos apoios que disponibilizamos a fim de considerarem a sua candidatura à UMinho (sendo muitas vezes acompanhados pelo professor do ensino especial que lhes tenha prestado apoio no nível de ensino anterior), ou vêm após o ingresso, por informação distribuída durante as matrículas, por pesquisarem este serviço ou orientados por professores, colegas ou funcionários de outros serviços, especialmente dos Serviços Académicos.
 
- 
+
 
 **Quais são as principais dúvidas e perguntas destes alunos?** 
 
 Geralmente pretendem saber no que podemos ajudá-los face às necessidades que apresentam e conhecer os direitos que estejam previstos. Depois, cada caso é um caso, de modo que, consoante o tipo e gravidade da deficiência, pretendem respostas para a sua situação específica.
 
- 
+
 
 **Que meios e materiais lhes são fornecidos?** 
 
@@ -35,31 +35,31 @@ As medidas de apoio gerais e individuais definidas para o Estudante com Deficiê
 **O(a) diretor(a) de curso e os docentes poderão ser informados sobre as necessidades que o estudante apresenta e as formas de apoio a implementar?** 
 Sim, se for do interesse do estudante. Há várias medidas neste âmbito. A medida de adaptação de materiais de estudo consiste em providenciar o acesso aos materiais de estudo, nomeadamente a sua digitalização e correção, bem como a eventual impressão em Braille. A medida de apoio na orientação e mobilidade consiste em auxiliar os utentes com dificuldades de mobilidade, no reconhecimento dos percursos mais acessíveis. E a medida de material de apoio técnico consiste em possibilitar o acesso ao material específico para utilizadores com deficiência/necessidades especiais, que se encontra disponível na sala de estudo do GPI e nas Bibliotecas de Gualtar e Azurém, podendo também ser colocado nas salas de aula.
 
- 
+
 
 **Que atividades e formações são criadas para este público no primeiro ano?** 
 
 Não possuímos um leque de atividades específicas para alunos do 1º ano, mas, quando necessário, contactamos as comissões de praxe para uma melhor integração destes alunos. Além disso, convidamos todos os utentes do serviço para as atividades que vamos desenvolvendo e que possam ser do seu interesse.
 
- 
+
 
 **E são-lhes dadas oportunidades de colaboração ao longo do curso?** 
 
 Sim, nomeadamente quando realizam trabalhos académicos ou estágios curriculares no serviço, bem como convidando-os para dar o seu testemunho no nosso boletim.
 
- 
 
-**Costumam frequentar o GPI com regularidade? ** 
+
+**Costumam frequentar o GPI com regularidade?** 
 
 Depende das situações. Se se tratar de um aluno que precise de resolver diversas questões com os seus docentes, que precise de apoio na aprendizagem do uso das TIC, ou se for um aluno que pretenda usar a sala que lhes está reservada para estudo e trabalho, serão mais regulares na procura do serviço.
 
- 
+
 
 **Qual tem sido o feedback destes novos alunos sobre a UMinho?** 
 
 Bastante positivo. Evidentemente que a inclusão é um processo sempre em desenvolvimento, nunca acabado. As maiores dificuldades surgem quando o aluno não está muito autónomo na resolução dos seus problemas ou quando não se sente integrado na turma.
 
- 
+
 
 **A comunidade académica está sensibilizada para a inclusão e a igualdade de oportunidades?** 
 
@@ -67,14 +67,10 @@ Considerando o grande número de iniciativas que temos desenvolvido para fomenta
 
 **A nova aventura da escrita** 
 
- 
+
 
 Sandra Estêvão Rodrigues viveu junto à praia de Monte Gordo (Algarve) até aos 17 anos, altura em que veio estudar Psicologia na UMinho, em 1991. Foi um dos maiores desafios da sua vida, por estar em fase de perda da visão, que culminou em cegueira dois anos depois. Trabalha no GPI (antigo Gabinete de Apoio ao Estudante com Deficiência) desde o estágio curricular. Fez entretanto o mestrado em Psicologia – ramo Psicologia da Saúde, com a dissertação "A experiência da perda da visão, a vivência de um processo de reabilitação e as perceções sobre a qualidade de vida". Dedica muito tempo à desmistificação da deficiência, acreditando que a mudança é o grande passo rumo à inclusão. Tem desenvolvido inúmeras iniciativas formativas, sensibilizadoras e científicas, sob o lema "A inclusão começa na atitude de cada um".
 
- 
+
 
 Há dias estreou-se na escrita com o romance "Retalhos de uma jornada" (Chiado Editora). A apresentação da obra decorreu na Biblioteca Lúcio Craveiro da Silva, em Braga, e esteve a cargo de Paula Cristina Martins, provedora do estudante da UMinho e professora da Escola de Psicologia. O livro desvenda a história de um casal jovem que enfrenta os desafios do chamamento para a guerra do Ultramar, do filho que nasce e apresenta perturbações de desenvolvimento e, ainda, do regresso da guerra com as suas sequelas e mudanças na vida familiar.
- 
-
- 
-

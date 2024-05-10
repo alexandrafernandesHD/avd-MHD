@@ -1,6 +1,6 @@
 ---
-date: 22-12-2023
-author: Daniel Vieira da Silva  Fotos: Anatolii Stepanov / AFP
+date: 2023/12/22
+author: Daniel Vieira da Silva  Fotos -- Anatolii Stepanov / AFP
 image: http://www.nos.uminho.pt/Images/destaques/20231221102337_fotoanatoliistepanov.jpg
 title: Próximo destino? A selfie ajuda a decidir!
 url: http://www.nos.uminho.pt/Article.aspx?id=3699
@@ -12,7 +12,7 @@ type: article
 # Próximo destino? A selfie ajuda a decidir!
 
 
-  
+
 
 Serão as selfies decisivas no processo de escolha de um destino turístico? Professores de Ciências Sociais, de Economia e Gestão e de Letras e Artes confirmam-nos esta tendência.
 
@@ -20,9 +20,9 @@ Serão as selfies decisivas no processo de escolha de um destino turístico? Pro
 
 Mas tudo isto é resultado de várias mutações nos últimos séculos. Desde logo pela forma como os retratos se posicionaram na história da fotografia e como são interpretados. Há também um contexto geográfico associado e que se liga ao local e às suas valências e particularidades. Por fim, importa entender as selfies como fonte de rendimento para diversos locais e como estes são explorados economicamente por gestores de territórios que usam e abusam do enquadramento instagramável do seu espaço. Em suma, o autorretrato (do qual a selfie faz parte) ganhou uma expressão nunca antes vista em locais que cresceram e se mediatizaram por serem apetecíveis a quem por lá passa.
 
-Para percebermos como o fenómeno evolui, ouvimos nesta edição do NÓS a opinião dos professores Eunice Ribeiro, da Escola de Letras, Artes e Ciências Humanas (ELACH), João Sarmento, do Instituto de Ciências Sociais (ICS), e Beatriz Casais, da Escola de Economia e Gestão (EEG) da UMinho.
+Para percebermos como o fenómeno evolui, ouvimos nesta edição do NÓS a opinião dos professores Eunice Ribeiro, da Escola de Letras, Artes e Ciências Humanas (ELACH), João Sarmento, do Instituto de Ciências Sociais (ICS), e Beatriz Casais, da Escola de Economia e Gestão (EEG) da UMinho.
 
- 
+
 
 **“Muitos eliminam, desvalorizam ou desfocam atributos dos locais onde posam”** 
 
@@ -35,7 +35,7 @@ Ainda assim, importa lembrar que os destinos competem entre si e promovem a prol
 "Existem alguns rankings dos lugares turísticos em que se fizeram mais selfies, construídos, por exemplo, através das imagens publicadas no Instagram e rotuladas como selfies. Ainda que possa haver variação na ordem das atrações fotografadas por selfies, elas não são muito diferentes das atrações mais visitadas em termos gerais: Torre Eiffel, Disney World, Big Ben, Sagrada Familia, Coliseu de Roma (que até proíbe os selfie sticks)...", enumerou.
 
 Questionado sobre se se deveria impedir a captação de imagens em locais específicos de forma a mantê-los mais "puros" e "limpos", o investigador explicou que “o exótico e o proibido são geralmente atrações importantes no turismo” e certamente que um museu onde não se pode fotografar pode perder interesse para muitos turistas. Aliás, continuou, existe um número crescente de museus e atrações culturais que proíbem o selfie stick, enquanto outros destinos têm proibido que os turistas parem em determinados lugares para tirar selfies, pois criam congestionamento. Ainda assim, há lugares onde não se pode tirar fotografias por questões de segurança ou de direitos de autor, podendo ser “lugares de desafio”. “Desafio para quem quer transgredir o permitido e ter o prazer, partilhado ou não, de conseguir uma imagem de uma estrutura militar, do interior da Abadia de Westminster ou do Taj Mahal”, salientou.
- 
+
 
 **Selfies em destaque para operadores turísticos** 
 
@@ -51,10 +51,8 @@ A investigadora analisou a forma como figuras públicas e influencers aparecem n
 
 Eunice Ribeiro, professora catedrática do Departamento de Estudos Portugueses e Lusófonos da ELACH, dedica parte da sua investigação ao retrato. “Do ponto de vista histórico, as formas de autorrepresentação, em particular o género artístico do autorretrato, assumiram motivações distintas”, vincou. Desde finais do século XIX, sucedendo a uma profunda crise do sujeito e da sua imagem, que nos "habituamos a pensar o autorretrato como uma via de autoconhecimento, de investigação interior ou de exercício de indagação de si mesmo”. Assumindo a necessidade de o indivíduo se representar, uma das expressões utilizadas foi a de “se dar a ver publicamente com intenções autocelebrativas ou autopropagandísticas, sejam elas de teor socioprofissional e estatutário”, frisou.
 
-A docente acrescentou que “as selfies, geralmente partilhadas online, exibem nesse hall of fame virtual e ilimitado, imagens fragmentárias de um indivíduo e respondem a uma certa ansiedade de exposição, de afirmação de presença, caraterística do mundo digital contemporâneo onde quem não consta na internet, não existe...”. A investigadora focou que, ao compor uma selfie, "pensa-se cuidadosamente na pose, na expressão, nos cenários e subvertem-se as mais básicas expectativas do meio fotográfico como inerentemente ‘verdadeiro’". Ou seja, a fotografia e o fotografado já não são a verdade, mas uma combinação de facto e ficção, enalteceu. Neste sentido, “aquilo que a selfie promove poderá não ser exatamente o ‘indivíduo’, mas uma máscara, uma persona dramática, promove o ilusório e o decetivo”.
+A docente acrescentou que “as selfies, geralmente partilhadas online, exibem nesse hall of fame virtual e ilimitado, imagens fragmentárias de um indivíduo e respondem a uma certa ansiedade de exposição, de afirmação de presença, caraterística do mundo digital contemporâneo onde quem não consta na internet, não existe...”. A investigadora focou que, ao compor uma selfie, "pensa-se cuidadosamente na pose, na expressão, nos cenários e subvertem-se as mais básicas expectativas do meio fotográfico como inerentemente ‘verdadeiro’". Ou seja, a fotografia e o fotografado já não são a verdade, mas uma combinação de facto e ficção, enalteceu. Neste sentido, “aquilo que a selfie promove poderá não ser exatamente o ‘indivíduo’, mas uma máscara, uma persona dramática, promove o ilusório e o decetivo”.
 
-Para Eunice Ribeiro, é por isso que a selfie, pela facilidade técnica e a economia de meios que conjuga, aliada a uma projeção social exponenciada pela sua possível difusão através da internet, permite romper com uma certa tradição elitista do autorretrato. A promoção do ‘eu’ possibilitada pela selfie pode entender-se “como uma forma de inclusão e de democratização das anteriores políticas restritivas no que toca à produção e à circulação da imagem própria”, acentuou. A especialista lembra que vivemos hoje "numa cultura da convergência" e que "em nenhum outro século os retratos conheceram uma tão grande expansão mediática ao ponto de se materializarem em praticamente todos os suportes e todas as linguagens, inclusive linguagens não visuais".
+Para Eunice Ribeiro, é por isso que a selfie, pela facilidade técnica e a economia de meios que conjuga, aliada a uma projeção social exponenciada pela sua possível difusão através da internet, permite romper com uma certa tradição elitista do autorretrato. A promoção do ‘eu’ possibilitada pela selfie pode entender-se “como uma forma de inclusão e de democratização das anteriores políticas restritivas no que toca à produção e à circulação da imagem própria”, acentuou. A especialista lembra que vivemos hoje "numa cultura da convergência" e que "em nenhum outro século os retratos conheceram uma tão grande expansão mediática ao ponto de se materializarem em praticamente todos os suportes e todas as linguagens, inclusive linguagens não visuais".
 
-A professora da ELACH atestou que a "moda" da selfie pode bem coexistir com outras formas retratísticas mais ou menos convencionais, na fotografia e noutros média, como alternativa possível e não exclusiva numa investigação que se adivinha provavelmente interminável. Concluiu que, “no caso das selfies comuns atuais, movidas pela autopromoção do ‘eu’, a escolha dos cenários e dos espaços responderá mais provavelmente a meras intenções ‘decorativas’ e/ou a uma exibição de geomundanidade do que a preocupações filosóficas e autorrepresentativas mais subtis”.
- 
-
+A professora da ELACH atestou que a "moda" da selfie pode bem coexistir com outras formas retratísticas mais ou menos convencionais, na fotografia e noutros média, como alternativa possível e não exclusiva numa investigação que se adivinha provavelmente interminável. Concluiu que, “no caso das selfies comuns atuais, movidas pela autopromoção do ‘eu’, a escolha dos cenários e dos espaços responderá mais provavelmente a meras intenções ‘decorativas’ e/ou a uma exibição de geomundanidade do que a preocupações filosóficas e autorrepresentativas mais subtis”.

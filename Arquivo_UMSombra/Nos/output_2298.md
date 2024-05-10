@@ -1,18 +1,19 @@
 ---
-date: 28-11-2017
+date: 2017/11/28
 author: Nuno Passos
 image: http://www.nos.uminho.pt/Images/destaques/20171125004604_PauloOliveiraEAUM.jpg
-title: Artes Visuais: perceção e cidadania
+title: Artes Visuais -- perceção e cidadania
 url: http://www.nos.uminho.pt/Article.aspx?id=2298
-site name: Jornal Online UMINHO Artes Visuais: perceção e cidadania
-description: A aposta na nova licenciatura reforça a componente cultural de qualificação estética dos espaços e das populações, decisiva para afirmar Guimarães e a sua região como referência na atividade artística e na criação.
+site name: Jornal Online UMINHO Artes Visuais -- perceção e cidadania
+description: |
+  A aposta na nova licenciatura reforça a componente cultural de qualificação estética dos espaços e das populações, decisiva para afirmar Guimarães e a sua região como referência na atividade artística e na criação.
 type: article
 
 ---
 # Artes Visuais: perceção e cidadania
 
 
-  
+
 
 Paulo Freire de Almeida
 
@@ -25,6 +26,5 @@ Oportunamente, Universidade é por excelência o lugar da multidisciplinaridade,
 Nesse sentido, a partir da sua base fundamental do desenho pode-se questionar qual a grande especificidade das Artes Visuais, relativamente a outras disciplinas das Humanidades e Ciências? Se a filosofia e a matemática usam um tipo de pensamento sistemático, ou se a criatividade é também comum a outras atividades como a literatura ou poesia, a grande especificidade das Artes Visuais é a experiência poética em torno da perceção das formas visuais. O seu pensamento específico é organizado a partir de uma consciência aprofundada sobre o Ver e o sentido da forma. Os objetos de artes visuais são assim materializações de processos simbólicos, poéticos e expressivos acerca de perceções, sensações visuais e hápticas. Daí decorre um conhecimento especializado e ao mesmo tempo integrador acerca de como os materiais, as imagens e os espaços podem interferir e mudar a consciência percetiva e sensorial das pessoas. De como podem ver e sentir de uma maneira mais crítica, exigente e criativa. Consequentemente, na sua formação, o estudante de Artes Visuais aprende como deve usar formas, cores, espaços e volumes para revelar e partilhar experiências que, de outro modo, permaneceriam num estado latente e obscurecido.
 
 Juntamente com as restantes formações da UMinho associadas à criatividade, como a Arquitetura, Teatro ou Design, a aposta na licenciatura em Artes Visuais é um reforço da componente cultural de qualificação estética dos espaços e das populações, decisiva para afirmar Guimarães e a sua região como uma referência no plano da atividade artística e da criação, em diálogo com outras instituições culturais que estão a ganhar forma especialmente desde 2012. Uma cidade com forte presença de Artes Visuais contribui para uma cidadania visual e sensorial, onde as imagens, objetos e espaços poderão servir o quotidiano das pessoas, bem como o seu sentido de afirmação coletiva.
- 
-Professor da Escola de Arquitetura da UMinho
 
+Professor da Escola de Arquitetura da UMinho

@@ -5,7 +5,8 @@ image: http://www.nos.uminho.pt/Images/destaques/20230808192421_InsFerraz.jpg
 title: As férias de verão
 url: http://www.nos.uminho.pt/Article.aspx?id=3659
 site name: Jornal Online UMINHO As férias de verão
-description: No tempo livre é aconselhável aproveitar para treinar a atenção e a concentração com jogos. Esta é uma excelente alternativa ao uso das tecnologias, basta ter papel e caneta.
+description: |
+  No tempo livre é aconselhável aproveitar para treinar a atenção e a concentração com jogos. Esta é uma excelente alternativa ao uso das tecnologias, basta ter papel e caneta.
 type: article
 
 ---
@@ -26,9 +27,8 @@ Durante este período, onde os relógios andam mais “devagar”, é aconselhá
 
 Quando estamos a fazer uma viagem de carro podemos sugerir a construção de frases com palavras pouco comuns ou desconhecidas para as crianças. Esta tarefa ajuda os mais pequenos a adquirir vocabulário oral, auxilia na construção de frases com uma correção sintática e lexical e contribui para a organização e estruturação do pensamento. Inventar uma história pode ser outra sugestão para trabalhar a oralidade. Esta proposta permite treinar a planificação do texto seguindo os diferentes passos (introdução, desenvolvimento e conclusão da história), potencia a organização do discurso e estimula a imaginação e a criatividade.
 
-Quando temos tempo livre é aconselhável aproveitar para treinar a atenção e a concentração com jogos, como os referidos anteriormente, ou até com o “Jogo do Galo”. Esta é uma excelente alternativa ao uso das tecnologias e só é preciso ter papel e uma caneta. Para além disso podemos, igualmente, convencer os mais novos a jogar às cartas, ao dominó ou jogos de tabuleiro (Damas, Xadrez, Monopólio) aproveitando para descontrair um pouco pequenos e graúdos.
+Quando temos tempo livre é aconselhável aproveitar para treinar a atenção e a concentração com jogos, como os referidos anteriormente, ou até com o “Jogo do Galo”. Esta é uma excelente alternativa ao uso das tecnologias e só é preciso ter papel e uma caneta. Para além disso podemos, igualmente, convencer os mais novos a jogar às cartas, ao dominó ou jogos de tabuleiro (Damas, Xadrez, Monopólio) aproveitando para descontrair um pouco pequenos e graúdos.
 
-As tarefas realizadas em família permitem consolidar aprendizagens e passar momentos animados e de descontração que são fundamentais para o desenvolvimento cognitivo infantil.  
+As tarefas realizadas em família permitem consolidar aprendizagens e passar momentos animados e de descontração que são fundamentais para o desenvolvimento cognitivo infantil.  
 
 Investigadora do Centro de Investigação em Estudos da Criança (CIEC) da UMinho
-

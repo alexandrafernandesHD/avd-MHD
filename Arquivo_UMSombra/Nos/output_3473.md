@@ -5,7 +5,8 @@ image: http://www.nos.uminho.pt/Images/destaques/20201021123212_PauloCruz.jpg
 title: Este é o momento dos factos, da ciência e da solidariedade
 url: http://www.nos.uminho.pt/Article.aspx?id=3473
 site name: Jornal Online UMINHO Este é o momento dos factos, da ciência e da solidariedade
-description: Para enfrentar os desafios académicos, económicos, operacionais e sanitários, as principais dimensões do ensino superior têm sido reequacionadas e reinventadas, num compromisso com a excelência académica. Neste contexto tão delicado, a saúde e a segurança de todos os membros da comunidade e a equidade e a inclusão são essenciais.
+description: |
+  Para enfrentar os desafios académicos, económicos, operacionais e sanitários, as principais dimensões do ensino superior têm sido reequacionadas e reinventadas, num compromisso com a excelência académica. Neste contexto tão delicado, a saúde e a segurança de todos os membros da comunidade e a equidade e a inclusão são essenciais.
 type: article
 
 ---
@@ -20,7 +21,7 @@ Para enfrentar os desafios académicos, económicos, operacionais e sanitários,
 
 Quando em dezembro de 2019 começamos a ser expostos a notícias provenientes da China, referentes a uma epidemia causada por um novo coronavírus (SARS-CoV-2), cuja doença foi designada por COVID-19, estávamos longe de pensar que iríamos encarar uma pandemia desta proporção.
 
-Desde o início de março de 2020 coube-me a responsabilidade de, na Universidade do Minho, coordenar a elaboração e gestão do Plano de Contingência Interno COVID-19, que inclui um conjunto de regras gerais e de procedimentos específicos a serem seguidos nos diferentes cenários expectáveis de funcionamento da instituição.
+Desde o início de março de 2020 coube-me a responsabilidade de, na Universidade do Minho, coordenar a elaboração e gestão do Plano de Contingência Interno COVID-19, que inclui um conjunto de regras gerais e de procedimentos específicos a serem seguidos nos diferentes cenários expectáveis de funcionamento da instituição.
 
 Nos últimos meses vivemos uma conjuntura difícil e enfrentamos inúmeras restrições em resposta a circunstâncias, sem precedentes, causadas pela imperiosa necessidade de prevenção e controlo da doença. Num curto espaço de tempo assistimos ao escalar da situação epidemiológica e fomos sendo confrontados com uma sucessão de acontecimentos extraordinários, que exigiram uma resposta rápida da Universidade do Minho e que mobilizaram toda a Academia.
 
@@ -34,9 +35,8 @@ No entanto, os sentimentos de incerteza e de preocupação com que, nos últimos
 
 Nos próximos meses deveremos dar especial atenção ao cumprimento das recomendações das autoridades de saúde competentes e das normas em vigor, nomeadamente ao nível sanitário, de etiqueta respiratória e de higiene, de distanciamento social e de utilização, por todos, de equipamentos de proteção individual. A utilização permanente e correta de máscara, em conjunto com o distanciamento físico e a higienização frequente das mãos, reduz significativamente o risco de contágio ao contactar com uma pessoa infetada pelo SARS-CoV-2.
 
-Neste momento e neste contexto pandémico é imperioso que todos os membros da academia respeitem os circuitos de entrada, saída e circulação nos espaços da Universidade e cumpram a obrigação legal de não participar em concentrações e ajuntamentos. Recomenda-se, ainda, a instalação da aplicação STAYAWAY COVID, que permite, de forma simples e segura, ser informado sobre exposições de risco à doença, através da monitorização de contactos recentes.
+Neste momento e neste contexto pandémico é imperioso que todos os membros da academia respeitem os circuitos de entrada, saída e circulação nos espaços da Universidade e cumpram a obrigação legal de não participar em concentrações e ajuntamentos. Recomenda-se, ainda, a instalação da aplicação STAYAWAY COVID, que permite, de forma simples e segura, ser informado sobre exposições de risco à doença, através da monitorização de contactos recentes.
 
 Concluo esta coluna de opinião da mesma forma que terminei o capítulo que em junho redigi para o livro sobre a pandemia que a UMinho Editora tem atualmente no prelo, citando as palavras do dr. Tedros Adhanom Ghebreyesus, diretor-geral da Organização Mundial de Saúde, com que a 30 de janeiro de 2020 encerrou a declaração da situação de Emergência de Saúde Pública de Âmbito Internacional da COVID-19: “Este é o momento dos factos, não do medo. Este é o momento da ciência, não de rumores. Este é o momento da solidariedade, não do estigma”.
 
-Pró-reitor para a Qualidade de Vida e Infraestruturas da Universidade do Minho 
-
+Pró-reitor para a Qualidade de Vida e Infraestruturas da Universidade do Minho

@@ -5,7 +5,8 @@ image: http://www.nos.uminho.pt/Images/destaques/20150615005445_CarballoCruz.jpg
 title: Três décadas de cooperação transfronteiriça
 url: http://www.nos.uminho.pt/Article.aspx?id=2137
 site name: Jornal Online UMINHO Três décadas de cooperação transfronteiriça
-description: Não há dúvida que, desde a entrada de Espanha e Portugal na CEE há 30 anos, as relações entre Galiza e Portugal se intensificaram significativamente.
+description: |
+  Não há dúvida que, desde a entrada de Espanha e Portugal na CEE há 30 anos, as relações entre Galiza e Portugal se intensificaram significativamente.
 type: article
 
 ---
@@ -29,4 +30,3 @@ Apesar da proliferação de projetos e iniciativas, o interesse político pela c
 Atualmente vive-se uma situação de impasse. As três décadas de cooperação transfronteiriça demonstram que o aprofundamento das relações requer compromisso político e iniciativas mobilizadoras com impacto social, que melhorem o conhecimento recíproco tanto a nível político como cidadão. As bases estão criadas, mas a efetividade de projetos e iniciativas e a amplificação dos seus resultados obrigam ao reposicionamento da cooperação e ao reforço das relações transfronteiriças na agenda política em vários níveis de governação.
 
 * Professor da Escola de Economia e Gestão da Universidade do Minho
-

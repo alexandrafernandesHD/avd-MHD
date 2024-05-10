@@ -1,5 +1,5 @@
 ---
-date: 22-12-2017
+date: 2017/12/22
 author: Nuno Passos
 image: http://www.nos.uminho.pt/Images/destaques/20171216233857_leituracompartilhada.jpg
 title: Dez livros que merecem ser lidos este natal
@@ -12,11 +12,11 @@ type: article
 # Dez livros que merecem ser lidos este natal
 
 
-  
+
 
 Desafiámos a vice-presidente do Instituto de Letras e Ciências Humanas (ILCH), Maria do Carmo Mendes, a sugerir-nos algumas obras que não podemos perder
 
-"Este desafio revelou-se bastante complexo, no esforço de selecionar textos e concluir que o elenco é manifestamente marcado pela incompletude", explica a professora do Departamento de Estudos Portugueses e Lusófonos do ILCH. "No entanto, é certamente um conjunto de textos muito estimulante para um leitor", realça. Assim sendo, boas leituras!
+"Este desafio revelou-se bastante complexo, no esforço de selecionar textos e concluir que o elenco é manifestamente marcado pela incompletude", explica a professora do Departamento de Estudos Portugueses e Lusófonos do ILCH. "No entanto, é certamente um conjunto de textos muito estimulante para um leitor", realça. Assim sendo, boas leituras!
 
 **1. Ilíada, de Homero** 
 Um poema épico que retrata uma das bases da nossa civilização: a cultura helénica e a exaltação de alguns dos seus valores intemporais: o heroísmo, o sacrifício e a aretê.
@@ -47,4 +47,3 @@ A campus novel no seu melhor. O primeiro da trilogia de “romances académicos�
 
 **10. A Ronda da Noite, de Agustina Bessa-Luís** 
 Imagem total da unidade da obra da mais complexa e densa escritora portuguesa contemporânea e, também, uma reflexão sobre o que de mais essencial define o humano: os valores, o tempo, a memória, a família, as paixões, a vida e a morte.
-

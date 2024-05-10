@@ -1,6 +1,6 @@
 ---
-date: 23-10-2020
-author: Daniel Vieira da Silva  Fotos: Nuno Gonçalves
+date: 2020/10/23
+author: Daniel Vieira da Silva  Fotos -- Nuno Gonçalves
 image: http://www.nos.uminho.pt/Images/destaques/20201021182535_nota20valoresYT.jpg
 title: A ambição no rosto dos novos estudantes "nota 20"
 url: http://www.nos.uminho.pt/Article.aspx?id=3506
@@ -12,7 +12,7 @@ type: article
 # A ambição no rosto dos novos estudantes "nota 20"
 
 
-  
+
 
 Três estudantes. Percursos distintos. Denominador comum? Entraram com a nota de 20 valores na Universidade do Minho no presente ano letivo.
 
@@ -27,7 +27,7 @@ Andreia Ferreira, de 40 anos, obteve a classificação máxima na prova de ingre
 Revela que os 20 valores obtidos são resultado de “muita perseverança e estudo” e não tem dúvidas em sublinhar que escolheu a UMinho porque é “uma das mais conceituadas universidades do país”.
 
 Andreia Ferreira promete dedicação para “acabar a licenciatura com uma boa média”.
- 
+
 
 Margarida Gonçalves tem 50 anos e o tempo vivido na Alemanha deu-lhe uma boa bagagem para os 20 valores obtidos na prova de ingresso de Alemão. Entra agora em Línguas Aplicadas para dar seguimento a um "sonho antigo" e acentuado no período de confinamento.
 
@@ -42,4 +42,3 @@ Entrou em Engenharia Informática e confessa que as boas bases familiares e de e
 Quando lhe perguntam “Porquê a UMinho?”, responde sem hesitar: “Não fazia sentido sequer pensar noutra hipótese”.
 
 Agora, na “melhor academia do país”, promete esforçar-se por ser um excelente aluno e já pisca o olho ao desporto universitário, explicando que pretende ser atleta da UMinho.
-

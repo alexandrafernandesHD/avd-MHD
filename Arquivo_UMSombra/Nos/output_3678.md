@@ -1,5 +1,5 @@
 ---
-date: 22-12-2023
+date: 2023/12/22
 author: Nuno Passos
 image: http://www.nos.uminho.pt/Images/destaques/20231219130615_Stickiestbrands.jpg
 title: Marcas criam estratégias para prender os clientes
@@ -12,11 +12,11 @@ type: article
 # Marcas criam estratégias para prender os clientes
 
 
-  
+
 
 Primeira portuguesa com o Prémio Hunt/Maynard da Associação Americana de Marketing, Cláudia Simões mostra como o consumidor se "cola" a novos desafios das marcas e como isso mexe a sociedade.
 
-As marcas estão a quebrar as regras usuais do marketing, em que o cliente mal controla o percurso de adquirir bens e serviços do seu interesse. Quem o diz é Cláudia Simões, presidente da Escola de Economia e Gestão (EEG) da Universidade do Minho, num artigo publicado no Journal of Marketing com coautores dos EUA e Reino Unido. “Na prática, as marcas constroem impérios a manter os clientes quase viciados, através de desafios que os deixam ‘colados’ a uma montanha-russa de experiências intencionalmente emocionantes e imprevisíveis”, diz a investigadora.
+As marcas estão a quebrar as regras usuais do marketing, em que o cliente mal controla o percurso de adquirir bens e serviços do seu interesse. Quem o diz é Cláudia Simões, presidente da Escola de Economia e Gestão (EEG) da Universidade do Minho, num artigo publicado no Journal of Marketing com coautores dos EUA e Reino Unido. “Na prática, as marcas constroem impérios a manter os clientes quase viciados, através de desafios que os deixam ‘colados’ a uma montanha-russa de experiências intencionalmente emocionantes e imprevisíveis”, diz a investigadora.
 
 O artigo permitiu aos autores vencerem o Prémio Hunt/Maynard, da Associação Americana de Marketing, que é atribuído há quase 50 anos e destaca teorias que tendem a tornar-se essenciais. Aliás, isso já sucedeu neste trabalho de Cláudia Simões. A sua equipa tinha recolhido dados em Inglaterra e Alemanha para formular um modelo, que tem sido aplicado por marcas de lazer tão díspares como Netflix, Tinder, Nintendo ou CrossFit, mas pode estender-se a outros setores.
 
@@ -32,6 +32,4 @@ Haverá aqui uma dependência tóxica do consumidor, como no jogo a dinheiro? Su
 
 **Nota biográfica** 
 
-Doutorada em Estudos Industriais e Empresariais pela Universidade de Warwick (Reino Unido), Cláudia Simões é professora catedrática do Departamento de Gestão da EEG e investigadora do Núcleo de Investigação em Políticas Económicas e Empresariais (NIPE) da UMinho. Foi investigadora visitante no Instituto de Tecnologia da Geórgia, na Universidade Loyola Marymount (EUA), nas Escolas de Negócios de Warwick, de Henley e da Open University (Reino Unido) e na Universidade de Melbourne (Austrália). Colaborou com a AICEP Portugal Global, o Eixo Atlântico e o Advanced Institute of Management (Reino Unido), entre outros. É membro do Conselho de Curadores da Fundação Bracara Augusta, conselheira não executiva da InvestBraga, além de editora associada do European Journal of Marketing e do International Journal of Consumer Studies.
- 
-
+Doutorada em Estudos Industriais e Empresariais pela Universidade de Warwick (Reino Unido), Cláudia Simões é professora catedrática do Departamento de Gestão da EEG e investigadora do Núcleo de Investigação em Políticas Económicas e Empresariais (NIPE) da UMinho. Foi investigadora visitante no Instituto de Tecnologia da Geórgia, na Universidade Loyola Marymount (EUA), nas Escolas de Negócios de Warwick, de Henley e da Open University (Reino Unido) e na Universidade de Melbourne (Austrália). Colaborou com a AICEP Portugal Global, o Eixo Atlântico e o Advanced Institute of Management (Reino Unido), entre outros. É membro do Conselho de Curadores da Fundação Bracara Augusta, conselheira não executiva da InvestBraga, além de editora associada do European Journal of Marketing e do International Journal of Consumer Studies.

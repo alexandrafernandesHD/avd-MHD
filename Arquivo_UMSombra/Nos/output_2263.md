@@ -5,7 +5,8 @@ image: http://www.nos.uminho.pt/Images/destaques/20170331151817_Leandro4.jpg
 title: Percursos dos universitários
 url: http://www.nos.uminho.pt/Article.aspx?id=2263
 site name: Jornal Online UMINHO Percursos dos universitários
-description: Reconhecendo-se que Portugal assegura atualmente uma maior democraticidade no acesso ao Ensino Superior, importa agora aumentar as condições de uma maior democraticidade no sucesso.
+description: |
+  Reconhecendo-se que Portugal assegura atualmente uma maior democraticidade no acesso ao Ensino Superior, importa agora aumentar as condições de uma maior democraticidade no sucesso.
 type: article
 
 ---
@@ -24,5 +25,4 @@ Tomando o ingresso no ensino superior, a investigação internacional e nacional
 
 Sendo mais frequentes os problemas de insucesso, inclusive o risco de abandono, em estudantes do 1º ano, importa implementar medidas de atendimento e serviços de apoio que atendam às necessidades de certos subgrupos de alunos. Nem sempre os estudantes têm informação clara acerca dos desafios que encontrarão no contexto universitário ou concretizam as suas expectativas à entrada na universidade, podendo mesmo sentir alguma frustração com a sua experiência universitária. Por outro lado, com frequência vemos que estes têm dificuldades em desenvolver a sua autonomia e superar as saudades dos pais e amigos de infância, construindo as novas redes de suporte social que necessitam. Finalmente, nem sempre as aulas são tão interessantes ou os professores tão acessíveis como gostariam, podendo daí advir uma menor frequência e participação nas aulas ou um estudo pouco eficiente por falta de orientação e capacidade de autorregulação. Reconhecendo-se que Portugal assegura hoje uma maior democraticidade no acesso ao Ensino Superior, importa agora aumentar as condições de maior democraticidade no sucesso.
 
-Professor catedrático do Instituto de Educação da Universidade do Minho 
-
+Professor catedrático do Instituto de Educação da Universidade do Minho

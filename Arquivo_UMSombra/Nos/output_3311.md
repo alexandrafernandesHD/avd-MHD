@@ -5,7 +5,8 @@ image: http://www.nos.uminho.pt/Images/destaques/20171216231631_RossanaCruz.jpg
 title: Evolução social e legal da família
 url: http://www.nos.uminho.pt/Article.aspx?id=3311
 site name: Jornal Online UMINHO Evolução social e legal da família
-description: Ao Direito cabe continuar a acompanhar a evolução social, sem a pretensão de definir o que é a família.
+description: |
+  Ao Direito cabe continuar a acompanhar a evolução social, sem a pretensão de definir o que é a família.
 type: article
 
 ---
@@ -28,7 +29,6 @@ O Homem sempre se organizou em núcleos familiares (de diferentes sortes), pois 
 
 Em consequência, a evolução do Direito da Família na senda das dinâmicas relacionais familiares tem sido notável nas últimas décadas, obrigando o legislador a abraçar as mudanças propiciando acolhimento legal para as mesmas, como forma de enobrecer o direito à autodeterminação familiar. Existem diversas formas familiares com distintas configurações jurídicas. Não obstante o elenco fechado (e já ultrapassado) do artigo 1576.º do Código Civil considerar como fontes familiares o casamento, a adoção, o parentesco e afinidade; a Constituição a República Portuguesa (nos artigos 36.º e 67.º) abre as portas para um entendimento amplo que tem sido seguido pelo legislador com a produção de diplomas avulsos (sustentando realidades como a união de facto e o apadrinhamento civil).
 
-Enaltece-se uma perspetiva legal inclusiva de família devendo o legislador conferir proteção a núcleos que vivem e interagem em cúpulas afetivas estáveis, ainda que de origem diversa. Ao Direito cabe continuar a acompanhar a evolução social, sem a pretensão de definir o que é a família. Aliás, dando corpo à célebre expressão da escritora francesa conhecida como Condessa de Beausacq, "família é um conjunto de pessoas que se defendem em bloco e se atacam em particular".
+Enaltece-se uma perspetiva legal inclusiva de família devendo o legislador conferir proteção a núcleos que vivem e interagem em cúpulas afetivas estáveis, ainda que de origem diversa. Ao Direito cabe continuar a acompanhar a evolução social, sem a pretensão de definir o que é a família. Aliás, dando corpo à célebre expressão da escritora francesa conhecida como Condessa de Beausacq, "família é um conjunto de pessoas que se defendem em bloco e se atacam em particular".
 
 Professora da Escola de Direito da Universidade do Minho
-

@@ -1,5 +1,5 @@
 ---
-date: 31-01-2021
+date: 2021/01/31
 author: Catarina Dias
 image: http://www.nos.uminho.pt/Images/destaques/20210126153447_WhatsAppImage20210126at153327.jpg
 title: O psicólogo que ajuda o sistema penal na tomada de decisão
@@ -13,7 +13,7 @@ type: article
 # O psicólogo que ajuda o sistema penal na tomada de decisão
 
 
-  
+
 
 Leonel Gonçalves é mestre e doutor em Psicologia da Justiça pela UMinho. Faz estudos que ajudam juízes, políticos e diretores prisionais em Zurique (Suíça) a adotarem medidas mais justas e eficazes.
 
@@ -27,10 +27,10 @@ Guardo boas recordações de vários momentos, desde as aulas e a época de exam
 Foi sobretudo no 12.º ano, durante as aulas de Psicologia. Achava fascinante o estudo do comportamento humano. Nunca me tinha sentido tão motivado para aprender. Sentia também que tinha vocação para essa área porque tinha a melhor classificação da turma, o que não acontecia noutras disciplinas.
 
 **“A melhor licenciatura do país”** 
- 
+
 **A UMinho foi uma opção óbvia aquando da candidatura ao ensino superior?** 
-Foi a minha primeira opção! A UMinho tinha a melhor licenciatura de Psicologia do país, com a nota mínima de admissão mais elevada - quase 17 valores. Para além disso, sendo de Viana do Castelo, era das universidades públicas mais próximas, tornando as deslocações mais fáceis.
- 
+Foi a minha primeira opção! A UMinho tinha a melhor licenciatura de Psicologia do país, com a nota mínima de admissão mais elevada - quase 17 valores. Para além disso, sendo de Viana do Castelo, era das universidades públicas mais próximas, tornando as deslocações mais fáceis.
+
 **O que o fez enveredar pela psicologia forense?** 
 No terceiro ano de curso tivemos aulas de Psicologia da Justiça. Achava os conteúdos relacionados com o crime e a violência interessantes. Recordo-me que na primeira aula consegui responder de forma intuitiva a várias questões colocadas pela professora Marlene Matos. Foi nesse dia que decidi enveredar pela Psicologia Forense. Quando comecei a licenciatura, imaginava-me mais a dar consultas.
 
@@ -38,17 +38,17 @@ No terceiro ano de curso tivemos aulas de Psicologia da Justiça. Achava os cont
 Não trabalhei diretamente para os serviços prisionais em Portugal. Fiz voluntariado, estágio de mestrado e investigação de doutoramento em vários estabelecimentos prisionais, localizados no Norte e Centro do país. Tive contacto com muitos reclusos, guardas prisionais, técnicos superiores de reeducação, equipas médicas e diretores. Isso conferiu-me uma visão abrangente sobre o sistema prisional. Os conhecimentos ao nível das características dos reclusos e das prisões, da execução das penas privativas de liberdade, do sistema de informação prisional, entre outros assuntos, são importantes para a investigação. Aprende-se imenso no terreno. E isso moldou o meu interesse pela investigação em contexto prisional.
 
 **2014 foi um ano de grandes mudanças. Fez as malas e mudou-se para Zurique sem dominar o alemão. O que o levou até à Suíça?** 
-Uma oferta de emprego! Durante o doutoramento, contactei por email o diretor da equipa de investigação do Departamento de Justiça e Assuntos Internos do Cantão de Zurique para lhe fazer uma pergunta sobre um estudo que ele tinha publicado e que eu queria incluir numa meta-análise sobre fatores associados às infrações disciplinares e ao uso de serviços clínicos nas prisões. Quando terminei a tese, voltei a contactá-lo para lhe perguntar se aceitaria ser meu orientador na candidatura a uma bolsa de pós-doutoramento na Universidade de Constança, na Alemanha, onde era professor. Foi aí que ele me falou de uma vaga de estagiário disponível para a Direção-Geral de Reinserção e Serviços Prisionais de Zurique, na equipa que ele dirigia. Reservei um voo e vim à entrevista de emprego. Assinei contrato no mesmo dia. Nunca tinha pensado viver neste país.
+Uma oferta de emprego! Durante o doutoramento, contactei por email o diretor da equipa de investigação do Departamento de Justiça e Assuntos Internos do Cantão de Zurique para lhe fazer uma pergunta sobre um estudo que ele tinha publicado e que eu queria incluir numa meta-análise sobre fatores associados às infrações disciplinares e ao uso de serviços clínicos nas prisões. Quando terminei a tese, voltei a contactá-lo para lhe perguntar se aceitaria ser meu orientador na candidatura a uma bolsa de pós-doutoramento na Universidade de Constança, na Alemanha, onde era professor. Foi aí que ele me falou de uma vaga de estagiário disponível para a Direção-Geral de Reinserção e Serviços Prisionais de Zurique, na equipa que ele dirigia. Reservei um voo e vim à entrevista de emprego. Assinei contrato no mesmo dia. Nunca tinha pensado viver neste país.
 
 **Passou de estagiário a investigador sénior em pouco tempo. Explique-nos o que faz concretamente.** 
 Faço investigação científica relacionada com crimes violentos e sexuais, validação e desenvolvimento de instrumentos de avaliação do risco em ofensores, adaptação dos reclusos, ambiente prisional, reincidência no crime, entre outros temas. Neste momento, estamos a desenvolver vários projetos ligados à covid-19.
 
 **E gosta do que faz?** 
 Sim, gosto de investigar, sobretudo nesta área.
- 
+
 
 **Prisão é a melhor decisão? Depende.** 
- 
+
 **Os estudos realizados têm aplicação prática?** 
 Geralmente, os estudos que realizamos partem de uma necessidade específica exposta por outros departamentos da organização, pela própria ministra da Justiça ou por instituições externas com as quais colaboramos. Ou seja, as investigações visam responder às questões que nos são colocadas. Têm implicações práticas, uma vez que ajudam na tomada de decisão de diferentes profissionais responsáveis pelo tratamento dos ofensores, como polícias, terapeutas, diretores prisionais, juízes e políticos.
 
@@ -69,24 +69,22 @@ Sim, de forma geral. A natureza é fantástica, o país é muito limpo e organiz
 
 **Como é viver nesse país em tempos de pandemia?** 
 As medidas preventivas adotadas são similares às da maioria dos países europeus. Porém, a Suíça é atualmente um dos países com mais casos de covid-19 per capita e, por isso, têm sido impostas mais restrições ultimamente. O isolamento que temos vivido, de forma mais ou menos exacerbada, durante quase um ano tem afetado o bem-estar das pessoas. No meu caso, torna-se ainda mais difícil por estar no estrangeiro.
- 
+
 **Pretende regressar a Portugal?** 
 Sim, gostaria de regressar dentro de alguns anos e contribuir para este país que tanto investiu em mim, através de bolsas e subsídios. Adorava fazer investigação e lecionar Psicologia Forense e/ou Criminologia. Infelizmente, as vagas são poucas. Como tal, não tenho um plano definido.
 
-**  ** **Fã incondicional de Dexter e do FC Porto** 
- 
-**  ** **Um livro. ** “Thinking, Fast and Slow”, de Daniel Kahneman.
-**  ** **Um filme.**  “O Silêncio dos Inocentes”, de Jonathan Demme.
-**  ** **Uma série.**  “Dexter”, do realizador James Manos Jr.
-**  ** **Uma música. ** “Intro”, da banda britânica The XX.
-**  ** **Um clube.**  FC Porto.
-**  ** **Um desporto. ** Futebol.
-**  ** **Uma viagem. ** EUA.
-**  ** **Um passatempo. ** Pescar.
-**  ** **Um vício. ** Cozinhar.
-**  ** **Um prato. ** Boeuf bourguignon.
-**  ** **Uma personalidade. ** Barack Obama.
-**  ** **Um momento. ** Defesa da tese de doutoramento.
-**  UMinho. ** Desenvolvimento.
- 
+**Fã incondicional de Dexter e do FC Porto** 
 
+**Um livro.** “Thinking, Fast and Slow”, de Daniel Kahneman.
+**Um filme.**  “O Silêncio dos Inocentes”, de Jonathan Demme.
+**Uma série.**  “Dexter”, do realizador James Manos Jr.
+**Uma música.** “Intro”, da banda britânica The XX.
+**Um clube.**  FC Porto.
+**Um desporto.** Futebol.
+**Uma viagem.** EUA.
+**Um passatempo.** Pescar.
+**Um vício.** Cozinhar.
+**Um prato.** Boeuf bourguignon.
+**Uma personalidade.** Barack Obama.
+**Um momento.** Defesa da tese de doutoramento.
+**UMinho.** Desenvolvimento.

@@ -5,7 +5,8 @@ image: http://www.nos.uminho.pt/Images/destaques/20161213155028_JoanaBaptistafot
 title: O Natal das crianças de pais separados
 url: http://www.nos.uminho.pt/Article.aspx?id=2239
 site name: Jornal Online UMINHO O Natal das crianças de pais separados
-description: Encontrar as melhores respostas vai depender de um esforço conjunto, de um verdadeiro trabalho de equipa entre mãe e pai, que implicará, antes de mais, capacidade para se colocarem no lugar da criança e verem o mundo através dos seus olhos.
+description: |
+  Encontrar as melhores respostas vai depender de um esforço conjunto, de um verdadeiro trabalho de equipa entre mãe e pai, que implicará, antes de mais, capacidade para se colocarem no lugar da criança e verem o mundo através dos seus olhos.
 type: article
 
 ---
@@ -27,4 +28,3 @@ Ajudar a criança a gerir estas experiências e os sentimentos que daí emergem 
 E é esta leitura informada do mundo pela criança (cuja importância é tantas vezes esquecida por nós, adultos) que ajudará mãe e pai a melhor compreenderem as alegrias e os almejos dos seus filhos, mas também as inquietações e receios que podem aflorar nesta época do ano. E que não devem ser escondidos, ignorados, abafados. Devem ser aceites e naturalmente integrados nas conversações entre pais e filhos, num clima de harmonia parental. Um clima em que as relações mãe-filho e pai-filho são nutridas. E muito importante: são alimentadas por ambos os progenitores. E não apenas no Natal, mas durante todo o ano. Quer nos momentos mais fáceis quer nos momentos mais desafiantes, da infância à adolescência, pois isso será, com toda a certeza, no melhor interesse das nossas crianças.
 
 * Investigadora no Centro de Investigação em Psicologia (CIPsi) da Escola de Psicologia da UMinho
-

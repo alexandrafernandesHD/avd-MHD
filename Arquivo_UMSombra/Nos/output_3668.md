@@ -1,5 +1,5 @@
 ---
-date: 29-09-2023
+date: 2023/09/29
 author: Beatriz Mendes
 image: http://www.nos.uminho.pt/Images/destaques/20230929114206_Foto.jpg
 title: Conhece “O Devorador de Automóveis”?
@@ -13,7 +13,7 @@ type: article
 # Conhece “O Devorador de Automóveis”?
 
 
-  
+
 
 A obra icónica de José de Guimarães não passa despercebida a quem se cruza com os jardins do campus de Azurém.
 
@@ -23,5 +23,4 @@ A obra icónica de José de Guimarães não passa despercebida a quem se cruza c
 
 **Sobre o autor** 
 
-José Maria Fernandes Marques, mais conhecido por José de Guimarães, nasceu em 1939, em Guimarães. Formou-se em Engenharia na Academia Militar, mas a descoberta e a paixão pelo mundo artístico fez com a sua vida profissional tomasse outro rumo. A sua identidade artística deriva das diversas viagens que fez pela Europa e, sobretudo, do período em que viveu em África, de onde se inspirou para as cores e formas das suas obras. É um nome obrigatório da arte contemporânea nacional.
-
+José Maria Fernandes Marques, mais conhecido por José de Guimarães, nasceu em 1939, em Guimarães. Formou-se em Engenharia na Academia Militar, mas a descoberta e a paixão pelo mundo artístico fez com a sua vida profissional tomasse outro rumo. A sua identidade artística deriva das diversas viagens que fez pela Europa e, sobretudo, do período em que viveu em África, de onde se inspirou para as cores e formas das suas obras. É um nome obrigatório da arte contemporânea nacional.

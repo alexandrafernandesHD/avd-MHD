@@ -1,5 +1,5 @@
 ---
-date: 19-12-2015
+date: 2015/12/19
 author: Nuno Passos
 image: http://www.nos.uminho.pt/Images/destaques/20151219004839_prespiosolidriomedicina.jpg
 title: Academia solidária
@@ -12,7 +12,6 @@ type: article
 # Academia solidária
 
 
-  
+
 
 Vários núcleos da UMinho multiplicam-se nesta época em ações de solidariedade. Revisitamos algumas das iniciativas.
-

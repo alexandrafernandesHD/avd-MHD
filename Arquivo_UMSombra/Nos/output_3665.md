@@ -1,6 +1,6 @@
 ---
-date: 11-08-2023
-author: Marta Ferreira  Fotos: CEORLab
+date: 2023/08/11
+author: Marta Ferreira  Fotos -- CEORLab
 image: http://www.nos.uminho.pt/Images/destaques/20230808145142_treinocampo.jpg
 title: Estamos a ajudar a melhorar a visão dos atletas de alta competição
 url: http://www.nos.uminho.pt/Article.aspx?id=3665
@@ -12,11 +12,11 @@ type: article
 # Estamos a ajudar a melhorar a visão dos atletas de alta competição
 
 
-  
+
 
 Laboratório de Investigação em Optometria Clínica e Experimental (CEORLab) é procurado por clubes e atletas de diferentes modalidades e países.
 
-O projeto na área da visão no desporto é coordenado pelo professor Jorge Jorge, no Centro de Física da Escola de Ciências da UMinho, em Braga. Surgiu há 15 anos, inicialmente numa perspetiva de solucionar problemas de visão dos atletas. Esta investigação é pioneira em Portugal e na maioria dos países da Europa, tendo a área apenas alguma expressão nos Estados Unidos da América.
+O projeto na área da visão no desporto é coordenado pelo professor Jorge Jorge, no Centro de Física da Escola de Ciências da UMinho, em Braga. Surgiu há 15 anos, inicialmente numa perspetiva de solucionar problemas de visão dos atletas. Esta investigação é pioneira em Portugal e na maioria dos países da Europa, tendo a área apenas alguma expressão nos Estados Unidos da América.
 
 Desde 2010, o foco do projeto é otimizar as capacidades visuais dos atletas, colmatando as dificuldades ou problemas visuais que possam condicionar a sua performance. A equipa de Jorge Jorge faz, primeiramente, uma caraterização do sistema visual dos atletas, diagnosticando os aspetos mais importantes na atividade desportiva e na modalidade de cada um, para posteriormente aplicar exercícios de treino visual e potencializar as suas capacidades visuais.
 
@@ -28,6 +28,4 @@ Estima-se que 8 a 10% dos homens têm problemas de visão cromática, o que se r
 
 **O que podemos esperar desta área no futuro** 
 
-A investigação do CEORLab aposta atualmente na determinação dos equipamentos mais adequados para treinar os atletas, fruto da diversidade de instrumentos existentes no mercado, que passam até pela aplicação de métodos de realidade virtual. Após estarem consolidadas fases como a seleção dos métodos a utilizar para melhorar o rendimento do atleta, a definição dos exames mais relevantes a realizar e quais os valores a alcançar, de acordo com Jorge Jorge será possível “oferecer este tipo de serviço a uma comunidade de forma muito mais abrangente”.
- 
-
+A investigação do CEORLab aposta atualmente na determinação dos equipamentos mais adequados para treinar os atletas, fruto da diversidade de instrumentos existentes no mercado, que passam até pela aplicação de métodos de realidade virtual. Após estarem consolidadas fases como a seleção dos métodos a utilizar para melhorar o rendimento do atleta, a definição dos exames mais relevantes a realizar e quais os valores a alcançar, de acordo com Jorge Jorge será possível “oferecer este tipo de serviço a uma comunidade de forma muito mais abrangente”.

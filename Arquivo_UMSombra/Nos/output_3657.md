@@ -1,5 +1,5 @@
 ---
-date: 30-06-2023
+date: 2023/06/30
 author: Beatriz Mendes
 image: http://www.nos.uminho.pt/Images/destaques/20230630110403_RAILtoLANDYT.jpg
 title: RAILtoLand, uma forma diferente de viajar
@@ -12,7 +12,7 @@ type: article
 # RAILtoLand, uma forma diferente de viajar
 
 
-  
+
 
 Nova app desenvolvida pelo Centro de Computação Gráfica mostra o património paisagístico-cultural da linha Porto-Vigo.
 
@@ -22,10 +22,9 @@ A app contém áudios explicativos sobre as características da paisagem ao redo
 
 De acordo com Nuno Sousa, gestor de projeto no CCG, “o objetivo é que a pessoa possa personalizar a viagem para ficar a conhecer o que está em volta da linha de comboio; é possível marcar os pontos de interesse e depois poder visitar esses locais.” Além destas novidades, é possível fotografar momentos marcantes da viagem e ficam logo associados ao sítio onde cada imagem foi tirada. Este projeto-piloto tem tido um impacto muito positivo e mostra inovações a nível digital, turístico e cultural para o cidadão comum, tendo como objetivo a expansão futura da aplicação para outras linhas de comboio históricas.
 
- 
- 
+
+
 
 **Sobre o CCG** 
 
-Responsável principal pelo design e desenvolvimento da aplicação, o CCG faz parte do Sistema Científico e Tecnológico Nacional, sendo reconhecido pelo Governo com o Estatuto de Utilidade Pública e como Centro de Tecnologia e Inovação. Como interface da UMinho, oferece formação especializada, serviços de consultoria em inovação tecnológica e laboratoriais e atua em investigação e desenvolvimento sob contrato e capacitação empresarial. É responsável também por conceber novos métodos nas áreas de computação visual, computação ubíqua e engenharia informática.
-
+Responsável principal pelo design e desenvolvimento da aplicação, o CCG faz parte do Sistema Científico e Tecnológico Nacional, sendo reconhecido pelo Governo com o Estatuto de Utilidade Pública e como Centro de Tecnologia e Inovação. Como interface da UMinho, oferece formação especializada, serviços de consultoria em inovação tecnológica e laboratoriais e atua em investigação e desenvolvimento sob contrato e capacitação empresarial. É responsável também por conceber novos métodos nas áreas de computação visual, computação ubíqua e engenharia informática.

@@ -5,7 +5,8 @@ image: http://www.nos.uminho.pt/Images/destaques/20231127093500_FernandoBessaRib
 title: Cidades quentes
 url: http://www.nos.uminho.pt/Article.aspx?id=3660
 site name: Jornal Online UMINHO Cidades quentes
-description: Temos que avançar rapidamente e com determinação com um programa de revegetalização e de mobilidade suave, sem descurarmos os caminhos para uma reorganização laboral e do lazer, enfim, um outro modo de viver a cidade, mais convivial e desacelerando o trabalho, a mobilidade e o consumo.
+description: |
+  Temos que avançar rapidamente e com determinação com um programa de revegetalização e de mobilidade suave, sem descurarmos os caminhos para uma reorganização laboral e do lazer, enfim, um outro modo de viver a cidade, mais convivial e desacelerando o trabalho, a mobilidade e o consumo.
 type: article
 
 ---
@@ -30,7 +31,6 @@ Arrefecendo os eventuais entusiasmos dos que acreditam que a mudança se faz pel
 
 Mesmo que nada mais façamos do que atrasar a chegada do colapso, permanece por responder a questão acima formulada: o que podemos fazer nas cidades que habitamos? O que se pode fazer nas cidades onde a Universidade do Minho tem instalações, ou seja, onde trabalham estudantes, professores, investigadores, gestores, técnicos e outros trabalhadores? Isto é, como responder à emergência climática na cidade? Sem qualquer pretensão de originalidade, temos de avançar rapidamente e com determinação com um programa realmente sério de revegetalização e de mobilidade suave, sem descurar os caminhos para um outro modo de organizarmos o trabalho e o lazer, enfim, um outro modo de viver a cidade, necessariamente mais convivial e lento, reduzindo e desacelerando o trabalho, a mobilidade e o consumo.
 
-Tomando como exemplo o programa já em curso em Paris, trata-se de colocar árvores nos espaços até agora asfaltados e impermeabilizados, multiplicando os parques e jardins em lugar de se persistir com a expansão e densificação urbana. Reduzindo e até suprimindo as avenidas e as ruas para a circulação automóvel, tal implicará a promoção da mobilidade suave, seja em bicicleta, seja a pé, ao mesmo tempo que se alarga e intensifica a disponibilidade de transporte urbano coletivo. Sendo os campi da Universidade do Minho alguns dos principais emissores de tráfego automóvel nas nossas cidades, nenhuma mudança será bem-sucedida sem a envolver. Se colocarmos como objetivo a reflorestação dos seus parques de estacionamento à superfície, mais as zonas nas imediações dos campi atulhadas todos os dias de milhares de automóveis, sabemos bem o que temos de fazer. Vamos a isso? 
+Tomando como exemplo o programa já em curso em Paris, trata-se de colocar árvores nos espaços até agora asfaltados e impermeabilizados, multiplicando os parques e jardins em lugar de se persistir com a expansão e densificação urbana. Reduzindo e até suprimindo as avenidas e as ruas para a circulação automóvel, tal implicará a promoção da mobilidade suave, seja em bicicleta, seja a pé, ao mesmo tempo que se alarga e intensifica a disponibilidade de transporte urbano coletivo. Sendo os campi da Universidade do Minho alguns dos principais emissores de tráfego automóvel nas nossas cidades, nenhuma mudança será bem-sucedida sem a envolver. Se colocarmos como objetivo a reflorestação dos seus parques de estacionamento à superfície, mais as zonas nas imediações dos campi atulhadas todos os dias de milhares de automóveis, sabemos bem o que temos de fazer. Vamos a isso? 
 
 Professor do Departamento de Sociologia do Instituto de Ciências Sociais da Universidade do Minho
-

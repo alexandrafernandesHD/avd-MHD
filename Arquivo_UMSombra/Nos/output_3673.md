@@ -1,5 +1,5 @@
 ---
-date: 29-09-2023
+date: 2023/09/29
 author: Daniel Vieira da Silva
 image: http://www.nos.uminho.pt/Images/destaques/20230921173139_ME2020banner02.jpg
 title: Desmistificar preconceitos e reaproximar alunos do secundário significa mais procura
@@ -12,7 +12,7 @@ type: article
 # Desmistificar preconceitos e reaproximar alunos do secundário significa mais procura
 
 
-  
+
 
 Alguns cursos da UMinho estão a reagir a um menor volume de candidatos verificado nos últimos anos.
 
@@ -34,13 +34,12 @@ No que concerne à Engenharia Têxtil, Graça Soares, diretora do curso, lamento
 
 “A licenciatura em Engenharia Têxtil é única [no país] e insere-se na área de engenharia de materiais, mas com saídas profissionais que vão muito para além das oferecidas pelo setor industrial têxtil, sem desemprego, começando já os nossos alunos a serem aliciados pelas indústrias a trabalhar antes de terminarem a sua formação académica”, frisou a docente. Avançou ao NÓS que já foram tomadas medidas para mitigar o desfasamento entre as expectativas dos estudantes do secundário e as dos responsáveis do curso na UMinho: “Foi feito um planeamento estratégico considerando o horizonte de 2030, assente em cinco eixos - infraestruturas, alumni, comunicação e marketing, empresas, recursos humanos e oferta formativa”, enumerou Graça Soares. Salientou que será formalizada “a criação de pools de empresas nas diferentes áreas de atuação da têxtil, não só como parceiros efetivos das atividades de investigação, mas também na tarefa de abrir as suas portas à formação feita na UMinho”.
 
-A licenciatura da Escola de Engenharia forma profissionais para integrarem um importante setor de atividade da cadeia de valor têxtil e vestuário de uma forma transversal. Estes destinam-se a um espectro muito amplo de empresas, desde os produtores de têxteis a outros setores industriais que incorporam os têxteis na produção, incluindo os têxteis técnicos. Os setores de atividade em que atuam variam entre os têxteis para vestuário “convencional” e funcional, até aos têxteis para aplicações técnicas e industriais.
+A licenciatura da Escola de Engenharia forma profissionais para integrarem um importante setor de atividade da cadeia de valor têxtil e vestuário de uma forma transversal. Estes destinam-se a um espectro muito amplo de empresas, desde os produtores de têxteis a outros setores industriais que incorporam os têxteis na produção, incluindo os têxteis técnicos. Os setores de atividade em que atuam variam entre os têxteis para vestuário “convencional” e funcional, até aos têxteis para aplicações técnicas e industriais.
 
 **Saídas profissionais menos conhecidas afastam estudantes da Química** 
 
-No caso da licenciatura em Química, a diretora, Ana Paula Esteves, afirmou não ter uma explicação objetiva para a baixa procura pelos cursos na área da Química, mas entende que a situação pode ser, em parte, “devido ao desconhecimento por parte dos estudantes do ensino secundário das variadíssimas saídas profissionais que uma licenciatura em Química proporciona”. Neste particular, a UMinho acabou por acompanhar uma tendência que se verificou em grande parte das instituições de ensino superior nacionais.
+No caso da licenciatura em Química, a diretora, Ana Paula Esteves, afirmou não ter uma explicação objetiva para a baixa procura pelos cursos na área da Química, mas entende que a situação pode ser, em parte, “devido ao desconhecimento por parte dos estudantes do ensino secundário das variadíssimas saídas profissionais que uma licenciatura em Química proporciona”. Neste particular, a UMinho acabou por acompanhar uma tendência que se verificou em grande parte das instituições de ensino superior nacionais.
 
-Apesar de a formação adquirida pelos licenciados em Química permitir o acesso a uma grande diversidade de saídas profissionais em indústrias e serviços, com destaque para as incursões na indústria química, farmacêutica, agroquímica, petroquímica, alimentar, têxtil, papel, cortiça, cosmética, polímeros, tintas, entre outros, os números da 1ª fase do CNA não foram animadores. “Penso que a ideia dos estudantes está muito 'formatada' no sentido de que uma licenciatura em Química é direcionada para a profissão de professor”, explicou a docente do Departamento de Química. Considerou que a alteração de paradigma pode passar por uma “alteração de mensagem que é difundida pelos professores de Química dos ensinos básico e secundário, motivando os estudantes e aconselhando as suas opções com vista à escolha de uma carreira futura nesta área”. Contudo, sublinhou a necessidade de atrair para a profissão os professores mais capazes e motivados de entre as gerações mais jovens, de forma a que estes se sintam motivados a partilhar boas experiências com os estudantes do básico e secundário.
+Apesar de a formação adquirida pelos licenciados em Química permitir o acesso a uma grande diversidade de saídas profissionais em indústrias e serviços, com destaque para as incursões na indústria química, farmacêutica, agroquímica, petroquímica, alimentar, têxtil, papel, cortiça, cosmética, polímeros, tintas, entre outros, os números da 1ª fase do CNA não foram animadores. “Penso que a ideia dos estudantes está muito 'formatada' no sentido de que uma licenciatura em Química é direcionada para a profissão de professor”, explicou a docente do Departamento de Química. Considerou que a alteração de paradigma pode passar por uma “alteração de mensagem que é difundida pelos professores de Química dos ensinos básico e secundário, motivando os estudantes e aconselhando as suas opções com vista à escolha de uma carreira futura nesta área”. Contudo, sublinhou a necessidade de atrair para a profissão os professores mais capazes e motivados de entre as gerações mais jovens, de forma a que estes se sintam motivados a partilhar boas experiências com os estudantes do básico e secundário.
 
 A reação na UMinho, em algumas das suas licenciaturas, faz-se sentir face às expectativas que saíram defraudadas no último Concurso Nacional de Acesso. A aposta num maior fluxo e melhor comunicação junto dos estudantes do secundário é uma aposta que parece ser transversal às várias áreas de ensino mais impactadas e na UMinho esse caminho já começou a ser trilhado. Até porque menor procura não significa, de todo, menor qualidade.
-

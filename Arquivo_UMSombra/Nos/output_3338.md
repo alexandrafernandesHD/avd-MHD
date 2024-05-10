@@ -1,49 +1,49 @@
 ---
-date: 30-04-2018
+date: 2018/04/30
 author: Nuno Passos
 image: http://www.nos.uminho.pt/Images/destaques/20180430153419_ArquivoDistritaldeBraga.jpg
-title: Arquivo Distrital de Braga: construir a memória e a cidadania
+title: Arquivo Distrital de Braga -- construir a memória e a cidadania
 url: http://www.nos.uminho.pt/Article.aspx?id=3338
-site name: Jornal Online UMINHO Arquivo Distrital de Braga: construir a memória e a cidadania
-description: Entrevista ao diretor do ADB, no âmbito do ciclo de conversas com os responsáveis das seis unidades culturais da UMinho.
+site name: Jornal Online UMINHO Arquivo Distrital de Braga -- construir a memória e a cidadania
+description: |
+  Entrevista ao diretor do ADB, no âmbito do ciclo de conversas com os responsáveis das seis unidades culturais da UMinho.
 type: article
 
 ---
 # Arquivo Distrital de Braga: construir a memória e a cidadania
 
 
-  
+
 
 António Sousa
 
 Entrevista ao diretor do ADB, no âmbito do ciclo de conversas com os responsáveis das seis unidades culturais da UMinho.
 
 **O Arquivo Distrital de Braga (ADB) surgiu em 1917. Com que objetivo?** 
-O Arquivo foi criado em anexo à Biblioteca Pública de Braga (BPB), com o objetivo de custodiar acervos arquivísticos identificados nesse decreto, produzidos por entidades oficiais e outras não oficiais (como as da Arquidiocese de Braga e de conventos e mosteiros), mas necessários à gestão dos bens que tinham passado, num longo processo desde 1834, para a posse do Estado ou, no caso dos documentos paroquiais, a complementar o registo civil que o Governo da República estava a implementar. Na impossibilidade de levar para Lisboa toda a documentação – até porque houve oposição local a essa pretensão –, em 1916 foram instituídos os primeiros arquivos distritais (Leiria, Bragança e Évora), sendo o ADB o quarto a ser criado, em 11 de agosto de 1917 (Decreto-Lei 3286). Houve na criação destes Arquivos a perceção da sua necessidade para a salvaguarda e acesso das massas documentais que irão ser produzidas no futuro.
- 
+O Arquivo foi criado em anexo à Biblioteca Pública de Braga (BPB), com o objetivo de custodiar acervos arquivísticos identificados nesse decreto, produzidos por entidades oficiais e outras não oficiais (como as da Arquidiocese de Braga e de conventos e mosteiros), mas necessários à gestão dos bens que tinham passado, num longo processo desde 1834, para a posse do Estado ou, no caso dos documentos paroquiais, a complementar o registo civil que o Governo da República estava a implementar. Na impossibilidade de levar para Lisboa toda a documentação – até porque houve oposição local a essa pretensão –, em 1916 foram instituídos os primeiros arquivos distritais (Leiria, Bragança e Évora), sendo o ADB o quarto a ser criado, em 11 de agosto de 1917 (Decreto-Lei 3286). Houve na criação destes Arquivos a perceção da sua necessidade para a salvaguarda e acesso das massas documentais que irão ser produzidas no futuro.
+
 **O ADB foi integrado em 1976 na UMinho. Quais foram os benefícios?** 
 A integração na UMinho, conforme o Decreto-Lei 402/73, de 11 de agosto, precisamente 56 anos após a criação do ADB, e ainda intimamente ligado à BPB, permitiu à novel Universidade ficar dotada de uma biblioteca e de um acervo patrimonial disponível localmente para uso dos seus investigadores. A diversidade de utilizadores do Arquivo e de fins para que o procuram, digamos, ultrapassa a atividade central da Universidade; o ADB presta serviços que, não se inserindo nessa atividade, lhe permite enriquecer indiretamente a relação da Universidade com os atores da região onde se insere, o Minho, prestando um serviço a cidadãos que, naturalmente, não contactariam com um serviço da UMinho. Nesta dinâmica, a inserção na academia permitiu ao Arquivo uma proximidade maior aos seus investigadores, quer aqueles para quem os documentos são fonte de informação – sobretudo na área da História, mas também de outras Ciências Sociais –, quer a investigadores de outras áreas disciplinares que lhe permitiram avançar e inovar, desde há 30 anos, quando se iniciou a colaboração com o Departamento de Informática. Esta colaboração permitiu que o ADB fosse o primeiro Arquivo em Portugal a ter uma página na Internet, a usar o correio eletrónico e a desenvolver projetos de uso das tecnologias da informação ao serviço dos utilizadores. É relevante mencionar que estas diversas colaborações se vêm renovando. Naturalmente que o ADB tem vindo a beneficiar da dinâmica enriquecedora que a UMinho tem conseguido… e também temo-nos esforçado em contribuir nesse sentido!
- 
-**Esta unidade cultural tem casa nova desde 2017, na rua Abade da Loureira. O que mudou e como descreveria o espaço e espólio, para quem ainda não o visitou?** 
+
+**Esta unidade cultural tem casa nova desde 2017, na rua Abade da Loureira. O que mudou e como descreveria o espaço e espólio, para quem ainda não o visitou?** 
 Uma grande mudança. Ao fim de 100 anos, podemos dizer que agora temos de facto um edifício de arquivo, isto é, um espaço que responde minimamente aos requisitos necessários para as atividades e funções nucleares do ADB. Finalmente podemos contar com espaços próprios para a receção de documentos, a sua desinfestação e higienização e uma sala onde poderemos montar um laboratório para intervenções de conservação e restauro. Temos, ainda, uma sala polivalente que nos permite ter exposições e organizar eventos. Estes espaços não existiam nas anteriores instalações, aonde os depósitos não dispunham de controlo ambiental e não permitiam novas incorporações de documentos. Agora dispomos de 17 quilómetros de estantaria (temos cerca de seis quilómetros de documentação) com condições adequadas para a preservação dos documentos e já retomámos as incorporações de documentos das entidades produtoras. As novas instalações oferecem agora ao utilizador salas de referência e de leitura com um mobiliário mais adequado e confortável, de modo a poder efetuar os seus trabalhos de pesquisa em melhores condições. No novo edifício, a circulação entre os diversos espaços é substancialmente melhor, o que nos permitiu alterar, como se impunha, a organização do trabalho em função das tarefas dos funcionários e do serviço prestado.
- 
-**Que balanço faz do percurso do ADB até ao momento? ** 
+
+**Que balanço faz do percurso do ADB até ao momento?** 
 Não é fácil fazer um balanço de 100 anos de atividade! Do que conhecemos do seu percurso – ainda há espaço para pesquisar e conhecer melhor o que foi – encontramos, como em qualquer instituição ou serviço, períodos melhores e outros de menor visibilidade. O ADB é hoje uma unidade com prestígio e reconhecimento local e global – recebeu o Galardão “A Nossa Terra” para “Organismo de serviço público”, em 2015, e a Medalha de Mérito Municipal pela Câmara Municipal de Braga, em 2016. Mas reconhecemos este prestígio no dia-a-dia, no nosso relacionamento com os utilizadores e outros atores sociais, como aqueles que nos visitam e procuram presencialmente, mas também com os que connosco comunicam e que expressam a sua satisfação e apreciação positiva do trabalho que se faz no Arquivo. Podemos dizer que o percurso tem sido globalmente positivo ao longo deste século de existência e tem sido bem-sucedido na “recuperação” de tempos de menor pró-atividade ou inovação.
 
 **Reconhecimento local e global** 
 
 **Que eventos destaca?** 
 Permita-me que reduza o destaque aos últimos eventos que decorreram. A inauguração das novas instalações em 28 de abril passado foi muito relevante, não só pela presença do ministro da Cultura e da secretária de Estado do Ensino Superior, Ciência e Tecnologia, mas porque foi uma sessão muito concorrida, em número e proveniência dos presentes: entidades publicas e privadas, utilizadores diversos, colegas. Foi muito animador, um evento que valia por si, mas que acabou por ser, como se referiu, a prenda de anos que o Arquivo recebia pelo seu centenário. A homenagem que a UMinho prestou, nessa tarde, ao professor José Marques, um ilustre medievalista e amigo do Arquivo, valorizou o ato de inauguração que ocorrera de manhã. Com o dia do centenário em agosto, marcado por visitas com caráter especial que fizemos para quem quis ou pôde aparecer, optámos por desdobrar as celebrações em dois conjuntos de iniciativas: quatro conversas à volta do Arquivo, a que chamámos “Abrindo o Arcaz” (de setembro de 2017 a fevereiro de 2018) e em três “Encontros do Centenário”: “Preservação do Património Arquivístico” (2 de junho de 2017), “30 anos de Informática no ADB” (9 de novembro de 2017) e, no dia 20 de abril de 2018, “Os Arquivos e a Cidadania”. Este último, juntamente com um concerto das “Vozes Alfonsinas”, encerrou este ciclo comemorativo.
- 
+
 **Como avalia a recetividade do público?** 
 A recetividade do público é globalmente boa, o que confirma, com agrado, a pertinência do que temos proposto. Tem havido uma boa interação, são-nos lançados desafios na sequência dos debates produzidos e temos obtido não apenas esse apreço positivo, mas também contributos que informarão os projetos futuros e a nossa atuação.
- 
+
 **Quais são os principais projetos para os próximos tempos?** 
 Temos um conjunto de projetos internos em curso, como a conversão e migração dos instrumentos de pesquisa/acesso para a base de dados de descrição arquivística, que permite a qualquer utilizador efetuar pesquisas na nossa interface na Internet. Esperamos finalizar este projeto no corrente ano e introduzir, na nossa interface web com os utilizadores, o balcão eletrónico que lhes oferecerá novas funcionalidades. Iremos passar a ter uma atividade regular de exposições e de conferências, sempre muito ligadas aos fundos que custodiamos e às nossas atividades: ainda este ano, uma exposição sobre Manuel José de Oliveira (médico que colecionou muita documentação que custodiamos e cujo centenário da sua morte ocorre em 2018), apresentação (e exposição) de um fundo recentemente depositado no Arquivo, proveniente do grupo de trabalho 2.1 da International Federation for Information Processing. A médio/longo prazo destaco o projeto de tratamento arquivístico dos fundos monásticos e a implementação de um laboratório para a conservação e restauro de documentos gráficos. Vamos continuar a nossa “linha editorial”, brevemente com a edição “As Confirmações de Tui” e, mais adiante, uma edição sobre o próprio Arquivo.
- 
+
 **Em que medida projetos como o do ADB contribuem para a missão da Universidade?** 
 O ADB tem sido uma interface da Universidade com a sociedade a nível local e regional, mas também a nível global. O Arquivo não é apenas procurado por investigadores seniores da UMinho, mas de muitas instituições públicas e privadas. Os projetos que desenvolvemos têm como destino os utilizadores e, portanto, aproximam estes e a Universidade. Mesmo quando os utilizadores que nos procuram para fins administrativos e legais e não para investigação, produção de conhecimento e de cultura, construção da memória. Ou quando nos procuram para obter consultoria e apoio técnico na área da gestão de arquivos. O Arquivo, pelos conteúdos que possui nos seus documentos, é fonte de informação para a investigação dos docentes e discentes da UMinho e é local, “laboratório que pode propiciar projetos de investigação relacionados com a sua atividade”, como acontece na multifacetada área da Informática.
- 
+
 **Quer deixar uma mensagem final?** 
 Há um papel crucial e único da informação de arquivo na garantia de direitos dos cidadãos e das instituições. Há um papel relevante dos nossos documentos na construção da nossa memória e no aprofundamento da nossa cidadania. É bom conhecer os documentos e valorizá-los, mas é também importante conhecer as instituições que cuidam deles e as suas atividades. Dê-nos o seu contributo, nem que seja apenas pela sua presença. Se não precisa de consultar os nossos documentos, participe nos nossos eventos.
-
