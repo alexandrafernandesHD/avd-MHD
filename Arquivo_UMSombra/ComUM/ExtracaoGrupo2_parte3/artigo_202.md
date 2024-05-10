@@ -1,11 +1,12 @@
 ---
-date: 15Abr2023
+date: 2023/04/15
 author: André Igreja
 image: https://www.comumonline.com/wp-content/uploads/2021/12/02_MariaCarvalho_Manif_Assedio-1500x1000.jpg
 title: Universidade do Minho averigua denúncia de assédio sexual e moral na instituição
 url: https://www.comumonline.com/2023/04/universidade-do-minho-averigua-denuncia-de-assedio-sexual-e-moral-na-instituicao/
 site: ComUM
-description: A Universidade do Minho (UMinho) revelou que vai averiguar os “factos relatados” de um alegado caso de assédio sexual e moral ocorrido na instituição.
+description: |
+  A Universidade do Minho (UMinho) revelou que vai averiguar os “factos relatados” de um alegado caso de assédio sexual e moral ocorrido na instituição.
 tags: Universidade do Minho, denúncias, Assédio
 type: article
 ---
@@ -22,4 +23,3 @@ A Universidade do Minho (UMinho) revelou que vai averiguar os “factos relatado
 As bases da denúncia são insinuações de caráter sexual à investigadora e de humilhação pública na apresentação de um trabalho. Em declarações à RUM, uma fonte da UMinho esclareceu que não consegue identificar pessoas nem datas face ao relato do ouvinte, mas está a investigar os factos relatados.
 
 As acusações de assédio feitas a elementos do Centro de Estudos Sociais da Universidade de Coimbra voltaram a chamar as atenções para este tema. Anália Torres, diretora do Centro Interdisciplinar de Estudos do Género da Universidade de Lisboa, lamentou, em entrevista ao Expresso, que muitas instituições (e faculdades) não tenham ainda criado mecanismos para prevenir e combater o fenómeno. O presidente do Sindicato Nacional do Ensino Superior, José Moreira, admite receber “dezenas de queixas de assédio” todos os anos.
-

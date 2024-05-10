@@ -15,7 +15,7 @@ type: article
 
 ## 
 
- | 
+| 
 
 A Universidade do Minho (UM) comemorou, ao longo da semana, o seu quadragésimo aniversário com uma programação especial que visa reforçar a proximidade da academia minhota à sociedade.
 
@@ -42,4 +42,3 @@ Até Setembro a UM irá dar a conhecer à população de sete concelhos minhotos
 Para além de exposições, a academia minhota irá receber um ciclo de conferências onde será repensado o futuro de diversas áreas.”Um futuro para a informação televisiva” é a primeira dessas conferências, que terá lugar no Largo do Paço, em Braga, já na próxima quinta-feira, 27 de fevereiro, pelas 18 horas.
 
 Também inserido nas comemorações do aniversário da UM, decorreu ontem, no pavilhão desportivo da UM, em Gualtar, a quarta edição do “Jogo das Estrelas”, onde se defrontaram várias personalidades da academia minhota e da vida politica e desportiva nacional e regional num jogo de futsal, que terminou com um empate de nove golos.
-

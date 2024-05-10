@@ -1,5 +1,5 @@
 ---
-date: 10Out2015
+date: 2015/10/10
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2015/10/FOODNUTRITIONAWARDS_HORIZONTAL-642x336.jpg
 title: UMinho premiada por tecnologia alimentar inovadora
@@ -28,4 +28,3 @@ O prémio Food & Nutricion foi atribuído no âmbito da 6ª edição do Food & N
 Fábio Moreira
 
 Beatriz Brasil
-

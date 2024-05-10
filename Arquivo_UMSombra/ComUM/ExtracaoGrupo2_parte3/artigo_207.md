@@ -1,11 +1,12 @@
 ---
-date: 17Fev2024
+date: 2024/02/17
 author: Margarida da Silva Carvalho
 image: https://www.comumonline.com/wp-content/uploads/2024/02/50-anos-uminho-1500x899.jpg
-title: “Viva à Universidade do Minho”: celebração dos 50 anos de fundação
+title: “Viva à Universidade do Minho” -- celebração dos 50 anos de fundação
 url: https://www.comumonline.com/2024/02/viva-a-universidade-do-minho-celebracao-dos-50-anos-de-fundacao/
 site: ComUM
-description: As celebrações dos 50 anos da Universidade do Minho oficializaram-se hoje, a 17 de fevereiro. A cerimónia tomou lugar no Salão Medieval da Reitoria em Braga
+description: |
+  As celebrações dos 50 anos da Universidade do Minho oficializaram-se hoje, a 17 de fevereiro. A cerimónia tomou lugar no Salão Medieval da Reitoria em Braga
 tags: UMinho, 50 anos Universidade do Minho
 type: article
 ---
@@ -30,4 +31,3 @@ Os momentos seguintes foram para a entrega de prémios e bolsas escolares assim 
 A celebração continuou posteriormente com o discurso da presidente do Conselho Geral da Universidade do Minho, Joana Marques Vidal, que reforçou o legado da academia e as perspetivas do futuro. “Uma universidade que procura a excelência, assumindo-se como um centro de conhecimento, de investigação e ensino, no reconhecimento dessa inter-relação umbilical e essencial: sem investigação não existe ensino”, sublinhou.
 
 A cerimónia encerrou com o discurso da ministra de Ciência, Tecnologia e Ensino Superior, Elvira Fortunato que destacou o contributo da Reforma de Veiga Simão do Ensino Superior na Sociedade e sublinhando que “a Universidade do Minho tem sido crucial para o desenvolvimento de Portugal na Europa”. Os docentes convidados e o reitor voltaram a caminhar pelo Salão Medieval ao som do CAUM oficializando o fim da sessão de celebração.
-

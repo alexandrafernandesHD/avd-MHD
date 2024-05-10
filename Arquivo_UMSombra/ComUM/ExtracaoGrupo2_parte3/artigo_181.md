@@ -1,11 +1,12 @@
 ---
-date: 11Mai2021
+date: 2021/05/11
 author: João da Silva
 image: https://www.comumonline.com/wp-content/uploads/2017/03/IMG_2487-T55-1500x1000.jpg
 title: UMinho discute novo Plano de Recuperação e Resiliência
 url: https://www.comumonline.com/2021/05/uminho-discute-novo-plano-de-recuperacao-e-resiliencia/
 site: ComUM
-description: O documento estratégico contempla reformas estruturais para certificar a saída da crise pandémica e possibilitar um futuro de resiliência para Portugal.
+description: |
+  O documento estratégico contempla reformas estruturais para certificar a saída da crise pandémica e possibilitar um futuro de resiliência para Portugal.
 tags: Universidade do Minho, Governo, Conselho Europeu, Plano de Recuperação e Resiliência, Comissão Europais, Ministro da Economia e Transição Digital
 type: article
 ---
@@ -26,4 +27,3 @@ O PRR contou com uma forte colaboração entre o Governo português e a Comissã
 Dessa forma, o PRR beneficia de um envelope financeiro total de 16.643 milhões, composto por 13.994 milhões de euros em subvenções e por 2.699 milhões de euros em empréstimos, com o investimento centrado em três grandes áreas temáticas: resiliência, transição climática e digital. Está ainda antevista a possibilidade de, consoante a capacidade de absorção do financiamento por parte da procura privada, a soma direcionada às empresas, pelos setores da capitalização e investimento produtivo, poder ser incrementado até 2.300 milhões de euros adicionais.
 
 O Plano de Recuperação e Resiliência será agora analisado pela Comissão Europeia e, posteriormente, submetido à aprovação do Conselho Europeu.
-

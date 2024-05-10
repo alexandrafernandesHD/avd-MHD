@@ -1,11 +1,12 @@
 ---
-date: 05Dez2022
+date: 2022/12/05
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2022/10/Jose-Costa_Universidade-do-Minho_05-1500x1000.jpg
 title: VoxPop. O que sabem os estudantes sobre as eleições da AAUM?
 url: https://www.comumonline.com/2022/12/voxpop-o-que-sabem-os-estudantes-sobre-as-eleicoes-da-aaum/
 site: ComUM
-description: Amanhã, 6 dezembro, os alunos vão poder votar. Hoje, o ComUM andou pela UMinho para perceber o que os estudantes realmente sabem a um dia das eleições.
+description: |
+  Amanhã, 6 dezembro, os alunos vão poder votar. Hoje, o ComUM andou pela UMinho para perceber o que os estudantes realmente sabem a um dia das eleições.
 tags: Universidade do Minho, vox pop, Estudantes, Voto, Eleições AAUM 2022
 type: article
 ---
@@ -26,4 +27,3 @@ Amanhã, 6 dezembro, os alunos vão poder votar nos candidatos que acham mereced
 Entrevistas por: Maria Francisca Barros e Marta Rodrigues
 
 Edição: Maria Francisca Barros
-

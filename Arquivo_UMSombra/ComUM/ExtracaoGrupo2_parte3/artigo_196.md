@@ -1,11 +1,12 @@
 ---
-date: 11Set2022
+date: 2022/09/11
 author: Marta Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2019/09/JorgeSousa_Psi-1500x1000.jpg
 title: UMinho recebe quase três mil novos estudantes na primeira fase
 url: https://www.comumonline.com/2022/09/uminho-recebe-quase-tres-mil-novos-estudantes-na-primeira-fase/
 site: ComUM
-description: Terminada a primeira fase, a UMinho recebeu 2.867 novos estudantes. Restam 122 lugares por preencher na academia minhota.
+description: |
+  Terminada a primeira fase, a UMinho recebeu 2.867 novos estudantes. Restam 122 lugares por preencher na academia minhota.
 tags: Universidade do Minho, vagas, nota dos últimos colocados, Concurso Nacional de Acesso ao Ensino Superior, primeira fase
 type: article
 ---
@@ -38,4 +39,3 @@ Como é gerida e quem manda na Universidade do Minho?
 Braga: um guia cultural para quem chega à cidade dos arcebispos
 
 Guimarães: um guia cultural para quem chega à cidade berço
-

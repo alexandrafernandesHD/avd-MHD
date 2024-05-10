@@ -1,11 +1,12 @@
 ---
-date: 14Out2023
+date: 2023/10/14
 author: Joana Saraiva
 image: https://www.comumonline.com/wp-content/uploads/2017/10/IMG_3228-T55-1500x1000.jpg
 title: UMinho divulga projeto para reduzir mortalidade rodoviária e tornar estradas mais limpas
 url: https://www.comumonline.com/2023/10/uminho-divulga-projeto-para-reduzir-mortalidade-rodoviaria-e-tornar-estradas-mais-limpas/
 site: ComUM
-description: A Universidade do Minho trouxe, esta quinta-feira, o workshop "Sustentabilidade e Segurança Rodoviária". Uma iniciativa organizada pelo APCAP em Azurém.
+description: |
+  A Universidade do Minho trouxe, esta quinta-feira, o workshop "Sustentabilidade e Segurança Rodoviária". Uma iniciativa organizada pelo APCAP em Azurém.
 tags: workshop, UMinho, segurança rodoviária, sustentabilidade
 type: article
 ---
@@ -26,4 +27,3 @@ Um dos projetos destacados foi uma parceria entre a Universidade do Minho e a So
 Outra iniciativa que está a ser desenvolvida pela Academia é o projeto “Impact”, que conta com a participação de Elisabete Freitas, docente da Escola de Engenharia. Pretende diminuir a poluição sonora e apostar na criação de vias mais sustentáveis.
 
 Os participantes ficaram ainda a conhecer o CCG (Centro de Computação Gráfica) e o Cave, um simulador 3D. Permite testar a perceção e a ótica por parte do peão e a realização de um modelo de condução semi a completamente automático que está a ser desenvolvido em parceria com a Bosch. A iniciativa terminou com uma sessão de encerramento, proferida pelo Secretário-geral da APCAP, Rui Manteigas.
-

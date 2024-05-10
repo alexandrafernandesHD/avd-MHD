@@ -1,11 +1,12 @@
 ---
-date: 14Jul2022
+date: 2022/07/14
 author: Lara Inês Freitas
 image: https://www.comumonline.com/wp-content/uploads/2020/12/img.jpg
 title: UMinho promove debate sobre oportunidades no setor industrial
 url: https://www.comumonline.com/2022/07/uminho-promove-debate-sobre-oportunidades-no-setor-industrial/
 site: ComUM
-description: A associação Fibrenamics da Universidade do Minho (UMinho) promoveu a quarta edição da iniciativa “Impulse 2022 – Tendências e Oportunidades do Futuro”.
+description: |
+  A associação Fibrenamics da Universidade do Minho (UMinho) promoveu a quarta edição da iniciativa “Impulse 2022 – Tendências e Oportunidades do Futuro”.
 tags: Universidade do Minho, Guimarães, Fibrenamics, Teatro Jordão, Deloitte, Associação Empresarial de Portugal
 type: article
 ---
@@ -25,5 +26,4 @@ O programa incluiu palestras como “Portugal 2030: desafios e oportunidades do 
 
 De seguida, Raul Fangueiro, presidente da Fibrenamics, apresentou e debateu as “Tendências científicas e tecnológicas para o futuro”, com moderação do jornalista da RTP, Hugo Correia. O diretor acrescentou que os palestrantes se inserem em “várias áreas, como a macroeconomia” de modo a entender como esses temas se desenvolveram.
 
-Estava prevista a presença de 200 pessoas na quarta edição do evento, maioritariamente composta por membros de empresas, centros tecnológicos e universidades. A tertúlia “Inspiring the future” reuniu, em palco, o presidente da Associação Empresarial de Portugal (AEP), Luís Miguel Ribeiro, o professor de Economia da UMinho e ex-secretário de Estado adjunto do Ministro da Administração Interna, Fernando Alexandre. Estiveram presentes também Jorge Nadais, da Deloitte e o diretor executivo da Fibrenamics.
-
+Estava prevista a presença de 200 pessoas na quarta edição do evento, maioritariamente composta por membros de empresas, centros tecnológicos e universidades. A tertúlia “Inspiring the future” reuniu, em palco, o presidente da Associação Empresarial de Portugal (AEP), Luís Miguel Ribeiro, o professor de Economia da UMinho e ex-secretário de Estado adjunto do Ministro da Administração Interna, Fernando Alexandre. Estiveram presentes também Jorge Nadais, da Deloitte e o diretor executivo da Fibrenamics.

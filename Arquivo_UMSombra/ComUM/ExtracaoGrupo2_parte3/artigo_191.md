@@ -15,7 +15,7 @@ type: article
 
 ## 
 
- | 
+| 
 
 A Universidade do Minho não vai aumentar a propina para 2015/2016. Pelo terceiro ano consecutivo, o valor vai manter-se nos 1037,20 euros para o 1.º ciclo de estudos e mestrado integrado.
 
@@ -26,4 +26,3 @@ Numa nota enviada à comunicação social, a AAUM salienta que a “UMinho recon
 O Reitor da UMinho, António Cunha, vai formalizar a proposta de fixação das propinas na academia minhota na próxima segunda-feira, 25 de maio, em reunião do Senado Académico.
 
 De salientar que, por lei, o valor máximo das propinas nas universidades portuguesas para o próximo ano letivo é de 1067 euros. À semelhança dos últimos dois anos, a UMinho congela assim o valor para 2015/2016.
-

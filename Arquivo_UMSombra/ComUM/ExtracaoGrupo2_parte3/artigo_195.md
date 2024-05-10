@@ -1,11 +1,12 @@
 ---
-date: 18Nov2021
+date: 2021/11/18
 author: Débora Monteiro
 image: https://www.comumonline.com/wp-content/uploads/2021/11/Cartaz-e1637183575624-1500x1123.jpg
 title: UMinho promove projeto científico “WomanArt”
 url: https://www.comumonline.com/2021/11/uminho-promove-projeto-cientifico-womanart/
 site: ComUM
-description: WomanArt fala sobre mulheres, arte e ditadura. A conferência ocorre entre os dias 18 e 19 de novembro, no campus de Gualtar, via online.
+description: |
+  WomanArt fala sobre mulheres, arte e ditadura. A conferência ocorre entre os dias 18 e 19 de novembro, no campus de Gualtar, via online.
 tags: Arte, Mulheres, Fundação para a Ciência e a Tecnologia, Centro de Estudos Humanísticos da Universidade do Minho, Gabriela Macedo, ditadura, WomanArt
 type: article
 ---
@@ -26,4 +27,3 @@ A conferência conta com a presença de investigadores das universidades de Oxfo
 O músico brasileiro Luga Argel vai marcar a sessão com a exposição do discurso cantado “Samba de Guerrilha”. O objetivo do artista é homenagear os “protagonistas esquecidos” que lutaram contra a ditadura e todos os outros que tentaram combater a estrutura racista do país. A atuação do músico vai ocorrer no dia 18, com entrada limitada à capacidade do salão medieval da Reitoria UMinho.
 
 O projeto “WomanArt” já organizou várias atividades científicas e culturais, bem como seminários, workshops, entre outros, com o apoio da Fundação para a Ciência e a Tecnologia.
-

@@ -1,11 +1,12 @@
 ---
-date: 17Out2023
+date: 2023/10/17
 author: João Venda
 image: https://www.comumonline.com/wp-content/uploads/2023/10/156259_800x800.jpg
 title: UMinho traz videojogo com o objetivo de exercitar sentimentos de enfermeiros
 url: https://www.comumonline.com/2023/10/uminho-traz-videojogo-com-o-objetivo-de-exercitar-sentimentos-de-enfermeiros/
 site: ComUM
-description: UMinho cria videojogo para praticar os sentimentos dos enfermeiros. O projeto conta com participações a nível europeu esta segunda e terça-feira.
+description: |
+  UMinho cria videojogo para praticar os sentimentos dos enfermeiros. O projeto conta com participações a nível europeu esta segunda e terça-feira.
 tags: UMinho, Escola Superior de Enfermagem, Médicos
 type: article
 ---
@@ -32,4 +33,3 @@ O plano original foi criado pelas universidades do Minho, León (Espanha), Géno
 Esta união “Serious Games for Nursing Students” contou com um apoio 207 mil euros do Programa Erasmus+, originando ainda um workshop para preparar os professores e um Curso de Competência Emocional, com 30 horas de ocorrências clínicas, ações simuladas e realidade virtual. A palestra abriu esta segunda-feira, às 09h30, com a intervenção de Augusta Branco, do IPB.
 
 O começo oficial foi às 10h15, com discursos da pró-reitora para os Projetos Científicos e Gestão da Investigação da UMinho, Sandra Paiva, a presidente da ESE, Esperança Gago e a líder do projeto e chefe do congresso, Lisa Gomes.
-

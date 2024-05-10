@@ -1,5 +1,5 @@
 ---
-date: 11Out2015
+date: 2015/10/11
 author: Sara Daniela
 image: https://www.comumonline.com/wp-content/uploads/2015/10/02122014-DSC_0008-1500x1000.jpg
 title: Universidade do Minho com um Jardim Botânico já em novembro
@@ -26,4 +26,3 @@ O departamento de Biologia tenciona ainda criar um borboletário, uma espécie d
 A iniciativa pretende ainda que o espaço esteja aberto à comunidade, no qual serão realizadas ações com o ensino básico e secundário com a finalidade de dar a conhecer o projeto e o trabalho dos alunos universitários.
 
 O projeto já foi aprovado pelo administrador da Universidade do Minho, que inclusive propôs levar a ideia até ao Pólo de Azurém. As primeiras plantações estão previstas para inícios de novembro.
-

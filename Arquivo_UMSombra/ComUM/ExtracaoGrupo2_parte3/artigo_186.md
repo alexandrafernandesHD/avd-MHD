@@ -1,11 +1,12 @@
 ---
-date: 18Abr2019
+date: 2019/04/18
 author: Gabriel Ribeiro
 image: https://www.comumonline.com/wp-content/uploads/2017/09/esta-1500x844.jpg
 title: UMinho Editora apresenta primeiro livro
 url: https://www.comumonline.com/2019/04/uminho-editora-apresenta-primeiro-livro/
 site: ComUM
-description: A Universidade do Minho apresentou na última quinta-feira o primeiro livro publicado pela UMinho Editora. O Largo do Paço recebeu Maria Manuel Oliveira.
+description: |
+  A Universidade do Minho apresentou na última quinta-feira o primeiro livro publicado pela UMinho Editora. O Largo do Paço recebeu Maria Manuel Oliveira.
 tags: Universidade do Minho, Editora UMinho
 type: article
 ---
@@ -26,4 +27,3 @@ Maria Manuel Oliveira destacou que “foi necessário analisar a história”, v
 Rui Vieira de Castro, reitor da UMinho, começou por dizer que sempre houve “uma aspiração da universidade para ter uma editora”. A notícia foi avançada nas celebrações do 45º aniversário da UM, onde se revelou que o novo serviço editorial atuaria no ramo da edição de livros, publicação de revistas e também publicações no digital no círculo da comunidade académica. Na apresentação da obra, Maria Carmo Ribeiro, docente na universidade, frisou a importância de respeitar a “proteção ambiental e desafios de sustentabilidade” da nova editora.
 
 Maria Manuel Oliveira, autora do livro, cursou Arquitetura pela Escola Superior de Belas-Artes do Porto. É docente na Escola de Arquitetura da Universidade do Minho desde 1997 e, neste momento, a sua área de intervenção é a do património edificado e das áreas de abandono. O livro é uma edição conjunta entre a UMinho Editora e o Laboratório de Paisagens, Património e Território.
-

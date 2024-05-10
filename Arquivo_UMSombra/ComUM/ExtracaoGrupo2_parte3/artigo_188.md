@@ -1,11 +1,12 @@
 ---
-date: 21Jul2020
+date: 2020/07/21
 author: Carina Fernandes
 image: https://www.comumonline.com/wp-content/uploads/2019/09/JorgeSousa_Campus2-1500x1000.jpg
 title: UMinho está entre as 500 melhores universidades do mundo
 url: https://www.comumonline.com/2020/07/uminho-esta-entre-as-500-melhores-universidades-do-mundo/
 site: ComUM
-description: A UMinho conquistou o top 500 das melhores instituições do ensino superior, a nível mundial, em 18 áreas científicas distintas.
+description: |
+  A UMinho conquistou o top 500 das melhores instituições do ensino superior, a nível mundial, em 18 áreas científicas distintas.
 tags: Universidade do Minho, Escola de Direito, Shanghai Ranking’s Global Ranking of Academic Subjects
 type: article
 ---
@@ -26,4 +27,3 @@ A avaliação reconhece ainda 12 domínios do ensino e investigação. Nas engen
 O Shanghai Ranking’s Global Ranking of Academic Subjects foi criado em 2009 e, na edição de 2020, colocou em análise mais de quatro mil universidades de todo o mundo, em 54 áreas do ensino e investigação. Em consideração, estiveram indicadores como os artigos científicos publicados, o impacto na respectiva área e o nível de colaboração internacional.
 
 Já no ano passado, a UMinho alcançou o top 75 mundial em duas áreas: Engenharia Civil e Ciência e Tecnologia Alimentar. Marcou ainda presença no ranking com mais nove áreas.
-
