@@ -1,11 +1,12 @@
 ---
-date: 11Mar2023
+date: 2023/03/11
 author: Beatriz Vilaça
 image: https://www.comumonline.com/wp-content/uploads/2021/10/MartaMartins_ArraialAzeiteiro_02-1500x1000.jpg
 title: Azeituna. “Uma atuação só é boa se o público gostar, ficar interessado e procurar saber mais”
 url: https://www.comumonline.com/2023/03/azeituna-uma-atuacao-so-e-boa-se-o-publico-gostar-ficar-interessado-e-procurar-saber-mais/
 site: ComUM
-description: Representada por um “Coelhinho de Olhos Vermelhos e Pelo Branquinho”, a Azeituna, é uma das três tunas masculinas sediadas no Campus de Gualtar.
+description: |
+  Representada por um “Coelhinho de Olhos Vermelhos e Pelo Branquinho”, a Azeituna, é uma das três tunas masculinas sediadas no Campus de Gualtar.
 tags: cultura, Azeituna, tuna, Grupos Culturais
 type: article
 ---
@@ -38,4 +39,3 @@ Se na pandemia os ensaios foram suspensos, com o levantamento das restrições a
 Esta paixão e alegria é, para além dos ensaios, transportada para os concertos. A interação com quem os assiste é constante e a sua ligação com o público é vista como algo essencial e, ao mesmo tempo, inevitável. O entrevistado não esconde o verdadeiro fator para um bom espetáculo, afirmando que “uma atuação só é boa se o público gostar, ficar interessado e procurar saber mais”.
 
 Frederico Sequeira aconselha todos os estudantes da Universidade do Minho a terem a experiência de viver um ensaio com a Azeituna, que decorrem todas as segundas e quintas às 21h30 no Bar Académico. Além disso sugere que procurem conhecer outros grupos culturais pois “é bom promover a cultura da UMinho acima de tudo”.
-

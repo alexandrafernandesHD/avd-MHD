@@ -1,11 +1,12 @@
 ---
-date: 23Mar2023
+date: 2023/03/23
 author: Joana Oliveira
 image: https://www.comumonline.com/wp-content/uploads/2023/03/7-1500x1000.jpg
 title: Estudantes em luta por melhores condições no ensino superior
 url: https://www.comumonline.com/2023/03/estudantes-em-luta-por-melhores-condicoes-no-ensino-superior/
 site: ComUM
-description: “A luta não se faz num só dia e não só com uma ação. Acreditamos que é assim que o governo vai finalmente ouvir que os estudantes não estão contentes”.
+description: |
+  “A luta não se faz num só dia e não só com uma ação. Acreditamos que é assim que o governo vai finalmente ouvir que os estudantes não estão contentes”.
 tags: Universidade do Minho, propinas, Estudantes, alojamento estudantil, Luta, Derrubar barreiras
 type: article
 ---
@@ -28,4 +29,3 @@ O atual valor da propina é um dos problemas mais criticados pelo grupo de manif
 “Podiam estar mais estudantes, mas é preciso valorizar os que estão aqui, ainda por cima num dia de chuva”. A aluna de Línguas e Literaturas Europeias desvalorizou a falta de adesão e reiterou a importância de os estudantes se organizarem e mobilizarem. “A luta não se faz num só dia e não só com uma ação. Acreditamos que é assim que o governo vai finalmente ouvir que os estudantes não estão contentes”.
 
 No Campus de Azurém, também decorreu uma manifestação, agendada para as 16h00.
-

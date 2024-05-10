@@ -1,11 +1,12 @@
 ---
-date: 12Abr2022
+date: 2022/04/12
 author: Nuno Diogo Pereira
-image: https://www.comumonline.com/wp-content/uploads/2022/04/Captura-de-ecrã-2022-04-12-às-19.52.42.png
+image: https://www.comumonline.com/wp-content/uploads/2022/04/Captura-de-ecrã-2022-04-12-às-19.52.42.png
 title: Alunos de Engenharia e Gestão Industrial da UMinho competem na final da TIMES
 url: https://www.comumonline.com/2022/04/alunos-de-engenharia-e-gestao-industrial-da-uminho-competem-na-final-da-times/
 site: ComUM
-description: É a segunda vez na história da Tournament in Mangement and Engineering Skills (TIMES) que alunos da academia minhota chegam à final.
+description: |
+  É a segunda vez na história da Tournament in Mangement and Engineering Skills (TIMES) que alunos da academia minhota chegam à final.
 tags: UMinho, Engenharia e Gestão Industrial, ESTIEM - European Students of Industrial Engineering Management, TIMES
 type: article
 ---
@@ -28,4 +29,3 @@ São dadas aos participantes cerca de quatro horas para resolver um caso de estu
 Miguel Paula não descarta a possibilidade de vencerem a prova, mas aponta um bom desempenho como o principal objetivo da equipa. “Fazer um bom trabalho, sempre a pensar na possibilidade de podermos fazer um pódio ou quiçá ganhar, mas acima de tudo, mostrar que somos bons e competentes”, conclui.
 
 Catarina, David, Miguel e Rafael não estão sozinhos na missão de representar Portugal. Aos estudantes da UMinho junta-se uma equipa que representa a Universidade de Aveiro.
-

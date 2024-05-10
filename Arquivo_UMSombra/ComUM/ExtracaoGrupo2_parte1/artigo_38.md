@@ -1,11 +1,12 @@
 ---
-date: 27Nov2021
+date: 2021/11/27
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2021/11/nadine-shaabana-DRzYMtae-vA-unsplash-1500x1000.jpg
 title: Assédio na UMinho. “É assédio disfarçado de elogios”
 url: https://www.comumonline.com/2021/11/assedio-na-uminho-e-assedio-disfarcado-de-elogios/
 site: ComUM
-description: Com a reportagem de Maria* a percorrer as redes sociais, o debate sobre assédio está a ser novamente abordado. Rita* decidiu falar sobre a sua experiência.
+description: |
+  Com a reportagem de Maria* a percorrer as redes sociais, o debate sobre assédio está a ser novamente abordado. Rita* decidiu falar sobre a sua experiência.
 tags: UMinho, denúncias, AAUMinho, Assédio, atos de assédio
 type: article
 ---
@@ -38,4 +39,3 @@ Relativamente a queixas dentro do campus da Universidade do Minho, a reitoria pu
 *nome fictício
 
 Artigo por: Inês Batista e Maria Carvalho
-

@@ -1,5 +1,5 @@
 ---
-date: 06Nov2016
+date: 2016/11/06
 author: Ana Patricia Magalhaes
 image: https://www.comumonline.com/wp-content/uploads/2016/11/17920.jpg
 title: Aluno da UMinho distinguido com Prémio de Excelência e Coragem
@@ -19,7 +19,7 @@ type: article
 
 Fernando Mendes, aluno de Mestrado de Engenharia Informática da Universidade do Minho, foi distinguido com o Prémio de Excelência e Coragem pela Feedzai. A distinção foi entregue no evento Pixel Camp, que decorreu de seis a oito de outubro, em Lisboa.
 
-A empresa Feedzai atribui pela primeira vez o prémio que consiste no valor de um ano de propinas. Com o galardão, a empresa de machine learning (área da inteligência artificial) e big-data (grande armazenamento de dados) pretende valorizar e recompensar os estudantes de informática  envolvidos em projetos de relevo ou que, de certa forma, contribuam para a indústria de open-source.
+A empresa Feedzai atribui pela primeira vez o prémio que consiste no valor de um ano de propinas. Com o galardão, a empresa de machine learning (área da inteligência artificial) e big-data (grande armazenamento de dados) pretende valorizar e recompensar os estudantes de informática  envolvidos em projetos de relevo ou que, de certa forma, contribuam para a indústria de open-source.
 
 Em entrevista ao ComUM, Fernando Mendes, aluno distinguido, explica que para participar no evento e para concorrer ao prémio da Feedzai é necessário desenvolver trabalho em prol da comunidade de programação. “É algo que gosto de fazer quando tenho tempo livre”, acrescenta.
 
@@ -28,6 +28,3 @@ Para participar contam elementos como a biografia, o pitch escrito e os trabalho
 O estudante da UMinho afirma que vê o prémio como uma recompensa pelo esforço que fez no passado, confessando que não sabe que oportunidades poderão surgir no futuro.
 
 Para além de Fernando Mendes, a Feedzai distingui Catarina Maçãs, aluna do Programa Doutoral em Ciências e Tecnologias da Informação da Universidade de Coimbra.
-
- 
-

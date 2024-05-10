@@ -1,11 +1,12 @@
 ---
-date: 05Fev2021
+date: 2021/02/05
 author: Oliwia Sledak
 image: https://www.comumonline.com/wp-content/uploads/2021/02/IMG-20210205-WA0005-e1612556215450.jpg
 title: Beautiful memories for a whole lifetime
 url: https://www.comumonline.com/2021/02/erasmus-chronicles-beautiful-memories-for-a-whole-lifetime/
 site: ComUM
-description: Oliwia é uma estudante Erasmus da Polónia. Este semestre, escolheu Portugal como o local para o Erasmus e revela que foi uma escolha incrível.
+description: |
+  Oliwia é uma estudante Erasmus da Polónia. Este semestre, escolheu Portugal como o local para o Erasmus e revela que foi uma escolha incrível.
 tags: Guimarães, Braga, Erasmus, Portugal, ESN Minho, Erasmus Chronicles
 type: article
 ---
@@ -23,11 +24,11 @@ I lived in Guimarães, the city where “Portugal was born”. History says that
 
 Guimarães isn’t such a big city like Lisbon or Porto. However, its size makes it a friendly and cozy city, where people know each other really well. Portuguese people are very friendly, helpful and have a smile on faces all the time. I really like their positive vibes.
 
-I have almost finished my Erasmus+ project and I can say it was such a good experience. It has affected me in a lot of positive ways. First of all, I got to improve my English. This is because I had to communicate with people using another language than my native language. I used English to do my work, presentations and speeches for studies and to talk with other Erasmus students. Besides, I got to learn a new language. English isn’t the only language I got to improve, I got to learn some Portuguese! The new friends I made helped me learn new words and sentences that were very useful in my everyday life. 
+I have almost finished my Erasmus+ project and I can say it was such a good experience. It has affected me in a lot of positive ways. First of all, I got to improve my English. This is because I had to communicate with people using another language than my native language. I used English to do my work, presentations and speeches for studies and to talk with other Erasmus students. Besides, I got to learn a new language. English isn’t the only language I got to improve, I got to learn some Portuguese! The new friends I made helped me learn new words and sentences that were very useful in my everyday life. 
 
-On another hand, I got to meet new interesting people. I met a ton of new people, not only from Portugal but also other Erasmus students from around the world. We met Italians, Swiss, Polish, Greeks, Brasilians, Lebanese and we had such a great time together! We organized dinners together and cooked typical dishes for each country and played a lot of board/cards games. We also shared many customs and traditions from our countries, it was a fun way to gain knowledge of each other. I even lived with one of the Italians, and he is such a good flatmate. I can say it’s absolutely true that Italian are true pasta lovers! 
+On another hand, I got to meet new interesting people. I met a ton of new people, not only from Portugal but also other Erasmus students from around the world. We met Italians, Swiss, Polish, Greeks, Brasilians, Lebanese and we had such a great time together! We organized dinners together and cooked typical dishes for each country and played a lot of board/cards games. We also shared many customs and traditions from our countries, it was a fun way to gain knowledge of each other. I even lived with one of the Italians, and he is such a good flatmate. I can say it’s absolutely true that Italian are true pasta lovers! 
 
-Moreover, I got to visit a new country – it’s an obvious consequence of going to Erasmus! It gives an opportunity to go sightseeing in a new country! It’s incredible for travelling lovers. You can visit many beautiful historical and natural places, heritages, attractions, try new foods, learn about a new culture, traditions, customs and even make friendships. 
+Moreover, I got to visit a new country – it’s an obvious consequence of going to Erasmus! It gives an opportunity to go sightseeing in a new country! It’s incredible for travelling lovers. You can visit many beautiful historical and natural places, heritages, attractions, try new foods, learn about a new culture, traditions, customs and even make friendships. 
 
 And last but not least, it taught me how to be independent, because no one is next to you and you need to take care of everything yourself. You need to take care of booking a flight, find a place to live – renting a room/flat or live in a dormitory, passing tests and presentations, doing all the shopping and cooking, cleaning your flat … All these are things you have to do by yourself.
 
@@ -48,4 +49,3 @@ Além disso, pude visitar um novo país – é uma consequência óbvia do Erasm
 Por fim, esta experiência ensinou-me a ser independente, porque não está lá ninguém contigo e tens de tratar de tudo sozinho. Tens de tratar dos voos, de encontrar um local para morar – alugar um quarto/apartamento ou viver numa residência, passar a testes e apresentações, fazer todas as compras, cozinhar, arrumar… Tens de fazer tudo isso sozinho.
 
 Estou muito feliz por ter participado neste projeto. Foi uma fonte de experiências e memórias bonitas que vão ficar para a vida toda. Recomendo isto a qualquer pessoa.
-

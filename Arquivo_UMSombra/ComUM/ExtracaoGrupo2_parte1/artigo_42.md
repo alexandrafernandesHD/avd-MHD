@@ -1,11 +1,12 @@
 ---
-date: 18Mai2022
+date: 2022/05/18
 author: Francisco Silva
 image: https://www.comumonline.com/wp-content/uploads/2022/05/necont-n.jpg
 title: Associativismo Académico. Uma perspetiva de futuro
 url: https://www.comumonline.com/2022/05/associativismo-academico-uma-perspetiva-de-futuro/
 site: ComUM
-description: O associativismo é um dos principais complementos ao processo curricular dos estudantes, que procuram um meio para desenvolverem competências.
+description: |
+  O associativismo é um dos principais complementos ao processo curricular dos estudantes, que procuram um meio para desenvolverem competências.
 tags: Universidade do Minho, Opinião, Núcleos, associativismo, Mercado de Trabalho, Necont, Organizações
 type: article
 ---
@@ -34,4 +35,3 @@ Este padrão é problemático e a sua simples solução parece continuamente ser
 Esta mudança é indubitavelmente vista na atualidade como um risco para algumas associações, que parecem recear perder o seu protagonismo. Apesar de isso ser uma perspetiva válida, considero que seja mais importante pensarmos no futuro. Não apenas de uma forma singular, mas com um objetivo comum e que contribua para o combate ao ceticismo e desinformação por parte dos jovens. Os métodos mais eficientes para tal são, na minha ótica, a canalização da informação e da oferta, de uma forma pensada e comedida e tentando contrariar a saturação dos jovens e das empresas.
 
 Tal como é de conhecimento geral, nós somos o futuro e teremos sempre de lutar contra as adversidades provenientes dos ceticismos do mercado para com as competências dos jovens. No entanto, é incompreensível travarmos batalhas de duas frentes e continuamente vermos sabotado o movimento que é a alma e a voz dos jovens do nosso país.
-

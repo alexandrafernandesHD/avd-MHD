@@ -1,11 +1,12 @@
 ---
-date: 23Abr2022
+date: 2022/04/23
 author: Filipe Dias
 image: https://www.comumonline.com/wp-content/uploads/2022/04/AEEUM-FD.jpg
 title: A realidade (des)conhecida do curso de Enfermagem
 url: https://www.comumonline.com/2022/04/a-realidade-desconhecida-do-curso-de-enfermagem/
 site: ComUM
-description: Quando me encontrava no 12º ano, candidatei-me a Enfermagem pela conexão que somos capazes de estabelecer com as pessoas e pela influência que desempenhamos.
+description: |
+  Quando me encontrava no 12º ano, candidatei-me a Enfermagem pela conexão que somos capazes de estabelecer com as pessoas e pela influência que desempenhamos.
 tags: Universidade do Minho, UMinho, Enfermagem, Estudantes, Opinião, Núcleos, Curso, AEEUM
 type: article
 ---
@@ -25,9 +26,8 @@ Numa utopia, iríamos estagiar todos próximos das nossas casas ou cidades, de m
 
 Portanto, por exemplo, um colega que seja de Valença e que esteja a pagar alojamento em Braga, vê-se forçado a estagiar em locais, como Mondim de Basto, ou Amarante, ou Penafiel ou até Resende. Ou seja, além dos gastos associados ao alojamento e transporte para casa aos fins de semanas, os estudantes vêm-se forçados a enfrentar essas despesas extra. E, não, infelizmente nenhum dos nossos “estágios” é remunerado e, se não fizermos o “estágio”, não completamos o curso.
 
-Deste modo, se fizermos aqui um exercício de cálculo, são 200 euros, mais despesas para o alojamento em Braga e os mensais 69,70 euros de propina. Além disso, se forem para locais mais deslocados, como Mondim ou Resende, a maneira mais económica é ficarem lá alojados – porque é raro terem transportes que satisfaçam as suas necessidades de deslocação  e irem de carro, sobretudo nesta época em que os preços dos combustíveis dispararam, acaba por não compensar. Portanto, são mais 12,5 euros por noite, quatro dias da semanas, durante quatro semanas. Isto dá um total de 200 euros, fora ainda o valor do bilhete dos transportes para regressar a casa. Totalizando, deparamo-nos com um valor aproximado de 500 euros mensal. É assustador e assoberbante para muitos colegas.
+Deste modo, se fizermos aqui um exercício de cálculo, são 200 euros, mais despesas para o alojamento em Braga e os mensais 69,70 euros de propina. Além disso, se forem para locais mais deslocados, como Mondim ou Resende, a maneira mais económica é ficarem lá alojados – porque é raro terem transportes que satisfaçam as suas necessidades de deslocação  e irem de carro, sobretudo nesta época em que os preços dos combustíveis dispararam, acaba por não compensar. Portanto, são mais 12,5 euros por noite, quatro dias da semanas, durante quatro semanas. Isto dá um total de 200 euros, fora ainda o valor do bilhete dos transportes para regressar a casa. Totalizando, deparamo-nos com um valor aproximado de 500 euros mensal. É assustador e assoberbante para muitos colegas.
 
 O conjunto das situações acima descritas, são a realidade para muitos de nós. Os tempos difíceis que atravessamos afetaram centenas de famílias que veem as suas economias fragilizadas. É uma dificuldade sentida por todos nós, estudantes de enfermagem, que por vezes sentimos que estamos a pagar dois cursos e que pouca ou nenhuma ajuda temos em relação a isso. A nossa Escola não tem a capacidade para auxiliar nas despesas e a reitoria esquece-se da nossa existência, quando prometeu ajuda que nunca chegou.
 
 Como alguém muito querido outrora me disse: “ser enfermeiro, é estar presente, mesmo quando se está ausente. É a palavra dita à pessoa certa, na hora certa. É reparar em tudo e em mais alguma coisa, é reparar naquilo que mais ninguém se apercebe. É agir sem hesitar, estender a mão mesmo antes de a pedirem, é querer o melhor, dedicar-se à saúde e respeitar a vida”. Ser estudante é ambicionar por tudo isto. É querer ser mais, fazer mais, acrescentar um pouco de nós em tudo o que fazemos e é por isso que aqui estamos. Convicto de que decisões possam ser tomadas em prol dos alunos, reitero algo que disse aquando da minha tomada posse, “invistam um pouco na nossa formação, para que, amanhã, nós possamos investir na saúde dos vossos”.
-

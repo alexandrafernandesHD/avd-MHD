@@ -1,11 +1,12 @@
 ---
-date: 04Dez2023
+date: 2023/12/04
 author: Joana Antunes
 image: https://www.comumonline.com/wp-content/uploads/2023/12/IMG_8422-1500x1000.jpg
-title: Gabriel Castro: “É importante que todos tenham voz na Reunião Geral de Alunos”
+title: Gabriel Castro -- “É importante que todos tenham voz na Reunião Geral de Alunos”
 url: https://www.comumonline.com/2023/12/gabriel-castro-e-importante-que-todos-tenham-voz-na-reuniao-geral-de-alunos/
 site: ComUM
-description: O estudante do primeiro ano da licenciatura em Direito candidata-se à Mesa de RGA pela lista V com o mote “Todos têm voz”.
+description: |
+  O estudante do primeiro ano da licenciatura em Direito candidata-se à Mesa de RGA pela lista V com o mote “Todos têm voz”.
 tags: eleições AAUM, AAUMinho, eleições AAUM 2023
 type: article
 ---
@@ -46,4 +47,3 @@ Gabriel Castro – Eu acho que não só pela questão dos cartazes que já estã
 ComUM – Tens alguma mensagem que queiras deixar à academia?
 
 Isso é algo que eu repito muito, mas eu justamente repito muito porque se verifica muito. Eu acho que a mensagem que eu deixaria aqui seria que se você estudante e sente que a sua vida está piorando, que é um facto aqui entre muitos estudantes, a grande maioria, sente que as condições de vida dos pares entre vocês estão em degradação, era mostrar que tem gente disposta, gente do primeiro ano, disposta a mudar o rumo em que a universidade está seguindo atualmente, que a gente vê como insuficiente. Gente que está disposta a promover uma maior inclusão do meio estudantil e que saibam onde podem falar dos seus problemas sem que os estudantes fiquem desmoralizados. Que tenham coragem de ir à reunião geral de alunos e que vejam que tenham gente que tem coragem de reunir eles e botar eles lá, mobilizar eles para lá. É essencialmente essa questão que a gente foca, a questão de não deixar que os estudantes se sintam excluídos, se sintam desmoralizados. Que eles sejam incluídos nesses meios tão importantes à Universidade do Minho.
-

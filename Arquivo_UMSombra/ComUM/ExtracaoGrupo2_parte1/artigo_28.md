@@ -1,5 +1,5 @@
 ---
-date: 05Mar2016
+date: 2016/03/05
 author: Hélio Carvalho
 image: https://www.comumonline.com/wp-content/uploads/2016/01/20140430630773153750-1500x994.jpg
 title: Alunos da UMinho juntos com Hospital de Braga em voluntariado
@@ -21,7 +21,6 @@ Na cerimónia que celebrou o acordo entre a universidade e o centro hospitalar, 
 
 Marta Campos, directora do Departamento Social da associação académica, sublinhou a importância que este acordo poderá ter na formação dos estudantes. “É um acordo em que o Hospital disponibiliza uma formação em voluntariado a todos os estudantes que sejam aceites no programa”, disse ao nosso jornal, destacando ainda o facto de o serviço fornecer uma instrução em suporte básico de vida.
 
-Ainda em declarações ao ComUM, Marta Campos esclareceu que o papel da AAUM será de “informar todos os alunos sobre o programa, e promover acções de divulgação sobre o voluntariado no hospital”. Disse ainda que não há um número esperado de candidatos ao programa, mas que foi estabelecido que de todos os candidatos, 100 alunos serão escolhidos pela AAUM na primeira entrevista, sendo que caberá ao hospital escolher os 50 melhores candidatos.
+Ainda em declarações ao ComUM, Marta Campos esclareceu que o papel da AAUM será de “informar todos os alunos sobre o programa, e promover acções de divulgação sobre o voluntariado no hospital”. Disse ainda que não há um número esperado de candidatos ao programa, mas que foi estabelecido que de todos os candidatos, 100 alunos serão escolhidos pela AAUM na primeira entrevista, sendo que caberá ao hospital escolher os 50 melhores candidatos.
 
 As inscrições para o programa estão abertas desde quinta-feira, dia 3, e prolongam-se até dia 9 de Março. A escolha dos candidatos será dividida em duas entrevistas, e o formulário para a inscrição está disponível no Gabinete de Apoio ao Aluno dos campi de Gualtar e Azurém.
-

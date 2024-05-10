@@ -1,11 +1,12 @@
 ---
-date: 30Set2019
+date: 2019/09/30
 author: Gabriel Ribeiro
 image: https://www.comumonline.com/wp-content/uploads/2017/10/CarlaGoncalvesHugoPereira_SerenatasVelhas18-1500x1000.jpg
 title: AAUM escolhe Afonsina para atuar nas Serenatas Velhas
 url: https://www.comumonline.com/2019/09/aaum-escolhe-afonsina-para-atuar-nas-serenatas-velhas/
 site: ComUM
-description: Depois da recusa do GFSUM em atuar na noite das serenatas, em maio deste ano, também as Serenatas Velhas não vão contar com este grupo cultural.
+description: |
+  Depois da recusa do GFSUM em atuar na noite das serenatas, em maio deste ano, também as Serenatas Velhas não vão contar com este grupo cultural.
 tags: Guimarães, Receção ao Caloiro, AAUM, Afonsina, Serenatas velhas, Associação Académica da Universidade do Minho, Grupo de Fados e Serenatas da Universidade do Minho, GFSUM, Tuna de Engenharia da Universidade do Minho
 type: article
 ---
@@ -32,4 +33,3 @@ Sobre a escolha da Afonsina, o presidente da AAUM confessou ao ComUM que, em ple
 Para as Serenatas Velhas, não está marcada uma serenata alternativa, como aconteceu em maio. Contudo, em relação ao próximo ano, Pedro Paredes diz que “fica prometido que, se não for um grupo de fados a Braga, o GFSUM irá fazer a serenata alternativa no Rossio da Sé”. Já Nuno Reis espera que, no futuro, “os grupos consigam encontrar uma solução ainda mais agradável” do que aquelas que têm sido adotadas.
 
 As Serenatas Velhas acontecem na noite desta terça-feira, dia 1 de outubro, com um cortejo pelas ruas do centro histórico da cidade vimaranense, voltando ao mesmo local para dar início à serenata.
-

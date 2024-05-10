@@ -1,11 +1,12 @@
 ---
-date: 10Ago2020
+date: 2020/08/10
 author: Mariana Guerreiro
 image: https://www.comumonline.com/wp-content/uploads/2017/11/IMG_3327-T55-1500x1000.jpg
 title: Escola de Medicina da UMinho apresenta novo plano de estudos
 url: https://www.comumonline.com/2020/08/escola-de-medicina-apresenta-novo-plano-de-estudos/
 site: ComUM
-description: O novo plano de estudos MinhoMD será implementado na Escola de Medicina da UMinho já no próximo ano letivo, com data de arranque marcada para 6 de outubro.
+description: |
+  O novo plano de estudos MinhoMD será implementado na Escola de Medicina da UMinho já no próximo ano letivo, com data de arranque marcada para 6 de outubro.
 tags: Universidade do Minho, Escola de Medicina da Universidade do Minho, MinhoMD, João Araújo Cerqueira, novo plano de estudos
 type: article
 ---
@@ -24,4 +25,3 @@ O MinhoMD é um currículo único em Portugal, uma vez que está “alinhado com
 Para além da liberdade e flexibilidade que cada aluno vai ter para realizar o seu percurso, será ainda atribuído um ano inteiro opcional. Neste plano de estudos, o estudante deve construir conhecimento noutras áreas que podem não estar relacionadas com a Medicina ou a Saúde.
 
 João Araújo Cerqueira, diretor do curso, menciona ao Diário do Minho que “além de ser muito mais relevante para a prática médica futura”, esta abordagem é “muito mais próxima do modo como é realizado atualmente o exame de acesso às especialidades médicas”. Conclui ainda que a mudança é necessária, senão a Escola não acompanha as necessidades das pessoas. A missão é “servir as pessoas”.
-

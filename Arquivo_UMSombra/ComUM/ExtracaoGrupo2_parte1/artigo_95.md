@@ -1,11 +1,12 @@
 ---
-date: 04Set2021
+date: 2021/09/04
 author: Maria de Pinto Freitas
 image: https://www.comumonline.com/wp-content/uploads/2021/09/filipa_altaresolucao-3.jpg
-title: “Moldura”: a infância cantada de Filipa Torres
+title: “Moldura” -- a infância cantada de Filipa Torres
 url: https://www.comumonline.com/2021/09/filipa-torres-um-momento-gratificante-e-transformador-nunca-pensei-estar-aqui/
 site: ComUM
-description: No dia 26 de agosto, a artista lançou o seu primeiro álbum, “Moldura” que promete ao público um cenário de introspeção e regresso à infância.
+description: |
+  No dia 26 de agosto, a artista lançou o seu primeiro álbum, “Moldura” que promete ao público um cenário de introspeção e regresso à infância.
 tags: entrevista, Daniel Pereira Cristo, Tun'Obebes, Música portuguesa, Filipa Torres
 type: article
 ---
@@ -32,4 +33,3 @@ Cada música foi escrita durante o primeiro confinamento, que a cantora refere c
 Filipa Torres explica que o motivo da escolha da música “Moldura” como título do álbum foi o facto desta melhor se enquadrar consigo e com o projeto em si. “Espelha a minha essência e o que pretendo transmitir com a minha música!”, explica. A artista deixa também um apelo aos artistas, que sonham guardar um lugar no mundo da música, para nunca deixarem de acreditar. Defende que devemos “acreditar no poder da nossa mente, acreditar nas nossas ideias e naquilo que temos para dizer!”
 
 O projeto teve Daniel Pereira Cristo como mentor e produtor, os amigos como músicos e fotógrafos, a irmã a tocar violoncelo e ainda a participação da Tun’Obebes. Desta forma, Filipa Torres nunca se sentiu sozinha durante todo o processo de dar a conhecer ao público o seu talento. “Ficou um projeto tão delicado, tão subtil e com muita emoção”, reflete.
-

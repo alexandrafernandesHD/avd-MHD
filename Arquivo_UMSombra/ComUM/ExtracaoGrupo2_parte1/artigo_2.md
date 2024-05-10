@@ -1,11 +1,12 @@
 ---
-date: 17Set2023
+date: 2023/09/17
 author: Joana Antunes
 image: https://www.comumonline.com/wp-content/uploads/2022/10/Jose-Costa_Universidade-do-Minho_42-1500x1000.jpg
 title: 350 novos alunos colocados na UMinho na segunda fase
 url: https://www.comumonline.com/2023/09/350-novos-alunos-colocados-na-uminho-na-segunda-fase/
 site: ComUM
-description: Os resultados da segunda fase do concurso nacional ao ensino superior foram divulgados este domingo. 85% das vagas disponíveis na UMinho foram preenchidas.
+description: |
+  Os resultados da segunda fase do concurso nacional ao ensino superior foram divulgados este domingo. 85% das vagas disponíveis na UMinho foram preenchidas.
 tags: UMinho, Segunda fase do concurso nacional de acesso ao ensino superior
 type: article
 ---
@@ -26,4 +27,3 @@ Já Engenharia e Gestão de Sistemas de Informação foi o curso que registou a 
 Dos quase 60 cursos da UMinho, apenas seis não esgotaram as vagas disponíveis. Depois de Engenharia e Gestão de Sistemas de Informação, aquele que dispõe do maior número de lugares sobrantes é Engenharia Têxtil (13). Por sua vez, os cursos de Química e Engenharia de Polímeros contam com oito vagas. Engenharia de Telecomunicações e Informática (5) e Optometria e Ciências da Visão (4) são os restantes cursos da lista.
 
 Os colocados devem realizar a respetiva matrícula na UMinho entre hoje, dia 17, e terça-feira, dia 19. As candidaturas à terceira fase arrancam dia 22 e terminam a 25 deste mês.
-

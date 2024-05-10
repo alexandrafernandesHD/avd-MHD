@@ -1,11 +1,12 @@
 ---
-date: 29Nov2023
+date: 2023/11/29
 author: Ana Beatriz Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2023/11/IMG_8410-1500x1000.jpg
 title: Candidatos à direção da AAUMinho discutem diversos temas em debate
 url: https://www.comumonline.com/2023/11/candidatos-a-direcao-da-aauminho-discutem-diversos-temas-em-debate/
 site: ComUM
-description: Esta quarta-feira, a RUM organizou um debate entre os dois candidatos à direção da AAUMinho, Luís Pereira, da lista H, e Margarida Isaías, da lista A.
+description: |
+  Esta quarta-feira, a RUM organizou um debate entre os dois candidatos à direção da AAUMinho, Luís Pereira, da lista H, e Margarida Isaías, da lista A.
 tags: Debate AAUM, AAUMinho, candidatura à direção, Eleições AAUMinho 2023
 type: article
 ---
@@ -41,7 +42,7 @@ Aumento dos preços implementado pelos SASUM (Serviços de Ação Social da Univ
 
 Margarida Isaías destaca uma falta de financiamento nos serviços sociais e um “retrocesso” neste aumento dos preços. Pede uma análise do impacto deste aumento na comunidade estudantil e refere que se observa uma redução do número de estudantes na cantina, algo que considera “grave e preocupante”.
 
-O candidato da Lista H defende um aumento do número de microondas disponíveis e realça que pequenas medidas são insuficientes.  “O custo de vida está a aumentar” e Luís Pereira pede uma redução imediata destes preços, apelando às dificuldades dos estudantes. Margarida Isaías salientou ainda a necessidade de “mais espaços comuns” para que os alunos possam usufruir das suas refeições confortavelmente.
+O candidato da Lista H defende um aumento do número de microondas disponíveis e realça que pequenas medidas são insuficientes.  “O custo de vida está a aumentar” e Luís Pereira pede uma redução imediata destes preços, apelando às dificuldades dos estudantes. Margarida Isaías salientou ainda a necessidade de “mais espaços comuns” para que os alunos possam usufruir das suas refeições confortavelmente.
 
 Mobilidade
 
@@ -84,4 +85,3 @@ Saída da AAUMinho do ENDA
 Neste tema os candidatos divergiram naquilo que defendem quanto à saída da associação académica do ENDA, o Encontro Nacional de Direções Associativas. Luís Pereira salienta a quantidade de associações que aí participam e acredita não fazer sentido a saída da associação de um espaço onde pode dialogar e discutir, sendo isso aquilo que defende.
 
 O candidato da Lista H considera que não participar no ENDA traz uma perda de contacto e espaço de debate. Já Margarida Isaías considera esta saída uma reivindicação por parte da AAUMinho que tinha apenas um voto, representando “25% dos estudantes” e tendo um “peso de apenas 10%”. A candidata da Lista A realça que quando a associação saiu, saiu com “o compromisso de continuar a trabalhar com o movimento e os núcleos”, como é o caso do CAAP (Conselho de Associações Académicas Portuguesas). No entanto, considera o modelo do ENDA não promotor da discussão e mais benéfico para as universidades das duas grandes cidades, Lisboa e Porto.
-

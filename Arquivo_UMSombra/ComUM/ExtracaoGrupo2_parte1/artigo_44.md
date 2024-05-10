@@ -1,5 +1,5 @@
 ---
-date: 12Out2016
+date: 2016/10/12
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2016/10/IMG_7684-1500x1000.jpg
 title: Aumento das senhas. “Tenho a certeza que este aumento vai ser revertido”, garante presidente da AAUM
@@ -34,4 +34,3 @@ Nas declarações que prestou ao ComUM no mês passado, Bruno Alcaide referiu qu
 Pelo contrário, ao longo da reunião, referiu diversas vezes que os alunos “podem contar com a palavra da Associação”. “Tenho a certeza que, a muito breve prazo, esta situação será revertida”, garantiu. Bruno Alcaide adiantou ainda que será convocada para daqui a duas semanas uma Reunião Geral de Alunos para discutir este assunto.
 
 Texto: Catarina Pinheiro e Eduardo Miranda
-

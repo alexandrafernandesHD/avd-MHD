@@ -1,11 +1,12 @@
 ---
-date: 08Set2023
+date: 2023/09/08
 author: André Igreja
 image: https://www.comumonline.com/wp-content/uploads/2023/09/41460494125491c24473_base.jpg
 title: António Costa anuncia a devolução de propinas e outras medidas direcionadas para os jovens
 url: https://www.comumonline.com/2023/09/antonio-costa-anuncia-a-devolucao-de-propinas-e-outras-medidas-direcionadas-para-os-jovens/
 site: ComUM
-description: O primeiro-ministro António Costa avançou na quarta-feira que o Governo irá devolver as propinas pagas pelos estudantes no ensino superior público.
+description: |
+  O primeiro-ministro António Costa avançou na quarta-feira que o Governo irá devolver as propinas pagas pelos estudantes no ensino superior público.
 tags: ensino superior, António Costa, Proprinas
 type: article
 ---
@@ -24,10 +25,3 @@ Na rentrée do partido, que começou na noite de quarta-feira e decorre até dom
 O primeiro-ministro do governo da maioria socialista adiantou ainda que o acesso ao IRS Jovem vai sofrer alterações, salientando que “no primeiro ano em que as pessoas declaram o seu rendimento, o IRS será zero e haverá total isenção de IRS para que todos possam começar o início da sua vida”. No segundo ano, os beneficiários da iniciativa pagarão 25% do valor original do IRS, no terceiro e no quarto só pagarão metade e no quinto ano “pagarão 75% do imposto que teriam de pagar”.
 
 A partir de janeiro do próximo ano os passes de transporte passarão a ser gratuitos para as crianças e jovens até aos 23 anos, de acordo com a intervenção de António Costa. Perante dezenas de jovens, o chefe de Governo em funções desde 2015 concluiu reforçando o incentivo ao uso dos transportes públicos com a oferta de quatro bilhetes de viagem na CP e uma semana em pousadas de juventude através de um passe especial, assim como a aposta no consumo de cultura com a entrega de um “cheque-livro” a cada jovem que celebre 18 anos.
-
- 
-
- 
-
- 
-

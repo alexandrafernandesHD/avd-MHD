@@ -1,11 +1,12 @@
 ---
-date: 11Mai2023
+date: 2023/05/11
 author: Marta Rodrigues
 image: https://www.comumonline.com/wp-content/uploads/2023/05/Cortejo_MartaRodrigues5-1500x1000.jpg
 title: Cortejo 2023. O fechar de um ciclo [fotogaleria]
 url: https://www.comumonline.com/2023/05/cortejo-2023-o-fechar-de-um-ciclo-fotogaleria/
 site: ComUM
-description: Esta quarta-feira, dia 10 de maio, realizou-se o Cortejo Académico da Universidade do Minho, momento que para muitos marca o fim de um ciclo.
+description: |
+  Esta quarta-feira, dia 10 de maio, realizou-se o Cortejo Académico da Universidade do Minho, momento que para muitos marca o fim de um ciclo.
 tags: Universidade do Minho, Enterro da Gata, fotogaleria, 2023, Cortejo académico
 type: article
 ---
@@ -44,4 +45,3 @@ Marta Rodrigues | ComUM
 Marta Rodrigues | ComUM
 
 Marta Rodrigues | ComUM
-

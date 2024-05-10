@@ -1,11 +1,12 @@
 ---
-date: 20Ago2023
+date: 2023/08/20
 author: Mariana Lopes
 image: https://www.comumonline.com/wp-content/uploads/2023/08/Braga-residenciaAndy.png
 title: AAUMinho cria parceria com nova residência universitária
 url: https://www.comumonline.com/2023/08/associacao-academica-da-universidade-do-minho-cria-parceria-com-nova-residencia-universitaria/
 site: ComUM
-description: A Andy Student Living, nova residência universitária privada, oferece uma alternativa à progressiva diminuição da oferta de alojamento privado.
+description: |
+  A Andy Student Living, nova residência universitária privada, oferece uma alternativa à progressiva diminuição da oferta de alojamento privado.
 tags: place me, alojamento universitário, AAUMinho, Andy Student Living
 type: article
 ---
@@ -24,4 +25,3 @@ A nova residência privada apresenta um conceito diferenciador que pretende impa
 Através da Place Me- Mediação Imobiliário, parceiro da AAUMinho, o protocolo de cooperação permite aumentar a oferta da esfera privada significativamente, com 294 quartos. Assim pretende-se garantir soluções de alojamento privado à comunidade académica.
 
 Está localizado a cinco minutos a pé do Campus de Gualtar da Universidade do Minho, o Andy Student Living e a Place Me dão as boas-vindas aos novos residentes com um presente no valor de 30€ em serviços Andy. Para beneficiar deste serviço basta escrever “VOUCHER PLACE ME” antes do nome próprio no momento da reserva no site.
-

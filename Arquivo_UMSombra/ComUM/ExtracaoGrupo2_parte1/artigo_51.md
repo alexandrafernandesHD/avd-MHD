@@ -1,11 +1,12 @@
 ---
-date: 03Dez2023
+date: 2023/12/03
 author: Mariana Lopes
 image: https://www.comumonline.com/wp-content/uploads/2023/12/Captura-de-ecra-2023-11-30-164346.png
-title: Cláudia Matos: “é na proximidade com os alunos que o CFJ defende os seus interesses”
+title: Cláudia Matos -- “é na proximidade com os alunos que o CFJ defende os seus interesses”
 url: https://www.comumonline.com/2023/12/claudia-matos-e-na-proximidade-com-os-alunos-que-o-cfj-defende-os-seus-interesses/
 site: ComUM
-description: As eleições para a AAUMinho decorrem na próxima quarta-feira, dia 6 de dezembro. Cláudia Matos candidata-se ao Conselho Fiscal e Jurisdicional (CFJ),
+description: |
+  As eleições para a AAUMinho decorrem na próxima quarta-feira, dia 6 de dezembro. Cláudia Matos candidata-se ao Conselho Fiscal e Jurisdicional (CFJ),
 tags: Conselho Fiscal e Jurisdicional, AAUMinho, Eleições AAUMinho 2023
 type: article
 ---
@@ -19,7 +20,7 @@ type: article
 
 As eleições para a Associação Académica da Universidade do Minho (AAUMinho) decorrem na próxima quarta-feira, dia 6 de dezembro, através da plataforma e-votum. Cláudia Matos candidata-se ao Conselho Fiscal e Jurisdicional (CFJ), representando a Lista T. Em entrevista ao ComUM, a estudante de sociologia realça a importância da transparência dos assuntos do CFJ e da proximidade que este órgão deve ter com os alunos da academia minhota.
 
- 
+
 
 ComUM – Primeiramente, gostávamos de saber o que motivou a tua candidatura?
 
@@ -44,6 +45,3 @@ Cláudia Matos – Por exemplo, houve um debate na quarta-feira (29/11/2023), no
 ComUM – Para terminar, tens alguma mensagem que gostarias de deixar aos estudantes?
 
 Cláudia Matos – Eu acho que, independentemente de votarem na lista T, que obviamente é isso que eu pretendo, penso que os estudantes devem sim tentar informar-se relativamente àquilo que as listas promovem. Devem decidir em conformidade com qual é que eles se sentem mais representados e qual eles acham que melhor os representa. Votar naquela que irá defender aqueles que são os seus interesses, porque no fundo é assim que se assegura a democracia dentro da academia. É importante que os estudantes possam exercer o seu voto através da informação que nós disponibilizamos, no nosso caso com os manifestos, com os programas, com aquelas que são as nossas ideias e com aquilo que pretendemos desenvolver.
-
- 
-

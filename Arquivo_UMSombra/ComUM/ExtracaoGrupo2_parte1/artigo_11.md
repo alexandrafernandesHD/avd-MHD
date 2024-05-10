@@ -1,11 +1,12 @@
 ---
-date: 05Set2019
+date: 2019/09/05
 author: Mariana Pinto Fernandes
 image: https://www.comumonline.com/wp-content/uploads/2017/10/AAUM_AnaMariaDinis07-1500x1000.jpg
 title: AAUM declara Ação Social em Estado de Emergência
 url: https://www.comumonline.com/2019/09/aaum-declara-acao-social-em-estado-de-emergencia/
 site: ComUM
-description: A Associação Académica da academia minhota critica a “falta de planeamento dos governos” e os aumentos sucessivos dos custos indiretos no Ensino Superior.
+description: |
+  A Associação Académica da academia minhota critica a “falta de planeamento dos governos” e os aumentos sucessivos dos custos indiretos no Ensino Superior.
 tags: AAUM, Associação Académica da Universidade do Minho, Alojamento, senhas da cantina, Ação Social Escolar no Ensino Superior
 type: article
 ---
@@ -26,4 +27,3 @@ Para além disso, o valor da senha de refeição individual aumentou para 2,70�
 A Associação Académica da Universidade do Minho discorda destes aumentos. Visto que o valor das propinas foi reduzido, “não é justo” que em situações como a habitação e a alimentação, os estudantes e as famílias sejam “consistentemente chamados a contribuir indiretamente pela falta de compromisso do Estado para com a Ação Social Escolar no Ensino Superior”.
 
 Na próxima segunda-feira, a AAUM vai debater o problema do alojamento estudantil. A conferência de imprensa vai decorrer junto à Estátua do Prometeu, no Campus de Gualtar da Universidade do Minho, às 12h00.
-

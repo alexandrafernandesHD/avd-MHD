@@ -1,12 +1,13 @@
 ---
-date: 02Dez2022
+date: 2022/12/02
 author: Maria Francisca Barros
 image: https://www.comumonline.com/wp-content/uploads/2022/12/DanielaAmorim-1500x1000.jpg
 title: Daniela Amorim. “Estamos focados em princípios em concreto e não nos basilares que já costumam ser cumpridos”
 url: https://www.comumonline.com/2022/12/daniela-amorim-estamos-focados-em-principios-em-concreto-e-nao-nos-basilares-que-ja-costumam-ser-cumpridos/
 site: ComUM
-description: Daniela Amorim, estudante do 3º ano da licenciatura em Ciência Política, é candidata ao Conselho Fiscal e Jurisdicional (CFJ).
-tags: Universidade do Minho, Conselho Fiscal e Jurisdicional, Associação Académica da Universidade do Minho (AAUM), Daniela Amorim, Eleições AAUM 2022, Democratizar a Academia
+description: |
+  Daniela Amorim, estudante do 3º ano da licenciatura em Ciência Política, é candidata ao Conselho Fiscal e Jurisdicional (CFJ).
+tags: Universidade do Minho, Conselho Fiscal e Jurisdicional, Associação Académica da Universidade do Minho (AAUM), Daniela Amorim, Eleições AAUM 2022, Democratizar a Academia
 type: article
 ---
 
@@ -50,4 +51,3 @@ Daniela Amorim- Isso é um trabalho que deveria ser feito ao longo do ano, que t
 ComUM – Tens alguma mensagem que gostarias de deixar aos estudantes?
 
 Daniela Amorim- Que tentem conhecer as estruturas e conhecer o impacto que elas podem ter na sua vida estudantil. A partir daí a comunidade académica vai estar mais aberta ao que estes órgãos têm para oferecer e como podem melhorar a sua vida como estudantes e a sua participação associativa.
-

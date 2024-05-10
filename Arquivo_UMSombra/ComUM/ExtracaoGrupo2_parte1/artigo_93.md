@@ -1,11 +1,12 @@
 ---
-date: 22Jan2023
+date: 2023/01/22
 author: Mariana Lopes
 image: https://www.comumonline.com/wp-content/uploads/2023/01/alojamento.jpg
 title: Falta de condições nas residências da UMinho leva a encerramento de quartos
 url: https://www.comumonline.com/2023/01/falta-de-condicoes-nas-residencias-da-uminho-leva-a-encerramento-de-quartos/
 site: ComUM
-description: A falta de condições nas residências da UMinho parecem estar a agravar-se. Duarte Lopes mostra-se preocupado com a situação.
+description: |
+  A falta de condições nas residências da UMinho parecem estar a agravar-se. Duarte Lopes mostra-se preocupado com a situação.
 tags: Universidade do Minho, Guimarães, Braga, SASUM, Associação Académica da Universidade do Minho, Rui Vieira de Castro, Residências Universitárias, Residência Carlos Lloyd, Santa Tecla, falta de condições, Combatentes, Duarte Lopes, Plano de Atividades dos SASUM, Residência Azurém
 type: article
 ---
@@ -30,4 +31,3 @@ No Plano de Atividades dos SASUM para 2023 é traçado como objetivo a requalifi
 Em Braga, na residência Santa Tecla, pretende-se dar atenção à remodelação, ampliação de espaços e substituição dos equipamentos e objetos. Na residência Carlos LIoyd prioriza-se a modernização, aumento e reformulação dos compartimentos.
 
 Em Guimarães, na residência de Azurém o plano passa pela implementação de uma cozinha e remodelação das salas de estudo e de informática. Na residência dos Combatentes, os SASUM assumem que é preciso “reparar a fachada do edifício”.
-

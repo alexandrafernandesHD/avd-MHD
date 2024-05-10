@@ -1,11 +1,12 @@
 ---
-date: 20Set2023
+date: 2023/09/20
 author: Marta Rodrigues
 image: https://www.comumonline.com/wp-content/uploads/2023/09/ArraialAzeiteiro_MartaRodrigues13-1500x1000.jpg
 title: Arraial Azeiteiro. O ano arranca com animação da Azeituna [fotogaleria]
 url: https://www.comumonline.com/2023/09/arraial-azeiteiro-o-ano-arranca-com-animacao-da-azeituna/
 site: ComUM
-description: Realizou-se esta terça-feira, dia 19 de setembro, o Arraial Azeiteiro, uma festa organizada pela Azeituna - Tuna de Ciências da Universidade do Minho.
+description: |
+  Realizou-se esta terça-feira, dia 19 de setembro, o Arraial Azeiteiro, uma festa organizada pela Azeituna - Tuna de Ciências da Universidade do Minho.
 tags: Azeituna, UMinho, Braga, Arraial Azeiteiro
 type: article
 ---
@@ -44,4 +45,3 @@ Marta Rodrigues | ComUM
 Marta Rodrigues | ComUM
 
 Marta Rodrigues | ComUM
-

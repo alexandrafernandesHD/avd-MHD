@@ -1,12 +1,13 @@
 ---
-date: 30Out2022
+date: 2022/10/30
 author: Inês Machado
 image: https://www.comumonline.com/wp-content/uploads/2018/12/Stock-18-1500x1000.jpg
 title: AAUMinho nega apoio a protesto de estudantes no Prometeu
 url: https://www.comumonline.com/2022/10/aauminho-nega-apoio-a-protesto-de-estudantes-no-prometeu/
 site: ComUM
-description: A concentração do movimento “Onde está a ação social?”, elaborado pelos estudantes da Universidade do Minho, está marcado para quarta-feira, pelas 17h.
-tags: UMinho, Duarte Lopes, Associação Académica da Universidade do Minho (AAUM), Luís Esteves
+description: |
+  A concentração do movimento “Onde está a ação social?”, elaborado pelos estudantes da Universidade do Minho, está marcado para quarta-feira, pelas 17h.
+tags: UMinho, Duarte Lopes, Associação Académica da Universidade do Minho (AAUM), Luís Esteves
 type: article
 ---
 
@@ -26,4 +27,3 @@ Além disso, Luís Esteves considera que a oferta da refeição social é “ins
 O representante do movimento mostrou-se desiludido com a falta de apoio relativamente ao problema no “deslocamento dos estudantes do campus de Azurém para o de Gualtar”. Luís Esteves classifica o ato como “um passo atrás naquilo que é o papel que a UMinho deveria cumprir, dar forças à voz dos estudantes”.
 
 Esta moção foi considerada pelo presidente da Associação Académica da Universidade do Minho (AAUMinho), Duarte Lopes, como “não oportuna” no momento, já que os dirigentes estudantis “têm sido ouvidos”. No seu entender, têm sido conseguidos avanços como o alargamento das condições de elegibilidade para a bolsa de estudo, assim como o aumento dos valores das bolsas atribuídas aos alunos de mestrado. “Saber que está prometido, para breve, uma bolsa de estudo que pague a totalidade do mestrado dos estudantes deixa-nos muito satisfeitos”, sublinhou o responsável máximo pela associação académica.
-

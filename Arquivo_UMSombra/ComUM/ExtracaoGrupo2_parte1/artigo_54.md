@@ -1,11 +1,12 @@
 ---
-date: 16Nov2023
+date: 2023/11/16
 author: Mariana Lopes
 image: https://www.comumonline.com/wp-content/uploads/2023/11/65551dd19a91ed49051b3d17-rga-2-1500x1125.jpg
 title: Comissão Eleitoral reduzida para cinco elementos
 url: https://www.comumonline.com/2023/11/comissao-eleitoral-reduzida-para-cinco-elementos/
 site: ComUM
-description: A grande novidade no regimento interno para os órgãos sociais da AAUMinho passou pela redução da Comissão Eleitoral, de sete para cinco elementos.
+description: |
+  A grande novidade no regimento interno para os órgãos sociais da AAUMinho passou pela redução da Comissão Eleitoral, de sete para cinco elementos.
 tags: Comissão Eleitoral, AAUMinho, Nelson Martins, Pedro Rodrigues
 type: article
 ---
@@ -26,8 +27,3 @@ Nelson Martins, aluno de Engenharia Biomédica, considera que a composição do 
 O critério para a escolha de letras destinadas às candidaturas voltou a receber críticas, tal como no ano de implementação, em 2022, pelo aluno Miguel Martins, referindo ser uma “obsessão” que leva a uma “fuga à democracia”. Em oposição ao que se realizava anteriormente, em vez da ordem de entrega das listas, privilegiam-se os projetos de continuidade. Deste modo, as listas que mantiveram, pelo menos, 25% dos elementos em relação ao ano anterior, podem manifestar à Comissão Eleitoral a intenção de ficar com a mesma letra. Nelson Martins justifica que “independentemente de qual for, se uma lista acha que fez um bom trabalho e quiser manter a letra, de forma a que os estudantes a reconheçam, acho que isso é um critério relevante”.
 
 O financiamento das candidaturas também se irá manter. As listas que concorrem à direção podem receber até 850 euros e um máximo de 300 euros para as referentes ao Conselho Fiscal e Jurisdicional e à Mesa da Reunião Geral de Alunos. Para conseguirem ser elegíveis, as mesmas devem atingir, pelo menos, 60% dos votos válidos, no caso de haver apenas uma ao respetivo órgão, 30%, se forem duas, e 20%, se se apresentarem três ou mais.
-
- 
-
- 
-

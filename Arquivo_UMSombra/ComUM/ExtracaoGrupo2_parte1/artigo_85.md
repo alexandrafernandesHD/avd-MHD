@@ -1,11 +1,12 @@
 ---
-date: 30Abr2022
+date: 2022/04/30
 author: Mariana Costa
 image: https://www.comumonline.com/wp-content/uploads/2022/04/moldura-opiniao.jpg
-title: Estagnação ou evolução: será a missão das universidades clara?
+title: Estagnação ou evolução -- será a missão das universidades clara?
 url: https://www.comumonline.com/2022/04/estagnacao-ou-evolucao-sera-a-missao-das-universidades-clara/
 site: ComUM
-description: As universidades são mais do que a transmissão de saberes, no sentido em que a missão destas deve passar pela criação e progresso do conhecimento.
+description: |
+  As universidades são mais do que a transmissão de saberes, no sentido em que a missão destas deve passar pela criação e progresso do conhecimento.
 tags: Universidade, Estudantes, Opinião, Núcleos, AEPUM, reestruturação, Universitários, Funções, Problemas
 type: article
 ---
@@ -23,7 +24,6 @@ As universidades são mais do que fontes de transmissão de saberes, no sentido 
 
 A realidade que temos são universidades arcaicas e envelhecidas, com programas educativos preenchidos que não dão espaço ao debate, centrando-se, apenas, nas imensas horas de estudo e de trabalho autónomo. Para além disto, estamos perante instituições com um número ainda muito superior de professores catedráticos, em comparação com o número professoras. É de destacar que, segundo os dados do projeto europeu Systemic Action for Gender, só um em cada quatro professores catedráticos é do sexo feminino.
 
-É certo que já houve e continuam a existir mudanças e evoluções importantes. Contudo, a verdade é que o ritmo a que se dão é insuficiente para a transformação que é ambicionada. É também visível a apatia que, ultimamente, se verifica na sociedade, particularmente, nos jovens universitários. A realidade é que a estrutura atual das universidades, bem como dos restantes anos de ensino, perpetua esta apatia sentida, quer na falta de interesse pelas atividades e estruturas estudantis, bem como nas elevadas abstenções no seio académico. Assim, questiono se  as universidades não deveriam valorizar a inovação e atualização do ensino e dos seus profissionais. Não deveriam as universidades, junto dos núcleos, secções e delegações, lutar e combater a problemática da apatia, que é cada vez mais preocupante?
+É certo que já houve e continuam a existir mudanças e evoluções importantes. Contudo, a verdade é que o ritmo a que se dão é insuficiente para a transformação que é ambicionada. É também visível a apatia que, ultimamente, se verifica na sociedade, particularmente, nos jovens universitários. A realidade é que a estrutura atual das universidades, bem como dos restantes anos de ensino, perpetua esta apatia sentida, quer na falta de interesse pelas atividades e estruturas estudantis, bem como nas elevadas abstenções no seio académico. Assim, questiono se  as universidades não deveriam valorizar a inovação e atualização do ensino e dos seus profissionais. Não deveriam as universidades, junto dos núcleos, secções e delegações, lutar e combater a problemática da apatia, que é cada vez mais preocupante?
 
 Assim, podemos afirmar que, neste momento, a missão da Universidade, além de não estar a ser implementada, não é clara. Por isso, revela-se cada vez mais necessário apostar numa reestruturação que valorize principalmente os estudantes, mas também os docentes e os restantes profissionais. Adicionalmente, é importante que se tenha em conta o impacto que a universidade tem na modelação e desenvolvimento da sociedade, do país e do mundo.
-

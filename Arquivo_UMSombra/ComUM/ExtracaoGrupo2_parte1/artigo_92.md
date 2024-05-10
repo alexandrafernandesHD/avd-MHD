@@ -1,11 +1,12 @@
 ---
-date: 19Abr2022
+date: 2022/04/19
 author: Joana Oliveira
 image: https://www.comumonline.com/wp-content/uploads/2022/02/Teatro-Jordao_.jpg
 title: Falta de condições no Teatro Jordão leva estudantes de Teatro e Artes Visuais a sair à rua
 url: https://www.comumonline.com/2022/04/falta-de-condicoes-do-teatro-jordao-leva-estudantes-de-teatro-e-artes-visuais-a-sair-a-rua/
 site: ComUM
-description: Com início marcado para as 16h30, a manifestação parte do Campus de Azurém em direção ao Teatro Jordão.
+description: |
+  Com início marcado para as 16h30, a manifestação parte do Campus de Azurém em direção ao Teatro Jordão.
 tags: teatro, Teatro Jordão, Artes Visuais, manifestação estudantil
 type: article
 ---
@@ -28,4 +29,3 @@ Já as oficinas onde decorrem as aulas dos estudantes de artes visuais são “d
 A situação é similar para os alunos de teatro. De acordo com o documento partilhado, “a falta de cacifos e espaço de arrumação nos balneários e a falta de limpeza dificultam bastante o bom funcionamento do curso”. Da mesma forma, a inexistência de uma sala de figurinos e de salas de apresentações é igualmente criticada pelos estudantes.
 
 No entanto, Helena Figueiredo refere que a falta de condições não é uma situação recente. Segundo a representante, “ao longo de vários anos, não foram dadas aos alunos de artes visuais e de teatro as condições de aprendizagem necessárias”. “Era uma realidade antes da transferência para o novo edifício do TJGA e infelizmente continua a ser visível dentro do espaço pelo qual todos ansiávamos”, admite a estudante.
-

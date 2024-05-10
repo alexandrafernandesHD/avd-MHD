@@ -1,8 +1,8 @@
 ---
-date: 03Out2015
+date: 2015/10/03
 author: Sara Viana
 image: https://www.comumonline.com/wp-content/uploads/2015/10/IMG_3991-1500x1000.jpg
-title: Entrevista com AGIR: “Os prémios dados pelo público são sempre os mais importantes”
+title: Entrevista com AGIR -- “Os prémios dados pelo público são sempre os mais importantes”
 url: https://www.comumonline.com/2015/10/entrevista-com-agir-os-premios-dados-pelo-publico-sao-sempre-os-mais-importantes/
 site: ComUM
 description: 
@@ -29,7 +29,7 @@ Quem é a rapariga que te faz partir o pescoço?
 
 Neste momento existe mesmo uma rapariga, a minha namorada. Mas é uma situação que acontece com todos os homens quando vão a andar na rua e têm de partir o pescoço assim sem ela ver. Faz parte, desde que seja só partir o pescoço.
 
- 
+
 
 Ana João Oliveira/ComUM
 
@@ -40,6 +40,3 @@ Foi uma surpresa, não estava de todo à espera. Foi o Diogo da MTV, que por aca
 “Se o tempo é dinheiro”, qual é o conselho que tens para dar aos estudantes que estão a iniciar este novo período das suas vidas?
 
 Lá está, tempo é dinheiro. Não percam tempo. Cometam erros, é algo normal mas percebam rápido que os estão a cometer e não demorem seis meses ou um ano a percebê-lo. Sejam metódicos porque acho que nada se faz sem estratégia. Mas se a estratégia for a errada, percebam isso num espaço de um mês ou dois e mudem. Deixem um bocado um coração de parte e percebam o que estão realmente a fazer.
-
- 
-

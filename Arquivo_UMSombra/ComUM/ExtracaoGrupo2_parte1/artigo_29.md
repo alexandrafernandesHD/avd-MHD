@@ -1,11 +1,12 @@
 ---
-date: 02Dez2021
+date: 2021/12/02
 author: Nuno Diogo Pereira
 image: https://www.comumonline.com/wp-content/uploads/2021/12/08_MariaCarvalho_Manif_Assedio-1500x1000.jpg
 title: Alunos da UMinho manifestam-se contra assédio sexual, mas recusam conversar com a reitoria
 url: https://www.comumonline.com/2021/12/alunos-da-uminho-manifestam-se-contra-assedio-sexual-mas-recusam-conversar-com-a-reitoria/
 site: ComUM
-description: Várias centenas de alunos marcaram presença, esta quinta-feira, na manifestação contra o assédio sexual. Estudantes exigem responsabilização institucional.
+description: |
+  Várias centenas de alunos marcaram presença, esta quinta-feira, na manifestação contra o assédio sexual. Estudantes exigem responsabilização institucional.
 tags: Universidade do Minho, Reitoria da Universidade do Minho, Assédio Sexual, Manifestação pela Eliminação do Assédio na UMinho
 type: article
 ---
@@ -32,4 +33,3 @@ Na chegada à reitoria, houve momento para a leitura de alguns dos testemunhos a
 Cátia Almeida, 20 anos, estudante da licenciatura em Relações Internacionais, foi uma das estudantes eleitas pelos restantes alunos para falar à comunicação social. Também ela foi vítima de assédio na Universidade do Minho. “Fui vítima de importunação sexual no campus [de Gualtar]. Na altura, não fiz queixa à universidade. Achei que foi um caso isolado e falei apenas com os meus colegas de turma”, revela a estudante.
 
 “Há cerca de um mês voltou a acontecer e aí eu denunciei à universidade”. Cátia contactou a provedoria do estudante e foi-lhe fornecido um contacto de emergência ao qual deveria recorrer “apenas se se voltasse a repetir”. Este e outros casos semearam e continuam a semear a “indignação” entre os alunos. Segundo Raquel Brandão, 20 anos, estudante de Relações Internacionais e outra das alunas eleitas para representar os alunos, a manifestação “é um primeiro passo essencial para a resolução”. “Temos reivindicações claras e enquanto não formos ouvidos, esta luta continua”, afirma em declarações aos jornalistas.
-

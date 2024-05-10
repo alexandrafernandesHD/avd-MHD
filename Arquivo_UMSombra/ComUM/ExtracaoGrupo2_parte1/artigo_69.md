@@ -1,11 +1,12 @@
 ---
-date: 03Dez2021
+date: 2021/12/03
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2021/12/IMG_5896-scaled-e1638557448476-1500x754.jpg
-title: Duarte Lopes: “Um voto informado é um voto na lista A”
+title: Duarte Lopes -- “Um voto informado é um voto na lista A”
 url: https://www.comumonline.com/2021/12/duarte-lopes-um-voto-informado-e-um-voto-na-lista-a/
 site: ComUM
-description: Duarte Lopes é candidato à presidência da direção da AAUM. O ComUM esteve à conversa com o candidato para saber mais sobre a sua lista.
+description: |
+  Duarte Lopes é candidato à presidência da direção da AAUM. O ComUM esteve à conversa com o candidato para saber mais sobre a sua lista.
 tags: AAUM, Associação Académica da Universidade do Minho, Lista A, Duarte Lopes, eleições AAUM 2021, Direção
 type: article
 ---
@@ -17,7 +18,7 @@ type: article
 
 03Dez2021 | ComUM Online
 
-As eleições para os órgãos sociais da Associação Académica da Universidade do Minho decorrem na próxima terça-feira, dia 7 de dezembro. Duarte Lopes é um dos candidatos à presidência da direção. O estudante de mestrado e vice-presidente da AAUM apresentou a candidatura na sua página de Facebook no dia 19 de novembro. O ComUM esteve à conversa com o candidato para saber mais sobre a sua lista.
+As eleições para os órgãos sociais da Associação Académica da Universidade do Minho decorrem na próxima terça-feira, dia 7 de dezembro. Duarte Lopes é um dos candidatos à presidência da direção. O estudante de mestrado e vice-presidente da AAUM apresentou a candidatura na sua página de Facebook no dia 19 de novembro. O ComUM esteve à conversa com o candidato para saber mais sobre a sua lista.
 
 
 
@@ -54,4 +55,3 @@ Entrevista por: Maria Francisca Barros e Maria Carvalho
 Artigo escrito por: Maria Carvalho
 
 Multimédia: Maria Carvalho e Joana Oliveira
-

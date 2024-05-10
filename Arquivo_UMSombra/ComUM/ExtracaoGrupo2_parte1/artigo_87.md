@@ -1,11 +1,12 @@
 ---
-date: 21Dez2021
+date: 2021/12/21
 author: Ana Beatriz Cunha
 image: https://www.comumonline.com/wp-content/uploads/2021/12/UMDicas_NG_PRemiosMeritoDesportivo2020-61-1500x865.jpg
 title: Estudantes da UMinho recebem prémios de mérito desportivo
 url: https://www.comumonline.com/2021/12/estudantes-da-uminho-recebem-premios-de-merito-desportivo/
 site: ComUM
-description: A entrega dos Prémios de Mérito Desportivo decorreu na última segunda-feira, 20 de dezembro. Foram distinguidos 56 estudantes da Universidade do Minho.
+description: |
+  A entrega dos Prémios de Mérito Desportivo decorreu na última segunda-feira, 20 de dezembro. Foram distinguidos 56 estudantes da Universidade do Minho.
 tags: Universidade do Minho, Associação Académica da Universidade do Minho, Guilherme Pereira, Rui Oliveira, Prémios de mérito desportivo, 2020/2021
 type: article
 ---
@@ -26,4 +27,3 @@ O presidente da AAUM, Rui Oliveira, entende que estes títulos provêm não só 
 A Universidade do Minho não inclui no seu portfólio formativo a área do desporto. No entanto, Guilherme Pereira, pró-reitor para a avaliação institucional e projetos especiais, revelou à RUM que “a Universidade do Minho tem conseguido, ao longo dos anos, encontrar formas muito relevantes de induzir à prática desportiva.”
 
 Guilherme Pereira acrescentou ainda que a prática desportiva na universidade não se fica apenas pelos 56 estudantes galardoados. São mais de 10 mil os estudantes da UM que praticam desporto regularmente e 500 têm o estatuto de atleta de alta competição.
-

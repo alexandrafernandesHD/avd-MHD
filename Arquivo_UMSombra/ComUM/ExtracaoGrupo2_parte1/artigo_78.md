@@ -1,8 +1,8 @@
 ---
-date: 05Dez2015
+date: 2015/12/05
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2015/12/Imagemjmkoo.png
-title: Entrevista a Ricardo Miranda: ‘A expressão de repulsa é algo que nos ocorre várias vezes sem nos apercebermos’
+title: Entrevista a Ricardo Miranda -- ‘A expressão de repulsa é algo que nos ocorre várias vezes sem nos apercebermos’
 url: https://www.comumonline.com/2015/12/entrevista-a-ricardo-miranda-a-expressao-de-repulsa-e-algo-que-nos-ocorre-varias-vezes-sem-nos-apercebermos/
 site: ComUM
 description: 
@@ -58,4 +58,3 @@ RM: Sim, tenho. Quero continuar esta temática. A ideia de repulsa é muito vaga
 Maria João Costa
 
 Fotografias de Adriana Dias
-

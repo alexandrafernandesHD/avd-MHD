@@ -1,11 +1,12 @@
 ---
-date: 07Dez2021
+date: 2021/12/07
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2021/12/DSC_0699-1500x1000.jpg
 title: Duarte Lopes é o novo presidente da AAUM. Lista C é eleita para o CFJ e a Lista B é eleita para a RGA
 url: https://www.comumonline.com/2021/12/duarte-lopes-e-o-novo-presidente-da-aaum-lista-c-e-eleita-para-o-cfj-e-a-lista-b-e-eleita-para-a-rga/
 site: ComUM
-description: Duarte Lopes, candidato pela Lista A, é o novo presidente da direção da Associação Académica da Universidade do Minho (AAUM).
+description: |
+  Duarte Lopes, candidato pela Lista A, é o novo presidente da direção da Associação Académica da Universidade do Minho (AAUM).
 tags: AAUM, eleições, RGA, CFJ, Duarte Lopes, Direção, Listas Eleitas, Vencedores
 type: article
 ---
@@ -51,9 +52,8 @@ Jacinta Sampaio afirma que a RGA "fica entregue a boas mãos". "A partir do mome
 
 Duarte Lopes vai assumir funções no início de 2022.
 
-Artigo por: Ana Margarida Alves 
+Artigo por: Ana Margarida Alves 
 
 Entrevistas: Maria Carvalho, Maria Francisca Barros e Nuno Pereira
 
 Multimédia: Joana Dantas e Joana Oliveira
-

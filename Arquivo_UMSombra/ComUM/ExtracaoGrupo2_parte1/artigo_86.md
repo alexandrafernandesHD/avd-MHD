@@ -1,11 +1,12 @@
 ---
-date: 20Dez2023
+date: 2023/12/20
 author: Sofia de Paulo
 image: https://www.comumonline.com/wp-content/uploads/2023/12/Captura-de-Ecra-152.png
 title: Estudantes da UMinho destacam-se no Congresso Internacional de Casos Docentes em Marketing Público e Não Lucrativo
 url: https://www.comumonline.com/2023/12/estudantes-da-uminho-destacam-se-no-congresso-internacional-de-casos-docentes-em-marketing-publico-e-nao-lucrativo/
 site: ComUM
-description: Alunos da Uminho obtiveram destaque com a melhor apresentação no Congresso Internacional de Casos Docentes em Marketing Público e Não Lucrativo.
+description: |
+  Alunos da Uminho obtiveram destaque com a melhor apresentação no Congresso Internacional de Casos Docentes em Marketing Público e Não Lucrativo.
 tags: UMinho, EEG
 type: article
 ---
@@ -24,4 +25,3 @@ O Congresso Internacional de Casos Docentes em Marketing Público e Não Lucrati
 O primeiro grupo, composto por Francisca Mora, Sofia Faria e Joana Branco, apresentou o trabalho intitulado “O marketing social no caso da Federação Portuguesa dos Dadores Benévolos de Sangue (FEPODABES)”. Já o grupo dos estudantes Clara Sofia Barros, Marta Valério e Rui Pedro Silva, apresentou o trabalho “Análise da campanha O melhor presente é estar presente”, uma campanha de marketing social da Autoridade Nacional de Prevenção Rodoviária”. Foi dessa forma que venceram o prémio de melhor comunicação na sessão 8, chamando a atenção do júri deste congresso internacional de casos.
 
 A tutora dos estudantes da EEG, Beatriz Casais, destacou o congresso como “uma experiência muito enriquecedora para os estudantes”. A docente mencionou ainda a relevância da iniciativa que é capaz de ensinar os alunos a partir de casos práticos, os fazendo analisá-los “em um formato com que futuros estudantes também possam aprender”.
-

@@ -1,11 +1,12 @@
 ---
-date: 24Nov2023
+date: 2023/11/24
 author: Luana Pereira
 image: https://www.comumonline.com/wp-content/uploads/2019/03/IMG_9021-1500x1000.jpg
 title: Aumento do apoio à deslocação para estudantes bolseiros é aprovado
 url: https://www.comumonline.com/2023/11/aumento-do-apoio-a-deslocacao-para-estudantes-bolseiros-e-aprovado/
 site: ComUM
-description: A proposta do Partido Socialista (PS), de aumento do apoio à deslocação de estudantes bolseiros, foi ontem aprovada no Orçamento de Estado.
+description: |
+  A proposta do Partido Socialista (PS), de aumento do apoio à deslocação de estudantes bolseiros, foi ontem aprovada no Orçamento de Estado.
 tags: ensino superior, bolseiros, Partido Socialista, Deslocação
 type: article
 ---
@@ -22,4 +23,3 @@ A proposta do Partido Socialista (PS), de aumento do apoio à deslocação de es
 O PS apresentou uma proposta que visa a regularização do património imobiliário das instituições de ensino superior até 31 de dezembro de 2024, bem como um auxílio financeiro do Governo à verba estipulada a cada instituição de ensino superior pública. Deste modo, pretende-se um apoio de 40 euros por mês, mais um euro por refeição para os estudantes bolseiros.
 
 Foi também aprovada uma outra proposta socialista que abrange a digitalização do ensino português no estrangeiro. Espera-se que “a utilização de ferramentas, tecnologias e aulas à distância para tornar o ensino mais atrativo, dinâmico, interativo e ajustado ao perfil dos estudantes, adaptando para o efeito o respetivo regime jurídico às necessidades contemporâneas” seja possível em 2024.
-

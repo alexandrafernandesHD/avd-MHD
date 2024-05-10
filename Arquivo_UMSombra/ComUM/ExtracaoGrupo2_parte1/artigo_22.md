@@ -1,11 +1,12 @@
 ---
-date: 22Abr2023
+date: 2023/04/22
 author: Carina Ribeiro
 image: https://www.comumonline.com/wp-content/uploads/2023/04/d339691a5f69abb73b21c83ffc840d93_w840.png
 title: AAUMinho vence as primeiras finais do Campeonato Nacional Universitário
 url: https://www.comumonline.com/2023/04/aauminho-vence-as-primeiras-finais-do-campeonato-nacional-universitario/
 site: ComUM
-description: Durante esta semana e a próxima, decorrem os Campeonatos Nacionais Universitários. Nesta primeira semana de competição a AAUMinho já ganhou quatro títulos.
+description: |
+  Durante esta semana e a próxima, decorrem os Campeonatos Nacionais Universitários. Nesta primeira semana de competição a AAUMinho já ganhou quatro títulos.
 tags: Viana do Castelo, Campeonatos Nacionais Universitários, Voleibol Feminino, AAUMinho, Andebol Feminino, Campeonatos Nacionais Universitários 2023, Futsal Masculino, Basquetebol Masculino
 type: article
 ---
@@ -36,4 +37,3 @@ Por fim, à noite foi a turma de futsal que trouxe o quarto e último título qu
 A AAUMinho entrou da melhor maneira na fase de grupos ao golear a AEFADEUP por 9-2. Não pôs o pé no travão e voltou a golear no segundo encontro, desta vez frente à AEISCTE, com oito golos sem resposta. Na última partida desta fase teve um encontro mais equilibrado frente ao IPVC, mas mesmo assim venceu por 4-2. Nas meias finais defrontaram a AEUMAIA e voltaram a vencer por 4-1.
 
 Na próxima semana entram em ação mais quatro equipas da Associação Académica da Universidade do Minho, que pretendem alcançar mais quatro títulos. Desta vez as equipas que entram em ação são as de futsal feminino, basquetebol feminino, andebol masculino e voleibol masculino.
-

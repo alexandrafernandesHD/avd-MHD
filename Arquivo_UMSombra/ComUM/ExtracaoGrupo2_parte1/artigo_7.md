@@ -1,11 +1,12 @@
 ---
-date: 26Jan2024
+date: 2024/01/26
 author: Luana Pereira
 image: https://www.comumonline.com/wp-content/uploads/2020/12/IMG_0376-1500x1000.jpg
 title: AAUMinho considera que os alunos deslocados devem ter médico de família
 url: https://www.comumonline.com/2024/01/a-aaum-considera-que-os-alunos-deslocados-devem-ter-medico-de-familia/
 site: ComUM
-description: A criação de um centro de saúde dentro das instituições da universidade minhota é uma proposta da Associação Académica da Universidade do Minho (AAUM).
+description: |
+  A criação de um centro de saúde dentro das instituições da universidade minhota é uma proposta da Associação Académica da Universidade do Minho (AAUM).
 tags: AAUMinho, Estudantes deslocados
 type: article
 ---
@@ -24,4 +25,3 @@ O acompanhamento surge no intuito de analisar “a saúde como um todo”, aferi
 A presidente da AAUM comenta o tempo limitado para a candidatura ao Centro de Apoio Mental que a Universidade do Minho pretende desenvolver. A candidatura visa o contrato de mais três psicólogos em consequência de um financiamento. A instituição, no momento, tem ao serviço apenas um profissional da área, que deve prestar auxílio a todos os pedidos, num ramo de cerca de 20 mil estudantes.
 
 É de relembrar que, em prol dos habitantes de Braga, será criado um centro de saúde em Gualtar – Unidade de Saúde Campus Vilar. Margarida Isaías, confrontada com este facto, reconhece que esta pode ser uma solução para a sugestão apresentada.
-

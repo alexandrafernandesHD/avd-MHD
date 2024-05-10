@@ -1,11 +1,12 @@
 ---
-date: 29Nov2021
+date: 2021/11/29
 author: Maria Carvalho
 image: https://www.comumonline.com/wp-content/uploads/2019/10/MariaCarvalho_ILCH_003-1500x898.jpg
 title: Assédio na UMinho. Reitor garante “procedimentos de averiguação”
 url: https://www.comumonline.com/2021/11/assedio-na-uminho-reitor-garante-procedimentos-de-averiguacao/
 site: ComUM
-description: O reitor revelou que vão ser iniciados procedimentos para averiguar as situações de assédio sexual e os atos de exibicionismo de índole sexual.
+description: |
+  O reitor revelou que vão ser iniciados procedimentos para averiguar as situações de assédio sexual e os atos de exibicionismo de índole sexual.
 tags: reitor, UMinho, Gualtar, Assédio, autoridades, atos de exibicionismo
 type: article
 ---
@@ -25,5 +26,4 @@ O reitor declarou que já conversou com os responsáveis pelo setor e que “vã
 
 Em comunicado, a universidade afirma lamentar “profundamente” os “atos exibicionistas e de assédio a estudantes desta instituição, praticados por individuo(s) não identificado(s). Em relação à acusação de assédio, a reitoria nota que “já desencadeado um processo de inquérito, tendo sido determinada a retirada do trabalhador em causa do seu posto de trabalho”.
 
-A Universidade do Minho (UMinho) lançou, na passada sexta-feira, um comunicado onde confirma “atos de exibicionismo de índole sexual”, junto ao Complexo Pedagógico 1 do Campus de Gualtar. De acordo com o reitor, já foi reforçada a segurança pelas autoridades de modo a identificar a pessoa ou pessoas responsáveis por estes atos.
-
+A Universidade do Minho (UMinho) lançou, na passada sexta-feira, um comunicado onde confirma “atos de exibicionismo de índole sexual”, junto ao Complexo Pedagógico 1 do Campus de Gualtar. De acordo com o reitor, já foi reforçada a segurança pelas autoridades de modo a identificar a pessoa ou pessoas responsáveis por estes atos.

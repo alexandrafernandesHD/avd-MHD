@@ -1,11 +1,12 @@
 ---
-date: 05Dez2021
+date: 2021/12/05
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2021/12/DSC_0233-2-1500x1000.jpg
-title: David Ribeiro: “Pretendemos melhorar a comunicação entre os alunos e a AAUM”
+title: David Ribeiro -- “Pretendemos melhorar a comunicação entre os alunos e a AAUM”
 url: https://www.comumonline.com/2021/12/david-ribeiro-pretendemos-melhorar-a-comunicacao-entre-os-alunos-e-a-aaum/
 site: ComUM
-description: David Ribeiro é candidato à mesa da reunião geral de alunos. Em conversa com o ComUM, o estudante explica os objetivos da sua candidatura.
+description: |
+  David Ribeiro é candidato à mesa da reunião geral de alunos. Em conversa com o ComUM, o estudante explica os objetivos da sua candidatura.
 tags: Associação Académica da Universidade do Minho, Lista B, David Ribeiro, Candidato à Mesa da Reunião Geral de Alunos
 type: article
 ---
@@ -17,7 +18,7 @@ type: article
 
 05Dez2021 | ComUM Online
 
-As eleições para os órgãos sociais da Associação Académica da Universidade do Minho (AAUM) realizam-se no dia 7 de dezembro. David Ribeiro, estudante da licenciatura em Engenharia Industrial, encabeça a lista B, candidata à mesa da reunião geral de alunos. Em conversa com o ComUM, explica que um dos objetivos desta candidatura  consiste em melhorar a comunicação entre a AAUM e os alunos, destacando-se das outras listas pela experiência que afirmam ter.
+As eleições para os órgãos sociais da Associação Académica da Universidade do Minho (AAUM) realizam-se no dia 7 de dezembro. David Ribeiro, estudante da licenciatura em Engenharia Industrial, encabeça a lista B, candidata à mesa da reunião geral de alunos. Em conversa com o ComUM, explica que um dos objetivos desta candidatura  consiste em melhorar a comunicação entre a AAUM e os alunos, destacando-se das outras listas pela experiência que afirmam ter.
 
 
 
@@ -57,7 +58,7 @@ ComUM – Quais as razões pelas quais os estudantes devem votar em ti e na tua 
 
 
 
-David Ribeiro – Primeiro, nós somos uma equipa motivada, focada para conseguirmos fazer um bom trabalho. Nós queremos realmente ser competentes e é disso que são feitos os membros desta lista –  de competência e muito compromisso para com aquilo que é a mesa da reunião geral de alunos. Isso, por si só, deveria garantir algum sentimento de empatia por parte dos alunos, porque estamos realmente focados em fazer um bom trabalho. Como é óbvio, e havendo várias listas, isto não é suficiente.
+David Ribeiro – Primeiro, nós somos uma equipa motivada, focada para conseguirmos fazer um bom trabalho. Nós queremos realmente ser competentes e é disso que são feitos os membros desta lista –  de competência e muito compromisso para com aquilo que é a mesa da reunião geral de alunos. Isso, por si só, deveria garantir algum sentimento de empatia por parte dos alunos, porque estamos realmente focados em fazer um bom trabalho. Como é óbvio, e havendo várias listas, isto não é suficiente.
 
 Acho que a diversidade é um excelente fator que acaba por nos destacar, mas também a nossa experiência. É possível todos dizermos que vamos ser competentes, que vamos fazer um excelente trabalho e escrevermos um documento com princípios orientadores a demonstrar que temos boas ideias e ideias estruturadas e fundamentadas. Mas, por termos experiência em associativismo, temos de certa forma alguma garantia de que já estamos habituados a isto. As pessoas que cá estão, já demonstraram meritocracia noutras áreas, noutras associações e organizações e o facto de nos termos juntado é de certa forma um voto de confiança de que vamos fazer um bom trabalho. Somos motivados, dinâmicos, temos experiência e estamos preparados para assumir uma responsabilidade destas.
 
@@ -65,11 +66,10 @@ ComUM – Na apresentação da tua candidatura, falas de uma conceção mais cri
 
 David Ribeiro – Um dos principais problemas que identificamos, para além da comunicação, organização foi que, neste momento, quem normalmente adere às RGA são as listas da direção, os outros órgãos sociais e as listas opositoras. A universidade é constituída por 20 mil aluno e destas listas candidatas contamos com 100 a 200 alunos. Isto representa muito pouco daquilo que é a universidade.
 
-O nosso objetivo, primeiro de tudo, passa por conseguirmos realmente chegar a mais alunos e para isso temos de fazer com que os assuntos tratados sejam do interesse de todos e não só dos que o vão discutir ou beneficiar deles depois. Desta forma, pretendemos ser criativos, quer seja a partir da divulgação, quer seja através da própria forma como expomos a informação. Se nós expusermos a informação de forma mais dinâmica, mais interativa, à partida vamos conseguir chegar a mais alunos.  Quanto melhor formos, mais adesão teremos. Temos uma mente e uma mentalidade muito progressista e evolutiva de pegar neste órgão e o conseguir levar para a frente.
+O nosso objetivo, primeiro de tudo, passa por conseguirmos realmente chegar a mais alunos e para isso temos de fazer com que os assuntos tratados sejam do interesse de todos e não só dos que o vão discutir ou beneficiar deles depois. Desta forma, pretendemos ser criativos, quer seja a partir da divulgação, quer seja através da própria forma como expomos a informação. Se nós expusermos a informação de forma mais dinâmica, mais interativa, à partida vamos conseguir chegar a mais alunos.  Quanto melhor formos, mais adesão teremos. Temos uma mente e uma mentalidade muito progressista e evolutiva de pegar neste órgão e o conseguir levar para a frente.
 
 Entrevista: Ana Margarida Alves
 
 Artigo escrito por: Maria Sá
 
 Multimédia: Ana Margarida Alves e Joana Oliveira
-

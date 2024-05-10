@@ -1,11 +1,12 @@
 ---
-date: 27Ago2023
+date: 2023/08/27
 author: Ana Beatriz Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2023/02/1615218-1500x1000.jpg
 title: Mais de 49 mil candidatos ingressam na 1ª fase do ensino superior
 url: https://www.comumonline.com/2023/08/49-438-candidatos-ingressaram-na-1a-fase-do-ensino-superior/
 site: ComUM
-description: Para o ano letivo de 2023/2024 foram mais de 49 mil os novos estudantes a ser colocados na primeira fase de acesso ao ensino superior.
+description: |
+  Para o ano letivo de 2023/2024 foram mais de 49 mil os novos estudantes a ser colocados na primeira fase de acesso ao ensino superior.
 tags: Colocados, Concurso Nacional de Acesso ao Ensino Superior, Acesso ao ensino superior, Vagas de acesso
 type: article
 ---
@@ -19,11 +20,11 @@ type: article
 
 Os resultados das colocações no Ensino Superior para o ano letivo de 2023/2024 foram divulgados este domingo e ingressaram na primeira fase do Concurso Nacional de Acesso ao Ensino Superior 49.438 novos estudantes. O curso de Medicina registou o número mais elevado de sempre nos colocados da primeira fase, com 1.595 estudantes no total. No topo da tabela das médias dos últimos colocados encontram-se os três cursos de Engenharia Aeroespacial.
 
-Segundo os dados fornecidos pelo Ministério da Ciência, Tecnologia e Ensino Superior, com quase 50 mil estudantes a ingressarem no Ensino Superior, “56% foram colocados na sua primeira opção e 87% numa das suas três primeiras opções de candidatura, os valores mais elevados dos últimos anos”. O ministério realçou ainda que “entre 2021 e 2023 a taxa de colocação aumentou de 77% para 84%, o que demonstra um crescente ajustamento entre a procura dos estudantes e a oferta das instituições”.
+Segundo os dados fornecidos pelo Ministério da Ciência, Tecnologia e Ensino Superior, com quase 50 mil estudantes a ingressarem no Ensino Superior, “56% foram colocados na sua primeira opção e 87% numa das suas três primeiras opções de candidatura, os valores mais elevados dos últimos anos”. O ministério realçou ainda que “entre 2021 e 2023 a taxa de colocação aumentou de 77% para 84%, o que demonstra um crescente ajustamento entre a procura dos estudantes e a oferta das instituições”.
 
 Numa época de discussão relativamente ao futuro das carreiras dos profissionais da educação, sabe-se também que “o número de estudantes colocados em licenciaturas em Educação Básica aumenta 21% face ao ano anterior, com 923 estudantes colocados nesta fase, e ocupando 97% das vagas disponibilizadas”. O ministério avançou que “nos últimos dois anos o número de colocados em licenciaturas em Educação Básica aumentou 45%”, um fator positivo que “demonstra o crescente interesse dos estudantes por estas formações”.
 
- 
+
 
 Medicina com o maior número de colocados de sempre
 
@@ -33,7 +34,7 @@ Apesar destes resultados, o número de vagas adicionais no regime geral para os 
 
 Este aumento de vagas provocou uma descida nas médias dos últimos colocados no curso, entre 0,2 e 0,7 valores. Isto verifica-se em várias instituições, entre elas o Instituto de Ciências Biomédicas Abel Salazar, na Universidade do Porto, onde a média do último colocado de 2022 foi de 18,9 e a do último colocado de 2023 ficou pelos 18,68 valores.
 
- 
+
 
 Houve 38 cursos que ficaram sem candidatos, sendo a maioria engenharias
 
@@ -41,7 +42,7 @@ Instituições de ensino superior abriram vagas em 38 cursos aos quais nenhum al
 
 Este problema aplica-se principalmente às áreas de engenharias, sendo que são as áreas com mais vagas abertas para novos estudantes e com mais candidatos a colocá-las na sua primeira opção. As engenharias não foram escolhidas como primeira opção de estudo devido às ciências empresariais (9.175 candidatos) e à saúde (8.692 candidatos), sendo que estas duas áreas abriram muito menos vagas do que a procura que têm.
 
- 
+
 
 Sindicato Nacional do Ensino Superior considera o aumento de colocados uma preocupação e um fator de pressão para os docentes
 
@@ -51,7 +52,6 @@ Em declarações à Lusa, o presidente do SNESup, José Moreira, referiu que est
 
 Para José Moreira, o país deve “procurar outros caminhos”, que passam “pela especialização tecnológica e por inverter a questão de haver pessoas altamente especializadas com salários diminutos”, de forma a prevenir o afastamento de profissionais formados que vão trabalhar para outros países.
 
- 
+
 
 Dos 59.073 candidatos, estão já colocados 49.438, tendo sobrado para a segunda fase 5.212 vagas, “o menor número de vagas sobrantes desde 1999”.
-

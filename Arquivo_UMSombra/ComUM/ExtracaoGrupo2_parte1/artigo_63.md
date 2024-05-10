@@ -1,11 +1,12 @@
 ---
-date: 21Mai2022
+date: 2022/05/21
 author: Tânia Soares
 image: https://www.comumonline.com/wp-content/uploads/2022/05/GACCUM.jpg
 title: Deveríamos apostar mais nas sombras
 url: https://www.comumonline.com/2022/05/deveriamos-apostar-mais-nas-sombras/
 site: ComUM
-description: Ser aluna de Ciências da Comunicação está a dar-me e muito conhecimento e competências para o futuro. No entanto, o curso devia apostar mais nos alunos.
+description: |
+  Ser aluna de Ciências da Comunicação está a dar-me e muito conhecimento e competências para o futuro. No entanto, o curso devia apostar mais nos alunos.
 tags: Universidade do Minho, GACCUM, ICS, Ciências da Comunicação, UMinho, Opinião, Núcleos, CC
 type: article
 ---
@@ -30,4 +31,3 @@ Além disto, há imensas áreas que ficam na sombra. Sei que em três anos não 
 Parece-me então um panorama geral. Todos os núcleos minhotos parecem preocupar-se muito com isto – em dar aos alunos o que o curso não dá. Isto acaba por ser a função principal de todos os grupos e núcleos. Se não for, eu acredito que deveria de ser – visto que a insistência em deixar as coisas como estão é bastante. Enquanto aluna eu já tinha esta perceção, mas foi ao tornar-me presidente do GACCUM que tive a oportunidade de ouvir mais os alunos e percebi que era realmente uma situação a que todos preocupa.
 
 Para terminar, queria dizer que isto tudo não é 100% negativo. Este curso e os outros, fazem realmente um esforço para tornarem os estudantes aptos para o mercado de trabalho. Isso nota-se, principalmente em alguns professores. Mas, na minha opinião, ainda falham. E é aqui que os núcleos poderiam entrar: devem completar estas falhas, ouvindo quem estão a representar e perceber o que pode ser feito para melhorar a as necessidade dos alunos. Apostar na educação não formal de áreas e vertentes esquecidas como as práticas e que muitos até podem nem saber da existência, impedindo que se interessem. Os núcleos devem ser assim capacitadores.
-

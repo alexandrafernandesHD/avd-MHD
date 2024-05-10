@@ -1,11 +1,12 @@
 ---
-date: 25Mar2022
+date: 2022/03/25
 author: Maria Carvalho
 image: https://www.comumonline.com/wp-content/uploads/2017/10/AAUM_AnaMariaDinis07-1500x1000.jpg
 title: AAUMinho. Saldo positivo em 2021 permite maior orçamento para 2022
 url: https://www.comumonline.com/2022/03/aauminho-saldo-positivo-em-2021-permite-maior-orcamento-para-2022/
 site: ComUM
-description: O orçamento de 2022, apresentado esta quarta-feira em sede de Reunião Geral de Alunos, é um dos maiores de sempre: 5.109.597,49 euros.
+description: |
+  O orçamento de 2022, apresentado esta quarta-feira em sede de Reunião Geral de Alunos, é um dos maiores de sempre -- 5.109.597,49 euros.
 tags: UMinho, Associação Académica da Universidade do Minho, Reunião Geral de Alunos, Rui Oliveira, Orçamento AAUM, Duarte Lopes
 type: article
 ---
@@ -28,4 +29,3 @@ Para o atual presidente da AAUMinho, Duarte Lopes, o orçamento de 2022 demonstr
 Com o regresso das Monumentais Festas do Enterro da Gata, a associação prevê receitas superiores a um milhão de euros provenientes do setor recreativo e 1.2 milhões em despesa. O tesoureiro e responsável pela apresentação do dossier, Pedro Pinto, realçou o facto de as contas preverem a inflação resultante dos “tempos incertos que vivemos”.
 
 Quanto aos objetivos traçados para este ano, Duarte Lopes apontou à RUM a “proximidade da comunidade”: meta que vai beneficiar da concretização dos projetos previstos para as sedes de Gualtar e Azurém. Outro dos pontos a melhorar ao longo de 2022 passa pela “coordenação associativa”, de forma a conseguir “fazer mais pela comunidade estudantil, pela academia e pelo ensino superior”.
-

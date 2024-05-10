@@ -1,11 +1,12 @@
 ---
-date: 19Ago2021
+date: 2021/08/19
 author: Inês Batista
 image: https://www.comumonline.com/wp-content/uploads/2018/09/esc-direito-001-1500x1000.jpg
 title: AEDUM acusa Ordem dos Advogados de dificultar acesso à profissão
 url: https://www.comumonline.com/2021/08/aedum-acusa-ordem-dos-advogados-de-dificultar-acesso-a-profissao/
 site: ComUM
-description: A Assembleia Geral para votação do novo modelo, proposto pela Ordem dos Advogados (OA), está marcada para 17 de setembro.
+description: |
+  A Assembleia Geral para votação do novo modelo, proposto pela Ordem dos Advogados (OA), está marcada para 17 de setembro.
 tags: Universidade do Minho, AEDUM, Ordem dos Advogados, Conselho Nacional de Estudantes de Direito, acesso à profissão
 type: article
 ---
@@ -26,4 +27,3 @@ A AEDUM receia que, a longo prazo, o novo modelo impulsione uma “desertificaç
 O Conselho Nacional de Estudantes de Direito (CNED) também já se pronunciou sobre o assunto. “Parece-nos urgente o combate à precariedade no acesso à profissão, a luta pelo abolir das desigualdades sociais e pedagógicas e a construção de um conjunto de pilares fortes, capazes de assegurar uma boa formação por parte da própria Ordem”, afirmou.
 
 A proposta de alteração dos estatutos da OA, presidida pelo Bastonário Luís Menezes Leitão, será votada na Assembleia Geral, com data marcada para 17 de setembro.
-

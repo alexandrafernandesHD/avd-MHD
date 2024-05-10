@@ -1,11 +1,12 @@
 ---
-date: 28Jul2021
+date: 2021/07/28
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2019/03/IMG_9021-1500x1000.jpg
-title: Eleições Senado Académico: Lista B vence e elege quatro representantes
+title: Eleições Senado Académico -- Lista B vence e elege quatro representantes
 url: https://www.comumonline.com/2021/07/eleicoes-senado-academico-lista-b-vence-e-elege-quatro-representantes/
 site: ComUM
-description: Num universo de 1251 estudantes votantes, a lista B obtém 641 votos. A lista A fica em segundo lugar, com 417 votos. A lista C não consegue nenhum lugar.
+description: |
+  Num universo de 1251 estudantes votantes, a lista B obtém 641 votos. A lista A fica em segundo lugar, com 417 votos. A lista C não consegue nenhum lugar.
 tags: Universidade do Minho, Senado Académico, e-VotUM, Rodrigo Dinis, Eleições para os representantes dos alunos, Lista A - Agir pela Academia, Lista B - A Voz da Academia, Lista C - Dos alunos para os alunos, Joana Fraga
 type: article
 ---
@@ -36,4 +37,3 @@ Assim, o Senado Académico será constituído pelos seguintes representantes dos
 Na última eleição, em 2019, apenas houve uma lista candidata. O universo eleitoral não passou dos 200 votantes.
 
 Artigo escrito por: Joana Oliveira e Maria Francisca Barros
-

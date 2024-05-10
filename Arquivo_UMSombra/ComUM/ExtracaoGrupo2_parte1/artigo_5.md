@@ -1,11 +1,12 @@
 ---
-date: 18Fev2023
+date: 2023/02/18
 author: Maria Francisca Barros
 image: https://www.comumonline.com/wp-content/uploads/2022/10/Jose-Costa_Universidade-do-Minho_05-1500x1000.jpg
 title: 49º aniversário da UMinho celebra-se hoje em Braga
 url: https://www.comumonline.com/2023/02/49o-aniversario-da-uminho-celebra-se-hoje-em-braga/
 site: ComUM
-description: A UMinho fez na última sexta-feira, dia 17 de fevereiro, 49 anos. Celebrações vão durar um ano com a comemoração do Cinquentenário da UM.
+description: |
+  A UMinho fez na última sexta-feira, dia 17 de fevereiro, 49 anos. Celebrações vão durar um ano com a comemoração do Cinquentenário da UM.
 tags: Universidade do Minho, Guimarães, Braga, 50º aniversário da Universidade do Minho, 49º aniversário da Universidade do Minho, Ciquentenário da UMinho
 type: article
 ---
@@ -24,4 +25,3 @@ Durante o dia de sábado, as celebrações arrancam às 10h30, com as intervenç
 Na cerimónia, vai ser revelado à comunidade académica a imagem e programa das Comemorações do Cinquentenário da UMinho. Tarefa a cargo do presidente da comissão, professor João Rosas. Vão ser ainda entregues diplomas e o Prémio de Mérito Científico, bem como o título de professor emérito a José Viriato Capela e Manuel Pinto.
 
 A sessão vai ser transmitida em direto no canal do youtube da UMinho.
-

@@ -1,11 +1,12 @@
 ---
-date: 18Fev2023
+date: 2023/02/18
 author: Marta Rodrigues
 image: https://www.comumonline.com/wp-content/uploads/2023/02/JoanaLima_OrquestraUM_11-1500x1000.jpg
 title: 49 anos da UMinho. Rui Vieira de Castro acredita numa “instituição capaz de criar oportunidades”
 url: https://www.comumonline.com/2023/02/49-anos-da-uminho-rui-vieira-de-castro-acredita-numa-instituicao-capaz-de-criar-oportunidades/
 site: ComUM
-description: Arrancou esta sexta-feira, dia 17 de fevereiro, o ciclo de comemorações do 49 aniversário da UMinho, com o concerto da Orquestra Académica da instituição.
+description: |
+  Arrancou esta sexta-feira, dia 17 de fevereiro, o ciclo de comemorações do 49 aniversário da UMinho, com o concerto da Orquestra Académica da instituição.
 tags: Universidade do Minho, Guimarães, Rui Vieira de Castro, João Rosas, 50º aniversário da Universidade do Minho, 49º aniversário da Universidade do Minho
 type: article
 ---
@@ -30,4 +31,3 @@ Por sua vez, o presidente da Comissão das comemorações do cinquentenário da 
 Uma outra vertente vai passar pela investigação e reflexão, onde vão ser apresentados “novos estudos sobre o impacto da UMinho nesta região, sobre a produção científica realizada desde o início desta universidade”. Além disso, vão ser realizadas conferências sobre a história da instituição e, particularmente, uma em que as entidades parceiras – Instituto Universitário de Lisboa (ISCTE), Universidade de Aveiro, Universidade Nova de Lisboa e Universidade de Évora – vão ser convidadas a “refletir” sobre o passado e o futuro da UMinho.
 
 O evento prosseguiu com a atuação da Orquestra Académica da UMinho, constituída pelos alunos de Música, juntamente com o Coro do Departamento de Música da Escola de Letras, Artes e Ciências e o VianaVocale. Contou com direção do maestro Vítor Matos e voz de Dora Rodrigues.
-

@@ -1,8 +1,8 @@
 ---
-date: 04Out2015
+date: 2015/10/04
 author: Liliana Malainho
 image: https://www.comumonline.com/wp-content/uploads/2015/10/IMG_65801-1500x1000.jpg
-title: Entrevista com Carlão: “Quando o público se identifica com as minhas letras sinto que não sou o único maluco”
+title: Entrevista com Carlão -- “Quando o público se identifica com as minhas letras sinto que não sou o único maluco”
 url: https://www.comumonline.com/2015/10/entrevista-com-carlao-quando-o-publico-se-identifica-com-as-minhas-letras-sinto-que-nao-sou-o-unico-maluco/
 site: ComUM
 description: 
@@ -29,7 +29,7 @@ De onde surgiu a vontade de gravar o disco “Quarenta”?
 
 Surgiu um bocado na ressaca dos 5-30. Nós tivemos um ano muito fixe, em 2014, e toda a gente tinha coisas para fazer. O Regula tinha um novo disco, o Fred estava a trabalhar em trinta mil projetos e eu de repente fiquei com uma pica enorme e senti que tinha de fazer um disco. Só mais tarde, quando o projeto já estava avançado, é que me lembrei do nome “Quarenta” porque ia fazer quarenta anos este ano. A “cena” foi fazer algo que me desse pica. Toda a minha vida tenho seguido sempre a minha intuição e o feeling. Muitas vezes não corre bem mas em relação à música corre quase sempre. Tento ir sempre atrás disso. Se sinto uma coisa, faço. Se não sinto, não faço. Na música é sempre assim. Senti vontade, falei com pessoal e “bora aí”, fizemos o disco.
 
- 
+
 
 O single “Os Tais” apresenta uma fusão entre o kizomba e o rap. De que forma essa fusão se adequa à letra em si?
 
@@ -48,4 +48,3 @@ Sim. Não é uma coisa automática mas tenho um bom feedback nesse sentido. As p
 Para terminar, produziste diamantes esta noite?
 
 (Risos) Ora bem, no sentido da letra, não. Acho que não vou produzir mais diamantes e, inclusive, vou fazer uma vasectomia (risos). Não sei, eu acho que ganhei novos fãs. À medida que vamos tocando este disco, temos recordado malta nova. As pessoas conhecem um single, ouvem o resto do disco e tenho tido um bom retorno. Fico muito satisfeito, por exemplo, por ter puxado pelo Bruno para o disco e para o concerto. Eh pa, e o “gajo” dá uma força inacreditável, tem uma voz belíssima! É uma ótima pessoa. Obviamente não produzi esse diamante, mas acho que o apanhei e ele produz-se a ele próprio. Isso fiz! Ya, ya… O Bruno é o diamante!
-

@@ -1,11 +1,12 @@
 ---
-date: 21Dez2023
+date: 2023/12/21
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2023/12/AAUMinho-46-anos-1500x999.jpg
 title: AAUMinho celebra o 46º aniversário
 url: https://www.comumonline.com/2023/12/aauminho-celebra-o-46o-aniversario/
 site: ComUM
-description: No dia 19 de dezembro o Salão Medieval da Reitoria da Universidade do Minho foi o palco principal da celebração dos 46 anos da AAUMinho.
+description: |
+  No dia 19 de dezembro o Salão Medieval da Reitoria da Universidade do Minho foi o palco principal da celebração dos 46 anos da AAUMinho.
 tags: Rui Vieira de Castro, AAUMinho, 46º aniversário, Margarida Isaías, Maria João Soares
 type: article
 ---
@@ -25,9 +26,8 @@ O evento prosseguiu com uma homenagem ao recentemente falecido António Guimarã
 
 Foi dada a palavra a Pedro Soares, antigo membro e presidente da associação académica nos anos 2007 a 2009. No seu discurso, o ex-estudante relembrou a sua última intervenção enquanto presidente da AAUMinho, na qual, em Reunião Geral de Alunos, deu o título de membro honorário da associação a Guimarães Rodrigues, “um reitor irrepetível” e, acima de tudo o resto, “amigo”.
 
-A convite da AAUMinho, Maria João Soares, aluna do 2º ano de Educação Básica e participante no programa televisivo The Voice, aqueceu o salão com a sua performance musical. Interpretou “Rancho fundo”, “Riptide” e “Canção de engate”, música famosa por ser, por vezes, associada à vida universitária. A atuação contou com o apoio do público, já que “não é um concerto de mim para vocês, é um concerto em conjunto”, nas palavras da artista.
+A convite da AAUMinho, Maria João Soares, aluna do 2º ano de Educação Básica e participante no programa televisivo The Voice, aqueceu o salão com a sua performance musical. Interpretou “Rancho fundo”, “Riptide” e “Canção de engate”, música famosa por ser, por vezes, associada à vida universitária. A atuação contou com o apoio do público, já que “não é um concerto de mim para vocês, é um concerto em conjunto”, nas palavras da artista.
 
- 
+
 
 Artigo escrito por: Catarina Coelho e Catarina Fernandes
-

@@ -15,7 +15,7 @@ type: article
 
 ## 
 
- | 
+| 
 
 O Cortejo Académico da Universidade do Minho realizou-se terça-feira, 10 de junho, e ficou marcado, este ano, pela homenagem aos estudantes que foram vítimas da queda de um muro no mês de abril. O cortejo fica também na memória de muitos alunos por ser, respetivamente, o primeiro e o último para caloiros e finalistas da academia.
 
@@ -33,4 +33,3 @@ Apesar das diferentes opiniões, os alunos fizeram um balanço positivo do Corte
 
 Andreia Cunha
 Catarina Fernandes
-

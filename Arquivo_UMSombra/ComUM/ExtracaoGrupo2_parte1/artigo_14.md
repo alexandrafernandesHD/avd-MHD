@@ -1,11 +1,12 @@
 ---
-date: 24Nov2021
+date: 2021/11/24
 author: Joana Oliveira
 image: https://www.comumonline.com/wp-content/uploads/2021/11/DSC_01311-1500x1000.jpg
 title: AAUMinho desafia “heróis de capa negra” a doar sangue
 url: https://www.comumonline.com/2021/11/aauminho-desafia-herois-de-capa-negra-a-doar-sangue/
 site: ComUM
-description: A Associação Académica da Universidade do Minho (AAUM) está a promover uma campanha de recolha de dádivas de sangue. A iniciativa termina esta quarta-feira.
+description: |
+  A Associação Académica da Universidade do Minho (AAUM) está a promover uma campanha de recolha de dádivas de sangue. A iniciativa termina esta quarta-feira.
 tags: Associação Académica da Universidade do Minho, Instituto Português do Sangue e da Transplantação, Mariana Monteiro, "Heróis de Capa Negra", campanha de recolha de dádivas de sangue
 type: article
 ---
@@ -26,4 +27,3 @@ Assim, considera que a AAUM “tem a missão de oferecer aos estudantes da unive
 A aluna reitera que “doar sangue é imprescindivelmente importante”. Por esta razão, considera que os estudantes participantes são “verdadeiros heróis, visto que doar sangue é salvar vidas”.
 
 Carla Santos, estudante de Administração Pública, foi uma das “heroínas” que participou na campanha. Em declarações ao ComUM, admitiu que gosta de doar de sangue, tendo já doado no IPO. “Acho que toda a gente devia dar, pois é algo que faz muita falta aos outros”, constatou. Por sua vez, Rosa Oliveira, trabalhadora não docente da UMinho, revelou que é dadora de sangue desde que começou a trabalhar na universidade. “Ajudar quem precisa” é a principal razão pela qual adere à iniciativa.
-

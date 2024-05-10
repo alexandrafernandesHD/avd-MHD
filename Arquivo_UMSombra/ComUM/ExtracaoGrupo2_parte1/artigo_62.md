@@ -1,11 +1,12 @@
 ---
-date: 10Nov2023
+date: 2023/11/10
 author: João Carvalho
 image: https://www.comumonline.com/wp-content/uploads/2019/03/sofia-summavielle_manifestação2-1500x1000.jpg
 title: Denunciados 51 casos de assédio e de discriminação em universidades portuguesas
 url: https://www.comumonline.com/2023/11/denunciados-51-casos-de-assedio-e-de-discriminacao-em-universidades-portuguesas/
 site: ComUM
-description: Universidades portuguesas receberam 51 denúncias de assédio e de discriminação no espaço de um ano e meio. Estudantes manifestam e exigem respostas.
+description: |
+  Universidades portuguesas receberam 51 denúncias de assédio e de discriminação no espaço de um ano e meio. Estudantes manifestam e exigem respostas.
 tags: UMinho, Assédio Sexual, manifestação estudantil, discriminação
 type: article
 ---
@@ -28,4 +29,3 @@ Estudantes de todas as universidades apelam à atribuição de processos discipl
 A manifestação “Academia Não Assedia” serviu também para a denúncia de um email, enviado a todos os alunos da Universidade do Minho, na passada quinta-feira, dia 2 de novembro. O email em questão, enviado por um aluno da Escola de Economia e Gestão, tinha como intenção criminalizar o aborto.
 
 Miguel Martins, representante dos estudantes no Conselho Geral da Universidade do Minho, informou que o email foi reencaminhado para a Provedora do Estudante, para que se consiga perceber o que falhou com a Direção de Tecnologias e Sistemas de Informação. A Provedora do Estudante, Rosa Vasconcelos, assegurou que a situação já foi solucionada pela presidente do Conselho Pedagógico da Escola de Economia e Gestão, Maria do Céu Arena.
-

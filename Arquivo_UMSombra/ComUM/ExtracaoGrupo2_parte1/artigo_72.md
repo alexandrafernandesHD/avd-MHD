@@ -1,11 +1,12 @@
 ---
-date: 07Dez2021
+date: 2021/12/07
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2021/12/DSC_0687-1500x1000.jpg
 title: Eleições AAUM. Abstenção mantém-se na ordem dos 80%
 url: https://www.comumonline.com/2021/12/eleicoes-aaum-abstencao-mantem-se-na-ordem-dos-80/
 site: ComUM
-description: Nestas eleições para os órgãos sociais da Associação Académica da Universidade do Minho (AAUM) votaram 3.896 alunos. A abstenção caiu para os 78,17%.
+description: |
+  Nestas eleições para os órgãos sociais da Associação Académica da Universidade do Minho (AAUM) votaram 3.896 alunos. A abstenção caiu para os 78,17%.
 tags: AAUM, abstenção, eleições, e-VotUM, 2021
 type: article
 ---
@@ -34,4 +35,3 @@ Nuno Carvalho, membro Comissão Eleitoral, demitiu-se um dia antes das eleiçõe
 Entrevistas: Maria Carvalho, Maria Francisca Barros e Nuno Pereira
 
 Multimédia: Joana Dantas e Joana Oliveira
-

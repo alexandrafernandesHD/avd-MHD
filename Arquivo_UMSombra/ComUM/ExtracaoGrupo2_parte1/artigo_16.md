@@ -1,11 +1,12 @@
 ---
-date: 21Out2021
+date: 2021/10/21
 author: Marta Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2020/12/Rui-Oliveira3-1500x1000.jpg
 title: AAUMinho projeta campanha sobre a emancipação dos jovens
 url: https://www.comumonline.com/2021/10/aauminho-projeta-campanha-sobre-a-emancipacao-dos-jovens/
 site: ComUM
-description: A Associação Académica da Universidade do Minho (AAUMinho) está a desenvolver uma campanha sobre a emancipação dos jovens portugueses.
+description: |
+  A Associação Académica da Universidade do Minho (AAUMinho) está a desenvolver uma campanha sobre a emancipação dos jovens portugueses.
 tags: Associação Académica da Universidade do Minho, campanha, Rui Oliveira, emancipação dos jovens
 type: article
 ---
@@ -24,4 +25,3 @@ O presidente da AAUMinho, Rui Oliveira, aponta como um dos grandes problemas em 
 No entanto, o representante de estudantes defende que esta situação é insuficiente para imobilizar os jovens. Rui Oliveira reitera a necessidade de “perceber que medidas é preciso tomar para responder ao talento gerado que não está a ser captado por Portugal”. Por último, acrescenta que os estudantes vão continuar a ingressar no ensino superior, numa luta permanente que lhes conceda a sua emancipação, nomeadamente a nível salarial.
 
 A campanha tem, assim, como objetivo reunir opiniões que permitam reivindicar junto dos responsáveis pelas áreas envolvidas.
-

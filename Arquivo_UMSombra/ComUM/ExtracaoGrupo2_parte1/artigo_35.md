@@ -1,8 +1,8 @@
 ---
-date: 24Abr2017
+date: 2017/04/24
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2017/04/PedroGoncaloCosta_Reitor_23_3_17_03-1500x1000.jpg
-title: António Cunha: “Tenho muita dificuldade em entender o fenómeno da praxe”
+title: António Cunha -- “Tenho muita dificuldade em entender o fenómeno da praxe”
 url: https://www.comumonline.com/2017/04/antonio-cunha-tenho-muita-dificuldade-em-entender-o-fenomeno-da-praxe/
 site: ComUM
 description: 
@@ -33,7 +33,7 @@ Contudo, o reitor defende a sua posição com a necessidade de “se encontrar o
 
 Já em relação às refeições dos estudantes, António Cunha remete para a gestão dos espaços: “Tenho estudantes a dizer-me que queriam ter mais capacidade para preparar isto ou aquilo. Temos também queixas de outros estudantes a dizer que mesmo os pequenos espaços que existem hoje, com os microondas, não permitem confeccionar refeições como alguns estudantes gostariam. Mas também temos queixas de estudantes que dizem que o espaço devia estar limpo, devido a ter sido utilizado por este ou por aquele estudante que o deixou em condições não razoáveis”.
 
-O equilíbrio é mesmo a resposta recorrente de Cunha. O reitor compreende as necessidades dos estudantes, mas define as circunstâncias:  “Se nós tivermos uma comunidade altamente responsável, há certas coisas que são possíveis. Se não tivermos, há certas coisas que têm que ser mais controladas e mais limitadas”.
+O equilíbrio é mesmo a resposta recorrente de Cunha. O reitor compreende as necessidades dos estudantes, mas define as circunstâncias:  “Se nós tivermos uma comunidade altamente responsável, há certas coisas que são possíveis. Se não tivermos, há certas coisas que têm que ser mais controladas e mais limitadas”.
 
 “Não seria bom que os estudantes pudessem preparar as suas refeições nas residências? Era. Contudo, isso é muito difícil de fazer. Porque temos que fazer isso num modo em que as pessoas utilizam uma cozinha, mas depois aquilo fica [em condições]. A não ser que tenhamos uma pessoa a tomar conta daquilo, é preciso garantir que isto seja feito em modos que todos utilizam, mas que os níveis de limpeza, que os níveis de ‘convivialidade’ são assegurados”, remata António Cunha. 
 
@@ -53,7 +53,7 @@ António Cunha esclarece que, no que respeita à construção de um parque despo
 
 Um conceito novo na universidade serão os complexos multifuncionais: “Tem muito a ver com os novos conceitos de ensino, investigação. Dentro de cinco, dez anos, as salas de aula vão ser muito diferentes do que são hoje e, portanto, é preciso encontrar os espaços adequados a essa nova forma de aprender e ensinar”. Num projeto que olha essencialmente para o futuro, António Cunha diz que este será um “conceito diferente da tradicional sala de aula, mas onde se encontrarão estudantes e professores, estudantes e estudantes, e onde as pessoas aprendem”.
 
-A requalificação dos campi “está a acontecer”, garante Cunha, dando o exemplo do investimento na Escola de Ciências, cujas condições não eram as mais adequadas.  
+A requalificação dos campi “está a acontecer”, garante Cunha, dando o exemplo do investimento na Escola de Ciências, cujas condições não eram as mais adequadas.  
 
 Apesar dos vários projectos em estudo, Geografia espera obras há 20 anos
 
@@ -91,4 +91,3 @@ Entrevista: Eduardo Miranda e João Pedro Quesado
 Texto: Eduardo Miranda, João Pedro Quesado e Tiago Ramalho
 Imagem: Gonçalo Costa e Tiago Ramalho
 Edição: João Pereira
-

@@ -1,11 +1,12 @@
 ---
-date: 14Ago2023
+date: 2023/08/14
 author: Beatriz Vilaça
 image: https://www.comumonline.com/wp-content/uploads/2018/03/MG_7160-1500x1000.jpg
-title: Afonsina: “Uma das nossas maiores conquistas é o reconhecimento dos estudantes da UMinho”
+title: Afonsina -- “Uma das nossas maiores conquistas é o reconhecimento dos estudantes da UMinho”
 url: https://www.comumonline.com/2023/08/afonsina-uma-das-nossas-maiores-conquistas-e-o-reconhecimento-dos-estudantes-da-uminho/
 site: ComUM
-description: Oriunda da cidade berço, a Afonsina é um dos diversos grupos culturais presentes na Universidade do Minho. O ComUM dá a conhecer mais sobre esta tuna.
+description: |
+  Oriunda da cidade berço, a Afonsina é um dos diversos grupos culturais presentes na Universidade do Minho. O ComUM dá a conhecer mais sobre esta tuna.
 tags: cultura, Guimarães, Afonsina, José de Guimarães, Grupos Culturais
 type: article
 ---
@@ -50,4 +51,3 @@ O dia-a-dia na tuna, ou seja, os ensaios, cuja duração é de aproximadamente d
 Os novos elementos, não precisam de qualquer tipo de audição para entrar para a tuna, aceitando qualquer estudante masculino da Universidade do Minho. A partir daí “as pessoas podem optar por aprender qualquer tipo de instrumento”, havendo ainda a possibilidade de aprender a fazer a coreografia com pandeiretas ou com estandarte. Assim, “uma pessoa uma vez chegada à Afonsina tem a possibilidade de experimentar as vagas que quiser ou se já estiver a ir diretamente para uma e focar-se naquela que gostar mais”.
 
 Igor Fernandes aconselha a qualquer estudante que se identifique com a Afonsina para às terças e quintas, pelas 21h30, irem à sala do BA de Guimarães e experimentarem um ensaio. Para os restantes, fica o convite para assistirem às futuras atuações do grupo na Receção ao Caloiro e no Enterro da Gata.
-

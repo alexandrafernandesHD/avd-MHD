@@ -1,11 +1,12 @@
 ---
-date: 12Out2021
+date: 2021/10/12
 author: Joana Oliveira
 image: https://www.comumonline.com/wp-content/uploads/2021/10/gybouybuj-min.jpg
-title: Ana Lopes: “Queremos mostrar aos alunos o que é o associativismo académico”
+title: Ana Lopes -- “Queremos mostrar aos alunos o que é o associativismo académico”
 url: https://www.comumonline.com/2021/10/ana-lopes-queremos-mostrar-aos-alunos-o-que-e-o-associativismo-academico/
 site: ComUM
-description: A ADAUM realiza, esta quarta-feira, o seu debate inaugural. Em entrevista ao ComUM, a presidente, Ana Lopes explica o que se vai suceder no evento.
+description: |
+  A ADAUM realiza, esta quarta-feira, o seu debate inaugural. Em entrevista ao ComUM, a presidente, Ana Lopes explica o que se vai suceder no evento.
 tags: ADAUM, Educação, associativismo, Ana Lopes, debate inaugural
 type: article
 ---
@@ -32,4 +33,3 @@ No que diz respeito ao tema do debate inaugural, a presidente da ADAUM refere qu
 O debate, que se realiza esta quarta-feira, vai estar dividido em vários momentos. A sessão vai começar com a apresentação dos vários elementos envolvidos no debate e o lançamento da moção. De seguida, os estudantes que vão debater têm 15 minutos para prepararem os seus discursos. Durante este tempo, será apresentada a associação, bem como o seu modelo de debate – o modelo British Parliament. Além disso, será ainda realizada uma abordagem ao debate competitivo universitário. Por último, o evento vai terminar com um momento informal e de lazer, com disponibilização de comida e bebida. Vai funcionar como um “espaço mais informal para tirar dúvidas que algumas pessoas não querem tirar em público porque não se sentem à vontade para o fazer”, explica a presidente.
 
 Ana Lopes antecipa também a realização de um torneio interno, com data por definir e que consistirá num dos pontos altos deste ano letivo. Esta iniciativa vai permitir aos estudantes “criarem mais laços e desenvolverem as suas capacidades de debate num sítio onde se possam sentir à vontade”. A presidente revela, por fim, que vão ser realizadas, no decorrer do ano, as Jornadas do Debate. Segundo a presidente da ADAUM, estas jornadas “consistem em séries de conferências, ou seja, são várias conferências durante uma a duas semanas e que já acontecem desde há dois anos – estas vão ser as terceiras jornadas do debate”.
-
