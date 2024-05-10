@@ -26,10 +26,17 @@ Transcrição Bruta: Inicialmente, foi realizada a transcrição completa da ent
 Edição e Refinamento: A transcrição foi editada para remover partes desnecessárias, inserir pontuação e criar parágrafos.
 Melhoria da Legibilidade: Foram feitos ajustes para tornar a transcrição mais fácil de ler e compreender.
 Inclusão de Títulos de Seção: Quando apropriado, foram adicionados títulos de seção para organizar o conteúdo (perguntas e repostas).
+Editoração: Fiz a editoração da entrevista no Canva.com 
 Finalização: A transcrição final foi preparada para inclusão no projeto "UM Sombra" e para criação de um livro no Issuu a ser entregue ao entrevistado.
 
-# Link para a Entrevista
+# Link para áudio da Entrevista e 1a transcrição
 https://app.meetgeek.ai/meeting/f10dd912-ccf4-48ba-afe5-00d92237f5b8 (Link da 1a transcrição - Meet Geek)
+
+# Link para a Entrevista editorada
+https://www.canva.com/design/DAGB0eHJjRY/hOMaeJoUVIZEamYpPA_3jA/view?utm_content=DAGB0eHJjRY&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+# Link para o livro com a publicação da entrevista
+https://issuu.com/danimcav/docs/entrevista_professor_mario_farelo_f_7be33718c95ddd
 
 # Arquivos adicionados ao diretório
 Perguntas Entrevista Professor Mário Farelo por Daniella Monteiro Cavalheiro.pdf (Preparação das perguntas para entrevista)
@@ -37,8 +44,13 @@ Perguntas Entrevista Professor Mário Farelo por Daniella Monteiro Cavalheiro.pd
 Transcrição_Entrevista_Prof_Mario_Farelo_TurboScribe.txt (2a transcrição por AI)
 Entrevista Professor Mario Farelo_Final_copy_and_paste.txt (1a limpeza)
 Entrevista_Professor_Mario_Farelo_por_Daniella_Monteiro_Cavalheiro_Editado.txt (Arquivo editado para ser formatado de revista)
+
 Extract_Meta_Interview_Prof_Farelo.py (1a tentativa de extrtação de Metadados)
+Interview_Prof_Farelo.md (escuta do code acima)
+
 Extract_Meta_Interview_Prof_Farelo_Data.py (extração dos metadados)
+Entrevista_Professor_Mario_Farelo_Metadata.md (escuta do code acima)
+
 Entrevista_Professor_Mario_Farelo_Metadata.md (escuta do code Extract_Meta_Interview_Prof_Farelo_Data.py)
 Entrevista_Professor_Mario_Farelo_Metadata_Final.md (adição manual de etiquetas que o code não leu)
 
