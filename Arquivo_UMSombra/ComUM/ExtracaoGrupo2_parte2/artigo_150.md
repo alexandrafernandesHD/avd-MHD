@@ -1,11 +1,12 @@
 ---
-date: 19Set2022
+date: 2022/09/19
 author: Carina Ribeiro
 image: https://www.comumonline.com/wp-content/uploads/2019/09/acolhimento_joanabraganca05-1500x1000.jpg
 title: Reitor recebe os novos alunos na cerimónia de boas-vindas
 url: https://www.comumonline.com/2022/09/reitor-recebe-os-novos-alunos-na-cerimonia-de-boas-vindas/
 site: ComUM
-description: Durante esta segunda-feira, cerca de 2.900 novos alunos da Universidade do Minho (UMinho) foram recebidos pelo reitor Rui Vieira de Castro.
+description: |
+  Durante esta segunda-feira, cerca de 2.900 novos alunos da Universidade do Minho (UMinho) foram recebidos pelo reitor Rui Vieira de Castro.
 tags: Universidade do Minho, UMinho, Acolhimento, Reitor Rui Vieira de Castro, AAUMinho, Duarte Lopes
 type: article
 ---
@@ -24,4 +25,3 @@ Ao longo da sessão, para além das palavras do reitor, também o presidente da 
 A iniciativa pertence ao plano de Acolhimento que a reitoria promoveu, juntamente com a AAUM e Unidades Orgânicas e Serviços. Os alunos tiveram direito ao almoço gratuito, oferecido pela reitoria e também dispensa das aulas no período da tarde.
 
 Nos próximos dias o programa de Acolhimento segue o plano estabelecido e os caloiros têm ao seu dispor várias atividades. A próxima ocorre já esta terça-feira, consistindo numa mostra associativa nos campi e o plano encerra com os concertos noturnos no Pavilhão Multiusos de Guimarães. Ainda, a AAUMinho também está a promover ações de saúde mental.
-

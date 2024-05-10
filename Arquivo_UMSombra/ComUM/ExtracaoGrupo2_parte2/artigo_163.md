@@ -1,11 +1,12 @@
 ---
-date: 04Dez2023
+date: 2023/12/04
 author: Joana Antunes
 image: https://www.comumonline.com/wp-content/uploads/2023/11/sonia-fernandes-1500x479.png
-title: Sónia Fernandes: “Cabe-nos a nós tornar a informação mais acessível”
+title: Sónia Fernandes -- “Cabe-nos a nós tornar a informação mais acessível”
 url: https://www.comumonline.com/2023/12/sonia-fernandes-cabe-nos-a-nos-tornar-a-informacao-mais-acessivel/
 site: ComUM
-description: A estudante de mestrado do curso de Engenharia e Gestão Industrial candidata-se pela lista B com o mote “Por uma Voz Ativa”.
+description: |
+  A estudante de mestrado do curso de Engenharia e Gestão Industrial candidata-se pela lista B com o mote “Por uma Voz Ativa”.
 tags: AAUMinho, eleições AAUM 2023
 type: article
 ---
@@ -42,4 +43,3 @@ Sónia Fernandes – A adesão, sem dúvida. Acho que a adesão é uma das probl
 ComUM – Tens alguma mensagem que queiras deixar à academia?
 
 Sónia Fernandes – Sim, sem dúvida. Num ano celebramos 50 anos do 25 de abril. Este ano é muito importante e cabe também aos jovens festejarem estes 50 anos através do voto. O voto com consciência é muito importante e acredito que a lista B quer proporcionar isto tudo. Quer promover a discussão, quer promover a liberdade individual de cada estudante e, sem dúvida que aconselho a todos os estudantes que votem, que votem com consciência e que celebrem a liberdade por aqueles que lutaram por nós.
-

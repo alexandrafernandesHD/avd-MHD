@@ -1,11 +1,12 @@
 ---
-date: 08Set2021
+date: 2021/09/08
 author: Maria de Pinto Freitas
 image: https://www.comumonline.com/wp-content/uploads/2016/01/Exame-HSK.jpg
 title: UMinho abre inscrições para cursos de chinês
 url: https://www.comumonline.com/2021/09/uminho-abre-inscricoes-para-cursos-de-chines/
 site: ComUM
-description: As inscrições para os cursos livres de chines do Instituto Confúcio da UMinho já abriram. Língua e Cultura Chinesas e Chinês Turístico e Comercial são alguns dos cursos disponíveis.
+description: |
+  As inscrições para os cursos livres de chines do Instituto Confúcio da UMinho já abriram. Língua e Cultura Chinesas e Chinês Turístico e Comercial são alguns dos cursos disponíveis.
 tags: Língua e Cultura Chinesas, Chinês Turístico e Comercial, Instituto Confúcio da Universidade do Minho, cursos de chinês, formações, exame HSK
 type: article
 ---
@@ -26,4 +27,3 @@ Com um horário de cerca de 90 horas, o curso de Língua e Cultura Chinesa ofere
 Quanto à formação do chinês como primeira língua, a atividade vai decorrer entre o dia 16 de outubro e junho de 2022 no campus de Gualtar, vai ter um total de 90 horas e destina-se a crianças cujo objetivo é aprofundar as suas competências a nível da escrita e gramática. Geralmente, as crianças chinesas nascidas ou que cresceram em Portugal são mais propícias a aceitarem este curso devido à facilidade na oralidade.
 
 Devido à pandemia, o Instituto Confúcio criou ainda um curso online de chinês para crianças entre os 8 e os 14 anos. Este curso destina-se a escolas que são parceiras do Instituto e é possível fazer-se inscrição em confucio@confucio.uminho.pt. Por fim, está prevista a modificação das turmas por níveis de conhecimento, o que implica flexibilidade nos horários.
-

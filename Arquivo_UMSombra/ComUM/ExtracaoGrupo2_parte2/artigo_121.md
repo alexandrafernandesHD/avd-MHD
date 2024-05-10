@@ -1,11 +1,12 @@
 ---
-date: 03Dez2023
+date: 2023/12/03
 author: Ana Beatriz Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2023/12/Captura-de-Ecra-279-1500x706.png
-title: Margarida Isaías: “Aproximar a academia também é aproximarmo-nos ainda mais dos estudantes”
+title: Margarida Isaías -- “Aproximar a academia também é aproximarmo-nos ainda mais dos estudantes”
 url: https://www.comumonline.com/2023/12/margarida-isaias-aproximar-a-academia-tambem-e-aproximarmo-nos-ainda-mais-dos-estudantes/
 site: ComUM
-description: Margarida Isaías é candidata à direção da AAUMinho. A estudante de medicina pretende aproximar ainda mais a academia, com novas propostas e melhorias.
+description: |
+  Margarida Isaías é candidata à direção da AAUMinho. A estudante de medicina pretende aproximar ainda mais a academia, com novas propostas e melhorias.
 tags: AAUMinho, candidatura à direção, Eleições AAUMinho 2023
 type: article
 ---
@@ -19,13 +20,13 @@ type: article
 
 As eleições para os diferentes órgãos da Associação Académica da Universidade do Minho (AAUMinho) decorrem na próxima quarta-feira, dia 6, através da plataforma e-votum. Margarida Isaías, atual presidente da associação e recandidata ao cargo, pretende aproximar ainda mais a academia introduzindo novas propostas e melhorando certos aspetos já existentes.
 
- 
+
 
 ComUM – Quais os principais objetivos desta recandidatura?
 
 Margarida Isaías – Já estou na associação académica há algum tempo e fui crescendo nela. Este ano o desafio foi, de facto, ser presidente. É um trabalho de representação política e de acompanhamento e gestão da equipa. Eu acho que quando alguém se candidata à associação académica tem três principais motivos: a vontade de trabalhar em prol da comunidade académica, considerar que tem as ferramentas necessárias para o fazer e, acima de tudo, tem aquele sentido de responsabilidade e vontade de crescer. Crescemos muito no associativismo e é um desenvolvimento pessoal e profissional. Acho que a própria associação precisa dessa estabilidade e de conseguir consolidar algumas questões e objetivos. Pretendo consolidar e aproximar a academia. E quando digo academia digo os núcleos e os estudantes, os residentes, as universidades, a comunidade das cidades de Braga e Guimarães e o próprio Ministério. Torna-se importante olharmos para a comunidade académica como um todo. Assim, conseguimos trabalhar em prol dos estudantes e conseguimos aprender e crescer. Eu não gosto muito de chamar a isto uma recandidatura porque, pessoalmente é, mas a nível da estrutura e da lista é uma candidatura nova.
 
-ComUM – O mandato anterior correu na perfeição? 
+ComUM – O mandato anterior correu na perfeição? 
 
 Margarida Isaías – Não, de todo que não foi perfeito, nem acho que a ser eleita no próximo ano será perfeito. Eu acho, e tenho de passar isso aos dirigentes, que é importante termos a humildade de perceber que nós erramos, porque só assim conseguimos depois fazer melhor.
 
@@ -56,4 +57,3 @@ Margarida Isaías – Nós temos as residências na Santa Luzia, em Guimarães, 
 ComUM – A lista A está esperançosa para uma maior acessibilidade ao alojamento em 2024?
 
 Margarida Isaías – Eu acho que é um caminho longo a percorrer. Esta questão do PRR, a construção de novas camas e reabilitação de existentes, é algo que se atinge a longo prazo. Só para 2025/2026 é que teremos isto. No entanto, há medidas como o complemento de alojamento que este ano aumentou que são bastante positivas e importantes. Ainda assim, acho que há outras questões que devem ser trabalhadas. O próprio valor que o Estado atribui de bolsa para o alojamento é muito reduzido. E as residências e os serviços da ação social não têm dinheiro para a manutenção dos edifícios. O Estado dá 100 euros para uma residência pública e isto tem de pagar as contas da água, da luz, dos funcionários e ainda a manutenção do edifício. Mas depois está disposto a dar mais de 50% deste valor, que são cerca de 300 euros, para o alojamento privado. Estamos a ver aqui a discrepância enorme que não permite a manutenção destes edifícios e acarreta custos muitos elevados para o Estado. Não havendo opção pública, os estudantes têm que ir para o privado e o Estado acaba por ter de comparticipar isso.
-

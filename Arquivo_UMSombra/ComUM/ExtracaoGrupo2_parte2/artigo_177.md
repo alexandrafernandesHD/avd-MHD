@@ -1,5 +1,5 @@
 ---
-date: 13Mar2018
+date: 2018/03/13
 author: Margarida Pinto
 image: https://www.comumonline.com/wp-content/uploads/2017/10/IMG_3249-T55-1500x1000.jpg
 title: UMinho cria sistema para cidades “mais amigas” dos peões
@@ -26,4 +26,3 @@ O sistema será avaliado, numa primeira fase, no Porto e em Bolonha, com o objet
 Para os investigadores do projeto, a aposta neste tipo de deslocação é fundamental para uma mobilidade mais sustentável e para incutir estilos de vida mais saudáveis, melhorando-se assim a qualidade do ambiente urbano. Além de melhorar a saúde, andar a pé reduz o congestionamento do tráfego e a poluição atmosférica.
 
 No projeto estão também envolvidas a Universidade de Bolonha, a Universidade Europeia de Chipre e a Associação para o Desenvolvimento Sustentável e Inovador em Economia, Ambiente e Sociedade, da Áustria. A aprovação veio da Cofund Smart Urban Futures, no âmbito da “Joint Programming Initiative Urban Europe”, um programa lançado pela Comissão Europeia, e conta com um financiamento de cerca de um milhão de euros até 2020.
-

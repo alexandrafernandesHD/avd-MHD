@@ -1,11 +1,12 @@
 ---
-date: 03Dez2022
+date: 2022/12/03
 author: Marta Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2022/12/SofiaLucas-1500x1000.jpg
 title: Sofia Lucas. “Achamos que colocar caixas de sugestões nos campi seria benéfico para os estudantes”
 url: https://www.comumonline.com/2022/12/sofia-lucas-achamos-que-colocar-caixas-de-sugestoes-nos-campi-seria-benefico-para-os-estudantes/
 site: ComUM
-description: As eleições para os órgãos de governo da Associação Académica da Universidade do Minho (AAUM) têm lugar na próxima terça-feira, dia 6 de dezembro.
+description: |
+  As eleições para os órgãos de governo da Associação Académica da Universidade do Minho (AAUM) têm lugar na próxima terça-feira, dia 6 de dezembro.
 tags: Lista E, Candidata à Mesa da Reunião Geral de Alunos, Sofia Lucas
 type: article
 ---
@@ -30,4 +31,3 @@ Aquilo que trazemos de diferente é que queremos inovar e vemos os erros dos ano
 Acho que há um afastamento em relação aos estudantes. As próprias reuniões são avisadas em cima e não há uma procura de uma divulgação maior e atempada. Por exemplo, os núcleos podem fazer esse papel mas acho que isso devia alastrar também para os delegados. Devia haver uma consciencialização dos delegados para promoverem dentro das turmas e mais gente ir. Se calhar muita gente nem sabe o que é nem tem interesse em procurar os órgãos que existem dentro desta universidade, não sabem onde devem falar e ter a sua voz ouvida. O papel dos delegados neste sentido seria muito benefício e não foi feito até agora. Acho que devia haver esse investimento. Enquanto delegada sei que consigo comunicar com os meus colegas o dia e a hora e explicar o que são as RGA. A nossa lista vai apostar nisso e também numa sessão informativa: como fazer propostas, importância de ir à RGA, como votar, por exemplo. Todo esse sistema devia ser mais abordado e explicitado aos estudantes e este ponto também combate a falta de adesão porque as pessoas vão ver que de facto há interesse em ir às RGA. Acreditamos que uma campanha mais presente também vai combater estes problemas e vamos estar mais próximos dos estudantes. As atas deviam ser disponibilizadas em partes do site da Universidade do Minho e todas as informações, incluindo datas. É muito mais fácil para o estudante ter acesso de forma direta e conciliar melhor as informações, que é uma das maiores propostas que a nossa lista aposta.
 
 A meu ver pode se fazer de várias formas, com algum tipo de formulário. No site um botão que fosse diretamente ao formulário e as pessoas preenchiam ou até haver sítios nos campi em que os estudantes possam colocar as suas questões: no CP2, CP1, na Nave de Azurém e representando todos os Campus, incluindo o de Couros e dos Congregados. Achamos que colocar caixas de sugestões seria benéfico para a própria inclusão dos estudantes, um dos valores essenciais da nossa lista.
-

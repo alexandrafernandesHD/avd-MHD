@@ -1,11 +1,12 @@
 ---
-date: 02Dez2023
+date: 2023/12/02
 author: Ana Beatriz Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2023/12/Captura-de-Ecra-278-1500x734.png
-title: Luís Pereira: “Temos de mostrar que os estudantes têm voz na academia”
+title: Luís Pereira -- “Temos de mostrar que os estudantes têm voz na academia”
 url: https://www.comumonline.com/2023/12/luis-pereira-temos-de-mostrar-que-os-estudantes-tem-voz-na-academia/
 site: ComUM
-description: Luís Pereira, candidato à direção da AAUMinho, defende uma maior união entre os estudantes e uma luta contra os problemas atuais da comunidade académica.
+description: |
+  Luís Pereira, candidato à direção da AAUMinho, defende uma maior união entre os estudantes e uma luta contra os problemas atuais da comunidade académica.
 tags: AAUMinho, Candidato à direção da Associação Académica, Eleições AAUMinho 2023
 type: article
 ---
@@ -19,7 +20,7 @@ type: article
 
 As eleições para a Associação Académica da Universidade do Minho (AAUMinho) decorrem na próxima quarta-feira, dia 6 de dezembro, através da plataforma e-votum. Luís Pereira encabeça a lista H e candidata-se à direção da associação. Em entrevista ao ComUM, o estudante de direito realça a eficácia da união e mobilização estudantil na resolução dos problemas que, atualmente, assolam a comunidade académica.
 
- 
+
 
 ComUM – A lista H defende o fim imediato da propina. De que forma pretende acabar com aquilo que considera ser um entrave ao acesso no ensino superior?
 
@@ -52,4 +53,3 @@ Luís Pereira – Relativamente à perda da bolsa por causa do número de crédi
 ComUM – A vossa lista foca-se mais na reivindicação e não tanto no diálogo. De onde vem este modelo e porque acreditam que funciona melhor do que o modelo defendido pela lista A?
 
 Luís Pereira – Podemos ver, historicamente, como foi a crise académica de 1962. Os estudantes quando unidos têm muita força para mudar as condições materiais. Naquela altura fizemos greve a exames, boicote às aulas e fomos contra tudo aquilo que o sistema fascista não queria que fosse contestado. Na altura os estudantes não estiveram propriamente a dialogar. Encontramo-nos num quadro de urgência enorme. A comida está muito cara, viver está muito caro, as rendas estão altíssimas, a propina mantém-se e a refeição social aumenta. Todos estes constrangimentos que estão a piorar a saúde económica e a estabilidade das nossas vidas precisam de uma resposta que seja mais do que o pequeno diálogo. É preciso uma mobilização que será positiva para o próprio desenvolvimento da democracia dentro da academia. Nós temos a hipótese de continuar com este diálogo mais micro ou temos a hipótese de envolver todos os estudantes num objetivo mais macro. Podemos, assim, conseguir atingir efeitos e melhorias para o ensino superior na atualidade. Este é um ponto essencial, um ponto de mudança e um ponto chave.
-

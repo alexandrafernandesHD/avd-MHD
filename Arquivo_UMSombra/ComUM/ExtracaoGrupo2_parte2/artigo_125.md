@@ -1,11 +1,12 @@
 ---
-date: 08Jan2023
+date: 2023/01/08
 author: Joana Oliveira
 image: https://www.comumonline.com/wp-content/uploads/2023/01/IMG_5239-1500x1000.jpg
 title: Margarida Isaías toma posse como presidente da AAUMinho
 url: https://www.comumonline.com/2023/01/margarida-isaias-toma-posse-como-presidente-da-aauminho/
 site: ComUM
-description: O mandato de 2023 conta com Margarida Isaías para presidir a direção. Miguel Lima assume a liderança da Mesa da RGA e Pedro Antunes a liderança do CFJ.
+description: |
+  O mandato de 2023 conta com Margarida Isaías para presidir a direção. Miguel Lima assume a liderança da Mesa da RGA e Pedro Antunes a liderança do CFJ.
 tags: AAUM, Tomada de Posse, Conselho Fiscal e Jurisdicional, Duarte Lopes, Direção, Mesa da Reunião Geral de Alunos, Margarida Isaías
 type: article
 ---
@@ -40,4 +41,3 @@ A tomada de posse encerrou com o CAUM, que cantou “Gaudeamus igitur”, a mús
 Ao ComUM, foi comunicado que uma associação não foi convidada para estar presente na tomada de posse, devido a uma falha de comunicação.
 
 Artigo atualizado às 23h30 do dia 08/01/2023
-

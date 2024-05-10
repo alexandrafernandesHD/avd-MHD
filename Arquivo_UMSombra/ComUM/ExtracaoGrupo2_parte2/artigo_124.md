@@ -1,11 +1,12 @@
 ---
-date: 20Mar2023
+date: 2023/03/20
 author: Marta Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2023/03/IMG_8237-scaled-e1679324712414-1500x903.jpg
 title: Margarida Isaías. “Falta auscultação e agir consoante as reivindicações dos estudantes”
 url: https://www.comumonline.com/2023/03/margarida-isaias-falta-auscultacao-e-agir-consoante-as-reivindicacoes-dos-estudantes/
 site: ComUM
-description: A lista A, encabeçada por Margarida Isaías, é candidata a representante dos estudantes no Conselho Geral (CG) da Universidade do Minho.
+description: |
+  A lista A, encabeçada por Margarida Isaías, é candidata a representante dos estudantes no Conselho Geral (CG) da Universidade do Minho.
 tags: Universidade do Minho, Conselho Geral, Lista A, Margarida Isaías, Eleições Conselho Geral 2023
 type: article
 ---
@@ -21,7 +22,7 @@ A lista A, encabeçada por Margarida Isaías, é candidata a representante dos e
 
 Margarida Isaías: É importante, estando eu na associação académica, estar também neste que é o órgão máximo da Universidade do Minho. É importante que haver estudantes capacitados que já trabalham este tema diariamente. Em específico, eu já fui eleita para representar os estudantes e esta é a minha vida diária. Portanto, acho que tenho todas as capacidades para também representar os estudantes no Conselho Geral, e foi daí que surgiu muito esta candidatura.
 
-São 11 outros estudantes e nem todos estão na associação académica porque quisemos chegar ao maior número de estudantes possíveis e encontrar estudantes diversos, representativos de diferentes cursos e áreas que são trabalhadas no CG. 
+São 11 outros estudantes e nem todos estão na associação académica porque quisemos chegar ao maior número de estudantes possíveis e encontrar estudantes diversos, representativos de diferentes cursos e áreas que são trabalhadas no CG. 
 
 Margarida Isaías: Os estudantes já estão em muitos dos órgãos da universidade, mas falta auscultação, agir consoante as suas reivindicações e uma representação mais correta dos estudantes, no sentido em que muitos dos órgãos não são trabalhados da melhor forma. Muitos dos estudantes que estão em determinados órgãos nem foram eleitos mas sim nomeados por outros docentes, o que não faz sentido.
 
@@ -29,7 +30,7 @@ Já no CG, o número de estudantes presentes não é de todo representativo das 
 
 Margarida Isaías: A falta de ação consoante a auscultação dos estudantes pode pôr em causa o interesse, porque o estudante pode questionar o seguimento que é dado à sua auscultação. Acaba por haver um desinteresse nesse sentido e uma falta de informação porque há muita coisa que envolve uma universidade e isso não é bem promovido.
 
-A Lista A olha muito para estas eleições de 2 em 2 anos como uma forma de mostrar quem nós somos, porque é que queremos fazer parte mas também dar a conhecer o próprio órgão, que é o nosso principal objetivo. 
+A Lista A olha muito para estas eleições de 2 em 2 anos como uma forma de mostrar quem nós somos, porque é que queremos fazer parte mas também dar a conhecer o próprio órgão, que é o nosso principal objetivo. 
 
 Margarida Isaías: Mesmo antes da campanha procuramos saber as necessidades dos estudantes. Em período de campanha, informar o que é o CG, porque é que lá estamos e o que pretendemos fazer, tanto a nível online como presencial. Se formos eleitos, nestes próximos dois anos queremos trabalhar com os estudantes e demonstrar o valor que nós temos e podemos ter no CG. Acho que este é também um caminho para reduzir a abstenção e aumentar o interesse.
 
@@ -46,4 +47,3 @@ Também na questão do alojamento, cada vez mais se tem sentido a dificuldade do
 Margarida Isaías: Temos mais nas redes sociais lançado o que é que é, o que são as nossas propostas. Juntamos um grande grupo de estudantes que trabalham bem estes temas na universidade e que participam nas diferentes dimensões da universidade para também contribuírem para este que é o nosso manifesto. Agora queremos também estar nos campi, presencialmente, não só a ouvir os estudantes mas também a informar sobre o que é o conselho geral e o que é a nossa lista.
 
 Margarida Isaías: A Lista A é constituída por estudantes experientes, por participarem e serem bastante envolvidos na universidade. É uma equipa diversa que é representativa dos diferentes cursos e campi, mas mais do que isso nas diferentes áreas trabalhadas no CG. Temos também ferramentas para conseguirmos agir em conformidade com aquilo que nós defendemos.
-

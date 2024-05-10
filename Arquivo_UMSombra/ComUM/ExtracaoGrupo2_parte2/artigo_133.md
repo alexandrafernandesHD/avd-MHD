@@ -1,11 +1,12 @@
 ---
-date: 03Set2021
+date: 2021/09/03
 author: Maria Francisca Barros
 image: https://www.comumonline.com/wp-content/uploads/2017/11/IMG_3324-T55-1500x1000.jpg
-title: Novas escolas de Medicina: “Em vez de melhorar, é empobrecer”
+title: Novas escolas de Medicina -- “Em vez de melhorar, é empobrecer”
 url: https://www.comumonline.com/2021/09/novas-escolas-de-medicina-em-vez-de-melhorar-e-empobrecer/
 site: ComUM
-description: O ministro da Ciência, Tecnologia e Ensino Superior revelou que o Governo quer criar três novas escolas de ensino da Medicina até 2023.
+description: |
+  O ministro da Ciência, Tecnologia e Ensino Superior revelou que o Governo quer criar três novas escolas de ensino da Medicina até 2023.
 tags: Medicina, Manuel Heitor, Escola de Medicina da Universidade do Minho, Sindicato Nacional do Ensino Superior, Associação Nacional de Estudantes de Medicina, Escolas Medicas, Conselho de Escolas Médicas Portuguesas, Ministério da Ciência Tecnologia e Ensino Superior
 type: article
 ---
@@ -19,7 +20,7 @@ type: article
 
 O ministro da Ciência, Tecnologia e Ensino Superior, Manuel Heitor, revelou, em entrevista ao Diário de Notícias, que o Governo quer criar três novas escolas de ensino da Medicina até 2023. O ministro acredita que “são precisos mais médicos em Portugal” e defende o alargamento e a modernização do ensino da Medicina.
 
-Manuel Heitor espera chegar a 2023 “com a possibilidade, ou as oportunidades” de criar três novas escolas de ensino da Medicina, nomeadamente em Aveiro, Vila Real e na Universidade de Évora. O ministro acredita que os três novos centros vão “facilitar a capacitação científica para vir a alargar o ensino da Medicina, certamente de uma forma diversificada em relação ao que já se faz em Portugal”.
+Manuel Heitor espera chegar a 2023 “com a possibilidade, ou as oportunidades” de criar três novas escolas de ensino da Medicina, nomeadamente em Aveiro, Vila Real e na Universidade de Évora. O ministro acredita que os três novos centros vão “facilitar a capacitação científica para vir a alargar o ensino da Medicina, certamente de uma forma diversificada em relação ao que já se faz em Portugal”.
 
 O responsável defende que “não se deve obrigar ninguém a trabalhar num regime ou no outro”, mas que Portugal necessita de mais médicos, o que tem de ser acompanhado com a “diversificação da oferta”. Comparando Portugal ao Reino Unido, o ministro afirma que “por opção das próprias instituições e também das ordens profissionais, formamos todos os médicos da mesma forma” por outro lado, no modelo britânico “o sistema está diversificado”. “Deveria ser feita em Portugal uma diferenciação da duração e do nível de exigência da formação de médicos consoante a especialidade”, declara.
 
@@ -41,7 +42,6 @@ No comunicado, o CEMP responde também a Manuel Heitor no que toca à sua afirma
 
 Por fim, o ex-presidente do CEMP defende que o processo de melhoramento do ensino da Medicina em Portugal deve “passar pelo reforço das atuais faculdades de medicina e pelo aumento da sua competitividade e capacidade de atração”. Fausto Pinto acredita que formar mais médicos seria condená-los ao “desemprego ou a terem que emigrar”. “Em vez de melhorar, é empobrecer. É um erro”, conclui.
 
-A intenção do Governo em alargar o ensino da Medicina não é novidade. Manuel Heitor já tinha referido, no ano passado, que a manutenção das vagas nos cursos existentes reforçava a necessidade de disponibilizar o ensino desta área noutras instituições.
+A intenção do Governo em alargar o ensino da Medicina não é novidade. Manuel Heitor já tinha referido, no ano passado, que a manutenção das vagas nos cursos existentes reforçava a necessidade de disponibilizar o ensino desta área noutras instituições.
 
 Por conseguinte, Fausto Pinto acusa o ministro de estar a tentar promover uma solução que visa “ter mão-de-obra mais barata” na Medicina. O ex-diretor considera também que a posição de Manuel Heitor está apenas baseada em “princípios ideológicos” e que não contribui para uma “discussão séria” sobre a formação em medicina.
-

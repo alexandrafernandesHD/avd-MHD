@@ -1,11 +1,12 @@
 ---
-date: 24Jan2021
+date: 2021/01/24
 author: Marta Lima
 image: https://www.comumonline.com/wp-content/uploads/2020/12/Eleicoes2021_JoanaMafaldaGomes_11-1500x1000.jpg
-title: Rui Oliveira: “Temos de estar também disponíveis a ajudar a combater este problema global”
+title: Rui Oliveira -- “Temos de estar também disponíveis a ajudar a combater este problema global”
 url: https://www.comumonline.com/2021/01/rui-oliveira-nos-estudantes-universitarios-temos-de-estar-tambem-disponiveis-a-ajudar-a-combater-este-problema-global/
 site: ComUM
-description: Desde quinta-feira, as atividades letivas presenciais encontram-se suspensas como forma de combate à Covid-19. Rui Oliveira prestou declarações ao ComUM.
+description: |
+  Desde quinta-feira, as atividades letivas presenciais encontram-se suspensas como forma de combate à Covid-19. Rui Oliveira prestou declarações ao ComUM.
 tags: UMinho, sociedade, Associação Académica da Universidade do Minho, Rui Oliveira, Covid-19
 type: article
 ---
@@ -28,4 +29,3 @@ As bibliotecas também continuam abertas “a fim de prestar apoio aos estudante
 Contudo, existe o reconhecimento por parte de Rui Oliveira de que é necessário que exista uma especial atenção a problemas de cariz social e económico, que ganham ênfase com o arrastar da pandemia e com as aulas em regime não presencial. Assim, garante que a “AAUMinho irá também continuar a tentar dinamizar programas desportivos, culturais e de saúde mental a fim de ajudar com esta nova fase de confinamento”.
 
 O presidente da AAUMinho sublinha estar disponível para auxiliar os estudantes da academia minhota no que for possível e apela a que todos sejam agentes de saúde pública, “para que se torne possível conter este vírus e no mais breve espaço de tempo”.
-

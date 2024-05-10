@@ -1,5 +1,5 @@
 ---
-date: 25Fev2024
+date: 2024/02/25
 author: Elisa Siquara
 image: https://www.comumonline.com/wp-content/uploads/2024/02/IMG_5047-1500x1000.jpg
 title: Semana da Euforia 2024 – Mais um ano de festa
@@ -48,6 +48,3 @@ Elisa Siquara I ComUM
 Elisa Siquara I ComUM
 
 Elisa Siquara I ComUM
-
- 
-

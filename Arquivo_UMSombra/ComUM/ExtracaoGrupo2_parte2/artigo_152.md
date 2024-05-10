@@ -1,11 +1,12 @@
 ---
-date: 03Jul2023
+date: 2023/07/03
 author: Mariana Lopes
 image: https://www.comumonline.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-03-at-14.47.36.jpeg
-title: Rúben Monteiro: “A nossa principal causa é a inclusão”
+title: Rúben Monteiro -- “A nossa principal causa é a inclusão”
 url: https://www.comumonline.com/2023/07/ruben-monteiro-a-nossa-principal-causa-e-a-inclusao/
 site: ComUM
-description: A lista A, encabeçada por Rúben Monteiro, é candidata a representante dos estudantes no Senado Académico da Universidade do Minho (UMinho).
+description: |
+  A lista A, encabeçada por Rúben Monteiro, é candidata a representante dos estudantes no Senado Académico da Universidade do Minho (UMinho).
 tags: Universidade do Minho, Senado Académico, Eleições Senado Académico 2023, Lista B - Por todos os estudantes, Ruben Monteiro
 type: article
 ---
@@ -42,4 +43,3 @@ Rúben Monteiro – Queremos aproximar os órgãos e divulgar o que se passa nas
 Pensámos também que o momento em que há uma maior adesão por parte de todos os estudantes é no acolhimento, querendo assim nesses dias apresentar aos estudantes os vários órgãos da universidade e o que eles fazem e decidem de forma a ter as pessoas mais informadas, interessadas, e por sua vez mais atentas a estes momentos de campanhas e eleições.
 
 Rúben Monteiro – Quem me conhece sabe que gosto de reivindicar os interesses dos estudantes. Primeiro, porque sou estudante e, segundo, porque participo desde sempre em várias associações e grupos como o de debates que me trouxeram novos e diversos conhecimentos. Outro dos principais motivos é a situação social. Há um aumento da extrema direita, algo que sou completamente contra. Por este motivo, há cada vez mais alunos que defendem a extrema direita e que começam a infiltrar-se em órgãos académicos, núcleos e associações e, por isso, temos de assegurar que esses órgãos não são frequentados por essas pessoas. Todos os membros da Lista B reveem-se nesta ideologia e são pessoas empáticas, ativas, interessadas, especializadas e interventoras.
-

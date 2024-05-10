@@ -1,8 +1,8 @@
 ---
-date: 16Mar2017
+date: 2017/03/16
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2017/03/PedroGoncaloCosta_JoaoMonteiro_CG_11-1500x1000.jpg
-title: João Monteiro: “O Conselho Geral seguiu um percurso que honestamente não me agrada”
+title: João Monteiro -- “O Conselho Geral seguiu um percurso que honestamente não me agrada”
 url: https://www.comumonline.com/2017/03/joao-monteiro-o-conselho-geral-seguiu-um-percurso-que-honestamente-nao-me-agrada/
 site: ComUM
 description: 
@@ -38,7 +38,6 @@ João Monteiro: Se não quero proibir os lenços ou os véus, também não vou p
 
 ComUM: No plano da lista há um ponto pequeno em que a lista aborda sobre a criação, extinção e transformação de unidades orgânicas. Se já tem algo pensado sobre isso, quais planeia criar, extinguir e transformar?
 
-João Monteiro: O processo é sempre dinâmico, nós não temos nenhuma proposta de criação ou fusão ou extinção de qualquer unidade orgânica. Nenhuma. Tem é que ser um processo, a existir, que não pode ir contra aquilo que é o sentido da academia. E o sentido da academia engloba as escolas que estão envolvidas, como é evidente. Eu podia dar muitos exemplos, e eu gosto muito do regime matricial, em que as diferentes escolas participam para um bem comum ou um único curso.  Agora, fusão de cima para baixo, porque o CG decidiu que vai fundir aquelas instituições aí terão sempre a nossa posição, ponto final, parágrafo. A ser assim, é “não”. Seja qual for a solução, nem que eventualmente eu esteja de acordo com ela, nunca.
+João Monteiro: O processo é sempre dinâmico, nós não temos nenhuma proposta de criação ou fusão ou extinção de qualquer unidade orgânica. Nenhuma. Tem é que ser um processo, a existir, que não pode ir contra aquilo que é o sentido da academia. E o sentido da academia engloba as escolas que estão envolvidas, como é evidente. Eu podia dar muitos exemplos, e eu gosto muito do regime matricial, em que as diferentes escolas participam para um bem comum ou um único curso.  Agora, fusão de cima para baixo, porque o CG decidiu que vai fundir aquelas instituições aí terão sempre a nossa posição, ponto final, parágrafo. A ser assim, é “não”. Seja qual for a solução, nem que eventualmente eu esteja de acordo com ela, nunca.
 
 Hélio Carvalho, Henrique Ferreira
-

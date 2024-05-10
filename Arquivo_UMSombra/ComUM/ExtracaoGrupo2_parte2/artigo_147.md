@@ -1,11 +1,12 @@
 ---
-date: 06Nov2021
+date: 2021/11/06
 author: Maria de Pinto Freitas
 image: https://www.comumonline.com/wp-content/uploads/2021/11/253061374_5182541598428514_8044482424286672827_n-1500x1000.jpg
-title: Receção ao Calorio 2021: dois passos em direção à “normalidade”
+title: Receção ao Calorio 2021 -- dois passos em direção à “normalidade”
 url: https://www.comumonline.com/2021/11/rececao-ao-calorio-2021-dois-passos-em-direcao-a-normalidade/
 site: ComUM
-description: Após quase dois anos atípicos, a academia minhota volta, pouco a pouco, à atividade. A Receção iniciou-se no dia 3 de novembro.
+description: |
+  Após quase dois anos atípicos, a academia minhota volta, pouco a pouco, à atividade. A Receção iniciou-se no dia 3 de novembro.
 tags: Guimarães, Receção ao Caloiro, UMinho, Multiusos, Quim Barreiros, Grupos Culturais, 2021, 4 de novembro, 5 de novembro
 type: article
 ---
@@ -30,4 +31,3 @@ Os Grupos Culturais minhotos foram recebidos no Multiusos para iniciar o segundo
 O dia 4 de novembro contou ainda com a presença do Quim das Remisturas. O artista que já “faz parte da casa” demonstrou a sua adrenalina por voltar a atuar para público jovem depois de um ano sem receção. “É fantástico estar de volta. Pouco a pouco regressamos à normalidade, algo por muito”, afirmou o músico.
 
 The Fucking Bastards concluíram o segundo dia do evento. Numa atuação eletrizante, os artistas mantiveram os alunos da Universidade do Minho focados em dançar e aproveitar.
-

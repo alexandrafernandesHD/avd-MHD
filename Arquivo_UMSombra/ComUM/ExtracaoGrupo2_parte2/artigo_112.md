@@ -1,11 +1,12 @@
 ---
-date: 03Jul2023
+date: 2023/07/03
 author: Marta Rodrigues
 image: https://www.comumonline.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-03-at-16.48.41.jpeg
-title: Lista A: “Os encargos do ensino superior são uma problemática muito grande”
+title: Lista A -- “Os encargos do ensino superior são uma problemática muito grande”
 url: https://www.comumonline.com/2023/07/lista-a-os-encargos-do-ensino-superior-sao-uma-problematica-muito-grande/
 site: ComUM
-description: A lista A, encabeçada por Sónia Fernandes, é candidata a representante dos estudantes no Senado Académico da Universidade do Minho.
+description: |
+  A lista A, encabeçada por Sónia Fernandes, é candidata a representante dos estudantes no Senado Académico da Universidade do Minho.
 tags: Universidade do Minho, Senado Académico, Eleições Senado Académico 2023, Lista A - Mais Academia
 type: article
 ---
@@ -52,4 +53,3 @@ Sónia Fernandes: Fizemos esta aproximação antes da campanha. Tivemos de const
 Sónia Fernandes: Sim. Infelizmente, tivemos essa batalha de apresentar o Senado Académico, quem são os constituintes, o que é suposto fazer neste órgão. Sentimos que fizemos a diferença nas pessoas que auscultamos através de questionários e de estarmos no próprio campus. Houve muita partilha de ideias da parte dos estudantes connosco.
 
 Sónia Fernandes: O facto de existir um projeto adversário vai mobilizar mais pessoas para as eleições, o que consideramos um bom indicador de que os estudantes estão a participar. Temos as nossas redes sociais, grupos, a facilidade em chegar aos diversos campi, visto que temos representantes em todos eles. A nossa estratégia é falar diretamente com os estudantes e estarmos próximos da comunidade estudantil para reduzir ao máximo esta abstenção e para que no dia 5 de julho estejam presentes e votem com consciência.
-

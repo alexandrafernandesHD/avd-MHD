@@ -1,11 +1,12 @@
 ---
-date: 03Jan2020
+date: 2020/01/03
 author: Ana Sousa
 image: https://www.comumonline.com/wp-content/uploads/2019/01/tomada-de-posse_5-1500x1000.jpg
 title: PREVPAP e novos mestrados e doutoramentos emergem na UMinho
 url: https://www.comumonline.com/2020/01/prevpap-e-novos-mestrados-e-doutoramentos-emergem-na-uminho/
 site: ComUM
-description: A situação relativa à PREVPAP está perto de estar resolvida, com 30 dos 40 contratos assinados. Novas apostas em mestrados e doutoramentos são também avanços na educação e formação dada pela UMinho.
+description: |
+  A situação relativa à PREVPAP está perto de estar resolvida, com 30 dos 40 contratos assinados. Novas apostas em mestrados e doutoramentos são também avanços na educação e formação dada pela UMinho.
 tags: Universidade do Minho, PREVPAP, 2020, Novos mestrados e doutoramentos
 type: article
 ---
@@ -24,4 +25,3 @@ Rui Vieira de Castro garantiu, em declarações à RUM, que o problema da integr
 No novo ano civil, a academia minhota tem novos planos no que toca à educação e à formação. Relativamente a mestrados, o reitor anunciou dois focos, um nas Media Arts e outro na saúde em parceria com instituições dos Estados Unidos da América. Dois mestrados impulsionados pelo Instituto de Ciências Sociais e pela Escola de Medicina, respetivamente. A Universidade do Minho aguarda, entretanto, pela acreditação da Fundação para a Ciência e a Tecnologia (FCT).
 
 Em relação aos doutoramentos, está igualmente prevista uma nova opção em Fabrico Digital Direto, em parceria com o Instituto Politécnico de Leiria. Para o reitor da academia minhota, desta forma, a Universidade do Minho consegue “responder às necessidades que vão emergindo no contexto social e empresarial”.
-

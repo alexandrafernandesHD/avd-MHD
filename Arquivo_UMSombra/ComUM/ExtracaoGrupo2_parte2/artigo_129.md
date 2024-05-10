@@ -1,11 +1,12 @@
 ---
-date: 27Ago2021
+date: 2021/08/27
 author: Lara Duarte
 image: https://www.comumonline.com/wp-content/uploads/2017/10/AnaMariaDinis_InauguracaoIBS02-1500x1000.jpg
 title: Ministro do Ensino Superior defende ensino presencial nas universidades
 url: https://www.comumonline.com/2021/08/ministro-do-ensino-superior-defende-ensino-presencial-nas-universidades/
 site: ComUM
-description: O ministro Manuel Heitor já deu orientações para que as atividades letivas ocorram presencialmente nas universidades e politécnicos.
+description: |
+  O ministro Manuel Heitor já deu orientações para que as atividades letivas ocorram presencialmente nas universidades e politécnicos.
 tags: Manuel Heitor, Ministério de Ciência Tecnologia e Ensino Superior, regresso ao ensino presencial, combater o isolamento dos estudantes
 type: article
 ---
@@ -24,4 +25,3 @@ O ministro da Ciência, Tecnologia e Ensino Superior, Manuel Heitor, garante que
 Após o ensino virtual, o ministro confia que a rapidez e eficácia do processo de vacinação dá segurança ao regresso do ensino presencial. “Temos estudantes que nos últimos dois anos estiveram muitas horas à frente de um computador, assim como docentes, e, por isso, temos hoje felizmente um quadro sanitário, certamente associado a uma capacidade muito relevante de vacinação, para podermos estar confiantes para que o ensino retome um ensino presencial”, acrescenta.
 
 Manuel Heitor admite que algumas das aulas com componentes teóricas “possam ter uma componente de digital”, porém “nada substitui um ensino presencial”. Por isso, mantém o alerta para “fortalecer o ensino presencial”, independentemente da “adoção de, num caso ou noutro, integração com sistemas digitais, que podem melhorar algumas coisas, mas que não substituem o ensino presencial”.
-

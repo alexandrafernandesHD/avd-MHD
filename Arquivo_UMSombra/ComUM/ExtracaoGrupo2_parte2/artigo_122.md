@@ -1,11 +1,12 @@
 ---
-date: 30Nov2022
+date: 2022/11/30
 author: Marta Rodrigues
 image: https://www.comumonline.com/wp-content/uploads/2022/11/Margarida-foto-de-destaque-1500x1035.jpg
 title: Margarida Isaías. “É importante garantir o acesso e a frequência no ensino superior de todos os estudantes”
 url: https://www.comumonline.com/2022/11/margarida-isaias-e-importante-garantir-o-acesso-e-a-frequencia-no-ensino-superior-de-todos-os-estudantes/
 site: ComUM
-description: Margarida Isaías, finalista de Medicina, é uma das duas candidatas à direção da Associação Académica da Universidade do Minho (AAUM), pela lista A.
+description: |
+  Margarida Isaías, finalista de Medicina, é uma das duas candidatas à direção da Associação Académica da Universidade do Minho (AAUM), pela lista A.
 tags: eleições AAUM, AAUM, propinas, Lista A, Nova sede da AAUM, alojamento estudantil, Margarida Isaías, Amanhã é Agora
 type: article
 ---
@@ -64,4 +65,3 @@ Os grupos culturais mostraram-se reticentes à disponibilização do espaço par
 Margarida Isaías – O maior desafio da Associação Académica é a aproximação aos seus estudantes. Acaba sempre por valorizar a estrutura porque os estudantes ficam a saber como esta funciona, o que lhes pode dar e o que representa. É essencial não só para a ela, que é mais valorizada, mas também para os estudantes que conseguem usufruir de tudo o que esta tem para lhes dar. Por exemplo, a luta contra a abstenção começa sempre na direção anterior, é um trabalho feito ao longo do ano e que é reforçado na altura da campanha.
 
 Para isso, pretendemos fazer um bom trabalho e dá-lo a conhecer aos estudantes. Quer seja através das reivindicações políticas, indo ao encontro das suas reais necessidades e interesses, quer seja em termos de atividades que sabemos que muitos gostam, especialmente as recreativas. Ainda, usá-las para podermos chegar aos estudantes noutras dimensões da mesma. Saliento que, mais do que tudo, chamamos os estudantes para se informarem, para terem um voto consciente e informado.
-

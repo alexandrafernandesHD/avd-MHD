@@ -1,11 +1,12 @@
 ---
-date: 29Ago2023
+date: 2023/08/29
 author: Margarida da Silva Carvalho
 image: https://www.comumonline.com/wp-content/uploads/2017/11/IMG_6239-T45-1500x1000.jpg
 title: Rui Castro coloca UMinho num “patamar muito elevado”
 url: https://www.comumonline.com/2023/08/rui-castro-coloca-uminho-num-patamar-muito-elevado/
 site: ComUM
-description: O Reitor da Universidade do Minho, Rui Vieira de Castro, acredita que a instituição se encontra num "patamar muito elevado", dada a grande taxa de ocupação.
+description: |
+  O Reitor da Universidade do Minho, Rui Vieira de Castro, acredita que a instituição se encontra num "patamar muito elevado", dada a grande taxa de ocupação.
 tags: Universidade do Minho, Concurso Nacional de Acesso ao Ensino Superior, Reitor Rui Vieira de Castro
 type: article
 ---
@@ -24,4 +25,3 @@ A UMinho abriu 3.013 vagas, mais 25 do que no ano passado, estando distribuídas
 A Licenciatura em Engenharia Aeroespacial, que caminha para o seu segundo ano de existência, foi a que apresentou a maior média do último colocado no país. Rui Castro sublinha que o curso “vem dar resposta à nossa convicção de que a universidade deve procurar estar atenta àquilo que são as novas áreas que vão emergindo”.
 
 O Reitor destacou ainda que a UMinho tem 10 licenciaturas com o valor mais elevado no país e que 22 dos 56 cursos registaram uma nota mínima de ingresso de 16. Segundo o responsável pela instituição, esses dados refletem “a quantidade e a qualidade da procura da qual a academia minhota tem sido objeto”.
-

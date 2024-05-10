@@ -1,11 +1,12 @@
 ---
-date: 07Set2019
+date: 2019/09/07
 author: Cátia Barros
 image: https://www.comumonline.com/wp-content/uploads/2017/10/IMG_3161-T55-1500x1000.jpg
 title: Mais de 3.500 alunos colocaram a Universidade do Minho como primeira opção
 url: https://www.comumonline.com/2019/09/mais-de-3-500-alunos-colocaram-a-universidade-do-minho-como-primeira-opcao-2/
 site: ComUM
-description: Na primeira fase do concurso de acesso ao ensino superior foram colocados 44.500 estudantes. O curso com média mais alta na UM é Medicina.
+description: |
+  Na primeira fase do concurso de acesso ao ensino superior foram colocados 44.500 estudantes. O curso com média mais alta na UM é Medicina.
 tags: Universidade do Minho, Medicina, Engenharia Biomédica, UM, Concurso Nacional de Acesso, Engenharia e Gestão Industrial, colocações, CNA 2019
 type: article
 ---
@@ -28,6 +29,3 @@ Na primeira fase do concurso de acesso ao ensino superior público concorreram m
 A academia minhota foi, de acordo com os dados da tutela, a primeira opção de 3.613 alunos. Relativamente aos cursos que não preencheram as suas vagas na totalidade encontram-se Química, Optometria e Ciências da Visão, Engenharia Civil, Proteção Civil e Gestão do Território, Engenharia de Telecomunicações e Informática e Geologia.
 
 Para os alunos colocados na Universidade do Minho, as inscrições realizam-se entre segunda-feira e sexta-feira, nos campi de Gualtar, em Braga, e Azurém, em Guimarães.
-
-
-

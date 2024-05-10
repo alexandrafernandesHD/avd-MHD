@@ -1,11 +1,12 @@
 ---
-date: 28Mai2022
+date: 2022/05/28
 author: José Oliveira
 image: https://www.comumonline.com/wp-content/uploads/2022/05/NADPUM.jpg
 title: Só queremos sentir que estamos na universidade
 url: https://www.comumonline.com/2022/05/so-queremos-sentir-que-estamos-na-universidade/
 site: ComUM
-description: A Licenciatura em Design de Produto da Universidade do Minho é lecionada maioritariamente no Instituto de Design de Guimarães, longe do campus de Azurém.
+description: |
+  A Licenciatura em Design de Produto da Universidade do Minho é lecionada maioritariamente no Instituto de Design de Guimarães, longe do campus de Azurém.
 tags: Azurém, Opinião, Núcleos, Licenciatura em Design de Produto da Universidade do Minho, IDEGUI, Campus de Couros, NADPUM
 type: article
 ---
@@ -26,4 +27,3 @@ O ambiente de trabalho é envolvente e inspirador, vê-se uma interação próxi
 A questão dos autocarros também é outro problema enfrentado pelos estudantes do curso. Apesar de ter sido implementado no ano passado um autocarro que passe em Couros, com dois horários por dia, muitas vezes, não passa por estar demasiado cheio: a primeira paragem é sempre Azurém. Os alunos chegam mais tarde, porque o autocarro para em Azurém de manhã. E saem mais cedo, porque têm de assegurar que conseguem um lugar no autocarro em Azurém. As opções começam a ficar escassas para os alunos deslocados quando um lugar de estacionamento ao lado do instituto também não é assegurado.
 
 O intuito deste texto não é só sobre reivindicação dos direitos dos nossos estudantes, não é só sobre o tratamento desproporcional de alunos que pagam exatamente as mesmas propinas. O problema é de cariz pedagógico, de integração. Na verdade, só queremos sentir que estamos na universidade.
-

@@ -1,11 +1,12 @@
 ---
-date: 22Jul2023
+date: 2023/07/22
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2023/07/tunao-minho4-1500x1000.jpg
-title: Tun’ao Minho: nas veias correm o amor e a tradição
+title: Tun’ao Minho -- nas veias correm o amor e a tradição
 url: https://www.comumonline.com/2023/07/tunao-minho-nas-veias-corre-tradicao/
 site: ComUM
-description: Do macacão à capotilha, quem passa por lá partilha a mesma vontade: levar o Minho mais além. Fundada em 2012, a Tun’ao Minho é o ecoar das raízes minhotas.
+description: |
+  Do macacão à capotilha, quem passa por lá partilha a mesma vontade -- levar o Minho mais além. Fundada em 2012, a Tun’ao Minho é o ecoar das raízes minhotas.
 tags: cultura, Braga, Tun’ao Minho, Grupos Culturais, Tuna feminina
 type: article
 ---
@@ -53,7 +54,6 @@ A responsabilidade que veio com a experiência acabou por afetar o próprio perc
 
 A interação com outras tunas da academia é outro dos pontos altos desta vivência. São vários os momentos de diversão, entreajuda e crescimento musical, que ficam na memória de Creepers. Lembra entre risos episódios hilariantes, como quando “ofereceram um caloiro da TUM (Tuna Universitária do Minho) como prémio”.
 
- 
 
-Reportagem por: Carina Ribeiro e Marta Rodrigues
 
+Reportagem por: Carina Ribeiro e Marta Rodrigues

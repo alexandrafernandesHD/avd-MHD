@@ -1,11 +1,12 @@
 ---
-date: 08Nov2021
+date: 2021/11/08
 author: Maria de Pinto Freitas
 image: https://www.comumonline.com/wp-content/uploads/2021/11/Rececao-ao-Caloiro-2021-1500x1000.jpg
-title: Receção ao Caloiro 2021: uma despedida em grande
+title: Receção ao Caloiro 2021 -- uma despedida em grande
 url: https://www.comumonline.com/2021/11/rececao-ao-caloiro-2021-uma-despedida-em-grande/
 site: ComUM
-description: O Multiusos de Guimarães acolheu os dois últimos dias de receção. Por mais um ano, a academia minhota despediu-se do evento dedicado aos caloiros.
+description: |
+  O Multiusos de Guimarães acolheu os dois últimos dias de receção. Por mais um ano, a academia minhota despediu-se do evento dedicado aos caloiros.
 tags: UMinho, Multiusos de Guimarães, toy, Receção ao Caloiro 2021, Lon3r Johnny, Julinho KSD
 type: article
 ---
@@ -25,11 +26,8 @@ Favela Lacroix foi a terceira artista da noite. A artista e ícone da comunidade
 
 Os Meninos do Rio concluíram a noite do dia 5 de novembro com as suas misturas e energia. A multidão juntou-se na frente do palco para saltar ao som dos clássicos e das novas tendências musicais. O trio de DJs declarou que “a sensação de voltar é muito boa”. A atuação foi “especial” para os artistas, que afirmaram estar “em casa”.
 
-Na última noite, o recinto do Multiusos atingiu a sua lotação máxima. Desta vez foi o DJ G-Soul quem fez as honras de iniciar as atuações de sábado. De seguida, Lon3r Johny entrou em palco com uma animação contagiante que pôs o público ao rubro. Com recinto cheio, “SKRT”, “SUCESSO” e “DAMN/SKY” criaram uma onda de saltos e gritos.
+Na última noite, o recinto do Multiusos atingiu a sua lotação máxima. Desta vez foi o DJ G-Soul quem fez as honras de iniciar as atuações de sábado. De seguida, Lon3r Johny entrou em palco com uma animação contagiante que pôs o público ao rubro. Com recinto cheio, “SKRT”, “SUCESSO” e “DAMN/SKY” criaram uma onda de saltos e gritos.
 
-Seguiu-se Julinho KSD com um espetáculo repleto de ritmo. “Stunka”,  “Sentimento Safari” e “Hoji N’ka ta Rola” foram alguns dos temas cantados pelo artista. Segundo o músico, “as expectativas foram ultrapassadas”.
+Seguiu-se Julinho KSD com um espetáculo repleto de ritmo. “Stunka”,  “Sentimento Safari” e “Hoji N’ka ta Rola” foram alguns dos temas cantados pelo artista. Segundo o músico, “as expectativas foram ultrapassadas”.
 
-A última noite da Receção ao Caloiro 2021 terminou com o DJ Marinho. O artista proporcionou um espetáculo de grande diversão com os hits internacionais. Por fim, concluiu com emoção e nostalgia  que a música portuguesa traz consigo.
-
- 
-
+A última noite da Receção ao Caloiro 2021 terminou com o DJ Marinho. O artista proporcionou um espetáculo de grande diversão com os hits internacionais. Por fim, concluiu com emoção e nostalgia  que a música portuguesa traz consigo.

@@ -1,11 +1,12 @@
 ---
-date: 02Dez2022
+date: 2022/12/02
 author: Joana Oliveira
 image: https://www.comumonline.com/wp-content/uploads/2022/12/PedroAntunes-1500x1000.jpg
 title: Pedro Antunes. “Queremos criar um espaço específico para que o CFJ consiga partilhar informação”
 url: https://www.comumonline.com/2022/12/pedro-antunes-queremos-criar-um-espaco-especifico-para-que-o-cfj-consiga-partilhar-informacao/
 site: ComUM
-description: Em entrevista ao ComUM, Pedro Antunes,  candidato ao Conselho Fiscal e Juridiscional, explicou os principais objetivos e ideias da sua lista. 
+description: |
+  Em entrevista ao ComUM, Pedro Antunes,  candidato ao Conselho Fiscal e Juridiscional, explicou os principais objetivos e ideias da sua lista. 
 tags: Lista C, candidato, Conselho Fiscal e Jurisdicional, Pedro Antunes, Centrado na Exigência
 type: article
 ---
@@ -17,7 +18,7 @@ type: article
 
 02Dez2022 | Joana Oliveira
 
-As eleições para os órgãos de governo da Associação Académica da Universidade do Minho (AAUM) acontecem na próxima terça-feira, dia 6 de dezembro. Em entrevista ao ComUM, Pedro Antunes,  candidato ao Conselho Fiscal e Juridiscional, explicou os principais objetivos e ideias da sua lista.
+As eleições para os órgãos de governo da Associação Académica da Universidade do Minho (AAUM) acontecem na próxima terça-feira, dia 6 de dezembro. Em entrevista ao ComUM, Pedro Antunes,  candidato ao Conselho Fiscal e Juridiscional, explicou os principais objetivos e ideias da sua lista.
 
 Pedro Antunes – Nós dividimos os objetivos em duas vertentes – a interna e a externa. Queremos ter reuniões periódicas tanto internas, como externas. Achamos necessário para fazer o acompanhamento do trabalho da direção que exista uma cooperação entre órgãos e uma boa comunicação interna. O CFJ é composto por nove elementos, eleitos por método de Hondt. Ou seja, os membros que serão eleitos nunca serão só uma lista e nós entendemos que devemos respeitar a decisão democrática dos estudantes e cooperar com todos os membros, mesmo que não sejam da nossa lista. Queremos também cumprir todas as atas e responsabilidades do CFJ e queremos estar presentes em todas as RGA.
 
@@ -34,4 +35,3 @@ Por outro lado, sentimos que há alguma confusão no que toca às datas de entre
 Pedro Antunes – O CFJ tem um trabalho de fiscalizar a direção da AAUM e todo esse trabalho deve ser transparente e imparcial, que tem na sua base a exigência. Não esquecer que estamos a falar da sustentabilidade económica e orçamental da associação académica. Por esta razão, realçamos também a responsabilidade intergeracional. Sabemos que tudo o que a AAUM decide hoje terá implicações para os estudantes futuros. Por isso é que tomamos essa exigência como princípio fundamental. O trabalho que é feito hoje deverá ser feito com exigência para não afetar negativamente nem os estudantes atuais nem os futuros.
 
 Pedro Antunes – O que nos distingue é a experiência. Somos uma equipa muito plural. Somos nove membros de nove cursos, de três campi e que integram cinco escolas. Uma equipa que já fez parte de núcleos e órgãos. Eu próprio faço parte da direção da Associação Académica, por isso tenho oportunidade de construir também a minha parte do plano de atividades e de acompanhar todas as atividades desenvolvidas pela direção da AAUM. Sei quase tudo o que é feito ao longo do ano e acredito que essa experiência valoriza-nos.
-

@@ -1,11 +1,12 @@
 ---
-date: 23Abr2022
+date: 2022/04/23
 author: Inês Machado
 image: https://www.comumonline.com/wp-content/uploads/2022/02/Teatro-Jordao_.jpg
 title: Presidentes das escolas de Artes Visuais e Teatro não esperavam manifestação dos alunos
 url: https://www.comumonline.com/2022/04/presidentes-das-escolas-de-artes-visuais-e-teatro-nao-esperavam-manifestacao-dos-alunos/
 site: ComUM
-description: Os responsáveis pelos cursos de Artes Visuais e Teatro foram surpreendidos com as queixas e com a manifestação que ocorreu esta quarta-feira, em Guimarães.
+description: |
+  Os responsáveis pelos cursos de Artes Visuais e Teatro foram surpreendidos com as queixas e com a manifestação que ocorreu esta quarta-feira, em Guimarães.
 tags: teatro, Isabel Ermida, Paulo Cruz, Teatro Jordão, Garagem Avenida, Artes Visuais, manifestação estudantil
 type: article
 ---
@@ -30,4 +31,3 @@ Além disso, relativamente à alegada falta de água nas salas de artes visuais,
 Da mesma forma, a presidente da Escola de Letras, Artes e Ciências Humanas, Isabel Ermida, garante não ter tido conhecimento prévio quer da manifestação quer das queixas levadas a cabo. No que toca à falta de internet móvel no edifício do Teatro Jordão, a responsável informa que é um processo que está a ser tratado em conformidade com a reitoria.
 
 Uma vez que partilham a sala de ensaios com a Escola de Música do Conservatório de Guimarães, os estudantes de teatro declaram ter falta de privacidade. Para Isabel Ermida esta problemática é de “fácil solução”.
-

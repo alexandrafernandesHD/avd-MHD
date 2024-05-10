@@ -1,11 +1,12 @@
 ---
-date: 12Fev2023
+date: 2023/02/12
 author: Eduarda Almeida
 image: https://www.comumonline.com/wp-content/uploads/2018/04/MG_5526-1500x1000.jpg
 title: TUM. “Ânimo, companheirismo e vontade partilhada de fazer música”
 url: https://www.comumonline.com/2023/02/tum-animo-companheirismo-e-vontade-partilhada-de-fazer-musica/
 site: ComUM
-description: A TUM entrou no contexto musical da cultura portuguesa no ano de 1990, tendo a sua estreia ao público acontecido nas Festas do Enterro da Gata desse ano.
+description: |
+  A TUM entrou no contexto musical da cultura portuguesa no ano de 1990, tendo a sua estreia ao público acontecido nas Festas do Enterro da Gata desse ano.
 tags: cultura, Tuna Universitária do Minho, TUM, Grupo cultural
 type: article
 ---
@@ -34,4 +35,3 @@ Sendo um grupo que vive do convívio entre os seus elementos, a época de pandem
 Não deixaram de manter o contacto com o seu público através das redes sociais, e chegaram, até, a participar em atuações virtuais, numa etapa mais enfraquecida da Covid-19. “No final, o esforço de todos resultou e, quando voltamos ao formato presencial, foi como se só tivéssemos carregado num botão de pausa, voltou tudo à normalidade.”
 
 Daniel finalizou a entrevista com uma mensagem de motivação para todos aqueles que percorrem neste momento o percurso universitário, pedindo que “aproveitem todas as oportunidades que proporciona, seja a nível académico, nos seus cursos e nas atividades de caráter associativista, seja nos grupos culturais.” Convida, ainda, a que todos vivam ou revivam aquilo que é a vida académica já no próximo FITU Bracara Augusta.
-

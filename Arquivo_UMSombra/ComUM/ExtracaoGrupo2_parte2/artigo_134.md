@@ -1,11 +1,12 @@
 ---
-date: 28Dez2022
+date: 2022/12/28
 author: Joana Oliveira
 image: https://www.comumonline.com/wp-content/uploads/2019/09/JorgeSousa_Edu-1500x1000.jpg
 title: Novo curso da Escola de Psicologia aborda questões ligadas ao envelhecimento
 url: https://www.comumonline.com/2022/12/novo-curso-da-escola-de-psicologia-aborda-questoes-ligadas-ao-envelhecimento/
 site: ComUM
-description: A Escola de Psicologia da UMinho vai promover uma formação especializada - "Abordagem Integrada nos Cuidados de Saúde para Profissionais de Saúde".
+description: |
+  A Escola de Psicologia da UMinho vai promover uma formação especializada - "Abordagem Integrada nos Cuidados de Saúde para Profissionais de Saúde".
 tags: Universidade do Minho, Escola de Psicologia, "Abordagem Integrada nos Cuidados de Saúde para Profissionais de Saúde", Formação especializada
 type: article
 ---
@@ -26,4 +27,3 @@ Em entrevista À RUM, a coordenadora do projeto, Maria da Graça Pereira explico
 Da mesma forma, outro dos objetivos do novo curso é a diminuição do estigma em relação à saúde mental. Segundo a coordenadora, “quando a oferta [de cuidados de saúde mental] está disponível, por exemplo, no mesmo local que o utente tem acesso aos cuidados de saúde primários, os estigmas diminuem drasticamente”.
 
 A formação destina-se a profissionais da área da psicologia, medicina, enfermagem, serviço social e gestão em saúde. As candidatura encontram-se abertas até 12 de janeiro. O curso engloba a Aliança de Pós-Graduações da Universidade do MInho, a qual é financiada pelo Plano de Recuperação e Resiliência.
-

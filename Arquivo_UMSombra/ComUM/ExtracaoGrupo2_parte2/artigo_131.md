@@ -1,11 +1,12 @@
 ---
-date: 16Mar2022
+date: 2022/03/16
 author: Maria João Alves
 image: https://www.comumonline.com/wp-content/uploads/2022/03/AEDUM-Moldura.jpg
-title: Morte do Associativismo Académico: a solução está nas mãos dos estudantes
+title: Morte do Associativismo Académico -- a solução está nas mãos dos estudantes
 url: https://www.comumonline.com/2022/03/morte-do-associativismo-academico-a-solucao-esta-nas-maos-dos-estudantes/
 site: ComUM
-description: O associativismo é uma manifestação da própria cidadania individual na sociedade. O associativismo está em queda e a solução está nas mãos dos dirigentes.
+description: |
+  O associativismo é uma manifestação da própria cidadania individual na sociedade. O associativismo está em queda e a solução está nas mãos dos dirigentes.
 tags: cidadania, UMinho, Academia, sociedade, Associativismo Académico, Morte do associativismo
 type: article
 ---
@@ -42,4 +43,3 @@ Este ligeiro julgamento com que perceciono a atual postura estudantil vem, contu
 No entanto, a solução está nas mãos dos mesmos. A eles cabe voltar a democratizar a Academia e colocá-la nas mãos estudantis. A eles cabe fazer pressão para que as associações recoloquem as grandes questões em cima da mesa, sem medo de ser polémicas ou pouco conciliatórias. Para os estudantes da Universidade do Minho deixo, portanto, esta mensagem: é imperativo pensar no futuro da nossa representação estudantil. É preciso eleger estruturas politicamente fortes e presentes, em detrimento de um associativismo light que não reserva lugar para a política educativa.
 
 Hoje, mais do que nunca, é necessário que os estudantes relembrem às associações estudantis o seu verdadeiro propósito e os interesses que devem defender. Aos estudantes, cabe forçar essa aproximação, participando nas estruturas, ainda que indiretamente. À representação estudantil, cabe relembrar quem verdadeiramente representam e o que verdadeiramente representam.
-

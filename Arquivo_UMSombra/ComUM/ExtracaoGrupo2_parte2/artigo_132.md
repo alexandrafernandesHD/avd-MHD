@@ -1,11 +1,12 @@
 ---
-date: 08Jan2023
+date: 2023/01/08
 author: Maria Francisca Barros
 image: https://www.comumonline.com/wp-content/uploads/2023/01/IMG_7352-1-1500x1000.jpg
-title: Joana Marques Vidal: “Não há nada que justifique que um estudante da UMinho custe menos que outros estudantes”
+title: Joana Marques Vidal -- “Não há nada que justifique que um estudante da UMinho custe menos que outros estudantes”
 url: https://www.comumonline.com/2023/01/nao-ha-nada-que-justifique-que-um-estudante-da-uminho-custe-menos-que-outros-estudantes/
 site: ComUM
-description: Tomada de Posse da AAUM contou com as intervenções de Rui Vieira de Castro, reitor da UMinho e Joana Marques Vidal, presidente do Conselho Geral.
+description: |
+  Tomada de Posse da AAUM contou com as intervenções de Rui Vieira de Castro, reitor da UMinho e Joana Marques Vidal, presidente do Conselho Geral.
 tags: Universidade do Minho, AAUM, Tomada de Posse, Rui Vieira de Castro, Joana Marques Vidal, alojamento estudantil, 2023, Subfinanciamento
 type: article
 ---
@@ -34,4 +35,3 @@ Ainda dentro do alojamento, o reitor apontou para a ausência de uma menção ac
 Por fim, foi chamada ao palco a presidente do Conselho Geral, Joana Marques Vidal, que, por entre cumprimentos, mencionou a não candidatura de Rui Vieira de Castro às próximas eleições para o cargo de Reitor da UMinho.
 
 No seu discurso, mostrou preocupação com “a necessidade da participação ativa dos estudantes das Associações Académicas perante os desafios que se colocam”, não só na Universidade do Minho como também no ensino superior em Portugal. Destacando o subfinanciamento da academia minhota como um dos desafios que “vem prejudicando o que é a capacidade da Universidade trilhar caminhos de uma maior excelência”.
-

@@ -1,11 +1,12 @@
 ---
-date: 08Out2020
+date: 2020/10/08
 author: Joana Lopes
 image: https://www.comumonline.com/wp-content/uploads/2020/10/0J9A6476-1500x1000.jpg
-title: Rui Oliveira: “O ensino superior também tem de ser um espaço para o erro”
+title: Rui Oliveira -- “O ensino superior também tem de ser um espaço para o erro”
 url: https://www.comumonline.com/2020/10/sessao-de-boas-vindas-aos-novos-alunos-rui-oliveira-o-ensino-superior-tambem-tem-de-ser-um-espaco-para-o-erro/
 site: ComUM
-description: Decorreu, esta quarta-feira, no campus de Azurém, a sessão de boas-vindas aos novos estudantes da Universidade do Minho, com a presença de Rui Oliveira.
+description: |
+  Decorreu, esta quarta-feira, no campus de Azurém, a sessão de boas-vindas aos novos estudantes da Universidade do Minho, com a presença de Rui Oliveira.
 tags: Universidade do Minho, ensino superior, AAUM, novos alunos, Sessão de boas-vindas, Rui Oliveira, Covid-19, Reitor Rui Vieira de Castro, StayAway Covid
 type: article
 ---
@@ -46,4 +47,3 @@ O reitor da Universidade do Minho garantiu que “ser estudante, aqui na Univers
 Nesse seguimento, Rui Vieira de Castro pediu aos novos alunos que olhem para a sua educação superior “como um tempo de crescimento, um tempo em que se joga parte importante do vosso futuro”. “Assumam um compromisso sério”, afirmou.
 
 O reitor da Universidade do Minho terminou o seu discurso desejando os melhores votos aos novos alunos e que o tempo que passarem na Universidade do Minho seja um tempo de aprendizagem e também um tempo de superação pessoal. Rui Vieira de Castro elogiou ainda a universidade, garantindo que “ao longo dos anos a universidade soube adaptar-se a novas circunstâncias e soube transformar essas mesmas circunstâncias. Soube mudar e soube crescer e soube ganhar novas dimensões”.
-

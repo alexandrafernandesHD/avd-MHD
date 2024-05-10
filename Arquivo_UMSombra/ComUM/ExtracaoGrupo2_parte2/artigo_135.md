@@ -1,11 +1,12 @@
 ---
-date: 13Jul2017
+date: 2017/07/13
 author: João Pedro Quesado
 image: https://www.comumonline.com/wp-content/uploads/2017/04/IMG_9316-T55-1500x1000.jpg
 title: Novo reitor da UMinho é eleito a 24 de outubro
 url: https://www.comumonline.com/2017/07/novo-reitor-da-uminho-e-eleito-a-24-de-outubro/
 site: ComUM
-description: No dia 24 de outubro, o Conselho Geral (CG) irá escolher o novo reitor da Universidade do Minho (UM).
+description: |
+  No dia 24 de outubro, o Conselho Geral (CG) irá escolher o novo reitor da Universidade do Minho (UM).
 tags: Universidade do Minho, reitor, UMinho, Reitoria, eleições
 type: article
 ---
@@ -24,4 +25,3 @@ Com o lançamento do edital, o processo eleitoral para escolher quem ocupa o car
 A Comissão Eleitoral, responsável por conduzir e supervisionar todo o processo, é presidida pelo também presidente do CG, Luís Valente de Oliveira, e constituída por Luís Amaral, Óscar Gonçalves, Victor Soares e Bruno Alcaide, presidente da Associação Académica da Universidade do Minho (AAUM) e um dos quatro representantes dos estudantes no Conselho Geral.
 
 Rui Vieira de Castro, cabeça-de-lista de uma das candidaturas dos professores e investigadores ao CG no passado mês de março, declarou em entrevista ao ComUM estar “disponível” para “protagonizar uma candidatura à reitoria”. Questionado pelo ComUM, o atual reitor, António Cunha – que atingiu o limite de mandatos -, declara que, se essa candidatura “for consumada, terá todo o meu apoio”.
-

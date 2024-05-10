@@ -1,11 +1,12 @@
 ---
-date: 05Dez2021
+date: 2021/12/05
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2021/12/IMG_0717-1500x1000.jpg
-title: Jacinta Sampaio: “Podemos dar mais à academia e à mesa da RGA”
+title: Jacinta Sampaio -- “Podemos dar mais à academia e à mesa da RGA”
 url: https://www.comumonline.com/2021/12/jacinta-sampaio-podemos-dar-mais-a-academia-e-a-mesa-da-rga/
 site: ComUM
-description: Jacinta Sampaio, estudante de Ciência Política, é candidata à Mesa da RGA. A aluna esteve à conversa com o ComUM para dar a conhecer mais sobre a sua lista.
+description: |
+  Jacinta Sampaio, estudante de Ciência Política, é candidata à Mesa da RGA. A aluna esteve à conversa com o ComUM para dar a conhecer mais sobre a sua lista.
 tags: RGA, Associação Académica da Universidade do Minho, eleições AAUM 2021, Jacinta Sampaio, Mesa da Reunião Geral de Alunos
 type: article
 ---
@@ -51,9 +52,8 @@ ComUM- Tens algo que queiras dizer à comunidade académica?
 
 Jacinta Sampaio- Quero realçar que o nosso slogan “Determina o teu futuro” não é em vão e tem uma explicação por trás dele. Chegamos a ele quando pensamos na forma de transmitir a nossa mensagem e chegamos à conclusão de que, se a nossa lista quer aumentar a pertinência dos temas abordados e se quer ser mais ativa e mais presente no contacto direto entre os estudantes e a academia, temos que, obviamente, apelar a esta componente de intervenção. “A palavra está na tua mão, intervém”, foi daí que surgiu o nosso slogan, porque acreditamos, vivamente, que o corpo estudantil minhoto é muito reivindicativo e, quando bem estimulado, tem bastantes coisas a dizer, e bem, e é isso deve ser aproveitado.
 
-Entrevista por: Maria Francisca Barros
+Entrevista por: Maria Francisca Barros
 
-Artigo escrito por: Ana Beatriz Cunha
+Artigo escrito por: Ana Beatriz Cunha
 
 Multimédia: Joana Oliveira e Soraia Santo
-

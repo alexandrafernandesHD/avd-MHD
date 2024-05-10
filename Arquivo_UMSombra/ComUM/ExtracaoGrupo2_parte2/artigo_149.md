@@ -1,11 +1,12 @@
 ---
-date: 10Out2023
+date: 2023/10/10
 author: Ricardo Ferreira
 image: https://www.comumonline.com/wp-content/uploads/2017/11/IMG_6192-T45-1500x1000.jpg
 title: Reitor exalta a “desagregação de unidade de investigação” da UMinho
 url: https://www.comumonline.com/2023/10/reitor-exalta-a-desagregacao-de-unidade-de-investigacao-da-uminho/
 site: ComUM
-description: Reitor da universidade do Minho, afirma que o programa lançado FCT Tenure não é capaz de manter o bloco de investigação ativo da universidade.
+description: |
+  Reitor da universidade do Minho, afirma que o programa lançado FCT Tenure não é capaz de manter o bloco de investigação ativo da universidade.
 tags: UMinho, CRUP, Rui Vieira de Castro, Desagregação da unidade de investigação, FCT Tenure
 type: article
 ---
@@ -26,12 +27,3 @@ O FCT Tenure planeia responder à falta de recursos humanos, principalmente doce
 Dentro de dois anos, na universidade do Minho, cerca de 200 vínculos irão cessar. O CRUP propõe a construção de um programa que seja capaz de corresponder às expectativas dos investigadores, sendo possível preservar equipas, projetos estratégicos e os mais de 40 investigadores de carreira da UM. Rui Vieira de Castro critica o Governo, realçando a falta de investimento na área da ciência, destacando que colocam as verbas com valores iguais aos de 2010.
 
 De momento, o reitor afirma aguardar resposta do Ministério, para que seja possível saber o rumo que ele vai assumir. Anuncia assim, uma iniciativa onde irá conversar com os investigadores para que possa aprofundar o conhecimento do estado da situação e as respetivas soluções apresentadas.
-
- 
-
- 
-
- 
-
- 
-

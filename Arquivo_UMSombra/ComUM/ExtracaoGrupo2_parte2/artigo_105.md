@@ -1,11 +1,12 @@
 ---
-date: 19Out2020
+date: 2020/10/19
 author: João Pedro Sousa
 image: https://www.comumonline.com/wp-content/uploads/2020/10/Tiago-Gil-Oliveira.jpg
 title: Investigador da UMinho ganha bolsa para estudar ansiedade e stress crónico
 url: https://www.comumonline.com/2020/10/investigador-da-uminho-ganha-bolsa-para-estudar-ansiedade-e-stress-cronico/
 site: ComUM
-description: O projeto de investigação da UMinho visa perceber o papel do hipocampo, no cérebro, num contexto de ansiedade e stress crónico.
+description: |
+  O projeto de investigação da UMinho visa perceber o papel do hipocampo, no cérebro, num contexto de ansiedade e stress crónico.
 tags: Universidade do Minho, ICVS, Tiago Gil Oliveira, Brain & Behavior Research Foundation, hipocampo, cérebro, ansiedade e stress crónico
 type: article
 ---
@@ -24,4 +25,3 @@ O projeto de investigação reconhecido tem como objetivo desenvolver novos mét
 “Desta forma, o que nos propomos a fazer neste projeto é tentar encontrar essas alterações no hipocampo por ressonância magnética”, esclarece. Para tal, destaca o uso de “aparelhos de última geração que permitem avaliar com detalhe alterações em modelos animais”.
 
 Tiago Gil Oliveira salienta ainda a parceria com o Instituto Neurospin, em Paris, França. Com esta contribuição, o investigador do ICVS acredita que o estudo pode possibilitar, no futuro, uma “resposta potencial à terapêutica” e um “diagnóstico mais preciso na prática clínica”. “Estas são algumas das potenciais aplicações de estudos humanos que podem abrir novas perspetivas no futuro”, conclui.
-

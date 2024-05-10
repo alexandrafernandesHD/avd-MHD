@@ -1,12 +1,13 @@
 ---
-date: 03Dez2022
+date: 2022/12/03
 author: Paulo Folha
 image: https://www.comumonline.com/wp-content/uploads/2022/12/MiguelLima-1500x1000.jpg
-title: Miguel Lima: “Uma deliberação é mais eficaz quanto maior for o número de vozes”
+title: Miguel Lima -- “Uma deliberação é mais eficaz quanto maior for o número de vozes”
 url: https://www.comumonline.com/2022/12/miguel-lima-uma-deliberacao-e-mais-eficaz-quanto-maior-for-o-numero-de-vozes/
 site: ComUM
-description: Miguel Lima é candidato à presidência da Mesa da Reunião Geral de Alunos, pela lista B. As eleições da AAUM ocorrem na próxima terça-feira.
-tags: Universidade do Minho, Associação Académica da Universidade do Minho (AAUM), Mesa da Reunião Geral de Alunos, Miguel Lima, Eleições AAUM 2022, Envolver Academia
+description: |
+  Miguel Lima é candidato à presidência da Mesa da Reunião Geral de Alunos, pela lista B. As eleições da AAUM ocorrem na próxima terça-feira.
+tags: Universidade do Minho, Associação Académica da Universidade do Minho (AAUM), Mesa da Reunião Geral de Alunos, Miguel Lima, Eleições AAUM 2022, Envolver Academia
 type: article
 ---
 
@@ -44,4 +45,3 @@ Miguel Lima – A RGA padece de muitas necessidades. A maior é a envolvência d
 ComUM – Tens alguma mensagem que queiras deixar à academia?
 
 Miguel Lima – Podem acompanhar o trabalho da Lista B no Instagram. Partilhamos lá alguns dos nossos valores e alicerces. Passem por lá. Vejam quais são os nossos propósitos, a nossa conceção e aquilo que nós queremos fazer. Somos uma lista muito determinada e com uma grande convicção de envolver os alunos.
-

@@ -1,11 +1,12 @@
 ---
-date: 06Set2021
+date: 2021/09/06
 author: Maria Sá
 image: https://www.comumonline.com/wp-content/uploads/2017/11/IMG_3331-T55-1500x1000.jpg
-title: Horários de Medicina na UMinho: “é uma questão de hábito”
+title: Horários de Medicina na UMinho -- “é uma questão de hábito”
 url: https://www.comumonline.com/2021/09/horarios-de-medicina-na-uminho-e-uma-questao-de-habito/
 site: ComUM
-description: Alunos de Medicina tem início das aulas antecipado. O ComUM esteve à conversa com alguns alunos para perceber o porquê desta situação.
+description: |
+  Alunos de Medicina tem início das aulas antecipado. O ComUM esteve à conversa com alguns alunos para perceber o porquê desta situação.
 tags: Universidade do Minho, Medicina, NEMUM, horários, Escola de Medicina da Universidade do Minho, Aulas presenciais, Núcleo de Estudantes de Medicina da Universidade do Minho, novo programa curricular
 type: article
 ---
@@ -40,4 +41,3 @@ Segundo Marisa Coelho, os alunos de Medicina não têm um horário definido, uma
 Em contrapartida, para Maria o horário semanalmente diferente é a pior parte do curso: “eu não consigo marcar uma consulta com grande antecedência sem ter que pesquisar na plataforma, com um tablet e um telemóvel ao mesmo tempo, para tentar encontrar um buraco no meu horário”, exemplifica, estendendo esse desconforto e instabilidade também à vida social, que fica extremamente limitada. Esta opinião é partilhada pela colega Catarina Silva, que acrescenta a este o facto de o horário ser extremamente heterogéneo: “nós temos dias em que entramos às 9h e saímos às 19h30 e uma pessoa que tenha atividades certinhas, não vai estar sempre a faltar porque o horário é diferente”, explica. Para Maria, “nem é tanto o tempo de aulas que se tem, é não haver uma organização homogénea”, afirma.
 
 Por fim, questionadas acerca de uma eventual e possível intervenção do núcleo, Maria confessa que, no curso, impera um certo medo de criar conflitos, motivado pelo facto de “a maioria dos alunos que entram em Medicina estar habituada a ser o melhor aluno da turma ou da escola, de quem os professores gostam muito e que não cria grandes ondas por precisar de boas notas, o que se reflete na universidade e no resto da vida deles”. “A maior parte das pessoas já está tão cansada entre preparar aulas, ir às aulas, estudar para os exames, que não se tem grande tempo para se estar a discutir se as aulas deviam ser mais de manhã, ou se deviam ser mais distribuídas. As pessoas só aparecem”, conclui.
-

@@ -1,11 +1,12 @@
 ---
-date: 30Jan2024
+date: 2024/01/30
 author: André Igreja
 image: https://www.comumonline.com/wp-content/uploads/2024/01/65b7e44b4201be032960c402-MARGARIA-CG-1500x731.jpg
 title: Orçamento de 9,8 milhões dos SASUM aprovado com críticas dos alunos
 url: https://www.comumonline.com/2024/01/orcamento-de-98-milhoes-dos-sasum-aprovado-com-criticas-dos-alunos/
 site: ComUM
-description: O Plano de Atividades e o Orçamento dos Serviços de Ação Social da Universidade do Minho (SASUM) foram aprovados por maioria, na passada segunda-feira.
+description: |
+  O Plano de Atividades e o Orçamento dos Serviços de Ação Social da Universidade do Minho (SASUM) foram aprovados por maioria, na passada segunda-feira.
 tags: UMinho, SASUM, Rui Vieira de Castro, AAUMinho, Margarida Isaías, Alexandra Seixas
 type: article
 ---
@@ -30,4 +31,3 @@ Margarida Isaías, presidente da Associação Académica da Universidade do Minh
 O reitor da Universidade do Minho, Rui Vieira de Castro, assume que, num ano tão exigente para as estruturas da instituição, foi necessário tomar decisões e lembrou que as transferências pontuais feitas em anos anteriores nunca foram suficientes para resolver todos os problemas. Num momento em que a UMinho tem que tomar “decisões com um impacto significativo”, disse ainda que a universidade tem que exigir “critérios de maior rigor relativamente aos investimentos que estavam a ser feitos”.
 
 A administradora dos SASUM, Alexandra Seixas, colocou-se do lado do reitor quanto à manutenção de apoio em 2024, prometendo um complemento de financiamento aos estudantes bolseiros na casa dos 40 euros por cama e 1 euro na parte alimentar. A discussão iniciou ainda durante a manhã, tendo sido interrompida para almoço e retomada à tarde.
-

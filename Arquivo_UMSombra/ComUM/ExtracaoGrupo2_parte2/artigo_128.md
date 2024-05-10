@@ -1,11 +1,12 @@
 ---
-date: 29Abr2021
+date: 2021/04/29
 author: Débora Monteiro
 image: https://www.comumonline.com/wp-content/uploads/2021/04/EntrevistaMIA_MargaridaAlves-17-1500x1000.jpg
 title: Minho Investiment Association. “Estamos onde os nossos alunos estão”
 url: https://www.comumonline.com/2021/04/minho-investiment-association-estamos-onde-os-nossos-alunos-estao/
 site: ComUM
-description: A júnior iniciativa, fundada a 24 de fevereiro de 2020, pretende dar aos jovens universitários conhecimento financeiro básico para a gestão do seu dinheiro.
+description: |
+  A júnior iniciativa, fundada a 2020/02/24, pretende dar aos jovens universitários conhecimento financeiro básico para a gestão do seu dinheiro.
 tags: Covid-19, Minho Investment Association, MIA, Maurício Bandarra, educação financeira, Rodrigo Souto, Silvania Santos
 type: article
 ---
@@ -30,4 +31,3 @@ O projeto inclui algumas ações tais como formações, as “Terças-feiras pes
 “A nossa meta principal é sair de uma júnior iniciativa para uma júnior empresa ainda este ano e, nos próximos anos, ser o maior, senão dos maiores canais de conhecimento financeiro em Portugal”. Quem o diz é Maurício, sendo complementado por Rodrigo que acredita “que é plenamente viável tornarem-se a principal educadora financeira em Portugal, não só a nível académico, mas de todos”.
 
 Para aqueles que pretendem pertencer à iniciativa, a diretora do Departamento de Recursos Humanos menciona a disponibilidade e vontade de aprender como caraterísticas essenciais. Já o embaixador, reforça que procuram “pessoas que querem ser protagonistas no projeto”, pois existe a oportunidade para tal. “A MIA tem o objetivo de fazer atrair essas pessoas, pessoas que não estão contentes e, realmente, querem encontrar uma iniciativa que possa inovar, praticar e deixar algum valor”, finaliza Rodrigo Souto.
-

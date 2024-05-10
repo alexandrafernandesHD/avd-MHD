@@ -1,5 +1,5 @@
 ---
-date: 23Mar2018
+date: 2018/03/23
 author: Ana Maria Ramos
 image: https://www.comumonline.com/wp-content/uploads/2017/10/IMG_3277-T55-e1632422468321-1500x663.jpg
 title: UM vai desligar luzes na Hora do Planeta
@@ -24,4 +24,3 @@ Ficarão às escuras o Largo do Paço, a sede dos Serviços de Ação Social da 
 A iniciativa é uma parceria entre a Associação Académica e os SASUM e visa reforçar a consciência ambiental e a política de sustentabilidade da Academia, afirmada no Plano Estratégico da UMinho 2020.
 
 Pelo mundo serão desligadas as iluminações de vários monumentos, como símbolos de esperança. O movimento nasceu em Sidney, Austrália, em 2007, como uma tomada de posição contra as alterações climáticas e tornou-se um fenómeno global.
-

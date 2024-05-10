@@ -1,5 +1,5 @@
 ---
-date: 20Out2015
+date: 2015/10/20
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2015/10/unnamed.png
 title: Investigador da UMinho cria associação portuguesa contra bullying
@@ -17,7 +17,7 @@ type: article
 
 20Out2015 | ComUM Online
 
-A  AABCJ tem como principais objetivos sensibilizar a população para os riscos e as consequências do bullying, organizar ações de prevenção com as escolas e os municípios, orientar e disponibilizar serviços de acompanhamento especializado a vítimas, bem como promover atividades lúdico-desportivas para aproximar os mais novos à temática.
+A  AABCJ tem como principais objetivos sensibilizar a população para os riscos e as consequências do bullying, organizar ações de prevenção com as escolas e os municípios, orientar e disponibilizar serviços de acompanhamento especializado a vítimas, bem como promover atividades lúdico-desportivas para aproximar os mais novos à temática.
 
 “Queremos contribuir para que os mais jovens assumam uma atitude anti-bullying, intervindo diretamente ou denunciando situações de violência junto de professores, auxiliares, direções, diretores de turma, pais, entre outros”, afirma Paulo Costa.
 
@@ -27,9 +27,8 @@ A associação foi apresentada, publicamente, esta segunda-feira, dia 19, no Ins
 
 A tomada de posse dos órgãos sociais da AABCJ realiza-se esta terça-feira, dia em que se assinala o Dia Mundial de Combate ao Bullying.
 
- 
+
 
 Ana Patrícia Magalhães
 
 Ana Rita Martins
-

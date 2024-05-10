@@ -1,11 +1,12 @@
 ---
-date: 03Dez2021
+date: 2021/12/03
 author: ComUM Online
 image: https://www.comumonline.com/wp-content/uploads/2021/12/imagem-1500x1000.jpg
-title: Hélder Matos: “Definimo-nos como o ponto. Ponto final”
+title: Hélder Matos -- “Definimo-nos como o ponto. Ponto final”
 url: https://www.comumonline.com/2021/12/helder-matos-definimo-nos-como-o-ponto-ponto-final/
 site: ComUM
-description: Hélder Matos é um dos três candidatos à direção da associação pela lista Ponto Final. O ComUM esteve à conversa com o estudante.
+description: |
+  Hélder Matos é um dos três candidatos à direção da associação pela lista Ponto Final. O ComUM esteve à conversa com o estudante.
 tags: Universidade do Minho, eleições AAUM, AAUM, 2021, Hélder Matos, Candidato à direção da Associação Académica, Ponto Final
 type: article
 ---
@@ -21,7 +22,7 @@ As eleições para os órgãos sociais da Associação Académica da Universidad
 
 
 
- ComUM – O que motivou a tua candidatura à presidência da Associação Académica?
+ComUM – O que motivou a tua candidatura à presidência da Associação Académica?
 
 Hélder Matos – Eu olho para a Associação Académica e vejo que está longe dos estudantes. Assim, a nossa candidatura surge no sentido de tentar aproximar os estudantes aos órgãos de representação democrática. As próprias reuniões gerais de alunos têm muito pouca participação e divulgação. Nós pretendemos que os estudantes tenham a motivação e o interesse para participarem democraticamente naquilo que são as decisões dos órgãos que os representam.
 
@@ -77,7 +78,6 @@ Hélder Matos – Posso defini-la não apenas em uma, mas em duas palavras: defi
 
 Entrevista: Francisco Paiva e Joana Oliveira
 
-Artigo por: Francisco Paiva
+Artigo por: Francisco Paiva
 
 Multimédia: Ana Margarida Alves e Joana Oliveira
-
