@@ -15,7 +15,7 @@ Em um trecho da transcrição não era possível compreender o que o entrevistad
 Quando da extração dos metadados os códigos extrtaiam quase que a totalidade das etiquetas solicitadas, mas algumas delas foram incluídas ao final, por exemplo 'Minho', quando não fazia parte da 'Universidade do Minho'.
 Para criação dos codes utilizei basicamente duas intligências artificiais para me auxiliar (chatGPT e CoPilot).
 
-Estrutura e funcionalidade geral dos códigos utilizados: O primeiro código utilizado (Extract_Meta_Interview_Prof_Farelo_Data.py) é mais simples, focado na extração básica de informações da entrevista e salvamento em Markdown. Já o segundo código (Extract_Meta_Interview_Prof_Farelo_Data.py) é mais complexo, realizando tarefas adicionais como etiquetagem de entidades e categorização de perguntas e respostas. Reutilizei boa parte do primeiro código e adicionei a função extract_interview_content no segundo código porque estava mal definida.
+Estrutura e funcionalidade geral dos códigos utilizados: O primeiro código utilizado (Extract_Meta_Interview_Prof_Farelo_Data.py) é mais simples, focado na extração básica de informações da entrevista e salvamento em Markdown, o mesmo código que utilizei para extrair metadados do UMDicas. Já o segundo código (Extract_Meta_Interview_Prof_Farelo_Data.py) é mais complexo, realizando tarefas adicionais como etiquetagem de entidades e categorização de perguntas e respostas. Reutilizei boa parte do primeiro código e adicionei a função extract_interview_content no segundo código porque estava mal definida.
 
 Manipulação de exceções: O segundo código possui uma estrutura mais robusta para manipular exceções, utilizando um bloco try-except para lidar com erros durante a leitura do arquivo.
 
