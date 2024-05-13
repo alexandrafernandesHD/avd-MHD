@@ -3,7 +3,7 @@
 
 ## Registo fotográfico da entrevista:
 <strong>IMG_2462.jpg:</strong>
-<p>Esta é a fotografia do objeto, neste caso, um livro, trazido pelo professor Xaquín para a entrevista.</p>
+Fotografia do objeto, neste caso, um livro, trazido pelo professor Xaquín para a entrevista (solicitado previamente).
 
 <strong>IMG_2469.JPG:</strong>
 <p>Registo fotográfico da entrevista</p>
