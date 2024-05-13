@@ -1,5 +1,5 @@
 # Arquivo da Entrevista ao professor Xaquín Núñez-Sabarís (por Gabriela Macieira)
-<p>Esta pasta é composta por 6 elementos (sendo um deles este "Readme").</p>
+<p>Esta pasta é composta por 6 elementos (sendo um deles este "Readme"). Dois deles são fotografias (em formato JPG) e os restantes três são em formato Markdown.</p>
 
 ## Registo fotográfico da entrevista:
 <strong>IMG_2462.jpg:</strong>
@@ -10,10 +10,10 @@ Fotografia da entrevistadora com o entrevistado.
 
 ## Transcrição e tratamento da entrevista:
 <strong>raw.md:</strong>
-Em formato Markdown, neste ficheiro, encontra-se a entrevista em bruto, sem qualquer tipo de edição ou tratamento posterior.
+Neste ficheiro encontra-se a entrevista em bruto, sem qualquer tipo de edição ou tratamento posterior. Foi utilizada a ferramenta "TurboScribe" para este efeito.
 
 <strong>inter.md:</strong>
-Este ficheiro, igualmente em Markdown, contém a entrevista já devidamente tratada em termos textuais e de formatação. Pode ser considerada a versão final.
+Este ficheiro contém a entrevista já devidamente tratada em termos textuais e de formatação. Pode ser considerada a versão final.
 
 <strong>bi.md:</strong>
-Este ficheiro Markdown contém um pequeno "Bilhete de Identidade" da pessoa entrevistada, no caso, do professor Xaquín. 
+Neste documento existe um pequeno "Bilhete de Identidade" da pessoa entrevistada, no caso, do professor Xaquín. 
