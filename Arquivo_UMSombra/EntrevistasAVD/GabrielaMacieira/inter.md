@@ -2,13 +2,12 @@
 date: 4 de abril de 2024
 author: Gabriela C. Macieira
 interviewee: Xaquín Núñez-Sabarís
-interviewer: Gabriela C. Macieira
-image: ![Fotografia](https://github.com/alexandrafernandesHD/avd-MHD/blob/8c5c4e1474431d5578103a841b335c209ee004eb/Arquivo_UMSombra/EntrevistasAVD/GabrielaMacieira/IMG_2469.JPG)
 title: "50 Anos de Universidade do Minho: à conversa com Xaquín Núñez-Sabarís"
 tags: Universidade do Minho, Xaquín Núñez-Sabarís, carreira acadêmica, estudos espanhóis, literatura hispânica.
 type: entrevista
 ---
 
+![Fotografia](https://github.com/alexandrafernandesHD/avd-MHD/blob/8c5c4e1474431d5578103a841b335c209ee004eb/Arquivo_UMSombra/EntrevistasAVD/GabrielaMacieira/IMG_2469.JPG)
 
 # 50 Anos de Universidade do Minho: à conversa com Xaquín Núñez-Sabarís
 
