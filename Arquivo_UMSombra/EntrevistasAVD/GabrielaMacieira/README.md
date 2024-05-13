@@ -6,7 +6,7 @@
 Fotografia do objeto, neste caso, um livro, trazido pelo professor Xaquín para a entrevista (solicitado previamente).
 
 <strong>IMG_2469.JPG:</strong>
-Fotografia da entrevistadora (Gabriela) com o entrevistado (professor Xaquín.
+Fotografia da entrevistadora (Gabriela) com o entrevistado (professor Xaquín).
 
 ## Transcrição e tratamento da entrevista:
 <strong>raw.md:</strong>
