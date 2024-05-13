@@ -10,8 +10,7 @@ Fotografia da entrevistadora com o entrevistado.
 
 ## Transcrição e tratamento da entrevista:
 <strong>raw.md:</strong>
-Neste ficheiro encontra-se a entrevista em bruto, sem qualquer tipo de edição ou tratamento posterior. Foi utilizada a ferramenta "TurboScribe" para este efeito.
-
+Neste ficheiro encontra-se a entrevista em bruto, sem qualquer tipo de edição ou tratamento posterior. Foi utilizada a ferramenta "TurboScribe" para a conversão de áudio para texto.
 <strong>inter.md:</strong>
 Este ficheiro contém a entrevista já devidamente tratada em termos textuais e de formatação. Pode ser considerada a versão final.
 
