@@ -19,7 +19,7 @@ notes: Entrevista a Jorge Louro, um dos fundadores da Tuna da Universitária do 
 
 ## Percurso na Universidade do Minho
 
-<interviewer> E para começar, queria que falasses um bocadinho sobre ti. Como é que foste parar à Universidade de Minho?</interviewer>
+<interviewer> - E para começar, queria que falasses um bocadinho sobre ti. Como é que foste parar à Universidade de Minho?</interviewer>
 <interviewee> A escolha da Universidade do Minho foi natural porque era a universidade da minha cidade e tinha as áreas que eu pretendia. 
 Julgo que concorri a mais universidades, mas sempre com ambição de ficar na Universidade do Minho.</interviewee> 
 
