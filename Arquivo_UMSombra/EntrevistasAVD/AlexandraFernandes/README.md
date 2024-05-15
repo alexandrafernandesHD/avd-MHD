@@ -1,6 +1,6 @@
 # Entrevista a Jorge Louro
 
-Nesta pasta é possível encontrar os seguintes documentos relativos à entrevista realizada a Jorge Louro no âmbito do Projeto Sombra.
+Nesta pasta é possível encontrar os seguintes ficheiros relativos à entrevista realizada a Jorge Louro no âmbito do Projeto Sombra.
 
 ## Ficheiros
 
