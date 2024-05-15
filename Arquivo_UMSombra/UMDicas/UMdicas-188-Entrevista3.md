@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# “É necessário saber reequacionar o nosso papel no seio da comunidade académica.”
+
 Criado algures entre finais de novembro e princípios de dezembro de 1990, os Jogralhos comemoram este ano, 32 anos de vida.
 
 Universitários do Minho, são um dos grupos culturais mais antigos da Academia Minhota. A Récita do 1º de Dezembro é seu momento alto do ano, dia em que também comemoram o seu aniversário.

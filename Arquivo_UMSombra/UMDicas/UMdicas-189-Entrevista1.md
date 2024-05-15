@@ -11,9 +11,9 @@ interviewer: Ana Marques
 ---
 
 
-Conceição Rodrigues nasceu em Amares há 55 anos e vive em Braga há 36. Casada, mãe de um casal, desempenha funções no Departamento de Desporto e Cultura (DDC) desde 1995, do qual faz parte até hoje, juntamente a uma equipa com cerca de 23 trabalhadores.
+# PERCRUSOS
 
-Nesta entrevista, a trabalhadora dos Serviços de Acção Social da Universidade do Minho (SASUM), que se caracteriza como muito ativa, enérgica, bem-disposta e muito profissional, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, afirmando gostar muito do convívio, de ajudar as pessoas, revelando a sua admiração pela responsabilidade e a sua repulsa com a mentira.
+*Conceição Rodrigues nasceu em Amares há 55 anos e vive em Braga há 36. Casada, mãe de um casal, desempenha funções no Departamento de Desporto e Cultura (DDC) desde 1995, do qual faz parte até hoje, juntamente a uma equipa com cerca de 23 trabalhadores. Nesta entrevista, a trabalhadora dos Serviços de Acção Social da Universidade do Minho (SASUM), que se caracteriza como muito ativa, enérgica, bem-disposta e muito profissional, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, afirmando gostar muito do convívio, de ajudar as pessoas, revelando a sua admiração pela responsabilidade e a sua repulsa com a mentira.*
 
 **Como chegou aos SASUM e qual o seu percurso profissional? Há quantos anos está nos Serviços e quais são, atualmente, as suas funções?**
 

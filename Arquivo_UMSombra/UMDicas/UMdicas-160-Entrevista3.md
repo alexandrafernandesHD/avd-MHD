@@ -11,6 +11,9 @@ interviewer: Nuno Gonçalves
 ---
 
 
+# “É nossa missão fazer com que ela (tradição) perdure até às próximas gerações...”
+
+
 Através da música e da dança, o GFUM tem feito um trabalho de divulgação em diferentes contextos dando a conhecer as variadas manifestações típicas da cultura da região.
 
 O Grupo Folclórico da Universidade do Minho (GFUM), com um historial de 25 anos, não para de nos surpreender. Nos últimos cinco, reinventou-se, trouxe à academia, à cidade e à região, uma lufada de ar fresco, misturando tradição e modernidade!

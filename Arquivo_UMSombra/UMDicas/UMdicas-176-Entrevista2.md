@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista ao Reitor da UMinho, Rui Vieira de Castro
 
 A poucos meses de terminar o seu mandato como Reitor da UMinho, Rui Vieira de Castro assume a recandidatura ao cargo, num balanço positivo do trabalho feito Rui Vieira de Castro foi eleito Reitor da Universidade do Minho (UMinho) a 24 de outubro de 2017 e tomou posse no cargo a 28 de novembro do mesmo ano. A cerca de seis meses do final do seu primeiro mandato, o UMdicas esteve à conversa com o Professor, que garantiu que apesar das dificuldades e dos tempos difíceis, a Universidade tem conseguido reforçar a sua posição. Afirmando o seu desejo de que o próximo ano letivo “represente o regresso à normalidade da vida da UMinho”.
 

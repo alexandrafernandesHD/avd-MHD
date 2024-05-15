@@ -10,6 +10,7 @@ role: Presidente do Conselho Geral (CG) da UMinho.
 interviewer: Ana Marques
 ---
 
+# “…a entrada no mercado de trabalho, para um licenciado em filosofia, não é propriamente fácil…”
 
 com Pedro Martins, para quem ser diretor de curso é, apesar de todas as dificuldades “um cargo compensador e estimulante”.
 

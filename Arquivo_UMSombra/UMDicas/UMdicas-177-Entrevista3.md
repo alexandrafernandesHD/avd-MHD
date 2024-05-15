@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# “Sentimos falta de conviver ... de sermos a alma da festa, de atuar para o público e ouvir as suas palmas”
 
 A Tuna de Medicina da Universidade do Minho (TMUM) foi criada em 2009, e, ao contrário do que se possa pensar, tem membros de vários cursos.
 

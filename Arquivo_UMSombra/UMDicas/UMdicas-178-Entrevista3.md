@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# “... ter novamente um grande público a aplaudir foi memorável”
+
 A TUM é feita de jovens estudantes e ex-estudantes da Universidade do Minho (UMinho) com muita vontade de se juntarem e fazerem música.
 
 A Tuna Universitária do Minho (TUM) é a tuna mais antiga da nossa academia.

@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Rosa Vasconcelos Provedora do Estudante
 
 Rosa Vasconcelos tomou posse como Provedora do Estudante da Universidade do Minho no passado dia 4 de novembro, tornando-se na terceira ocupante do cargo na Academia Minhota.
 

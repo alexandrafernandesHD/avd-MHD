@@ -9,7 +9,11 @@ interviewee: Cristina Sousa
 role: Departamento Contabilístico e Financeiro (DCF)
 interviewer: Ana Marques
 ---
-Cristina Sousa nasceu e vive em Braga há 43 anos. Desempenha funções no Departamento Contabilístico e Financeiro (DCF) dos Serviços de Acção Social da Universidade do Minho (SASUM) há 20 anos e faz parte de uma equipa de 22 pessoas que prestam apoio na área financeira a todos os departamentos dos Serviços. PERCURSOS Nesta entrevista, a trabalhadora que se caracteriza como uma pessoa metódica, empenhada, persistente e proactiva, fala- nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, olhando o futuro com positividade.
+
+
+# PERCURSOS
+
+*Cristina Sousa nasceu e vive em Braga há 43 anos. Desempenha funções no Departamento Contabilístico e Financeiro (DCF) dos Serviços de Acção Social da Universidade do Minho (SASUM) há 20 anos e faz parte de uma equipa de 22 pessoas que prestam apoio na área financeira a todos os departamentos dos Serviços. PERCURSOS Nesta entrevista, a trabalhadora que se caracteriza como uma pessoa metódica, empenhada, persistente e proactiva, fala- nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, olhando o futuro com positividade.*
 
 **Como chegou aos SASUM e qual o seu percurso profissional?**
 

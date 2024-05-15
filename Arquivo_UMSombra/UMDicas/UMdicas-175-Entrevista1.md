@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# Entrevista ao Presidente do Conselho Geral, Luís Valente de Oliveira
+
 Presidente do Conselho Geral (CG) desde 5 de junho de 2017, Luís Valente de Oliveira termina o seu mandato com um balanço positivo e com o sentimento de dever cumprido.
 
 O UMdicas esteve à conversa com o professor catedrático que nos falou das dificuldades sentidas, do que mais o fascinou, da Universidade que ajudou a orientar nestes últimos quatro anos, do futuro, entre outras coisas.

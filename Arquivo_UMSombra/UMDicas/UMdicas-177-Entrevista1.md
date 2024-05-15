@@ -11,11 +11,11 @@ interviewer: Ana Marques
 ---
 
 
-Helena Ferreirinha está na Divisão de Recursos Humanos dos Serviços de Acção Social da Universidade do Minho (DRH-SASUM) desde o início deste ano, depois de 11 anos no Departamento Alimentar. É a prova viva de que nunca é tarde para estudar e que o esforço compensa!
+# PERCURSOS
 
-PERCURSOS A trabalhadora fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia na sua Divisão e apresenta- nos um futuro onde a coragem e a motivação são ingredientes essenciais para ir mais além.
+*Helena Ferreirinha está na Divisão de Recursos Humanos dos Serviços de Acção Social da Universidade do Minho (DRH-SASUM) desde o início deste ano, depois de 11 anos no Departamento Alimentar. É a prova viva de que nunca é tarde para estudar e que o esforço compensa!*
 
-Caracteriza-se como uma pessoa simples, curiosa, resiliente, extrovertida, que adora desafios e que acredita que o melhor está para vir. “Sinto-me uma privilegiada em fazer parte desta comunidade”, diz.
+*A trabalhadora fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia na sua Divisão e apresenta- nos um futuro onde a coragem e a motivação são ingredientes essenciais para ir mais além. Caracteriza-se como uma pessoa simples, curiosa, resiliente, extrovertida, que adora desafios e que acredita que o melhor está para vir. “Sinto-me uma privilegiada em fazer parte desta comunidade”, diz.*
 
 **Como e quando chegou aos SASUM?**
 

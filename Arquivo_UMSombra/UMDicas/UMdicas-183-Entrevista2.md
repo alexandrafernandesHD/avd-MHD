@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista a Ricardo Duarte Lopes, presidente da AAUMinho
 
 O estudante do primeiro ano do mestrado em Direito dos Contratos e da Empresa é o 30º presidente da Associação Académica da Universidade do Minho (AAUMinho).
 

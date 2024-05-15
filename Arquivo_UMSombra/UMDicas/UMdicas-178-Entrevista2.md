@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# Entrevista à presidente do Conselho Cultural da Universidade do Minho
+
 Helena Sousa é presidente do Conselho Cultural da Universidade do Minho (UMinho) desde 2019 e foi a quinta figura a ocupar o cargo na academia minhota.
 
 Helena Sousa é Professora Catedrática no Departamento de Ciências da Comunicação do Instituto de Ciências Sociais da Universidade do Minho (UMinho) e antiga presidente do Instituto de Ciências Sociais (ICS).

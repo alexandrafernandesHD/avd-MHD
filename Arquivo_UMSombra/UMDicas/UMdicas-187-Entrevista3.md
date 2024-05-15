@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# Entrevista ao Selecionador Nacional de Futsal
+
 Jorge Braz é, desde 2010, o selecionador nacional da equipa A de futsal. O professor estará a coordenar as seleções nacionais que irão disputar o Mundial Universitário de Futsal.
 
 Jorge Braz iniciou a sua carreira de treinador de futsal na Universidade do Minho (UMinho) em 1997. Licenciado em Educação Física pela Faculdade de Ciências do Desporto e Educação Física da Universidade do Porto, é ainda mestre em Ciências do Desporto, especialização de Treino em Alto Rendimento Desportivo. A paixão pelo desporto começou com o futebol, mas quis o destino que o futsal fosse o seu caminho. No seu trajeto conta já com a conquista de dois europeus e um mundial consecutivos, tendo sido eleito o melhor selecionador quatro anos seguidos. De 18 a 24 de julho, estará a coordenar as seleções nacionais, feminina e masculina de futsal universitário, que vão disputar o Campeonato Mundial Universitário de Futsal, a decorrer em Braga e Guimarães.

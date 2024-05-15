@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista ao Presidente da Associação Académica, Rui Oliveira 
 
 Quase a fazer um ano de mandato, Rui Oliveira aponta como “prioridade” continuar a dar resposta às necessidades dos estudantes. ENTREVISTA À frente da Associação Académica da Universidade do Minho (AAUM) há quase um ano, Rui Oliveira, tal como todos nós, deparou-se com uma pandemia que veio alterar muitas das prioridades inicialmente delineadas para este mandato. O UMdicas esteve à conversa com o estudante de Engenharia Mecânica que assumiu que a sua equipa teve de se reinventar, destacando como grande projeto no momento, a digitalização dos transportes.
 

@@ -11,12 +11,13 @@ interviewer: Ana Marques
 ---
 
 
-Filipa Oliveira nasceu e vive em Braga há 44 anos.
-Casada, mãe de 3 filhos, desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 20 anos.
-Atualmente, faz parte do Departamento Contabilístico e Financeiro, uma equipa com cerca de 20 trabalhadores.
+# PERCURSOS
 
-PERCURSOS Nesta entrevista, a trabalhadora, adstrita ao Departamento Contabilístico e Financeiro (DFC), que se caracteriza como otimista, fala- nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, afirmando esperar novos desafios que a façam crescer.
-Como chegou aos SASUM e qual o seu percurso académico e profissional?
+*Filipa Oliveira nasceu e vive em Braga há 44 anos. Casada, mãe de 3 filhos, desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 20 anos. Atualmente, faz parte do Departamento Contabilístico e Financeiro, uma equipa com cerca de 20 trabalhadores. Nesta entrevista, a trabalhadora, adstrita ao Departamento Contabilístico e Financeiro (DFC), que se caracteriza como otimista, fala- nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, afirmando esperar novos desafios que a façam crescer.*
+
+
+**Como chegou aos SASUM e qual o seu percurso académico e profissional?**
+
 Licenciei-me em Administração Pública aqui na Universidade do Minho (UMinho), tenho uma Pós-Graduação em Contabilidade Pública pela Universidade Lusíada e terminei no início de 2014 o CADAP – Curso de Alta Direção da Administração Pública, também aqui na UMinho.
 Ingressei no mestrado em Administração Pública, que não conclui.
 

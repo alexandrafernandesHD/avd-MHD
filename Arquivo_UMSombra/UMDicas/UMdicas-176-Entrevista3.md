@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# “Sentimos saudades... de poder tocar a nossa música e sentir os aplausos do público”
 
 A Gatuna é uma das mais emblemáticas Tunas Femininas da Universidade do Minho e do país. A pandemia não as parou, mas obrigou a novas formas de trabalhar.
 

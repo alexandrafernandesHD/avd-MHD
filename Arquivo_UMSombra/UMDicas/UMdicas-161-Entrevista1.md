@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista ao Reitor da UMinho, Rui Vieira de Castro
 
 Rui Vieira de Castro considera que em 45 anos se construiu uma instituição de referência nacional e internacionalmente reconhecida, que deve ser motivo de orgulho e confiança.
 

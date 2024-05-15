@@ -9,11 +9,9 @@ interviewee: Fátima Gomes
 role: Divisão de Contabilidade e Tesouraria
 interviewer: Ana Marques
 ---
+# PERCURSOS
 
-
-Fátima Gomes é natural e vive em Braga (Gondizalves) há 62 anos. Casada, com duas filhas e dois netos, desempenha funções nos SASUM há 33 anos. Atualmente, faz parte do DCF, uma equipa com cerca de 20 trabalhadores.
-
-PERCURSOS Nesta entrevista, a trabalhadora, adstrita ao Departamento Contabilístico e Financeiro (DCF) dos Serviços de Ação Social da Universidade do Minho (SASUM), mais especificamente, à Divisão de Contabilidade e Tesouraria, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, assumindo que ser avó tem sido “uma das experiências mais gratificantes da minha vida”, e afirmando que a sua maior motivação “é poder contribuir para o bom funcionamento dos SASUM”.
+*Fátima Gomes é natural e vive em Braga (Gondizalves) há 62 anos. Casada, com duas filhas e dois netos, desempenha funções nos SASUM há 33 anos. Atualmente, faz parte do DCF, uma equipa com cerca de 20 trabalhadores. Nesta entrevista, a trabalhadora, adstrita ao Departamento Contabilístico e Financeiro (DCF) dos Serviços de Ação Social da Universidade do Minho (SASUM), mais especificamente, à Divisão de Contabilidade e Tesouraria, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, assumindo que ser avó tem sido “uma das experiências mais gratificantes da minha vida”, e afirmando que a sua maior motivação “é poder contribuir para o bom funcionamento dos SASUM”.*
 
 **Como chegou aos SASUM e qual o seu percurso académico e profissional?**
 

@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# “Os grupos culturais, quer nacionais, quer internacionais, estão cada vez mais presentes.”
 
 Criada em 1992, a partir do desejo de viver ao máximo a vida académica, fez no final de 2021, 29 anos de existência. A sua estreia aconteceu nas comemorações do Enterro da Gata em 1993, e, atualmente, o seu ponto alto é o seu festival, as “Serenatas ao Berço”.
 

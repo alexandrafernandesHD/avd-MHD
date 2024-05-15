@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista ao Reitor da UMinho, Rui Vieira de Castro 
 
 Rui Vieira de Castro garante que a UMinho “está preparada” para um ano letivo atípico, mas será necessário da parte de todos a adoção de práticas e de comportamentos adequados.
 

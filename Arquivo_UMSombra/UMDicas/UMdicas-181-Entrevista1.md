@@ -9,8 +9,11 @@ interviewee: Isabel Baião
 role: Serviços de Acção Social da Universidade do Minho (SASUM)
 interviewer: 
 ---
-Isabel Baião nasceu em Amarante e vive em Braga há 32 anos. A desempenhar funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 18 anos, é, desde 2015, responsável pela Divisão de Alojamento, fazendo parte de uma equipa de 35 trabalhadores.   PERCURSOS Nesta entrevista, a trabalhadora que se considera uma pessoa leal, amiga do seu amigo, empenhada, cumpridora das suas promessas, proativa, persistente e teimosa, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, olhando o futuro com esperança.
 
+
+# PERCURSOS
+
+*Isabel Baião nasceu em Amarante e vive em Braga há 32 anos. A desempenhar funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 18 anos, é, desde 2015, responsável pela Divisão de Alojamento, fazendo parte de uma equipa de 35 trabalhadores.   PERCURSOS Nesta entrevista, a trabalhadora que se considera uma pessoa leal, amiga do seu amigo, empenhada, cumpridora das suas promessas, proativa, persistente e teimosa, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, olhando o futuro com esperança.*
 **Como chegou aos SASUM e qual o seu percurso profissional?**
 
 A ligação aos SASUM surgiu ainda com as anteriores administrações, e ainda enquanto estudante. Em 2003 fui contratada para fazer parte da equipa do Departamento de Apoio Social, onde exerço funções até hoje. Tem sido um percurso de trabalho intenso.

@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista à Vice-reitora para a Educação, Laurinda Leite
 
 Há dois anos no cargo, assume como principal preocupação a qualidade da formação que é facultada aos estudantes da UMinho.
 

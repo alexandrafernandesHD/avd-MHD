@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# Álvaro Laborinho Lúcio e Frei Bento Domingues são os novos doutores da UMinho
+
 Laborinho Lúcio recebeu o título de Doutor Honoris Causa em Ciências da Educação, enquanto Frei Bento Domingues recebeu o título em Estudos Culturais.
 
 A Universidade do Minho (UMinho) atribuiu no passado dia 15 de fevereiro, o título de Doutor Honoris Causa a Álvaro Laborinho Lúcio e a Frei Bento Domingues, um reconhecimento pelo percurso de vida das duas figuras. Inserida nas comemorações do 45.º aniversário da Universidade, a cerimónia contou com a presença entre muitos outros, do ministro da Educação, Tiago Brandão Rodrigues e do reitor, Rui Vieira de Castro.

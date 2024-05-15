@@ -11,7 +11,9 @@ interviewer: Ana Marques
 ---
 
 
-Rui Vieira de Castro é reitor da UMinho desde 2017. A exercer o seu segundo mandato à frente da Academia minhota, assume um olhar de otimismo relativamente ao futuro.
+# Entrevista ao Reitor da UMinho, Rui Vieira de Castro
+
+*Rui Vieira de Castro é reitor da UMinho desde 2017. A exercer o seu segundo mandato à frente da Academia minhota, assume um olhar de otimismo relativamente ao futuro.*
 
 Reeleito reitor da Universidade do Minho (UMinho) em 2021, Rui Vieira de Castro estará à frente dos destinos da Instituição até 2025. Pelo caminho, nestes mais de 5 anos, teve de lidar com uma crise pandémica, com um subfinanciamento cada vez mais estrangulador do esforço da Universidade, e agora, com uma guerra instalada na Europa que tem gerado impactos económicos e sociais avassaladores para a Universidade e para o país.
 

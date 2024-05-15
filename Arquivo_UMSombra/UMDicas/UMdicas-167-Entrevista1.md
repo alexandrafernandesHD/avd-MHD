@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# André Reis Presidente da FADU
 
 André Reis tomou posse como presidente da Federação Académica de Desporto Universitário (FADU) no passado dia 8 de outubro. O jovem estudante de 27 anos estará à frente da instituição para o biénio 2019-2021, assumindo a aposta no “Desporto para Todos” como prioridade.
 

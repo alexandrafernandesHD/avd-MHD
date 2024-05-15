@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# António Paisana
+
 Olhados como embaixadores de excelência, no nosso país e pelo mundo, os ex-alunos da Universidade do Minho são considerados um valioso património que a Universidade quer manter por perto e, por isso, são cada vez mais as iniciativas que visam manter o contacto, estreitar relações, para que as ligações não se quebrem.
 
 O UMdicas esteve à conversa com o Eurodeputado José Manuel Fernandes, um minhoto de “gema” nascido e criado em Vila Verde que entrou na UMinho no ano letivo 1986/1987 para fazer Engenharia de Sistemas e Informática.

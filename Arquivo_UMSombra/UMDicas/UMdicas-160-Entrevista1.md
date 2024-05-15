@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# ntrevista com Nuno Reis, Presidente da Associação Académica
 
 Nuno Reis foi reeleito presidente da Associação Académica (AAUMinho) no passado dia 5 de dezembro, encarando este como o maior desafio da sua vida até ao momento.
 

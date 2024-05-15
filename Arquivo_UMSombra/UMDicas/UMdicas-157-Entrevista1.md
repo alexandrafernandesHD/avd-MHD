@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista com António Murta, Co-Presidente da Comissão “UM Compromisso com a Sociedade”
 
 O UMdicas esteve à conversa com o empreendedor que se define como “uma pessoa que gosta de estudar e que aprendeu a disciplina de o continuar a fazer durante a vida”. Ficamos ainda a saber o que pensa sobre o presente e o futuro da UMinho e do país, entre outras coisas.
 

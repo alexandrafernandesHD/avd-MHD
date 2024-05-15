@@ -11,6 +11,7 @@ interviewer: Ana Marques
 ---
 
 
+# “É importante para a UMinho ter grupos que a representem de forma digna no setor da cultura”
 
 Com 28 anos de existência, a Azeituna - Tuna de Ciências da Universidade do Minho tem-se vindo a renovar e reinventar ao longo dos anos.
 

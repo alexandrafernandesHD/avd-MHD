@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# Entrevista ao Presidente da Delegação de Braga da Cruz Vermelha Portuguesa
+
 Armando Osório está à frente da instituição humanitária desde 2011, depois de 29 anos ao serviço dos SASUM. Com quase 80 anos, assegura que faz o que gosta: “ajudar as pessoas”.
 
 O Presidente da Delegação de Braga da Cruz Vermelha Portuguesa, Armando Osório, é o nosso entrevistado da edição de dezembro. Durante a entrevista, o dirigente revela a motivação e que o levou a abraçar o desafio de liderar o movimento, responsável pelo trabalho humanitário junto dos mais vulneráveis e que abrange diversas valências, asseguradas por cerca de 170 assalariados com o apoio de mais de 250 voluntários.

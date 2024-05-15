@@ -10,10 +10,9 @@ role: Professora Catedrática Emérita da Escola de Medicina da Universidade do 
 interviewer: Ana Marques
 ---
 
+# Entrevista à Presidente do Conselho de Ética da UMinho
 
-Cecília Leão, é Professora Catedrática Emérita da Escola de Medicina da Universidade do Minho, desde 2019.
-É presidente do Conselho de Ética desde novembro de 2022.
-
+*Cecília Leão, é Professora Catedrática Emérita da Escola de Medicina da Universidade do Minho, desde 2019. É presidente do Conselho de Ética desde novembro de 2022.*
 
 Cecília Leão, integrou a UMinho em 1976 por altura da sua fundação, e é aqui na UMinho que tem decorrido o seu percurso académico de docente e investigadora, tendo realizado o seu doutoramento no Instituto Gulbenkian de Ciência (1980- 1984).
 Como professora catedrática na UMinho desde 1994 – primeiro no Departamento de Biologia da Escola de Ciências e, a partir de 2002, na Escola de Ciências da Saúde, atualmente Escola de Medicina - exerceu, entre outras, funções de Presidente da Escola de Ciências (1995-1998), da Escola de Ciências da Saúde / Escola de Medicina (2010-2017), bem como de Vice-reitora (1998-2002).

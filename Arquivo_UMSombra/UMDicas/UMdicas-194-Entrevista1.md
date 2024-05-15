@@ -10,10 +10,9 @@ role: PERCURSOS, Ação Social
 interviewer: Ana Marques
 ---
 
+# PERCURSOS
 
-Eduardo Fernandes nasceu e vive em Guimarães há 45 anos. Casado e pai de uma menina (Rita), desempenha funções nos Serviços de Ação Social da Universidade do Minho (SASUM) há 13 anos. Atualmente, faz parte do DDC, uma equipa com cerca de 20 trabalhadores.
-
-Nesta entrevista, o trabalhador dos Serviços de Ação Social da Universidade do Minho (SASUM), fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, considerando-se “otimista por natureza”.
+*Eduardo Fernandes nasceu e vive em Guimarães há 45 anos. Casado e pai de uma menina (Rita), desempenha funções nos Serviços de Ação Social da Universidade do Minho (SASUM) há 13 anos. Atualmente, faz parte do DDC, uma equipa com cerca de 20 trabalhadores. Nesta entrevista, o trabalhador dos Serviços de Ação Social da Universidade do Minho (SASUM), fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, considerando-se “otimista por natureza”.*
 
 **Há quantos anos está nos Serviços e quais são, atualmente, as suas funções?**
 
@@ -81,4 +80,8 @@ Las Vegas.
 
 **A Universidade do Minho?**
 
-Orgulho. Eduardo Fernandes trabalha na receção do Complexo Desportivo Universitário do campus de Azurém, em Guimarães. Ana MarquesNuno Gonçalves
+Orgulho.
+
+Eduardo Fernandes trabalha na receção do Complexo Desportivo Universitário do campus de Azurém, em Guimarães. 
+
+*Ana Marques*

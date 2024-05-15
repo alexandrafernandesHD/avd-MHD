@@ -11,6 +11,9 @@ interviewer: Ana Marques
 ---
 
 
+# Nuno Reis tomou posse para um segundo mandato com estrutura renovada
+
+
 Cerimónia decorreu a 4 de janeiro, tendo sido empossados também os restantes órgãos sociais da Associação Académica.
 
 Nuno Reis tomou posse como presidente da Associação Académica (AAUM) no passado dia 4 de janeiro, um mês depois de ter sido reeleito representante máximo dos estudantes da Universidade do Minho (UMinho). A cerimónia contou com a intervenção do Reitor da UMinho, Rui Vieira de Castro, e com a presença de várias personalidades de destaque da Academia e da região.

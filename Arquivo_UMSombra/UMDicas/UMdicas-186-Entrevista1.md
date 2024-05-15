@@ -11,11 +11,12 @@ interviewer: Nuno Gonçalves
 ---
 
 
-Fernanda Pereira nasceu em Braga há 52 anos. 
-Casada, mãe de um casal, desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 29 anos. 
-Atualmente, faz parte de uma equipa com cerca de 50 trabalhadores que compõem o Departamento de Apoio Social.
+# PERCURSOS
 
-Nesta entrevista, a Coordenadora Técnica, responsável do secretariado da Divisão de Bolsas, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, acreditando num futuro e num mundo melhor. 
+*Fernanda Pereira nasceu em Braga há 52 anos. Casada, mãe de um casal, desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 29 anos. Atualmente, faz parte de uma equipa com cerca de 50 trabalhadores que compõem o Departamento de Apoio Social.*
+
+*Nesta entrevista, a Coordenadora Técnica, responsável do secretariado da Divisão de Bolsas, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, acreditando num futuro e num mundo melhor. *
+
 **Como chegou aos SASUM e qual o seu percurso profissional?**
 Entrei para os SASUM em 1993, onde estou até hoje, sempre no Departamento de Apoio Social (DAS).
 

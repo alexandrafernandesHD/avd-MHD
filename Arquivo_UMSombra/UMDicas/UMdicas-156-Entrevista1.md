@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista ao Reitor da UMinho
 
 Rui Vieira de Castro nasceu há 60 anos em Caldas de Vizela. Em novembro passado tomou posse como Reitor da Universidade do Minho Rui Vieira de Castro nasceu há 60 anos em Caldas de Vizela, no distrito de Braga.
 

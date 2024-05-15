@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# Entrevista ao Presidente da FADU, Ricardo Nora
+
 Ricardo Nora tomou posse no passado dia 13 de novembro, como presidente da Federação Académica do Desporto Universitário (FADU) para o mandato 2022/2024.
 
 Ricardo Nora é um estudante da Universidade da Beira Interior (UBI) que está a terminar o seu Mestrado em Engenharia e Gestão Industrial.

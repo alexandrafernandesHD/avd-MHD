@@ -10,12 +10,9 @@ role: Serviços de Ação Social da Universidade do Minho (SASUM)
 interviewer: Ana Marques
 ---
 
+# PERCURSOS
 
-Marco Monteiro é natural e vive em Braga há 46 anos.
-Casado e pai de dois filhos, desempenha funções nos Serviços de Ação Social da Universidade do Minho (SASUM) há 17 anos.
-Atualmente, faz parte do DAA, uma equipa com cerca de 23 trabalhadores.
-
-Nesta entrevista, o trabalhador, adstrito ao Departamento de Apoio ao Administrador (DAA), mais especificamente, à Divisão de Fiscalização, Manutenção e Segurança, que se caracteriza como otimista, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, afirmando que a sua maior motivação é gostar do que faz.
+*Marco Monteiro é natural e vive em Braga há 46 anos. Casado e pai de dois filhos, desempenha funções nos Serviços de Ação Social da Universidade do Minho (SASUM) há 17 anos. Atualmente, faz parte do DAA, uma equipa com cerca de 23 trabalhadores. Nesta entrevista, o trabalhador, adstrito ao Departamento de Apoio ao Administrador (DAA), mais especificamente, à Divisão de Fiscalização, Manutenção e Segurança, que se caracteriza como otimista, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, afirmando que a sua maior motivação é gostar do que faz.*
 
 **Como chegou aos SASUM e qual o seu percurso profissional?**
 

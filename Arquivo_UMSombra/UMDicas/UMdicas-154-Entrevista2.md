@@ -10,6 +10,9 @@ role: Presidente do Conselho Geral (CG) da UMinho.
 interviewer: Nuno Gonçalves
 ---
 
+
+# Luís Francisco Valente de Oliveira
+
 Luís Francisco Valente de Oliveira nasceu em 1937 em São João da Madeira. É doutorado e professor catedrático em Engenharia Civil pela Universidade do Porto, sendo ainda diplomado em Planeamento e Desenvolvimento Regional pelo Instituto de Estudos Sociais de Haia (Holanda) e em Planeamento de Transportes pelo Imperial College de Londres (Reino Unido), além de doutor honoris causa pela Universidade de Trás-os-Montes e Alto Douro.
 
 Atualmente aposentado da Faculdade de Engenharia da Universidade do Porto é, desde 5 de junho, Presidente do Conselho Geral (CG) da UMinho.

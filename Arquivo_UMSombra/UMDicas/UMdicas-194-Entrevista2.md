@@ -128,7 +128,8 @@ Tem de permitir o debate sobre as grandes questões do nosso tempo e a expressã
 Tem de ser, em suma, um espaço de conhecimento, mas também de cultura e civilidade.
  “...
 olho para os nossos diplomados como estando investidos de uma missão de transformação e modernização, na qual a instituição deve continuar a investir.
-Uma mensagem à Academia?
+
+**Uma mensagem à Academia?**
 
 Ultrapassar divergências, juntar boas- vontades, ter a coragem de decidir, construir a universidade do futuro seguindo o exemplo dos seus fundadores.“Tem de ser uma universidade implantada na região, mas aberta ao mundo, plural e inclusiva.
 Nuno Gonçalves

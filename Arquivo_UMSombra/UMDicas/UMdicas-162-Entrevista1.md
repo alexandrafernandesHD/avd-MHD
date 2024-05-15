@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista com António Pontes - Coordenador da parceria UMinho - Bosch
 
 O UMdicas esteve à conversa com o coordenador que define a parceria como uma das mais ambiciosas em Portugal entre uma Universidade e uma Empresa.
 

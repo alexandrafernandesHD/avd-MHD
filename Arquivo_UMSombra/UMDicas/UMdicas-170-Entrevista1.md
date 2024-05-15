@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# UMinho comemorou 46 anos com reconhecimento à sua Comunidade
+
 UMinho comemorou 46 anos com reconhecimento à sua Comunidade Cerimónia solene decorreu no passado dia 17 de fevereiro, no Salão Medieval do Largo do Paço, em Braga.
 
 “A universidade tem nas pessoas que a constituem o seu valor maior”, começou por dizer o Reitor da UMinho, Rui Vieira de Castro no seu discurso da sessão solene do 46.º aniversário da Universidade do Minho (UMinho), comemorado no passado dia 17 de fevereiro.

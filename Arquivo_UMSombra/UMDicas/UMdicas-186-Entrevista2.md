@@ -10,6 +10,9 @@ role: Presidente do Conselho Cultural
 interviewer: Ana Marques
 ---
 
+
+# Entrevista ao presidente do Conselho Cultural, Miguel Bandeira
+
 Miguel Bandeira é presidente do Conselho Cultural da Universidade do Minho (UMinho) desde março de 2022, é a sexta figura a ocupar o cargo na academia minhota.
 
 Professor doutorado no Instituto de Ciências Sociais da Universidade do Minho (UMinho), do qual foi presidente entre 2010 e 2013, o doutor em Geografia Humana assumiu a presidência do Conselho Cultural (CC) da Universidade no presente ano, pretendendo sobretudo realizar um trabalho que deixe as melhores condições de desenvolvimento aqueles que o sucederão.

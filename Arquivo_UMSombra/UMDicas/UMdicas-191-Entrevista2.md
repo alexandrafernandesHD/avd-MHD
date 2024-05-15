@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# Entrevista a Margarida Isaías, presidente da AAUMinho
+
 A estudante do 6.º ano do Mestrado Integrado em Medicina é a 31.ª presidente da Associação Académica da Universidade do Minho (AAUMinho).
 
 Margarida Isaías foi eleita presidente da Associação Académica da Universidade do Minho (AAUMinho) no passado dia 6 de dezembro, com a tomada de posse a realizar-se a 7 de janeiro. Com 23 anos e um longo historial de ligação à Associação Académica, a estudante de Medicina assume que o facto de ser a segunda mulher a conseguir chegar ao cargo em 45 anos de existência da instituição, “deve ser visto como um reflexo da mudança da sociedade em que vivemos”.

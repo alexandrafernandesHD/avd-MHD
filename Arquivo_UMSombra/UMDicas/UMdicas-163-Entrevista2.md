@@ -11,6 +11,9 @@ interviewer: Ana Marques
 ---
 
 
+# Diretora do curso de Bioquímica “... a nossa licenciatura é competitiva.”
+
+
 O UMdicas esteve à conversa com Célia Pais, para quem ser diretora de curso é, essencialmente, coordenar e gerir no sentido do bom funcionamento do curso.
 
 Licenciada em Biologia pela Universidade de Coimbra e com doutoramento no Imperial College, em Londres, Célia Pais assume a sua licenciatura como de “reconhecido sucesso na UMinho”.

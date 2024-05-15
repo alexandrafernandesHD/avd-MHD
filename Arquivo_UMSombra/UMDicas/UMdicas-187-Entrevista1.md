@@ -11,14 +11,12 @@ interviewer: Ana Marques
 ---
 
 
+# PERCURSOS
 
+*Paula Cristina Leite nasceu e vive em Guimarães há 53 anos. Desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 19 anos. Atualmente, faz parte do Departamento de Apoio ao Administrador, uma equipa com cerca de 20 trabalhadores.*
+*A trabalhadora fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, olhando o futuro com esperança e otimismo. *
 
-Paula Cristina Leite nasceu e vive em Guimarães há 53 anos. 
-Desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 19 anos. 
-Atualmente, faz parte do Departamento de Apoio ao Administrador, uma equipa com cerca de 20 trabalhadores.
-
-A trabalhadora fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, olhando o futuro com esperança e otimismo. 
-**Como chegou aos SASUM e qual o seu percurso profissional? **
+**Como chegou aos SASUM e qual o seu percurso profissional?**
 Ingressei nos Serviços de Acção Social da Universidade do Minho (SASUM) em dezembro de 2003, onde me encontro até hoje, sempre no Departamento de Apoio ao Administrador (DAA). 
 O meu percurso na Universidade passou pela TecMinho, onde desempenhei funções administrativas no período de 1994 a 1996, na área da formação profissional. 
 De 1997 a 2003, desempenhei funções de administrativa na Presidência da Escola de Engenharia em Guimarães.

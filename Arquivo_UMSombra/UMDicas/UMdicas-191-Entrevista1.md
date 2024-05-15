@@ -10,10 +10,9 @@ role: Serviços de Ação Social da Universidade do Minho (SASUM)
 interviewer: Ana Marques
 ---
 
+# PERCRUSOS
 
-Óscar Melo é natural de Lamego mas vive em Guimarães. Com 47 anos, é casado e pai de um filho, desempenhando funções nos Serviços de Ação Social da Universidade do Minho (SASUM) há 17 anos. Atualmente, faz parte do DAS, uma equipa com cerca de 50 trabalhadores.
-
-Nesta entrevista, o trabalhador, adstrito ao Departamento de Apoio Social (DAS), e mais especificamente, à Divisão de Apoio ao Bem-Estar do Estudante, que se caracteriza como otimista, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, afirmando que a sua maior motivação é saber que o seu trabalho ajuda os estudantes de uma forma direta.
+*Óscar Melo é natural de Lamego mas vive em Guimarães. Com 47 anos, é casado e pai de um filho, desempenhando funções nos Serviços de Ação Social da Universidade do Minho (SASUM) há 17 anos. Atualmente, faz parte do DAS, uma equipa com cerca de 50 trabalhadores. Nesta entrevista, o trabalhador, adstrito ao Departamento de Apoio Social (DAS), e mais especificamente, à Divisão de Apoio ao Bem-Estar do Estudante, que se caracteriza como otimista, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, afirmando que a sua maior motivação é saber que o seu trabalho ajuda os estudantes de uma forma direta.*
 
 **Como chegou aos SASUM e qual o seu percurso académico e profissional?**
 

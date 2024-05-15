@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# “Profeta já nasce Profeta, apenas não o sabe”
+
 Fundados a 13 de maio de 1991, a OPUM DEI são um dos grupos mais antigos da Universidade do Minho, irreverentes e polémicos, têm como grande marca o “SECRETISMO”. ENTREVISTA Com um longo trajeto de 32 anos, nas suas aparições a Ordem Profética hostilizou e entreteve as massas, com sátiras, músicas e encenações, performances que prezam pela capacidade de improvisação. Tendo como pontos altos do ano, o “Velório da Gata” e o 1.º de dezembro, o grupo é composto por centenas de Profetas, constituído, na sua génese, por elementos do género masculino, O UMdicas esteve à conversa com a direção do grupo para saber mais sobre a OPUM DEI, sobre a sua origem, trajeto, sobre os seus projetos e sobre o seu futuro.
 
 **A OPUM DEI - Ordem Profética da Universidade do Minho é um dos grupos culturais mais antigos da Academia Minhota. Como surgiu a ideia da sua criação?**

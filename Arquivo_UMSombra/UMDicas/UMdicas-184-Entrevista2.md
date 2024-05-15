@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Reeleito reitor da Universidade do Minho (UMinho) até 2025, Rui Vieira de Castro diz-se comprometido com a afirmação da Academia.
 
 Rui Vieira de Castro foi reeleito reitor da Universidade do Minho (UMinho), para o período 2021-2025. O professor catedrático do Instituto de Educação foi escolhido, em outubro passado, com 65% dos votos dos membros do Conselho Geral e tomou posse a 29 de novembro.
 

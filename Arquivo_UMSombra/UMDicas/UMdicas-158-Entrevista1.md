@@ -3,7 +3,7 @@ university: Universidade do Minho
 journal: UMDicas 
 issue: 158
 date: Novembro de 2018
-title: “Entrevista com Nilson Miguel, jogador do Braga/AAUM
+title: “Entrevista com Nilson Miguel, jogador do Braga/AAUM"
 topic: Desporto
 interviewee: Nilson Miguel
 role: jogador do Braga/AAUM
@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# “Entrevista com Nilson Miguel, jogador do Braga/AAUM"
 
 O atleta soma já o título de Campeão Europeu pela seleção A ao título de Vice-Campeão Europeu Universitário pela UMinho.
 

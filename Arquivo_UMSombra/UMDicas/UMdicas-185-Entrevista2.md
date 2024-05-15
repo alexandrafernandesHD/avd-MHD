@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista à Presidente do Conselho Geral, JoAna Marques Vidal
 
 Presidente do Conselho Geral (CG) desde 17 de maio de 2021, após quase um ano de mandato, JoAna Marques Vidal assume que foi um ano muito enriquecedor.
 

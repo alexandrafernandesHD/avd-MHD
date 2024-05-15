@@ -10,13 +10,16 @@ role: Departamento Alimentar dos Serviços de Acção Social da Universidade do 
 interviewer: Ana Marques
 ---
 
-Lurdes Conceição nasceu em Benguela (Angola), mas vive em Braga há 45 anos. 
-Está no Departamento Alimentar dos Serviços de Acção Social da Universidade do Minho (DA-SASUM) há 29 anos e faz parte de uma equipa de cerca de 140 pessoas que prestam apoio à Comunidade Académica na vertente alimentar. 
 
-Nesta entrevista, a trabalhadora fala- nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, olhando o futuro com serenidade e esperança. 
-A trabalhadora faz parte de uma equipa de cerca de 140 pessoas que prestam apoio à Comunidade Académica na vertente alimentar. 
+# PERCURSOS
 
-**Como chegou aos SASUM? **
+*Lurdes Conceição nasceu em Benguela (Angola), mas vive em Braga há 45 anos. 
+Está no Departamento Alimentar dos Serviços de Acção Social da Universidade do Minho (DA-SASUM) há 29 anos e faz parte de uma equipa de cerca de 140 pessoas que prestam apoio à Comunidade Académica na vertente alimentar.* 
+
+*Nesta entrevista, a trabalhadora fala- nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, olhando o futuro com serenidade e esperança. 
+A trabalhadora faz parte de uma equipa de cerca de 140 pessoas que prestam apoio à Comunidade Académica na vertente alimentar.* 
+
+**Como chegou aos SASUM?**
 
 Em 1987, através de um programa do Instituto da Juventude, iniciei o meu percurso profissional na Associação Académica da Universidade do Minho (AAUM), com funções de apoio administrativo às suas atividades. 
 Foi uma experiência gratificante e repleta de boas recordações. 

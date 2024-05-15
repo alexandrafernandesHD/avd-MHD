@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# Entrevista a Pedro Dias, diretor executivo da Federação Portuguesa de Futebol
+
 Ligado à Universidade do Minho/Serviços de Acção Social da Universidade do Minho entre 1998 e 2011, o dirigente foi cedido à FPF por interesse público.
 
 Pedro Dias é diretor executivo da Federação Portuguesa de Futebol (FPF) desde 2011, responsável pelas modalidades de Futsal e Futebol de Praia e coordenação da formação dos treinadores de futebol, futsal e de futebol de praia e de alguns programas de desenvolvimento com os sócios ordinários da Federação. Apaixonado por desporto desde criança, tem como grande desejo ver aumentar a taxa de prática desportiva regular da população portuguesa.

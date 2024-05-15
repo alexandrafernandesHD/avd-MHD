@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# “… não temos dúvidas que a passagem de um universitário por um grupo cultural é única e transformadora ...”
+
 A Tun’ao Minho - Tuna Académica Feminina da Universidade foi criada em 2012, por um grupo de amigas unidas pela paixão à música.
 
 A Tun’ao Minho - Tuna Académica Feminina da Universidade do Minho nasceu da ideia de meia dúzia de amigas com gosto pela música que se lembraram de formar uma nova Tuna Feminina na Universidade do Minho. A “paixão” pela música falou bem alto e o grupo foi criado a 17 de novembro de 2012, sendo o seu ponto alto anual, a concretização do Tunão - Festival de Tunas Femininas, que acontece no mês do seu aniversário.

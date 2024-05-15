@@ -11,9 +11,9 @@ interviewer: Ana Marques
 ---
 
 
+# PERCURSOS
 
-
-Maurício Queiroz nasceu em São Paulo e vive em Viana do Castelo há 30 anos. A desempenhar funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 27 anos, faz parte de uma equipa de três trabalhadores que compõem, atualmente, a Divisão de Sistemas de Informação. PERCURSOS Nesta entrevista, o mestre em Engenharia Informática que tem dupla nacionalidade (brasileira e portuguesa), fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, consideramdo-se uma pessoa otimista de nascença. Como chegou aos SASUM e qual o seu percurso profissional? A ligação aos SASUM surgiu em 1996 e ainda enquanto estudante e dirigente da AAUM. Em 1997 comecei a fazer horas como trabalhador estudante na área da Contabilidade. Fui contratado em 1998, para fazer parte integrante da equipa do Departamento Financeiro. Em 2008 passei a integrar o setor de informática, atualmente designado por divisão de sistemas de informação, onde exerço funções até hoje.
+*Maurício Queiroz nasceu em São Paulo e vive em Viana do Castelo há 30 anos. A desempenhar funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 27 anos, faz parte de uma equipa de três trabalhadores que compõem, atualmente, a Divisão de Sistemas de Informação. PERCURSOS Nesta entrevista, o mestre em Engenharia Informática que tem dupla nacionalidade (brasileira e portuguesa), fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, consideramdo-se uma pessoa otimista de nascença. Como chegou aos SASUM e qual o seu percurso profissional? A ligação aos SASUM surgiu em 1996 e ainda enquanto estudante e dirigente da AAUM. Em 1997 comecei a fazer horas como trabalhador estudante na área da Contabilidade. Fui contratado em 1998, para fazer parte integrante da equipa do Departamento Financeiro. Em 2008 passei a integrar o setor de informática, atualmente designado por divisão de sistemas de informação, onde exerço funções até hoje.*
 
 **Há quantos anos está nos Serviços e quais são as suas funções?**
 

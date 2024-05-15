@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# José Mendes Secretário de Estado Adjunto e da Mobilidade
+
 José Mendes é Secretário de Estado Adjunto e da Mobilidade desde 2015, tendo assumido o “compromisso de operar uma revolução no sistema de mobilidade”. Em entrevista ao UMDicas falou-nos do seu trabalho e não esqueceu a forte ligação à UMinho.
 
 José Mendes é alumni e professor catedrático da Universidade do Minho.

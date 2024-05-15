@@ -10,6 +10,9 @@ role: Engenharia de Sistemas e antigo atleta da primeira “Geração D’Ouro�
 interviewer: Nuno Gonçalves
 ---
 
+
+# “Era responsável por uma operação com 600 pessoas e despachávamos 120 mil encomendas por dia”
+
 **O que te levou à UMinho e ao curso de Engenharia de Sistemas?**
 
 Desde miúdo que o mundo da tecnologia me fascinou. Tive o meu primeiro computador muito cedo e a partir daí, a curiosidade só foi crescendo. Tive a sorte de saber exatamente o que queria antes de entrar na Universidade e ir para um curso de informática foi um passo muito natural para mim. Sendo o da Universidade do Minho um dos mais cotados a nível nacional e sendo eu natural de Braga, a escolha tornou-se fácil.

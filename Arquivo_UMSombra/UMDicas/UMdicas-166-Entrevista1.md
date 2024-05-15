@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Manuel João Costa Pró-reitor para os Assuntos Estudantis e Inovação Pedagógica
 
 Neste arranque do ano letivo 2019/20, o Pró-reitor para os Assuntos Estudantis e Inovação Pedagógica, Manuel João Costa diz-se muito satisfeito com o programa de acolhimento levado a cabo neste início de ano e impressionado com o primeiro ano de mandato.
 

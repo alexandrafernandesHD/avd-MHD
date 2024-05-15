@@ -11,9 +11,11 @@ interviewer: Ana Marques
 ---
 
 
-Ana Paula Machado, responsável pela Divisão de Bolsas dos SASUM, fala do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia na sua Divisão e apresenta-nos uma perspetiva de futuro com esperança.
+# PERCURSOS
 
-PERCURSOS Responsável pela Divisão de Bolsas de estudo (DB), licenciada em Serviço Social, em funções no Departamento de Apoio Social (DAS) dos Serviços de Acção Social da Universidade do Minho (SASUM) desde 1986/87, Ana Paula Machado sempre esteve ligada ao apoio social e às pessoas em situação de carência socioeconómica, a sua área de formação académica.
+*Ana Paula Machado, responsável pela Divisão de Bolsas dos SASUM, fala do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia na sua Divisão e apresenta-nos uma perspetiva de futuro com esperança.*
+
+*Responsável pela Divisão de Bolsas de estudo (DB), licenciada em Serviço Social, em funções no Departamento de Apoio Social (DAS) dos Serviços de Acção Social da Universidade do Minho (SASUM) desde 1986/87, Ana Paula Machado sempre esteve ligada ao apoio social e às pessoas em situação de carência socioeconómica, a sua área de formação académica.*
 
 **O que mais a motiva no dia a dia no desenvolvimento do seu trabalho?**
 

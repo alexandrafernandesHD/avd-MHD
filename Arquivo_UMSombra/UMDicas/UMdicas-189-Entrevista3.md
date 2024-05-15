@@ -9,6 +9,7 @@ interviewee: Bomboémia
 interviewer: Ana Marques
 ---
 
+# “... podemos estar muito orgulhosos da qualidade e do nível dos grupos culturais universitários portugueses...”
 
 Fundados a 14 de setembro de 2004, os Bomboémia são um grupo dinâmico e inovador que chegou este ano à maior idade.
 

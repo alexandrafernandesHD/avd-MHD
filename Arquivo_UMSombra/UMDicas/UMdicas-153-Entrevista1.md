@@ -10,6 +10,9 @@ role: presidente da Associação Académica da Universidade do Minho (AAUM)
 interviewer: Ana Marques
 ---
 
+
+# Nuno Reis
+
 Nuno Reis foi eleito presidente da Associação Académica da Universidade do Minho (AAUM) no passado dia 5 de dezembro, com a tomada de posse a realizar-se a 6 de janeiro. Com um longo historial de ligação à Associação Académica, o estudante de Engenharia e Gestão Industrial assume a “enorme responsabilidade pessoal e institucional”
 
 do cargo.

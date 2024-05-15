@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# António Paisana Administrador dos SASUM
 
 António Paisana é Administrador dos Serviços de Acção Social da Universidade do Minho (SASUM) há cerca de um ano e meio. Em entrevista ao UMDicas fez um balanço deste trajeto à frente dos Serviços, falou-nos do presente e projetou o futuro da Instituição.
 

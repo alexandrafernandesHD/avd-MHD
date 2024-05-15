@@ -81,4 +81,6 @@ A música é uma linguagem universal que nos une através das fronteiras cultura
 
 “Os grupos culturais são uma forte escola das chamadas “soft skills”, ajudando imenso os seus membros a desenvolverem competências de  responsabilidade, organização, empatia e solidariedade.“ Estamos muito  entusiasmados com a celebração dos 40 anos do Grupo de Música Popular!
 
-“Juntar-se ao GMP é uma oportunidade de aprender, crescer e, acima de tudo, divertir-se através da música. Ana Marques
+“Juntar-se ao GMP é uma oportunidade de aprender, crescer e, acima de tudo, divertir-se através da música.
+
+*Ana Marques*

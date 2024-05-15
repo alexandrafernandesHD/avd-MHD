@@ -10,6 +10,9 @@ role: Augustuna
 interviewer: Ana Marques
 ---
 
+
+# “O nosso trajeto durante estes 25 anos foi todo um carrossel de momentos e emoções vividas.”
+
 Fundada em 1996, a Augustuna comemorou em fevereiro de 2021, as bodas de prata.
 
 A Augustuna foi a primeira tuna mista da Universidade do Minho (UMinho), que fez em 2021, 25 anos. Atualmente, apenas como tuna masculina, o grupo tem como ponto alto do ano o seu Festival de Tunas, o Magna Augusta. Constituída por cerca de 35 elementos ativos, tem mais de 60 elementos no total.

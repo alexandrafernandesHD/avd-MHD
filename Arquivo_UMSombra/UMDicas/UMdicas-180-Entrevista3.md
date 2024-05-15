@@ -11,6 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# “Sentimos muito a falta dos nossos ensaios presenciais (...) somos muito de calor humano...”
+
 A Literatuna – Tuna de Letras da Universidade do Minho comemora em dezembro 8 anos de existência.
 
 Fundada em 2013, a Literatuna foi a terceira tuna mista da Universidade do Minho (UMinho), que tem na sua constituição não só estudantes da Escola de Letras, Artes e Ciências Humanas (ELACH), mas é feita de alunos e alumni das mais diversas áreas, num total de mais de 50 elementos.

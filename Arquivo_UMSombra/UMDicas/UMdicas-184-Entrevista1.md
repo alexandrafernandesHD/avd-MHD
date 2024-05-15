@@ -11,11 +11,11 @@ interviewer: Ana Marques
 ---
 
 
+# PERCURSOS
 
+*António Ferreira nasceu há 61 anos em Novais, Vila Nova de Famalicão. A desempenhar funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 24 anos, faz parte de uma equipa com cerca de 20 trabalhadores que compõem, atualmente, o Departamento de Desporto e Cultura (DDC).*
 
-António Ferreira nasceu há 61 anos em Novais, Vila Nova de Famalicão. A desempenhar funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 24 anos, faz parte de uma equipa com cerca de 20 trabalhadores que compõem, atualmente, o Departamento de Desporto e Cultura (DDC).
-
-PERCURSOS Nesta entrevista, o Técnico Desportivo que vive em Braga desde 1982, ano em que ingressou como aluno na Universidade do Minho (UMinho), fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, sempre com o mesmo lema: “viver um dia de cada vez”.
+*Nesta entrevista, o Técnico Desportivo que vive em Braga desde 1982, ano em que ingressou como aluno na Universidade do Minho (UMinho), fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, sempre com o mesmo lema: “viver um dia de cada vez”.*
 
 **Como chegou aos SASUM e qual o seu percurso profissional?**
 

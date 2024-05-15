@@ -11,12 +11,11 @@ interviewer: Ana Marques
 ---
 
 
+# PERCURSOS
 
+*Jorge Rodrigues nasceu há 50 anos e vive em Castelões (Guimarães). A desempenhar funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 17 anos, faz parte de uma equipa com cerca de 140 trabalhadores que compõem, atualmente, o Departamento Alimentar.*
 
-Jorge Rodrigues nasceu há 50 anos e vive em Castelões (Guimarães). 
-A desempenhar funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 17 anos, faz parte de uma equipa com cerca de 140 trabalhadores que compõem, atualmente, o Departamento Alimentar.
-
-Nesta entrevista, o responsável pelo bar de Engenharia II, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, considerando-se uma pessoa dinâmica, organizada e responsável, afirmando gostar muito do que faz e de ajudar os outros.
+*Nesta entrevista, o responsável pelo bar de Engenharia II, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, considerando-se uma pessoa dinâmica, organizada e responsável, afirmando gostar muito do que faz e de ajudar os outros.*
 
 **Como chegou aos SASUM e qual o seu percurso profissional?**
 

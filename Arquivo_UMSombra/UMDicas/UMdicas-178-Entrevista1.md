@@ -11,7 +11,9 @@ interviewer: Ana Marques
 ---
 
 
-Carlos Azevedo nasceu e vive em Guimarães há 53 anos. Está no Departamento de Desporto e Cultura dos SASUM há 19 anos e é um dos rostos que mais reconhecemos no Pavilhão Desportivo do campus de Azurém. PERCURSOS O trabalhador fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia e apresenta-se com um otimismo moderado sobre o futuro. Quem é Carlos Azevedo? Sou uma pessoa calma e serena. Sempre tive uma consciência para intervir na sociedade que me rodeava. Fiz parte dos escuteiros, fiz parte dos órgãos sociais da Associação Académica da Universidade do Minho (AAUM), fiz parte dos extintos REOGUM (Representantes dos Estudantes nos Órgãos de Governo da UMinho), fiz parte de órgãos sociais de várias associações de pais, e, atualmente, sou representante eleito dos trabalhadores no Senado Académico da Universidade do Minho.
+# PERCURSOS
+
+*Carlos Azevedo nasceu e vive em Guimarães há 53 anos. Está no Departamento de Desporto e Cultura dos SASUM há 19 anos e é um dos rostos que mais reconhecemos no Pavilhão Desportivo do campus de Azurém. PERCURSOS O trabalhador fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia e apresenta-se com um otimismo moderado sobre o futuro. Quem é Carlos Azevedo? Sou uma pessoa calma e serena. Sempre tive uma consciência para intervir na sociedade que me rodeava. Fiz parte dos escuteiros, fiz parte dos órgãos sociais da Associação Académica da Universidade do Minho (AAUM), fiz parte dos extintos REOGUM (Representantes dos Estudantes nos Órgãos de Governo da UMinho), fiz parte de órgãos sociais de várias associações de pais, e, atualmente, sou representante eleito dos trabalhadores no Senado Académico da Universidade do Minho.*
 
 **Como chegou aos SASUM e quando?**
 

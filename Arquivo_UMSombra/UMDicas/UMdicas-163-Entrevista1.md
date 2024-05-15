@@ -11,6 +11,9 @@ interviewer: Ana Marques
 ---
 
 
+# Paulo Cruz Pró-reitor
+
+
 O UMdicas esteve à conversa com o Pró-reitor que nos falou de si, da UMinho, do pelouro que lidera, do futuro…garantindo que o que mais o fascina em todos os cargos que já desempenhou é a oportunidade de dar o seu melhor contributo para o progresso das entidades e instituições que representa.
 
 Pró-reitor para a Qualidade de Vida e Infraestruturas, Paulo Cruz iniciou a sua carreira como docente da Universidade do Minho (UMinho) em 1989, inicialmente no Departamento de Engenharia Civil, de que foi diretor em 2003 e 2004, e, posteriormente, na Escola de Arquitetura, a que presidiu entre 2004 e 2011. É Professor Catedrático de Construção e Tecnologia na Escola de Arquitetura desde 2008.

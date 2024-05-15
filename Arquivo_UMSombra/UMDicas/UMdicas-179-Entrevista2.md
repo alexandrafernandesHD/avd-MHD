@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# “Neste momento, o nosso maior sonho (...) é voltarmos a subir a palco em contexto de festival de tunas.”
 
 A Afonsina – Tuna de Engenharia da Universidade do Minho comemorou no passado mês de março, 27 anos de existência!
 

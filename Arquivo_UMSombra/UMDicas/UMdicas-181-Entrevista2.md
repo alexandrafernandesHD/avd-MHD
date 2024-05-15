@@ -11,7 +11,7 @@ interviewer: Ana Marques
 ---
 
 
-
+# Entrevista à Presidente do Conselho de Ética da Universidade do Minho
 
 Graciete Dias é Presidente do Conselho de Ética da Universidade do Minho (CEUMinho) desde junho de 2018, a primeira figura a ocupar o cargo na academia minhota.
 

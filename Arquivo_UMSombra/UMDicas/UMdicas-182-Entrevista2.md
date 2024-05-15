@@ -3,12 +3,15 @@ university: Universidade do Minho
 journal: UMdicas 
 issue: 182
 date: Dezembro de 2021
-title: Entrevista à Provedora do Estudante da Universidade do 
+title: Entrevista à Provedora do Estudante da Universidade do Minho
 topic: Academia
 interviewee: Rosa Vasconcelos
 role: Provedora do Estudante da Universidade do Minho
 interviewer: Ana Marques
 ---
+
+
+# Entrevista à Provedora do Estudante da Universidade do Minho
 
 Rosa Vasconcelos foi reconduzida no cargo de Provedora do Estudante da Universidade do Minho no passado dia 10 de dezembro.
 

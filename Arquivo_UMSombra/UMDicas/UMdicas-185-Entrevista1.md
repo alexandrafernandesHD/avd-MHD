@@ -11,9 +11,9 @@ interviewer: Ana Marques
 ---
 
 
+# PERCURSOS
 
-
-Joaquina Sá nasceu em Braga há 65 anos. Casada, mãe de uma filha e avó de dois meninos, desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 41 anos. Atualmente, faz parte de uma equipa com cerca de 20 trabalhadores que compõem o Departamento Contabilístico e Financeiro (DCF). PERCURSOS Nesta entrevista, a Assistente Técnica com curso geral de administração e comércio, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, patenteando a sua preocupação sobre o futuro.
+*Joaquina Sá nasceu em Braga há 65 anos. Casada, mãe de uma filha e avó de dois meninos, desempenha funções nos Serviços de Acção Social da Universidade do Minho (SASUM) há 41 anos. Atualmente, faz parte de uma equipa com cerca de 20 trabalhadores que compõem o Departamento Contabilístico e Financeiro (DCF). PERCURSOS Nesta entrevista, a Assistente Técnica com curso geral de administração e comércio, fala-nos do seu percurso de vida e experiência profissional, conta como é vivido o dia a dia, patenteando a sua preocupação sobre o futuro.*
 
 **Como chegou aos SASUM e qual o seu percurso profissional? **
 
