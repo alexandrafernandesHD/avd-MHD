@@ -5,7 +5,7 @@ place: Centro Educativo Bamboo
 job: Psicóloga
 place_bith: Famalicão
 date_birth: 3 de julho de 1992
-image: ![Janine] [[imagem_janine.jpg](https://github.com/alexandrafernandesHD/avd-MHD/blob/main/Arquivo_UMSombra/EntrevistasAVD/CristianaGomes/imagem_janine.jpg)]
+image: ![Janine] [[[imagem_janine.jpg](https://github.com/alexandrafernandesHD/avd-MHD/blob/main/Arquivo_UMSombra/EntrevistasAVD/CristianaGomes/imagem_janine.jpg)]](https://github.com/alexandrafernandesHD/avd-MHD/blob/main/Arquivo_UMSombra/EntrevistasAVD/CristianaGomes/imagem_janine.jpg)
 ---
 
 ## Conta-me um bocadinho do teu percurso académico, em que ano é que foste para a universidade, qual o curso...
