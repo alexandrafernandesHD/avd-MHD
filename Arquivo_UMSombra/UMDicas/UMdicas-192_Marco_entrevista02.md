@@ -1,0 +1,1669 @@
+---
+jornal:UMdicas
+issue:192
+University:Universidade do Minho
+interviewee:
+topis:Academia
+role:
+date:
+num_pages:
+title:Entrevista ao Reitor da UMinho, Rui Vieira de Castro
+interviewer:ANA MARQUES, NUNO GONÇALVES
+---
+Entrevista ao Reitor da
+UMinho, Rui Vieira de Castro
+Rui Vieira de Castro é reitor da UMinho desde 2017. A exercer o seu segundo mandato à
+frente da Academia minhota, assume um olhar de otimismo relativamente ao futuro.
+Reeleito reitor da Universidade do Minho
+(UMinho) em 2021, Rui Vieira de Castro
+estará à frente dos destinos da Instituição
+até 2025. Pelo caminho, nestes mais
+de 5 anos, teve de lidar com uma crise
+pandémica, com um subfinanciamento
+cada vez mais estrangulador do
+esforço da Universidade, e agora,
+com uma guerra instalada na
+Europa que tem gerado impactos
+económicos e sociais avassaladores
+para a Universidade e para o país.
+O UMdicas esteve à conversa com o
+Professor, que numa longa conversa
+fez balanços, da sua prestação e da
+Instituição que lidera, traçou caminhos e
+projetos, deixou desejos e lançou apelos,
+deixando sempre patente a relevância do
+projeto da UMinho.
+Decorre o segundo mandato como
+Reitor da UMinho. Que balanço faz
+destes 5 anos à frente dos destinos
+da academia e quais são os principais
+projetos até final do mandato?
+Fazer um balanço de 5 anos de Reitor,
+naqueles que foram os 5 anos que
+vivemos, é algo que não pode deixar
+de ponderar aquilo que foram fatores
+externos, que condicionaram de forma
+muito significativa e que tiveram
+grande impacto no funcionamento da
+Universidade.
+Refiro-me muito particularmente
+àquilo que foram os dois anos em que
+o funcionamento da instituição esteve
+fortemente afetado pela crise pandémica.
+E agora, mais recente, por efeito do
+conflito instalado no centro da Europa,
+há um conjunto de impactos na sociedade
+e na economia que vieram criar uma
+circunstância nova e inesperada.
+Isto não significa que este quadro
+de dificuldades tenha impedido a
+consolidação do projeto da UMinho e
+da sua capacidade de responder àquilo
+que são os objetivos que orientam a
+instituição. A este propósito gostaria de
+relevar alguns aspetos que me parecem
+fundamentais, e fá-lo-ia considerando
+aquilo que são as várias dimensões de
+atuação da Universidade, ou seja, no
+domínio da educação, no domínio da
+investigação e da inovação e no domínio
+da interação com a sociedade.
+Relativamente ao domínio da educação,
+nestes 5 anos, a UMinho continuou
+a crescer, de forma significativa, em
+número de estudantes. Estamos hoje
+com cerca de 21 000 estudantes, um
+crescimento de aproximadamente
+de 2000 alunos face àquilo que era o
+corpo discente da Universidade há 5
+anos. Este crescimento representa,
+evidentemente, aquilo que a instituição é
+capaz de oferecer, representa também um
+significativo grau de adequação daquilo
+que é a nossa oferta educativa, àquilo
+que são as expectativas e necessidades
+das pessoas. Mas representa, também, o
+quadro daquilo que tem sido a chegada
+ao ensino superior, que se tornou muito
+evidente ao longo dos últimos anos, de
+um maior número de pessoas. Há um
+crescimento generalizado na procura
+do ensino superior. Esta capacidade da
+UMinho responder àquilo que é a procura
+social tem sempre presente a necessidade
+de adequação da oferta educativa àquilo
+que são necessidades da economia e da
+sociedade, àquilo que são aspirações das
+pessoas. A UMinho é uma instituição de
+ensino superior cada vez mais relevante
+para as pessoas, e isso é visível no
+aumento da procura de que ela é objeto.
+Temos clara consciência de que a procura
+da educação superior e a chegada das
+pessoas à Universidade é apenas uma
+condição para a Universidade cumprir a
+sua missão, porque, de seguida, o que se
+espera é que a Universidade seja capaz de
+assegurar que as pessoas que cá chegam,
+cá permaneçam, obtenham os seus graus
+em tempo útil, que a sua qualificação seja
+efetiva e que depois a transição para os
+mercados de trabalho, seja também bem
+sucedida.
+Nesta perspetiva, e queria também
+relevar destes 5 anos, na UMinho fomos
+capazes de desenvolver um conjunto
+de iniciativas tendentes a acautelar a
+qualidade dos percursos académicos
+dos nossos estudantes. São iniciativas
+de várias naturezas, desenvolvidas em
+articulação com a Associação Académica,
+que tem a ver com o acompanhamento
+dos percursos, tal como a iniciativa
+que fomos expandindo das Tutorias,
+as Mentorias, que agora têm uma
+componente internacional, são excelentes
+exemplos desta preocupação. Como é
+também o esforço que tem sido colocado
+na qualificação pedagógica dos nossos
+docentes, uma preocupação central
+na atividade da Universidade, que tem
+vindo a fazer com que a UMinho venha
+assumindo, cada vez mais, um papel
+muito relevante na dinamização de um
+processo que é visível em Portugal de
+promoção da capacitação pedagógica dos
+docentes do ensino superior, e também
+com expressão no contexto internacional,
+designadamente no fórum que a
+Associação Europeia de Universidades
+tem para trabalhar estas matérias.
+Esta preocupação com a qualidade da
+educação, traduzida num conjunto de
+iniciativas concretas, é também, do
+meu ponto de vista, um resultado muito
+importante da nossa atividade ao longo
+do tempo.
+Olhando ainda para os estudantes, diria
+ainda que estamos a dar hoje, passos
+decisivos para uma velha aspiração da
+Universidade, que era a do alargamento do
+seu parque de residências universitárias.
+Este projeto foi iniciado em 2018, no
+quadro do Plano Nacional de Alojamento
+de Estudantes do Ensino Superior, que
+acabou por não ter o efeito esperado,
+mas que agora, no quadro do Plano de
+Recuperação e Resiliência (PRR), ganhou
+de facto um impulso novo. Candidatamos
+dois projetos principais, uma residência
+em Braga e outra em Guimarães, com
+circunstâncias distintas. Em Guimarães
+o projeto é assumido integralmente pela
+Universidade, em Braga, o dono da obra
+é a Câmara Municipal de Braga, embora
+tenha havido aqui uma intervenção
+muito significativa da Universidade
+na conceção do próprio projeto, e as
+coisas encaminhar-se-ão para que a
+Universidade venha a assumir a gestão
+do edifício da Fábrica Confiança.
+Gostava ainda de relevar que o Colégio
+Doutoral é uma estrutura que está,
+de facto, a contribuir de forma muito
+significativa para a melhoria da qualidade
+da educação doutoral na UMinho,
+respondendo àquilo que ela deve ser
+em termos de práticas associadas, em
+termos de integridade e ética académica,
+práticas relacionadas com os modos de
+promover a orientação dos estudantes,
+com a capacitação em dimensões
+transversais dos próprios estudantes
+de doutoramento, de preparação para a
+sua inserção também noutros contextos
+que não apenas os conselhos científicos,
+também de construção de referenciais
+de qualidade. Estamos a falar de um
+projeto que tem sido de qualidade e que se
+afirmou de forma significativa na nossa
+instituição.
+Quando olho para o campo da Investigação
+e da Inovação, diria que os aspetos
+principais se prendem com a consolidação
+do corpo de investigadores da
+Universidade. Temos os nossos estatutos,
+a nossa legislação, a investigação está
+adequadamente enquadrada, mas a
+verdade é que só muito recentemente
+podemos falar de um verdadeiro
+corpo de investigadores de carreira da
+Universidade. Por outro lado, e tendo
+em conta decisões que foram tomadas
+pelo Governo, temos uma alteração que
+é qualitativa e significativa do estatuto
+dos investigadores, da natureza do
+contrato que têm com a Universidade. A
+verdade é que em todo este contexto, a
+Universidade tem hoje à volta de 380/400
+investigadores contratados, muitos deles
+contratados para desenvolvimento de
+projetos de investigação e inovação, mas,
+destes, cerca de 10% são já investigadores
+de carreira. Esta é de facto uma alteração
+qualitativa muito importante.
+Regressando à avaliação dos 5 anos,
+o que importa notar, apesar de todas
+as dificuldades que mencionei, é a
+enorme vitalidade que a instituição
+tem. Hoje temos mais de 750 projetos
+de investigação e desenvolvimento
+em curso na Universidade, com um
+orçamento que ultrapassa os 200 milhões
+de euros. Este número de projetos coloca
+enormes desafios à nossa máquina
+administrativa que nem sempre tem
+tido suficiente capacidade de resposta,
+como também desafios de outra ordem
+são colocados por aquilo que é alguma
+dificuldade das entidades financiadoras
+em, atempadamente, procederem aos
+reembolsos da Universidade. Depois,
+é evidente que essa vitalidade tem
+expressão naquilo que é a avaliação que
+é feita do nosso sistema de unidades de
+investigação, temos cerca de 90% dos
+nossos investigadores em unidades que
+estão classificadas como “excelente” ou
+“muito bom” nas avaliações da Fundação
+para a Ciência e a Tecnologia (FCT), o
+número de publicações científicas da
+UMinho continua a crescer regularmente
+ao longo dos anos. Tivemos também
+ocasião de ter uma participação que
+cresceu significativamente:estamos hoje
+presentes em 9 laboratórios associados,
+em 13 laboratórios colaborativos e
+isto representa o salto daquilo que é a
+atividade científica da Universidade.
+Olhando para o plano das infraestruturas,
+vamos ter, muito proximamente, a
+abertura do novo edifício do 3Bs, no
+AveParque, uma infraestrutura científica
+de grande qualidade.
+Ao nível da Interação com a Sociedade, esta
+faz-se de muitas maneiras. Uma forma de
+o fazer são os projetos que desenvolvemos
+em colaboração com entidades de
+natureza empresarial, Bosch, Continental,
+Sonae, são exemplos de entidades com
+as quais vimos desenvolvendo projetos
+de grande impacto, que envolvem um
+elevado número de recursos financeiros,
+supõem a criação de emprego altamente
+qualificado, que se traduzem na própria
+alteração da produção destas empresas,
+da riqueza que são capazes de criar.
+Isto é uma marca da Universidade que
+tem de ser sublinhada. Conseguimos
+também neste período, reforçar a nossa
+intervenção no quadro de projetos com
+estas características.
+Mas não se restringe a esta dimensão
+aquilo que são as formas de interação
+que temos com a sociedade. Há outros
+instrumentos, há outras figuras, outros
+recursos que nós temos e que gostaria
+de relevar. Entre eles encontram-se,
+evidentemente, a nossa Rede Casas do
+Conhecimento, um projeto notável, por
+aquilo que representa de articulação
+entre a Universidade e as autarquias
+da região. As nossas unidades culturais
+que também elas desenvolvem
+uma atividade sistemática, seja de
+preservação, seja de disponibilização e
+divulgação de património cultural. Neste
+período fizemos exposições que foram
+marcantes, a exposição sobre o André
+Soares ou sobre o Espólio da Diamang,
+foram marcos nesta nossa atividade
+de divulgação do património cultural.
+Vamos colaborando com entidades
+da nossa envolvente através de outras
+estruturas específicas, como é o caso da
+Associação de Psicologia ou do Projeto P5
+da Escola de Medicina que, operando na
+área genérica das ciências da saúde, tem
+dado contributos importantíssimos no
+quadro das relações que temos vindo a
+estabelecer com os municípios. Este tipo
+de intervenção estruturada, sistemática,
+significa também a passagem para
+um outro plano dos nossos modos de
+relação com os municípios e com as
+populações, nestes casos concretos,
+através da prestação de cuidados de
+saúde, seja numa lógica preventiva,
+seja numa lógica de intervenção. Ainda
+nesta relação com os municípios, relevo
+a vitalidade desta relação, desde logo
+com as cidades onde estão os campi
+da UMinho, Braga e Guimarães, foi
+neste período que pudemos começar a
+contar com as instalações do edifício do
+Teatro Jordão e da Garagem Avenida,
+infraestruturas de grande qualidade,
+mas temos outros projetos com este
+município. Estamos também a fazê-lo
+em Braga, recordo o projeto do Convento
+de São Francisco, como exemplo maior da
+colaboração que vamos tecendo, sendo
+que também é verdade que nos vamos
+articulando com outros municípios, no
+sentido da instalação de novos polos
+da Universidade, polos de natureza
+diferenciada, mas que não deixam de
+ser polos de atividade da UMinho. Isto
+tem-se conseguido de uma forma muito
+interessante com Famalicão, e agora com
+Esposende, orientando a atividade nestes,
+sobretudo para a investigação e inovação.
+Diria, por fim, que, nesta estratégia de
+interação com a sociedade, a UMinho
+Editora tem vindo a fazer um trabalho
+notável de divulgação daquilo que é a
+produção académica, mais genericamente,
+intelectual dos membros da UMinho,
+aberta também à colaboração de pessoas
+externas à Universidade, mas que se está
+a afirmar como um projeto de grande
+qualidade.
+Estes são, de facto, os grandes marcos
+que, nestes três eixos fundamentais de
+atuação da Universidade, gostaria de
+sinalizar. Claro que isto é efeito de uma
+comunidade que tem sido caracterizada
+por uma grande capacidade de resiliência,
+resistindo muitas vezes a condições
+adversas, mas não esquecendo nunca
+aquilo que são os nossos objetivos
+fundamentais.
+Sobre os próximos anos, temos no
+domínio da Educação, uma grande
+ambição que é a da reorganização da
+oferta educativa da Universidade. A nossa
+oferta educativa é fortemente estruturada
+sobre cursos conferentes de grau, e
+estamos a procurar complementar,
+de uma forma que queremos um
+alargamento e complexificação da
+oferta educativa, procurando torná-la
+sensível àquilo que são necessidades que
+se exprimem na procura de uma oferta
+que não é necessariamente conferente
+de grau. Cursos de curta duração,
+orientados para a promoção da aquisição
+de determinado tipo de conhecimentos,
+competências e capacidades. Este é hoje
+um objetivo que do nosso ponto de vista
+a instituição deve perseguir, e que já está
+a ser materializado em outras instituições
+no plano internacional.
+O outro objetivo prende-se com o facto da
+qualidade da investigação e da inovação
+produzida na nossa Universidade. O
+reforço do corpo de investigadores é
+um objetivo que está assumido, vamos
+ter uma circunstância particularmente
+difícil por efeito do término dos
+contratos das pessoas que estão entre
+nós ao abrigo da norma transitória do
+Decreto-Lei nº 57/2016. Estas pessoas
+vão ter que, de algum modo, ter condições
+para a prossecução da sua atividade, a
+Universidade está preocupada com
+isso, está a fazer o seu percurso, está a
+fazê-lo através da criação de uma carreira
+específica de Técnico Superior de Gestão
+de Ciência e Tecnologia, estamos também
+a procurar que junto do ministério sejam
+desencadeadas medidas que confiram
+maior autonomia às instituições para
+desenvolverem aquilo que são políticas
+de ciência próprias. Portanto, vamos ter
+um período que vai ser muito estimulante
+deste ponto de vista, sendo que para nós,
+uma coisa que é clara, queremos reforçar
+a nossa posição, queremos continuar a
+aumentar o número e a qualidade da
+nossa produção científica, queremos
+reforçar a carreira de investigação dentro
+da Universidade e queremos prosseguir
+o desenvolvimento de projetos de
+inovação. E aqui, as chamadas agenda
+mobilizadores, projetos que envolvem
+as universidades, instituições de
+investigação, entidades do sistema
+empresarial, são projetos absolutamente
+fulcrais para nós. Estamos num largo
+número de agendas mobilizadoras, em
+18, agendas que têm como objetivo,
+contribuir para a transformação do tecido
+empresarial em Portugal, da qualificação
+da nossa economia e desenvolvimento
+da nossa sociedade. A Universidade está
+fortemente comprometida com esse tipo
+de projetos, diria que na área da inovação,
+esse é o grande objetivo que se nos coloca,
+criação de condições para que a nossa
+intervenção nas agendas mobilizadoras
+seja capaz de ajudar, de dar contributos
+reais para a transformação do país.
+Outra área que projeto como de
+grande relevância para a instituição,
+prende-se com a internacionalização
+da Universidade. Esta faz-se a partir
+de múltiplos instrumentos, mobilidade
+de estudantes e docentes, práticas de
+cooperação internacional no âmbito da
+cooperação estão muito consolidadas
+dentro da Universidade, agora, temos
+uma realidade nova que nos é criada pela
+participação na Aliança Europeia Arqus. A
+contribuição para a consolidação da Arqus
+e a internalização na Universidade daquilo
+que são as possibilidades que a Arqus
+abre, são também objetivos fundamentais
+para este mandato.
+Em suma, os grandes objetivos serão a
+aposta na formação não conferente de
+grau, aproveitando o caminho aberto
+pelos programas impulsos do PRR, mas
+que queremos que ultrapassem o tempo
+de concretização desses programas.
+Na área da investigação, o reforço das
+carreiras e o reforço das nossas unidades
+de investigação. Na interação com a
+sociedade, as agendas mobilizadoras,
+não esquecendo também a necessidade
+de continuarmos a nossa atividade na
+esfera cultural que estamos a perspetivar,
+através de uma redefinição das formas de
+articulação das várias unidades culturais.
+A ideia é a definição clara das políticas
+culturais da UMinho, e que não podem
+ser aquelas que existiam há 5 anos ou
+10 anos, porque, entretanto, o tecido
+cultural, felizmente, tornou-se muito
+mais rico e complexo, por isso, agora tem
+de ser apropriado de uma forma diferente
+e muito em rede com aquilo que são as
+outras entidades que compõem o tecido
+cultural.
+Olhando para dentro da instituição, diria
+que há dois tipos de projetos principais.
+Um prende-se com o repensar da
+Universidade como organização, a
+Universidade cresceu muito, tornou-se
+muito mais complexa, o contexto
+envolvente é muito mais desafiante,
+coloca-nos novos problemas e requer
+novas respostas, e nós temos de adequar
+a nossa organização a esta realidade
+interna e externa. A revisão dos estatutos,
+que está já lançada e que esperamos
+que esteja concluída ao longo de 2023,
+busca precisamente isso. A proposta está
+entregue no Conselho Geral, ela admite
+a criação de novas unidades dentro da
+Universidade. Vamos ainda este mês,
+desencadear o processo de revisão do
+Plano Estratégico da Universidade,
+documentos importantes para a definição
+daquilo que é o nosso futuro.
+Ainda nesta esfera interna, é nossa
+grande ambição, criar outro pelouro,
+que está previsto na equipa reitoral,
+sobre simplificação e modernização
+administrativa, aspetos que, para nós,
+são absolutamente fundamentais.
+As exigências hoje colocadas sobre a
+administração da Universidade são muito
+grandes e, por isso, temos de encontrar
+caminhos de simplificação administrativa
+Universidade como organização, a
+Universidade cresceu muito, tornou-se
+muito mais complexa, o contexto
+envolvente é muito mais desafiante,
+coloca-nos novos problemas e requer
+novas respostas, e nós temos de adequar
+a nossa organização a esta realidade
+interna e externa. A revisão dos estatutos,
+que está já lançada e que esperamos
+que esteja concluída ao longo de 2023,
+busca precisamente isso. A proposta está
+entregue no Conselho Geral, ela admite
+a criação de novas unidades dentro da
+Universidade. Vamos ainda este mês,
+por um lado, e temos de encontrar
+também caminhos de modernização de
+todos os nossos sistemas de informação.
+Esses são dois grandes objetivos, duas
+grandes ambições neste particular para a
+Universidade, isto é, precisamos de tornar
+mais simples os nossos procedimentos,
+mas também sermos capazes de nos dotar
+das ferramentas, dos instrumentos que
+permitam essa simplificação. São dois
+projetos que estão já em curso e que
+passam, desde logo, pela revisitação de
+tudo o que são processos administrativos
+dentro da Universidade, passa também
+pela aquisição de novas ferramentas, de
+novas plataformas informáticas que nos
+permitam gerir, designadamente, tudo
+aquilo que são os recursos humanos da
+instituição e toda a área financeira.
+Falando agora da área financeira, diria
+que uma grande preocupação e objetivo,
+prende-se com a sustentabilidade
+financeira da própria instituição. Se não
+tivermos garantida essa sustentabilidade,
+não conseguimos concretizar, de forma
+adequada, a nossa missão. Foi nesse
+sentido que lançamos o novo modelo de
+elaboração e aplicação dos orçamentos,
+criando condições para uma maior
+autonomia e responsabilidade das nossas
+unidades orgânicas.
+Como vê o papel do Reitor neste meio
+diverso que é o da Universidade? Sente
+que tem sido um bom líder?
+O que eu sei é que as circunstâncias em
+que estamos são particularmente difíceis
+e desafiantes, pelos condicionalismos
+externos, também por aquilo que é um
+processo doloroso de transformação
+interna da própria Universidade, isto
+num contexto de rarefação de recursos
+financeiros, que não nos permitem
+contratar as pessoas que gostaríamos,
+que não nos permite adquirir todas as
+ferramentas que necessitaríamos, por
+efeito daquilo que é subfinanciamento,
+que é crónico da UMinho face a outras
+instituições de ensino superior. Estas são
+as condições objetivas, evidentemente,
+seria muito mais feliz se tivesse outras
+condições externas, mas eu sabia que
+essas eram as minhas circunstâncias.
+O que posso dizer é que tenho feito o
+meu melhor, estou rodeado de pessoas
+em quem deposito grande confiança,
+procuramos permanentemente incutir
+nas pessoas, dentro da organização, a
+importância de não perdermos de vista
+aquilo que são os objetivos essenciais
+da Universidade, e, portanto, de não
+perdermos energia face à adversidade
+das condições.
+O meu papel, entendo-o como o de
+ser capaz de carrear para dentro da
+Universidade um capital de esperança,
+e faço-o recordando aquilo que de
+muito bom temos feito, mesmo em
+circunstâncias muito difíceis, e também
+sinalizando que há no horizonte novas
+possibilidades, sobretudo aquelas que
+podem decorrer da alteração do modelo
+de financiamento das instituições de
+ensino superior. Esse tem sido o nosso
+problema fundamental. A UMinho não
+está a ser adequadamente financiada, isso
+foi reconhecido pela Senhora Ministra da
+Ciência, Tecnologia e Ensino Superior
+aquando da preparação do Orçamento
+do Estado (OE) para 2023. A nossa
+Universidade deveria ter sido dotada de
+mais 14 milhões no orçamento e isto faria
+toda a diferença para nós. Lamento muito
+esta circunstância, tenho procurado dizer
+à comunidade que estando todos nós
+conscientes da injustiça enorme que está
+a ser cometida com a Universidade, tenho
+para mim que não podemos, em caso
+algum, desistir do nosso compromisso
+que não é alienável com as pessoas,
+com a região e com o país, que espera
+os contributos da UMinho e tem-no
+demonstrado em contínuo.
+Não me cabe fazer uma avaliação da
+minha atuação, apenas posso dizer que
+tenho muito claro qual é o caminho
+que a Universidade deve seguir, estou
+rodeado de pessoas que interpretam, do
+meu ponto de vista, de forma adequada
+esse rumo para a instituição. Temos uma
+preocupação fundamental de mobilizar a
+comunidade em torno desses objetivos,
+aliás, é isso que explica todo o esforço
+que temos feito para partilhar com as
+unidades orgânicas, indo às unidades,
+reunindo com a frequência necessária
+com as nossas unidades, no sentido de,
+em permanência, procurar motivar as
+pessoas, o que às vezes não é fácil dada
+a adversidade das circunstâncias.
+É um “filho” da UMinho. Foi aluno,
+professor, investigador, teve cargos de
+gestão e de responsabilidade em várias
+funções. Revisitando este trajeto, o
+que lhe apraz dizer em relação a si e
+sobre a UMinho? Para além da faceta
+de Reitor, como se interpreta como
+pessoa e como cidadão? Consegue ter
+tempo para fazer coisas por prazer e
+não só por obrigação?
+O meu percurso de vida é quase 
+indissociável da Universidade. Cheguei 
+à UMinho, como estudante, em 1976, e 
+com uma escassa interrupção de 4 anos, 
+fiz a minha vida nesta Universidade. 
+Pude acompanhar e viver a notável 
+transformação que a Universidade 
+teve, só possível, a meu ver, por duas 
+circunstâncias. Primeiro, os fundadores 
+da UMinho tinham uma visão muito 
+clara de qual deveria ser o projeto da 
+Universidade e dos seus objetivos, as 
+articulações, as conexões, as relações 
+que a Universidade tinha de procurar 
+estabelecer, e também sobre a forma de 
+organização da própria Universidade. 
+Foi isso que tornou possível, também 
+em situações extremamente difíceis, 
+que a UMinho se tivesse conseguido 
+afirmar. Segundo, as pessoas que 
+fizeram a Universidade, as sucessivas 
+gerações de estudantes, professores, 
+trabalhadores que construíram esta 
+instituição e a tornaram uma instituição 
+de referência como é hoje. A perceção 
+desta história e também a minha 
+participação, responsabiliza-me. O meu 
+tempo organiza-se, sobretudo, em função 
+daquilo que é a vida da Universidade, 
+sobretudo quando o contexto é difícil. 
+Isto acontece também, primeiro, porque 
+consigo encontrar compreensão por parte 
+da minha família, que é, objetivamente, 
+prejudicada pelo exercício destas funções, 
+nestas circunstâncias. Mas isto não me 
+anula como pessoa multidimensional, 
+tenho que, obviamente, encontrar espaços 
+para estar com as pessoas de quem mais 
+gosto e para fazer coisas de que gosto 
+muito. Não prescindo de ler, sempre fui 
+um grande leitor de ficção, de ensaio e 
+de poesia, e continuo a sê-lo, sempre 
+fui um grande apreciador de cinema e 
+continuo a sê-lo, gostaria de praticar 
+mais desporto do que aquilo que pratico, 
+mas é assim. É uma circunstância de vida 
+muito desafiante, mas que não anula a 
+minha multidimensionalidade.
+Quais foram os maiores desejos que 
+formulou neste 49.º aniversário desta 
+Academia?
+Aquilo que exprimi foi a aspiração de que a 
+UMinho pudesse olhar para aquilo que é a 
+sua missão, revisitando-a, repensando-a 
+em função de novas circunstâncias. O 
+mundo está a mudar de forma muito 
+acelerada, não imaginaríamos que uma 
+crise pandémica se iria abater sobre nós como se abateu, não imaginaríamos que 
+teríamos hoje, a situação política que 
+temos, bem perto de nós, e nos afeta, 
+obviamente, também. Aliás, estamos 
+numa situação política que é muito 
+complexa por efeito da guerra. Estas 
+circunstâncias vão-se alterando de forma 
+cada vez mais rápida, a Universidade deve 
+ser capaz de ver um pouco além da sua 
+circunstância imediata, de se projetar 
+no futuro a partir das antecipações 
+desse mesmo futuro. Portanto, o meu 
+desejo é que a Universidade possa fazer 
+isso, seja capaz de se adequar, sendo 
+que esta adequação não pode inibir a 
+sua natureza de universidade, de casa 
+do conhecimento, e que por isso, tem 
+responsabilidades muito particulares, 
+mesmo de intervenção. A Universidade 
+tem que, por um lado, ser capaz de 
+considerar, de ponderar aquilo que a 
+rodeia, mas fazê-lo também na perspetiva 
+da ação sobre o que a rodeia, enquanto 
+se torna capaz de incorporar aquilo que 
+sobre ela é projetado no exterior. Esta 
+capacidade de se moldar em torno do seu 
+papel transformador, é também aquilo 
+que eu gostaria que a Universidade 
+conseguisse fazer. 
+Fazer isto, obriga-nos a considerar a 
+organização da Universidade, a considerar 
+aquilo que queremos fazer enquanto 
+instituição de educação, de investigação, 
+promotora do desenvolvimento cultural, 
+social, económico da região e do país 
+onde estamos. O meu voto maior é que a 
+Universidade seja capaz de se continuar 
+a perspetivar como instituição que 
+corresponde às aspirações que sobre 
+ela são projetadas, mas também como 
+instituição que é capaz de transformar o 
+seu contexto.
+A UMinho faz, em 2024, 50 anos. Como 
+será assinalada esta data e que marca 
+se pretende deixar?
+O programa das comemorações foi 
+apresentado no 49.º aniversário da 
+Universidade, é um programa ambicioso 
+que se vai estender por 2023 e 2024, 
+é um programa que está orientado 
+por algumas ideias fundamentais. A 
+primeira ideia quer-se que seja um 
+momento de celebração de um percurso 
+(a Universidade fez coisas muito 
+relevantes, transformou-se, ajudou a 
+transformar a região e o país) e isso deve 
+ser festejado. Depois, as celebrações não 
+são um momento de natureza nostálgica, 
+nem estão centradas na celebração de 
+um percurso até aqui, elas assumem 
+claramente outro objetivo, o da projeção 
+do futuro na Universidade. Há uma série 
+de eventos que vamos realizar que tem 
+precisamente essa orientação, ou seja, 
+chegados aqui, como é que pensamos 
+os próximos 10, os próximos 20 ou os 
+próximos 50 anos da Universidade. 
+Depois, como qualquer comemoração, 
+ela tem que ter uma natureza de festa 
+da própria comunidade, vai haver 
+momentos dessa natureza com os quais 
+se vai procurar também consolidar o 
+próprio espírito de solidariedade dentro 
+da Universidade.
+É um programa ambicioso, com objetivos 
+bem definidos, que pretende sinalizar a Universidade como detentora de um 
+património relevante, mas sobretudo, 
+como detentora de uma visão para o 
+futuro da instituição, da região e do país.
+Considera-se que a UMinho integra o 
+painel das chamadas “Universidades 
+jovens”. Quais os principais aspetos 
+que destaca neste projeto e que a 
+diferenciam de universidades mais 
+clássicas como a de Lisboa, do Porto 
+ou de Coimbra?
+A criação da UMinho em 1973, acontece 
+no contexto de transformação muito 
+profunda do ensino superior em Portugal. 
+De alguma forma tinha sido iniciada um 
+ano antes, com a criação do ISCTE, depois 
+com a criação da UMinho, Aveiro, Nova 
+de Lisboa e Évora. O aparecimento destas 
+universidades reconfigura radicalmente o 
+sistema de ensino superior em Portugal, 
+que até então estava limitado a Lisboa, 
+Coimbra e Porto. 
+Estas universidades, quando chegam, 
+encontram um programa muito 
+consolidado e têm que se afirmar, por 
+isso, têm que ser capazes de construir um projeto diferente e inovador, era 
+isso que nelas estava depositado. 
+A verdade é que o conseguiram e 
+hoje não há quem não reconheça a 
+importância que estas universidades 
+novas tiveram. Conseguiram inovar 
+na educação, desenhando novas 
+ofertas educativas, pensando formas 
+diferentes de organização dos cursos, 
+apostando na interdisciplinaridade, 
+articulando-se de uma forma nova com 
+o meio envolvente, olhando também 
+de uma forma diferente a questão das 
+carreiras dos professores, estimulando 
+o recrutamento de pessoas de outras 
+instituições e instituições estrangeiras 
+ou colocando os seus professores a fazer 
+formação no estrangeiro, consolidando 
+relações internacionais, tudo isto alterou 
+significativamente o panorama do ensino 
+superior em Portugal.
+O que nós somos hoje é devedor daquilo 
+que são as nossas instituições mais 
+antigas, mas é muito devedor daquilo que 
+as novas instituições foram capazes de 
+aportar e, estou em crer, contaminaram 
+as outras universidades. “É uma circunstância de 
+vida muito desafiante, mas 
+que não anula a minha 
+multidimensionalidade.
+“É um programa ambicioso, com objetivos bem definidos, 
+que pretende sinalizar a Universidade como detentora de 
+um património relevante, mas sobretudo, como detentora 
+de uma visão para o futuro da instituição, da região e do 
+país.
+NUNO GONÇALVES
+True-
+-Página:13-
+MARÇO  202314
+Academia
+Diria que quem, nos anos 70, pensou este 
+futuro para o ensino superior, e figura 
+maior desse pensamento foi o Professor 
+Doutor Veiga Simão, tinha, de facto, uma 
+visão justa para o ensino superior em 
+Portugal e para o país. 
+O que as instituições de ensino superior 
+têm vindo a fazer, de facto, é dar corpo a 
+essa visão, naturalmente, com projetos 
+diferenciados, mas acho que o balanço a 
+fazer é francamente positivo.
+A história recente da Universidade 
+ficará, naturalmente, marcada pela 
+crise sanitária provocada pela Covid19. 
+Apesar de tudo de negativo que trouxe, 
+podemos dizer que o período foi 
+aproveitado pela Universidade como 
+uma oportunidade? Em que aspeto/
+dimensão?
+Num primeiro momento, a crise 
+sanitária é percecionada, sobretudo, 
+como uma ameaça para a Universidade. 
+Veio pôr em causa modos tradicionais 
+de funcionamento das organizações 
+universitárias. Aquilo a que a crise 
+sanitária nos obrigou foi, de alguma 
+forma, a reinventarmo-nos, a procurar 
+forças e saberes que não sabíamos que 
+tínhamos, para se procurar garantir aquilo 
+que era o essencial para a Universidade. 
+Aprendemos muito neste processo. 
+Em relação à organização interna, 
+desenvolvemos processos internos, 
+percebemos que o teletrabalho é uma 
+possibilidade real para certos setores 
+de atividades em que as funções sejam 
+compatíveis, aprendemos que muito do 
+nosso trabalho académico podia ter outras 
+formas mais expeditas de realização, 
+aprendemos que a nossa ação educativa 
+pode beneficiar muito para além 
+daquilo que nos era percetível de novos 
+instrumentos tecnológicos. Hoje olhamos 
+para a educação no ensino superior de um 
+modo diferente do que olhávamos antes. 
+Não se pensa regressar aos tempos pré-
+pandemia, o que se pensa é em novas 
+formas de previsão da educação, com 
+recurso a ferramentas tecnológicas que 
+podem traduzir-se em ganhos efetivos 
+para as pessoas. Portanto, diria que sim, 
+há aprendizagens feitas que nos levam a valorizar mais aquilo que tínhamos 
+antes da crise pandémica, há novas forma 
+de nos organizarmos, novas formas de 
+fazer que fomos adotando. Portanto, é 
+indesmentível que há um impacto real 
+da crise pandémica.
+A situação de subfinanciamento da 
+UMinho continua a subsistir? Que 
+valor foi transferido para a UMinho 
+pelo Governo no Orçamento do 
+Estado de 2023. Houve mudanças 
+com a alteração de ministro na pasta 
+do Ensino Superior relativamente ao financiamento do ensino superior e, 
+em particular, desta Universidade?
+Há uma alteração que é verdadeiramente 
+importante. As universidades estavam 
+a ser financiadas de acordo com um 
+histórico, quer isto dizer que em 2009, 
+o financiamento disponível no OE para 
+distribuir às universidades foi dividido 
+de acordo com um determinado modelo 
+(número de estudantes, massa salarial), 
+isso significou que “A” teve determinada 
+percentagem de financiamento, “B” 
+teve tanto, e “C” tanto... e, aquilo que se 
+passou de lá até agora foi praticamente a manutenção dessa distribuição 
+percentual. Isto implicou que as 
+universidades que foram crescendo, em 
+número de alunos, cursos, intensidade de 
+trabalho científico, não viram reconhecido 
+esse esforço. A UMinho cresceu muito 
+significativamente em número de alunos 
+e esse crescimento não teve tradução 
+em crescimento de financiamento. 
+Portanto, a Universidade, desse ponto 
+de vista, quantos mais alunos admitia, 
+dando resposta positiva à procura social, 
+mais prejudicada foi ficando. Isto criou-
+nos, em determinado momento, uma 
+situação muito difícil, de que foi sendo 
+dada conta aos responsáveis políticos 
+que permaneceram na aplicação desse 
+modelo. Na verdade, quando a UMinho 
+cresceu, foi penalizada por isso. Nós 
+tivemos, ao longo de 2022, uma ação 
+muito intensa de várias universidades, 
+junto dos vários atores políticos, 
+procurando sensibilizá-los para o 
+desastre a que estavam a conduzir estas 
+instituições, caso não fossem sensíveis à 
+necessidade de responder àquilo que eram 
+os requisitos de que as universidades 
+tinham que dispor para cumprir a sua 
+missão. 
+E, pela primeira vez, em 2022, os 
+responsáveis do ministério e o Governo, 
+reconheceram que esta era uma situação 
+iníqua. Foi reconhecido no papel que 
+a UMinho e outras universidades, 
+que se aplicadas as regras que estão 
+em vigor para financiamento da 
+instituição, a UMinho deveria ter um 
+aumento na ordem dos 17 milhões de 
+euros. Não teve 17 milhões, mas, pela 
+primeira vez, a UMinho foi diferenciada 
+positivamente, foi-lhe atribuído um 
+financiamento adicional corretivo de 
+cerca de 2,5 milhões de euros. É um valor 
+claramente insuficiente relativamente 
+ao que devia caber à Universidade, 
+mas é um sinal importantíssimo, pois 
+assenta no reconhecimento que de 
+facto a Universidade não está a ser 
+adequadamente financiada. Há aquele 
+valor que a este propósito costumamos 
+sempre mobilizar:o estudante da UMinho 
+é financiado em 1/3 do que são financiadas 
+algumas instituições em Portugal. Isto 
+é absolutamente inaceitável, traduz-se 
+“Nós, com a atualização 
+daquilo que decorre 
+do contrato-programa 
+para as universidades 
+portuguesas, e depois 
+com esta diferenciação 
+da UMinho e das outras 
+universidades mais 
+subfinanciadas, passamos 
+de 68 milhões para 73 
+milhões de OE, mas 
+devíamos estar na ordem 
+dos 85 milhões. Diria que quem, nos anos 70, pensou este futuro para 
+o ensino superior, e figura maior desse pensamento 
+foi o Professor Doutor Veiga Simão, tinha, de facto, 
+uma visão justa para o ensino superior em Portugal 
+e para o país. 
+Apesar das diiculdades, Rui Vieira de Castro releva a enorme vitalidade que a UMinho tem. 
+NUNO GONÇALVES
+True-
+-Página:14-
+UMDICAS15
+Academia
+em prejuízos enormíssimos para a 
+Universidade. Nós, com a atualização 
+daquilo que decorre do contrato-programa 
+para as universidades portuguesas, 
+e depois com esta diferenciação da 
+UMinho e das outras universidades mais 
+subfinanciadas, passamos de 68 milhões 
+para 73 milhões de OE, mas devíamos 
+estar na ordem dos 85 milhões. A Sra. 
+ministra tem anunciado a intenção de 
+rever a fórmula de financiamento, de 
+forma a que ela tenha impacto já no 
+próximo ano, ou seja, no orçamento de 
+2024. Se tal não se verificar, ela manterá 
+a sua opção de diferenciar positivamente 
+as instituições que estão a ser mais 
+fortemente penalizadas. Portanto, estou 
+relativamente otimista, não em relação à 
+correção repentinamente, não me parece 
+que haja condições para isso se verificar, 
+mas para uma correção num tempo 
+razoável, que permita que a Universidade 
+deixe de ser tão gravemente penalizada 
+como tem sido. 
+Muito se falou e continua a falar 
+do PRR. Sobre as candidaturas da 
+UMinho ao PRR, o que foi aprovado, 
+que financiamento já recebeu a 
+UMinho, que mudanças estamos a ver 
+e vamos ver no futuro como reflexo 
+das candidaturas aprovadas e outras 
+que ainda vão ser feitas?
+A UMinho, naquilo que lhe é possível, 
+tem concorrido a todos os programas. 
+Concorremos ao programa impulsos, a 
+candidatura da UMinho foi das melhores 
+classificadas, foi-nos atribuído um 
+financiamento de cerca de 13,5 milhões, 
+que nos está já a permitir proporcionar 
+formação para adultos e para jovens, 
+mas também suportar intervenções na 
+nossa estrutura pedagógica, tecnológica 
+e física. É um financiamento limitado, 
+mas que nos vai permitir algum tipo 
+de intervenções e requalificação das 
+condições de trabalho e criação de 
+condições para que as pessoas possam 
+ser confrontadas com estas possibilidades 
+de novas formações. Estamos a falar de 
+um programa de 112 cursos, elaborado 
+em articulação direta com empregadores, 
+estamos muito esperançados naquilo que 
+vão ser bons resultados.
+Fizemos também candidaturas às 
+residências, foi-nos já transferido um 
+adiantamento dos 5 milhões que nos 
+foi atribuído, portanto, também aí, um 
+bom resultado para a Universidade. 
+Apoiamos também a candidatura da 
+Câmara Municipal de Braga que vai ser 
+também financiada. Vamos ter, portanto, 
+duas novas residências, e desse ponto de 
+vista tivemos também boa capacidade 
+de resposta daquilo que resultou da 
+abertura de candidaturas. Terceiro eixo 
+fundamental, eficiência energética dos 
+edifícios. Apresentamos, há cerca de um 
+ano, uma candidatura a um programa 
+que abriu. Estamos ainda à espera dos 
+resultados, o que é absolutamente 
+incompreensível, quando se considera 
+que este tipo de intervenções é prioritário. 
+Essa candidatura, a ser aprovada como 
+estamos convictos, permitir-nos-á 
+intervenções em vários edifícios, 
+nomeadamente nas cantinas. 
+Por outro lado, vários dos nossos investigadores, grupos, centros, estão 
+fortemente envolvidos nas agendas 
+mobilizadoras para transformação 
+da economia, é um eixo fundamental 
+do PRR. Estamos envolvidos em 18 
+agendas mobilizadoras, isso envolverá 
+um financiamento para a Universidade 
+acima dos 30 milhões. São projetos cuja 
+execução se vai iniciar já. 
+Diria que, naquilo que são as 
+possibilidades que nos estão abertas, 
+estamos a fazer boas candidaturas, que 
+estão a ser aprovadas, portanto, estamos a 
+aproveitar estas possibilidades. Para nós, 
+a lentidão dos processos e, por vezes, a 
+indefinição é, às vezes, incompreensível.
+Existe, como todos sabemos, uma 
+necessidade gritante de alojamento 
+específico para estudantes. A UMinho 
+tem, atualmente, uma oferta total de 
+cerca de 1400 camas para cerca de 
+6000 alunos bolseiros. Quando estarão 
+operacionais as novas residências em 
+Braga e Guimarães? Estas vão resolver 
+os problemas do alojamento? Estão a 
+ser estudadas outras soluções neste 
+âmbito?
+Dos cerca de 6000 estudantes bolseiros 
+que temos, a esmagadora maioria são 
+estudantes deslocados. Temos cerca 
+de 1400 camas. Estas duas novas 
+residências representam um acréscimo 
+na ordem das 900 camas, o que é bom, 
+mas insuficiente, é necessário encontrar 
+novos mecanismos. Na minha opinião, as 
+decisões que foram tomadas relativamente 
+a uma distribuição pelas residências 
+universitárias por muitíssimos Concelhos, 
+não é, do meu ponto de vista, a melhor 
+das opções, deveriam ser nos centros 
+onde há realmente estudantes em número 
+significativo e carências reais. Não foi 
+essa a opção que foi tomada. Esperamos 
+que esta situação mais crítica para várias 
+instituições e vários polos universitários continue a ser tida em conta pelo Governo. 
+Isto vem minimizar o problema, mas não 
+vai resolver o problema.
+Há que reconhecer que, neste momento, 
+há várias iniciativas de natureza privada 
+que estão a decorrer, quer aqui em Braga, 
+quer em Guimarães. O que não pode 
+acontecer é o Estado prescindir da criação 
+de condições para que todos os estudantes 
+que assim o desejam, possam ter acesso 
+a alojamento no ensino superior.
+Naturalmente, também os SASUM 
+sofrem com o subfinanciamento. As 
+queixas têm ocorrido, da parte dos 
+estudantes e não só, em relação à 
+degradação de serviços e instalações. 
+O que nos pode dizer e que soluções 
+estão a ser equacionadas?
+Primeiro ponto, existe, de facto, um 
+problema de subfinanciamento da ação 
+social da UMinho. É mais um caso 
+incompreensível. Não se percebe porque 
+é que o financiamento per capita do 
+estudante da UMinho, via ação social, 
+há de ser menor do que o de outras 
+instituições. Isto penaliza-nos uma 
+vez mais, obriga-nos a assentar muito 
+mais do que gostaríamos sobre receitas 
+próprias, obriga-nos a desenvolver a 
+nossa atividade no quadro de grandes 
+constrangimentos, de não poder 
+responder de forma tão imediata como gostaríamos que acontecesse 
+relativamente às necessidades dos 
+nossos estudantes. Estamos a procurar 
+evitar aumentos, ao nível de transportes 
+e alimentação, estamos a procurar 
+encontrar respostas às deficiências que 
+temos nas nossas residências que estão 
+em funcionamento, há uma indicação 
+clara aos Serviços para ser feito um 
+levantamento dos problemas existentes 
+nas várias residências e para a elaboração 
+de um plano que, gradualmente, nos 
+permita melhorar as condições de 
+habitação dos nossos estudantes.
+A UMinho continua a crescer em 
+várias dimensões. Número de alunos, 
+docentes, trabalhadores técnicos 
+administrativos e de gestão, a nível da 
+investigação e da internacionalização. 
+Temos margem e queremos continuar 
+a crescer em todas estas dimensões? 
+Em que condições?
+A Universidade adotou, ao longo da 
+última década, uma estratégia de 
+crescimento. Quando anunciamos esse 
+objetivo institucional, fizemo-lo sempre 
+na presunção de que esse crescimento 
+beneficiaria das adequadas contrapartidas 
+da parte do Estado, mas não é isso que 
+tem acontecido. Pode a Universidade 
+alhear-se daquilo que é a procura social? 
+A meu ver, não. Não pode frustrar as 
+expectativas legítimas das pessoas 
+que querem procurar a Universidade. 
+Mas é evidente que, ou esta situação 
+de subfinanciamento é invertida, ou a 
+Universidade se verá obrigada a repensar 
+a sua própria estratégia. 
+Esta será uma matéria muito interessante 
+para ser discutida no Plano Estratégico 
+da instituição.
+No passado dia 20 de janeiro, foi 
+discutida, em reunião do Conselho 
+Geral, a Proposta de revisão dos 
+O reforço do corpo de investigadores é um objetivo assumido pelo Reitor. “... existe, de facto, 
+um problema de  
+subfinanciamento da ação 
+social da UMinho. É mais 
+um caso incompreensível. 
+NUNO GONÇALVES
+True-
+-Página:15-
+MARÇO  202316
+Academia
+Estatutos da Universidade do Minho. 
+Em que ponto estamos do processo e 
+quais as principais alterações que se 
+pretende implementar? Quando será 
+aprovado o documento?
+O documento que foi entregue ao 
+Conselho, é um documento em cuja 
+elaboração a comunidade participou de 
+forma muito ativa. Esta proposta assenta 
+num determinado conjunto de vetores, 
+entre os quais o vetor principal é o reforço 
+da autonomia das Unidades Orgânicas. 
+Isso estrutura muitas das alterações 
+que estão a ser feitas. Prevê-se alguma 
+simplificação dos órgãos da Universidade, 
+prevê-se a criação de novas unidades, 
+aquilo a que chamamos unidades 
+interdisciplinares, de forma a permitir 
+acolher projetos que não são enquadráveis 
+apenas numa determinada unidade 
+orgânica. Assumimos um princípio 
+que nos parece importante de dupla 
+afiliação interna, procuramos resolver 
+a questão da pertença, quem é que é ou 
+não membro da Universidade. Há de facto 
+aqui um conjunto de alterações que são 
+importantes, há uma simplificação do 
+próprio documento. A ideia é termos uma 
+instituição, mas ágil, mais policêntrica, e 
+por essa via, mais capaz de responder às 
+alterações no nosso contexto. 
+Como caracteriza a relação com os 
+municípios que acolhem a UMinho? 
+Que projetos/planos mais relevantes 
+existem atualmente, que visam 
+acrescentar valor às várias partes?
+É uma relação francamente boa. Temos, 
+no caso de Braga, projetos partilhados 
+em curso, temos agora a expectativa de, 
+em todo o campus de Gualtar e a zona 
+envolvente, podermos assumir soluções 
+de mobilidade partilhadas com o próprio 
+município e vamos trabalhar nesse 
+sentido. 
+No caso de Guimarães, temos também 
+uma relação muito especial, e que vai 
+ser proximamente reforçada por aquilo 
+que é já uma decisão tomada pelo 
+município, relativamente à cedência de 
+novos espaços, nomeadamente a Fábrica 
+do Arquinho, espaço onde esperamos vir 
+a alojar alguns projetos fundamentais 
+para a Universidade, como são aqueles 
+que se prendem com a Engenharia 
+Aeroespacial, mas também a atividade de 
+uma importante participada da UMinho, 
+a Fibrenamics.
+A propósito da comemoração dos 50 anos, 
+vamos ter também um envolvimento 
+muito forte destes dois municípios, que 
+têm sido parceiros da Universidade, 
+têm beneficiado muito da presença da 
+Universidade, e querem também com esta 
+associação às comemorações, marcar esta 
+natureza própria de Guimarães e Braga 
+como cidades universitárias.
+A Universidade, as suas Escolas, 
+continuam a reclamar a falta de 
+recursos humanos, muitos deles na 
+academia quase desde a sua criação 
+e, por isso, muito próximos da 
+aposentação. O que está a ser feito, 
+de forma a resolver e prevenir o 
+problema futuramente, assegurando, 
+inclusivamente, a transferência de 
+conhecimento?Esta questão do envelhecimento dos 
+corpos da Universidade é conhecida, aliás, 
+a administração pública portuguesa carece 
+de uma resposta efetiva a este problema 
+que é transversal a muitas organizações 
+e instituições. No caso da UMinho, isto 
+tem contornos muito particulares porque 
+a contratação inicial dos professores da 
+instituição aparece centrada num tempo 
+bastante curto. Portanto, temos um 
+número muito significativo de pessoas 
+que foi conjuntamente envelhecendo ao 
+longo do tempo e que agora se aproximam 
+do momento da reforma, e isto pode 
+colocar em causa uma questão essencial 
+para a Universidade, que é assegurar 
+uma transferência intergeracional do 
+saber que foi sendo acumulado. Não 
+é, no entanto, uma situação fácil de 
+resolver no atual quadro. O que estamos 
+a fazer é ir, na medida do possível, 
+integrando pessoas novas para fazer 
+face a necessidades decorrentes de 
+novos projetos de ensino que temos, 
+mas, não podemos deixar de o fazer de 
+uma forma cautelosa, assegurando, por 
+outro lado, que os docentes de raiz ou no 
+quadro da progressiva substituição de 
+pessoas, correspondem a necessidades 
+efetivas que temos. É um problema que 
+está identificado, é muito sério pelas 
+implicações que pode ter na vida da 
+Universidade, mas que não pode ser 
+tratado de ânimo leve pelas questões 
+da sustentabilidade financeira da 
+Universidade, com as quais tenho de estar 
+estatutariamente comprometido. 
+Os SASUM fecharam 2022 com uma 
+nova administradora e com o Plano de 
+Atividades e Orçamento 2023 aprovado. Após um período muito complicado, 
+já podemos falar em recuperação da 
+sustentabilidade financeira?
+Atravessamos anos muito difíceis, os anos 
+da pandemia afetaram muito severamente 
+a atividade dos SASUM e, na verdade, 
+estávamos todos muito esperançados que 
+o ano de 2022 e agora o ano 2023, fossem 
+anos mais tranquilos e permitissem 
+uma efetiva recuperação dos Serviços. 
+Recordo que em áreas centrais como a 
+alimentação, por exemplo, tivemos largos 
+períodos em que a Universidade esteve 
+encerrada, e de alguma forma, os públicos 
+que os SASUM servem não estavam nos 
+campi. Com a diminuição do impacto da 
+pandemia, evidentemente, estávamos 
+todos convictos que os Serviços iriam 
+recuperar a sua atividade regular. Assim 
+foi acontecendo, mas isto não significou 
+que tivéssemos entrado num período 
+propriamente de grande tranquilidade, 
+porque estamos a ser apanhados por 
+aquilo que é resultado de um processo 
+inflacionário muito significativo e que 
+tem impacto em bens que os SASUM 
+utilizam para a sua atividade, e que vem 
+colocando sobre nós especial pressão. 
+Falo dos bens alimentares, mas podia 
+falar da energia e do gás, que tiveram 
+aumentos fortíssimos nos seus custos, e 
+que, naturalmente, por isso, vão afetando 
+também o funcionamento dos Serviços. 
+Mas, dito isto, diria que teremos, em 
+2023, um ano de equilíbrio das nossas 
+contas e até de alguma recuperação. 
+Sendo certo que se nos vão impondo 
+outras necessidades, designadamente 
+aquelas que decorrem das obras de 
+intervenção que temos de fazer em 
+algumas das nossas residências. Diria que estamos num quadro que é mais 
+favorável que os dois anos anteriores, mas 
+não deixa de ser um quadro onde existem 
+algumas nuvens, e por isso, conseguimos 
+antecipar algumas dificuldades. 
+Quero acreditar que aquilo que tem sido 
+habitual nos Serviços, a disponibilidade 
+das pessoas, o compromisso com a nossa 
+atividade, nos vais ajudar a enfrentar 
+melhor situações que são difíceis, mas que 
+não nos impedem de continuar a perseguir 
+aquilo é a razão fundamental de ser dos 
+Serviços, que é de facto, prestar apoio em 
+áreas essenciais aos nossos estudantes 
+(alimentação, alojamento, desporto) 
+e também à comunidade académica. 
+Neste momento, está aprovado o Plano 
+de Atividades e Orçamento para 2023, 
+temos uma nova Administradora que 
+saberá imprimir um rumo, certamente 
+diferente aos SASUM, fruto da sua visão 
+própria, mas garantindo que continuem a 
+ser aquilo que é a sua razão fundamental 
+ser, apoio à comunidade universitária e 
+particularmente aos estudantes. 
+Muito se fala na promoção do bem-
+estar e saúde mental dos trabalhadores 
+nas instituições. O que tem sido feito 
+na UMinho nessa direção, como tem 
+sido avaliado junto da comunidade 
+académica e qual a importância do 
+tema para o Reitor da UMinho? 
+Esta é hoje uma preocupação essencial 
+da direção da Universidade e é uma 
+preocupação partilhada pelos responsáveis 
+das instituições de ensino superior e 
+de outras instituições e organizações 
+do nosso país. Na verdade, a pandemia 
+veio-nos pôr de sobreaviso e chamar a 
+atenção para a importância da criação 
+de condições que sejam fatores de bem-
+estar e de preservação da saúde mental 
+das pessoas. Deste ponto de vista, os 
+anos da pandemia foram, de facto, muito 
+duros, por aquilo que representaram de 
+alteração radical das formas de interação 
+a que estávamos habituados, isso tornou-
+nos, de certa forma, mais sós, os laços 
+relacionais foram afetados, o modo de 
+viver alterou-se substancialmente, e 
+modificações deste tipo têm naturalmente 
+muito impacto sobre o bem-estar e sobre 
+a saúde de todos nós. 
+Vivemos agora tempos difíceis por efeito 
+da crise económica, a situação de guerra 
+na Europa paira sobre todos nós e isto 
+torna ainda mais premente uma atenção 
+e cuidado especial às questões do bem-
+estar e da saúde mental. 
+Diria que, neste particular, aquilo que 
+vem sendo feito, é a assunção de que estas 
+são áreas de atuação relevantes para as 
+comunidades e para a nossa comunidade 
+universitária. É algo sobre o qual vale 
+a pena pensarmos e refletirmos, algo 
+sobre o qual vale a pena intervirmos. 
+“... diria que teremos, em 
+2023, um ano de equilíbrio 
+das nossas contas e até de 
+alguma recuperação. 
+A aposta na formação não conferente de grau será um dos grandes objetivos dos próximos anos. 
+NUNO GONÇALVES
+True-
+-Página:16-
+UMDICAS17
+Academia
+Tem havido várias iniciativas dentro da 
+Universidade que têm vindo a funcionar 
+como uma espécie de alertas para esta 
+realidade. O objetivo é aumentar o nosso 
+grau de consciência relativamente as 
+estas matérias, depois, temos de estar 
+preparados para desenvolver iniciativas 
+concretas que de facto transformem o 
+modo em que vivemos e trabalhamos 
+dentro da instituição, de forma a torná-lo 
+mais amigável. Aqui, há iniciativas que 
+a Universidade pode tomar, mas esta 
+é, claramente, uma daquelas áreas 
+para a qual todos nos devemos sentir 
+convocados. Passa por cada um nós, passa 
+pela nossa ação, passa pela seleção de 
+formas adequadas desta relação com os 
+outros, a criação de um ambiente que nos 
+torne desejosos de estar na Universidade e 
+que não torne a presença na Universidade 
+um fator adicional de pressão sobre as 
+pessoas. Esta é uma responsabilidade 
+de todos nós, todos nos devemos sentir obrigados a criar um bom ambiente de 
+trabalho que permita que cada um de nós 
+exprima aquilo que tem de melhor na 
+sua atividade. Mas este é um percurso 
+que estamos a fazer, diria que estamos 
+ainda em sede de tomada de consciência 
+da relevância destas matérias, mas há 
+passos mais sólidos que têm de ser dados 
+no sentido de se passar para a ação. Esta 
+passa pela identificação de situações de 
+risco, por iniciativas capazes de obviar 
+essas situações de risco e também por 
+iniciativas corretoras de situações mais 
+críticas que possam ser identificadas. 
+O arranque da construção da nova sede 
+da Associação Académica (AAUMinho) 
+será uma realidade em 2023? O que nos 
+pode dizer neste âmbito?
+Essa é a minha expectativa. Nós 
+afirmamos um acordo com Associação 
+Académica para a cedência de espaço, 
+também apoiamos, em alguma medida, a elaboração do projeto que ficará 
+no campus de Gualtar, e das últimas 
+interações que tenho tido com a 
+Associação, esse projeto, depois de alguns 
+acertos, está muito próximo de estar 
+pronto. A partir daí, o que se tratará é 
+da formalização da cedência do espaço e 
+depois o início da obra propriamente dita. 
+É uma obra que vai ser exigente no plano 
+financeiro, vamos ter de encontrar formas 
+de financiamento do edifício, felizmente, 
+a Associação Académica foi capaz de ao 
+longo do tempo ir acumulando verbas 
+que permitem dar passos importantes no 
+projeto. A Universidade, dentro daquilo 
+que forem as suas possibilidades, cuidará 
+de apoiar uma iniciativa que achamos 
+que é absolutamente fundamental para 
+melhorar as condições de atividade dos 
+nossos estudantes, dos grupos culturais, 
+das estruturas associativas. Como é 
+sabido, o edifício da Rua D. Pedro V já 
+não cumpre, adequadamente, este tipo 
+de funções.
+A Universidade, através dos SASUM 
+e em cooperação com a AAUMinho 
+organizará, entre 16 e 23 de julho, o 
+Campeonato Europeu Universitário de 
+Voleibol 2023. Quais as perspetivas 
+para este evento? 
+A UMinho, através dos SASUM e a 
+AAUMinho têm uma já larga tradição 
+de organização de eventos desportivos, 
+seja à escala europeia, seja à escala 
+mundial. Este é mais um evento cuja 
+organização nos foi atribuída, temos 
+uma experiência grande acumulada, 
+que nos permite antecipar que este, 
+como tem acontecido noutros casos, 
+será um sucesso organizativo. É mais 
+um evento que nos vai colocar especiais 
+exigências pelas centenas de pessoas 
+que vai envolver, não só atletas, como 
+dirigentes, acompanhantes, técnicos, etc. 
+Mas estamos a fazer a preparação que é 
+necessário fazer em ocasiões como esta, 
+os SASUM, e em especial o departamento 
+de Desporto e Cultura, está fortemente 
+comprometido com a preparação desta 
+organização. Estamos certos que vai 
+correr dentro daquilo que são as nossas 
+melhores expectativas. 
+Dos vários projetos, dos vários 
+processos, dos vários temas que 
+tem em mãos:qual é aquele que, 
+manifestamente, quer concluir antes 
+de terminar o seu mandato?
+No desenho de ação que fiz para este 
+quadriénio de 21-25, desenhei aquilo que 
+me parece ser um programa exequível. 
+Naturalmente, alguns dos projetos 
+que estão ali equacionados, dar-me-ia 
+especial gosto que fossem concluídos 
+neste período. Refiro-me, em particular, 
+às residências universitárias, porque elas 
+responderiam a uma aspiração muito 
+profunda e muito justa da Universidade 
+e dos seus estudantes. Seria um projeto 
+que me daria especial prazer.
+Num outro plano, gostaria muito que no 
+momento em que cessasse funções como 
+reitor, tivéssemos já redirecionada a nossa 
+oferta educativa, adequando-a às novas 
+circunstâncias, gostaria também que a 
+Universidade consolidasse ainda mais o 
+seu papel de Universidade de investigação, gostaria ainda que a nossa instituição, 
+no plano do seu funcionamento interno 
+e da sua organização, fosse uma 
+Universidade mais ajustada aquilo que 
+são as necessidades próprias do nosso 
+tempo. São algumas das iniciativas que 
+gostaria de ver concluídas ao longo deste 
+mandato. Sei, por outro lado, e é uma 
+certeza que tenho, que a Universidade 
+se manterá como um ator fundamental 
+de desenvolvimento da região norte e do 
+nosso país. 
+Finalmente, algo que me deixaria 
+muito tranquilo e com o sentido de 
+dever cumprido, seria ter contribuído, 
+de forma significativa, para a melhoria 
+da situação financeira da instituição, 
+criando condições mais fortes para a 
+sua sustentabilidade financeira, o que 
+supõe, sobretudo, a revisão daquilo que 
+tem sido o modelo de financiamento das 
+universidades portuguesas e da UMinho, 
+em particular. 
+São ambições significativas, que do meu 
+ponto de vista são exequíveis, e se assim 
+for, obviamente, ficarei satisfeito. 
+Como habitualmente e para finalizar, 
+que mensagem gostaria de deixar à 
+Academia?
+É uma mensagem que não pode ignorar os 
+tempos de dificuldade que atravessamos, 
+mas considerando esta natureza 
+desafiante das nossas circunstâncias, 
+a palavra que eu gostaria sobretudo de 
+deixar, é uma palavra de esperança e 
+uma palavra de otimismo no futuro da 
+instituição. 
+A UMinho foi uma Universidade que 
+cresceu continuamente em condições 
+que lhe foram bastante adversas, mas foi 
+capaz de contornar, de ultrapassar todas 
+essas dificuldades, todos os obstáculos 
+que lhe surgiram para se afirmar como 
+uma Universidade de referência. É esta 
+história que nos responsabiliza, que, 
+do meu ponto de vista, deve suportar 
+um olhar esperançoso e ambicioso para 
+o futuro da instituição. Futuro que só 
+se conseguirá construir se houver, da 
+parte de toda a comunidade, um efetivo 
+envolvimento. Um efetivo envolvimento 
+com aquilo que são os grandes objetivos 
+da instituição, tais como prover uma 
+educação de nível superior para as 
+pessoas, alargar as fronteiras do 
+conhecimento humano, contribuir para 
+o desenvolvimento social, cultural e 
+económico da região e das pessoas e, 
+dessa maneira, contribuir para um futuro 
+mais promissor para todos nós e para o 
+nosso país.
+Queria ainda deixar uma palavra de 
+agradecimento à resiliência evidenciada 
+por todos, no modo como vamos 
+enfrentando um tempo que é marcado 
+por profundas dificuldades. 
+Mas o meu olhar é ainda e sempre, um 
+olhar de otimismo relativamente ao 
+futuro, que se baseia naquilo que é a nossa 
+realidade atual, naquilo que é a nossa 
+história, que não esconde dificuldades, 
+mas que se baseia numa convicção forte 
+acerca da relevância do projeto da UMinho 
+para todos.... algo que me deixaria muito 
+tranquilo e com o sentido de dever 
+cumprido, seria ter contribuído, 
+de forma significativa, para a 
+melhoria da situação financeira da 
+instituição,
+criando condições mais fortes para a
+sua sustentabilidade financeira, o que
+supõe, sobretudo, a revisão daquilo que
+tem sido o modelo de financiamento das
+universidades portuguesas e da UMinho,
+em particular.
+São ambições significativas, que do meu
+ponto de vista são exequíveis, e se assim
+for, obviamente, ficarei satisfeito.
+Como habitualmente e para finalizar,
+que mensagem gostaria de deixar à
+Academia?
+É uma mensagem que não pode ignorar os
+tempos de dificuldade que atravessamos,
+mas considerando esta natureza
+desafiante das nossas circunstâncias,
+a palavra que eu gostaria sobretudo de
+deixar, é uma palavra de esperança e
+uma palavra de otimismo no futuro da
+instituição.
+A UMinho foi uma Universidade que
+cresceu continuamente em condições
+que lhe foram bastante adversas, mas foi
+capaz de contornar, de ultrapassar todas
+essas dificuldades, todos os obstáculos
+que lhe surgiram para se afirmar como
+uma Universidade de referência. É esta
+história que nos responsabiliza, que,
+do meu ponto de vista, deve suportar
+um olhar esperançoso e ambicioso para
+o futuro da instituição. Futuro que só
+se conseguirá construir se houver, da
+parte de toda a comunidade, um efetivo
+envolvimento. Um efetivo envolvimento
+com aquilo que são os grandes objetivos
+da instituição, tais como prover uma
+educação de nível superior para as
+pessoas, alargar as fronteiras do
+conhecimento humano, contribuir para
+o desenvolvimento social, cultural e
+económico da região e das pessoas e,
+dessa maneira, contribuir para um futuro
+mais promissor para todos nós e para o
+nosso país.
+Queria ainda deixar uma palavra de
+agradecimento à resiliência evidenciada
+por todos, no modo como vamos
+enfrentando um tempo que é marcado
+por profundas dificuldades.
+Mas o meu olhar é ainda e sempre, um
+olhar de otimismo relativamente ao
+futuro, que se baseia naquilo que é a nossa
+realidade atual, naquilo que é a nossa
+história, que não esconde dificuldades,
+mas que se baseia numa convicção forte
+acerca da relevância do projeto da UMinho
+para todos.
+ ...Repensar a Universidade como organização será um dos projetos principais para os próximos tempos. 
+ANA MARQUES
+NUNO GONÇALVES
