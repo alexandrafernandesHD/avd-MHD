@@ -12,6 +12,8 @@ notes: Entrevista a Jorge Louro, um dos fundadores da Tuna da Universitária do 
 
 # Entrevista a Jorge Louro 
 
+![Fotografia](alexandrafernandesHD/avd-MHD/Arquivo_UMSombra/EntrevistasAVD/AlexandraFernandes/IMG_6382.JPG)
+
 <interviewer> Primeiro tenho que em vídeo perguntar se autorizas que eu filme.</interviewer>
 <interviewee> Podes.</interviewee>
 
