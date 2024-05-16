@@ -23,8 +23,7 @@ Ana Marques
 anac@sas.uminho.pt
 
 
-** UMdicas: Qual o papel do GSI no
-contexto da universidade? **
+** UMdicas: Qual o papel do GSI no contexto da universidade? **
 
 José Fernandes: O GSI orienta
 toda a sua actividade no sentido
