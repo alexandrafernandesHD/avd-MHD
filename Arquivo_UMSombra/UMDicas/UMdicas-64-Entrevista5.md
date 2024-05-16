@@ -54,11 +54,12 @@ contribuindo para a sua gestão e
 funcionamento.
 
 
-UMdicas: GSI obteve a
+**UMdicas: GSI obteve a
 certificação de qualidade pela ISO
 9001:200 no dia 16 de
 Dezembro. Qual foi o objectivo
-com esta certificação?
+com esta certificação?**
+
 J.F.: Foram várias as motivações
 que conduziram à certificação
 pela ISO 9001 do GSI, no entanto,
@@ -139,8 +140,9 @@ Gabinete de forma pró-activa a
 curto e médio prazo.
 
 
-UMdicas: Sucintamente, de que
-consta o processo?
+**UMdicas: Sucintamente, de que
+consta o processo?**
+
 J.F.: A abordagem por processos
 promovida pela ISO 9001:2000
 identifica e gere
