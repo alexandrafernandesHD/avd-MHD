@@ -204,6 +204,7 @@ pessoas que directamente trabalharam comigo na
 AAUM e no DDC.
 
 
-Queres deixar uma palavra ao teu sucessor?
+**Queres deixar uma palavra ao teu sucessor?**
+
 O João foi director do departamento desportivo
 este ano e tem um enorme valor e saberá enfrentar todos os obstáculos neste mandato que está prestes a iniciar. Tenho a certeza de que ele irá realizar um excelente trabalho à frente deste departamento. De resto só me resta desejar-lhe um excelente mandato e que daqui a um ano esteja ele aqui a falar de ainda melhores resultados desportivos da AAUM.
