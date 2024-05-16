@@ -196,7 +196,7 @@ borla do David Lodge.
 
 
 **Sonho…?**
-`* Volta ao Mundo
+* Volta ao Mundo
 
 
 **Desporto preferido?**
