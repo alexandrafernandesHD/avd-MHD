@@ -230,19 +230,21 @@ convencer disso...
 
 **As escolhas de …
 Pedro Gomes**
-* Melhor momento de quando estudava na Universidade?
+
+
+**Melhor momento de quando estudava na Universidade?**
 O dia em que saí.
-* Melhor filme? 
+**Melhor filme?**
 Muitos e variados. Requiem for a Dream; Labirinto do Fauno; Tudo o que é feito pelos irmãoes Cohen; Ponte sobre Terabitia; Ondine…
-* Melhor música?
+**Melhor música?**
 Difícil de escolher…
-* Clube do coração?
+**Clube do coração?**
 Nenhum. Não ligo a isso.
-* Livro que recomenda?
+**Livro que recomenda?**
 Para os meus alunos: História de quase tudo de Bill Bryson.
-* Viagem?
+**Viagem?**
 Canadá
-* Restaurante?
+**Restaurante?**
 Nenhum em especial
 * Comida preferida?
 De tudo um pouco. Mas um bom peixe de mar, fresco e grelhado é difícil de recusar.
