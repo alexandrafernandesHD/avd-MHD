@@ -11,11 +11,10 @@ interviewer: Nuno Gonçalves
 ---
 
 
+## Entrevista Miguel Sarmento, atleta do ABC
 
-# Entrevista Miguel Sarmento, atleta do ABC
 
-
-## “A minha família sempre foi o meu grande suporte”
+# “A minha família sempre foi o meu grande suporte”
 
 
 Miguel Sarmento, aluno de Ciências da Educação
