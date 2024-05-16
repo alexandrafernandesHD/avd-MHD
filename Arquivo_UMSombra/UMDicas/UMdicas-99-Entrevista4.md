@@ -10,12 +10,11 @@ role: diretor de curso
 interviewer: Ana Marques
 ---
 
-
+# Pedro Gomes - Diretor de curso
 
 Licenciatura em Biologia-Geologia
 
 
-Pedro Gomes - Diretor de curso
 O UMdicas esteve à conversa com o diretor de curso, Pedro Gomes que assume o cargo como uma
 ligação entre o diretor de departamento e os alunos,
 incumbindo-lhe verificar o cumprimento dos objetivos estabelecidos no plano de curso e fazer a gestão
@@ -26,14 +25,16 @@ ANA MARQUES
 anac@sas.uminho.pt
 
 
-Qual a sua formação e trajeto académico?
+**Qual a sua formação e trajeto académico?**
+
 Sou Licenciado em Biologia pela Universidade do
 Porto desde 1983. Ingressei na UMinho em 1984 e
 doutorei-me em 1998.
 
 
-O que o motivou a aceitar “comandar” este
-curso?
+**O que o motivou a aceitar “comandar” este
+curso?** 
+
 Este não é um cargo de escolha, nomearam-me.
 É um cargo que acaba por calhar um bocadinho a
 todos. Para nós é mais uma função enquanto docentes. Pessoalmente agrada-me esse papel pelo contacto privilegiado que nos dá com os alunos, embora
@@ -41,9 +42,10 @@ esta função só nos traga mais trabalho, burocrático.
 Mas é com agrado que o faço.
 
 
-As experiencias anteriores têm-no ajudado
+**As experiencias anteriores têm-no ajudado
 no cumprimento da sua função de diretor de
-curso?
+curso?**
+
 Claro que sim. Já estou cá há muitos anos. Acompanhei o curso quase desde o seu início. Passámos
 pela implementação do processo de Bolonha, por
 todo um conjunto de reformas curriculares dos níveis de ensino pré-universitário e isso dá-nos uma
@@ -58,7 +60,8 @@ a nossa experiência passada acaba por ser muito
 importante para se ser um bom diretor de curso.
 
 
-Quais são as maiores dificuldades no cumprimento da sua função?
+**Quais são as maiores dificuldades no cumprimento da sua função?**
+
 Como docentes/investigadores temos o nosso tempo muito sobrecarregado e isso é um problema sem
 alternativa. Mas o principal problema são os alunos.
 Os alunos têm diminuído de qualidade nos últimos
@@ -85,7 +88,8 @@ quem se lida muito bem, mas no que toca ao ritmo
 de trabalho ficam, regra geral, aquém do desejável.
 
 
-No seu entender porque é que isto acontece?
+**No seu entender porque é que isto acontece?**
+
 Temos aqui vários problemas. Primeiro é uma licenciatura que ainda não encontrou o seu rumo. Dos
 cerca de 60 alunos que entraram, cerca de 10- 15
 pretendem seguir a via de ensino, os restantes estão um bocadinho perdidos (a maior parte porque
@@ -109,7 +113,8 @@ qualitativamente o trabalho que fazem. Esperamos
 que com a reestruturação do curso se consiga melhorar a apetência do curso.
 
 
-No seu entender, porque é que um futuro universitário deve concorrer ao curso de Licenciatura em Biologia-Geologia?
+**No seu entender, porque é que um futuro universitário deve concorrer ao curso de Licenciatura em Biologia-Geologia?**
+
 A BG da UMinho, tal como outras que também têm
 licenciatura mista, tem a formação ideal para o futuro professor. O mesmo peso de Biologia e de Geologia no 1º ciclo, com possibilidade de completar com o 2º ciclo a componente pedagógica, dá-lhe os
 conteúdos necessários. Qualquer aluno que pretenda uma saída diferente (Biologia ou Geologia) fica
@@ -125,8 +130,9 @@ ambiente, a BG dá-lhe uma formação bi-disciplinar
 de base suficiente; no 2º ciclo especializará.
 
 
-Quais são na sua opinião os pontos fortes
-deste curso? E os pontos fracos?
+**Quais são na sua opinião os pontos fortes
+deste curso? E os pontos fracos?**
+
 O ponto forte deste curso é a formação mista, para
 quem for para determinadas áreas. A possibilidade
 da via ensino, para quem o pretender, é naturalmente o ponto mais forte em termos de empregabilidade. Essa formação mista é ao mesmo tempo um
@@ -148,8 +154,9 @@ Ou se é muito bom e se tem uma vontade de trabalho muito grande, conseguindo co
 conhecimentos que tem e entra num percurso de investigação, ou então vai ter muito mais dificuldades.
 
 
-Existem hoje em dia excesso de profissionais
-em determinadas áreas. O que podem esperar os alunos da Licenciatura em Biologia-Geologia quanto ao mercado de trabalho?
+**Existem hoje em dia excesso de profissionais
+em determinadas áreas. O que podem esperar os alunos da Licenciatura em Biologia-Geologia quanto ao mercado de trabalho?**
+
 Quando falo com os meus alunos nas primeiras aulas, digo-lhes sempre que eles têm que mostrar o
 que valem, têm que mostrar que vale a pena investir
 neles. Um aluno não pode pensar que quando vem
@@ -174,8 +181,9 @@ tem de ser mesmo muito bom e complementar os
 seus conhecimentos com os ciclos de estudo seguintes (mestrado e doutoramento).
 
 
-Acompanhou o período das reformas de Bolonha, marcado por uma profunda alteração do
-modelo de ensino. Como o avalia?
+**Acompanhou o período das reformas de Bolonha, marcado por uma profunda alteração do
+modelo de ensino. Como o avalia?**
+
 Para a BG foi bom. Era uma licenciatura moribunda,
 que tudo indicava iria fechar. Antes do processo de
 Bolonha, tive oito alunos numa das cadeiras finais
@@ -187,8 +195,9 @@ médias de entrada a subir. Para a BG, o processo de
 Bolonha foi a salvação.
 
 
-Quais são as suas prioridades para o curso
-nos próximos tempos?
+**Quais são as suas prioridades para o curso
+nos próximos tempos?**
+
 A grande prioridade que tivemos foi a reestruturação que se conseguiu fazer este ano, aproveitando
 o processo de reajuste que todos os cursos da UM
 sofreram. Corrigiram-se alguns problemas que surgiram quando se fez a adequação a Bolonha. Foi
@@ -201,7 +210,8 @@ licenciatura deixe de ser uma licenciatura alternativa
 e passe a ser uma primeira escolha.
 
 
-Quais são para si os principais desafios?
+**Quais são para si os principais desafios?**
+
 O principal desafio é fazer com que a licenciatura
 passe a ser uma primeira escolha para quem não
 quer ir para ensino. A nível de investigação estamos
@@ -218,21 +228,25 @@ perder mais tempo com ele(a). E o aluno tem que se
 convencer disso...
 
 
-As escolhas de …
-Pedro Gomes
-Melhor momento de quando estudava na
-Universidade? O dia em que saí.
-Melhor filme? Muitos e variados. Requiem for
-a Dream; Labirinto do Fauno; Tudo o que é feito pelos irmãoes Cohen; Ponte sobre Terabitia;
-Ondine…
-Melhor música? Difícil de escolher…
-Clube do coração? Nenhum. Não ligo a isso.
-Livro que recomenda? Para os meus alunos:
-História de quase tudo de Bill Bryson.
-Viagem? Canadá
-Restaurante? Nenhum em especial
-Comida preferida? De tudo um pouco. Mas
-um bom peixe de mar, fresco e grelhado é difícil
-de recusar.
-Sonho…? Muitos
-Desporto preferido? Mergulho; Viet Vo Dao.
+**As escolhas de …
+Pedro Gomes**
+* Melhor momento de quando estudava na Universidade?
+O dia em que saí.
+* Melhor filme? 
+Muitos e variados. Requiem for a Dream; Labirinto do Fauno; Tudo o que é feito pelos irmãoes Cohen; Ponte sobre Terabitia; Ondine…
+* Melhor música?
+Difícil de escolher…
+* Clube do coração?
+Nenhum. Não ligo a isso.
+* Livro que recomenda?
+Para os meus alunos: História de quase tudo de Bill Bryson.
+* Viagem?
+Canadá
+* Restaurante?
+Nenhum em especial
+* Comida preferida?
+De tudo um pouco. Mas um bom peixe de mar, fresco e grelhado é difícil de recusar.
+* Sonho…?
+Muitos
+* Desporto preferido?
+Mergulho; Viet Vo Dao.
