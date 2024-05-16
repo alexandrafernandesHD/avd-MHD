@@ -233,22 +233,22 @@ Pedro Gomes**
 
 
 **Melhor momento de quando estudava na Universidade?**
-O dia em que saí.
+* O dia em que saí.
 **Melhor filme?**
-Muitos e variados. Requiem for a Dream; Labirinto do Fauno; Tudo o que é feito pelos irmãoes Cohen; Ponte sobre Terabitia; Ondine…
+* Muitos e variados. Requiem for a Dream; Labirinto do Fauno; Tudo o que é feito pelos irmãoes Cohen; Ponte sobre Terabitia; Ondine…
 **Melhor música?**
-Difícil de escolher…
+* Difícil de escolher…
 **Clube do coração?**
-Nenhum. Não ligo a isso.
+* Nenhum. Não ligo a isso.
 **Livro que recomenda?**
-Para os meus alunos: História de quase tudo de Bill Bryson.
+* Para os meus alunos: História de quase tudo de Bill Bryson.
 **Viagem?**
-Canadá
+* Canadá
 **Restaurante?**
-Nenhum em especial
-* Comida preferida?
-De tudo um pouco. Mas um bom peixe de mar, fresco e grelhado é difícil de recusar.
-* Sonho…?
-Muitos
-* Desporto preferido?
-Mergulho; Viet Vo Dao.
+* Nenhum em especial
+**Comida preferida?**
+* De tudo um pouco. Mas um bom peixe de mar, fresco e grelhado é difícil de recusar.
+**Sonho…?**
+* Muitos
+**Desporto preferido?**
+* Mergulho; Viet Vo Dao.
