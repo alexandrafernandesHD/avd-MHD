@@ -12,7 +12,8 @@ interviewer: Ana Marques
 
 
 
-GSI obtém certificação de qualidade ISO 9001:2000
+# GSI obtém certificação de qualidade ISO 9001:2000
+
 Em entrevista ao UMdicas, José Fernandes Director do Gabinete
 de Sistemas de Informação (GSI), falou do processo e das
 motivações que conduziram à certificação e dos projectos
