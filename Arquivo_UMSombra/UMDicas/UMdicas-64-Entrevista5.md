@@ -12,7 +12,8 @@ interviewer: Ana Marques
 
 
 
-GSI obtém certificação de qualidade ISO 9001:2000
+# GSI obtém certificação de qualidade ISO 9001:2000
+
 Em entrevista ao UMdicas, José Fernandes Director do Gabinete
 de Sistemas de Informação (GSI), falou do processo e das
 motivações que conduziram à certificação e dos projectos
@@ -23,8 +24,9 @@ Ana Marques
 anac@sas.uminho.pt
 
 
-UMdicas: Qual o papel do GSI no
-contexto da universidade?
+**UMdicas: Qual o papel do GSI 
+no contexto da universidade?**
+
 José Fernandes: O GSI orienta
 toda a sua actividade no sentido
 de satisfazer os requisitos dos
@@ -53,27 +55,28 @@ contribuindo para a sua gestão e
 funcionamento.
 
 
-UMdicas: GSI obteve a
+**UMdicas: GSI obteve a
 certificação de qualidade pela ISO
 9001:200 no dia 16 de
 Dezembro. Qual foi o objectivo
-com esta certificação?
+com esta certificação?**
+
 J.F.: Foram várias as motivações
 que conduziram à certificação
 pela ISO 9001 do GSI, no entanto,
 as que tiveram maior peso na
 decisão da certificação por este
 referencial foram as seguintes:
-~ Reorganização interna;
-~ Medição clara de objectivos e
+* Reorganização interna;
+* Medição clara de objectivos e
 monitorização contínua dos
 processos críticos;
-~ Aumento da confiança, interna e
+*´Aumento da confiança, interna e
 ex terna, nos métodos de
 trabalho;
-~ Aumento da motivação dos
+* Aumento da motivação dos
 colaboradores;
-~ Aumento da satisfação dos
+* Aumento da satisfação dos
 nossos Utentes.
 O modelo desenvolvido tem como
 objectivo intrínseco a melhoria
@@ -138,8 +141,9 @@ Gabinete de forma pró-activa a
 curto e médio prazo.
 
 
-UMdicas: Sucintamente, de que
-consta o processo?
+**UMdicas: Sucintamente, de que
+consta o processo?**
+
 J.F.: A abordagem por processos
 promovida pela ISO 9001:2000
 identifica e gere
@@ -169,35 +173,36 @@ correctamente aplicada.
 O processo de implementação da
 ISO 9001 no GSI, passou pelas
 seguintes fases:
-~ Diagnóstico inicial ao GSI do
+* Diagnóstico inicial ao GSI do
 ponto de vista organizacional.
-~ Definição da rede de processos
+* Definição da rede de processos
 e indicadores.
-~ Definição do âmbito de
+* Definição do âmbito de
 aplicação e possíveis exclusões.
-~ Formação e sensibilização
+* Formação e sensibilização
 constante dos Colaboradores do
 GSI para o processo de
 certificação.
-~ Definição da política, objectivos
+* Definição da política, objectivos
 da qualidade baseados numa
 reflexão estratégica
 fundamentada com o uso do
 Balanced Scorecard.
-~ Elaboração do Manual da
+* Elaboração do Manual da
 Qualidade.
-~ Análise da legislação aplicável e
+* Análise da legislação aplicável e
 elaboraç ã o da r e s ta nte
 documentação.
-~ Auditorias externas de précertificação e análise das
+* Auditorias externas de précertificação e análise das
 constatações.
-~ Pedido de concessão com a
+* Pedido de concessão com a
 realização da respectiva
 auditoria.
 
 
-UMdicas: Foi um processo
-complicado?
+**UMdicas: Foi um processo
+complicado?**
+
 J.F.: Foi um processo acima de
 tudo desgastante, já que foi
 realizado em cerca de 6 meses
@@ -233,9 +238,10 @@ Ambiente, Segurança e Saúde do
 Trabalho.
 
 
-UMdicas: Que melhorias vai
+**UMdicas: Que melhorias vai
 trazer para a UM e para os
-alunos?
+alunos?**
+
 J.F.: A certificação pela ISO 9001
 teve como base os objectivos
 indicados anteriormente.
@@ -257,9 +263,10 @@ que sem dúvida agradará à
 Universidade.
 
 
-UMdicas: Qual a importância
+**UMdicas: Qual a importância
 desta certificação para o GSI e
-para a UMinho?
+para a UMinho?**
+
 J.F.: Somos o primeiro Serviço da
 Universidade com a certificação
 pela ISO 9001. Ao nível nacional, e
@@ -297,13 +304,14 @@ de que o GSI satisfaz as
 necessidades dos Utentes, que
 cumpre as exigências legais e
 regulamentares de uma forma
-ef ica z sendo pionei ro na
+eficaz sendo pioneiro na
 implementação desta norma.
 
 
-UMdicas: Quais os próximos
+**UMdicas: Quais os próximos
 projectos do GSI a curto e médio
-prazo?
+prazo?** 
+
 J.F.: Ao nível da certificação,
 temos que consol ida r a
 certificação ISO 9001:2000

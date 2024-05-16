@@ -11,8 +11,8 @@ interviewer: Ana Marques
 ---
 
 
+# “Tem uma abrangência muito grande dentro da engenharia e não está focado numa tecnologia”
 
-“Tem uma abrangência muito grande dentro da engenharia e não está focado numa tecnologia”
 O Mestrado Integrado em Engenharia e Gestão Industrial (MIEGI) desenvolve a sua atividade direcionada para a racionalização da utilização de recursos em
 empresas industriais e serviços com o objetivo de melhorar o seu desempenho global. É objetivo do curso formar quadros com conhecimentos técnicos e científicos capazes de garantir um desempenho competitivo para os sistemas produtivos das empresas onde forem
 inseridos, que têm vindo a ser reconhecidos pelo mercado de trabalho.
@@ -34,8 +34,9 @@ a sua função acima de tudo como “…um coordenador
 e dinamizador de um conjunto de atividades que considero importantes”.
 
 
-Como caracteriza a sua função de diretor de 
-curso?
+**Como caracteriza a sua função de diretor de 
+curso?**
+
 O diretor de curso é na realidade mais um coordenador de curso do que diretor. Enquanto coordenador do curso estou envolvido em funções mais operacionais e 
 mais de projeto.
 Relativamente ao papel mais operacional, posso indicar 
@@ -66,14 +67,16 @@ bem. Concluindo, para mim o papel do diretor de curso
 atividades integrado numa equipa de direção. 
 
 
-O que o motivou a aceitar “comandar” este curso?
+**O que o motivou a aceitar “comandar” este curso?**
+
 No Departamento de Produção e Sistemas as direçõessão nomeadas a partir de um conjunto de 
 proposituras. A principal razão que me levou a coordenar este curso foi uma motivação intrínseca. Olho para
 aquilo que envolve o curso, e o que nos envolve com os alunos. Essa motivação tem muito a ver com aquilo que esperamos dos nossos alunos, o que eles são capazes de fazer e, todos os dias me surpreendem. Desde o 1º ao 5º ano acho que os alunos são pessoas capazes de de fazer aquilo quiserem. É uma questão de nós apostarmos e esperarmos.
 
 
-As experiencias anteriores têm-no ajudado no 
-cumprimento da sua função de diretor de curso?
+**As experiencias anteriores têm-no ajudado no 
+cumprimento da sua função de diretor de curso?**
+
 Sim. Fui diretor adjunto da Licenciatura em Engenharia e Gestão Industrial antes do processo de Bolonha 
 até 2004, depois fui membro da comissão diretiva do 
 Mestrado Integrado Engenharia e Gestão Industrial até 
@@ -81,8 +84,9 @@ Mestrado Integrado Engenharia e Gestão Industrial até
 minha experiência já vem desde 2004 e é claro é sempre uma mais-valia para encarar este desafio. 
 
 
-Quais são as maiores dificuldades que sente no 
-cumprimento da sua função?
+**Quais são as maiores dificuldades que sente no 
+cumprimento da sua função?**
+
 Uma dificuldade que existe mas que tem mais a ver com 
 as nossas funções na Universidade é o vasto número de 
 atividades em que estamos envolvidos. No ensino, na 
@@ -100,8 +104,9 @@ mim, porque é necessário coordenar, mas penso que
 a forma de ultrapassar as dificuldades é mesmo trabalhar em equipa. A definição dos processos das direções de curso, a estandardização desses processos, apoiados por alguma ferramenta de automatização desses  processos ajudaria a direção de curso e os professores envolvidos no processo. 
 
 
-No seu entender, porque é que um futuro universitário deve concorrer ao curso de Mestrado 
-Integrado Engenharia e Gestão Industrial?
+**No seu entender, porque é que um futuro universitário deve concorrer ao curso de Mestrado 
+Integrado Engenharia e Gestão Industrial?**
+
 Acho que se deve concorrer a este curso porque tem 
 um conjunto alargado de saídas profissionais, porque 
 tem uma abrangência muito grande dentro da engenharia e, não está focado numa tecnologia. Por isso deve concorrer quem tiver este perfil e quiser manter 
@@ -117,8 +122,9 @@ Tem excelentes saídas profissionais, ótimos professores e ótimos alunos, não
 96%, o que é excelente!
 
 
-Quais são na sua opinião os pontos fortes deste 
-curso? E os pontos fracos?
+**Quais são na sua opinião os pontos fortes deste 
+curso? E os pontos fracos?**
+
 Em relação aos pontos forte eu diria que é precisamente a formação abrangente que tem, não é um curso de Engenharia e Gestão Industrial focado numa engenharia específica. Temos também uma ligação forte à 
 indústria através de projetos que vão acontecendo ao 
 longo do curso, com isso os alunos saem daqui com 
@@ -129,8 +135,9 @@ início à sua carreira. Eu gostaria que fosse possível
 aumentar o número de alunos que se envolve em investigação porque essa pode ser uma das saídas profissionais e também é importante para a área de EGI.
 
 
-O que caracteriza este curso da UMinho relativamente aos cursos de Engenharia e Gestão 
-Industrial de outras universidades?
+**O que caracteriza este curso da UMinho relativamente aos cursos de Engenharia e Gestão 
+Industrial de outras universidades?**
+
 Alguns cursos das outras universidades são muito focados por exemplo na engenharia mecânica, isto porque evoluíram a partir dela, outros cursos têm um foco 
 mais relacionado com a gestão de empresas, outros 
 poderão estar mais próximos do nosso modelo. Outra 
@@ -147,10 +154,11 @@ por não se focar em nenhuma
 abrange várias.
 
 
-Existem hoje em dia excesso de profissionais 
+**Existem hoje em dia excesso de profissionais 
 em determinadas áreas. O que podem esperar 
 os alunos do Mestrado Integrado Engenharia e 
-Gestão Industrial quanto ao mercado de trabalho? 
+Gestão Industrial quanto ao mercado de trabalho?**
+
 Na nossa perspetiva, e também pelos contactos que 
 temos com os antigos alunos, os nossos alunos estão 
 a ficar nas empresas onde estagiam, em muitos casos 
@@ -160,8 +168,9 @@ Com mais ou menos dificuldades, nesta área os alunos
 ainda podem estar otimistas. 
 
 
-Acompanhou o período das reformas de Bolonha, marcado por uma profunda alteração do 
-modelo de ensino. Como o avalia?
+**Acompanhou o período das reformas de Bolonha, marcado por uma profunda alteração do 
+modelo de ensino. Como o avalia?**
+
 Eu considero o processo positivo, foi uma oportunidade 
 de nos aproximarmos de uma formação mais baseada 
 em competências e menos baseada em conteúdos. Os 
@@ -180,7 +189,8 @@ de alunos por turma, isso parece-me um retrocesso em
 relação ao conceito base. 
 
 
-O que seria necessário para se efetivar realmente este processo?
+**O que seria necessário para se efetivar realmente este processo?**
+
 Penso que é necessário às pessoas em geral, docentes, 
 alunos, gestores, ensino superior, num contexto global 
 percebermos melhor o que é o processo, que do meu 
@@ -196,8 +206,11 @@ atacar problemas que não são fragmentados. Precisam
 de uma visão integrada das coisas. Devemos conseguir 
 que os cursos vão adequando de forma flexível (o curriculum) aquilo que é necessário do ponto de vista da 
 formação. 
-Quais são as suas prioridades para o curso nos 
-próximos tempos?
+
+
+**Quais são as suas prioridades para o curso nos 
+próximos tempos?**
+
 Uma prioridade urgente é fazer a revisão da oferta educativa, num processo de toda a Universidade. Outras 
 prioridades são: a consolidação do núcleo de alunos, 
 consolidação de metodologias de aprendizagem mais 
@@ -219,22 +232,49 @@ todas e, por isso deve ser reconhecida como uma área
 por si. Uma última prioridade é continuar e, reforçar 
 até a procura dos excelentes alunos que temos tido até 
 agora. 
-Quais são para si os principais desafios?
+
+
+**Quais são para si os principais desafios?**
+
 Manter a procura e melhorar se possível. Divulgação 
 dos projetos de dissertação que são realizados na 
 maior parte dos casos em empresas. É um foco grande que queremos manter, dissertações em ambiente industrial.
 
 
-As escolhas de …
-Rui Lima
-Data de Nascimento? 4 de Maio de 1968
-Melhor momento de quando estudava na
-Universidade? Para mim não existe um melhor,
+**As escolhas de …
+Rui Lima**
+
+
+**Data de Nascimento?**
+* 4 de Maio de 1968
+
+
+**Melhor momento de quando estudava na
+Universidade?**
+* Para mim não existe um melhor,
 todos eles foram excelentes, tanto de aprendizagem, como diversão.
-Melhor filme? Blade Runner, Táxi Driver, O Estranho Caso de Benjamin Button
-Melhor música? Gosto muito de ouvir Bob Dylan,
+
+
+**Melhor filme?**
+* Blade Runner, Táxi Driver, O Estranho Caso de Benjamin Button
+
+
+**Melhor música?**
+* Gosto muito de ouvir Bob Dylan,
 Caetano Veloso, Elis Regina, Ney Mato Grosso.
-Livro que recomenda? Os livros do Token.
-Viagem? Moçambique
-Restaurante? Um moçambicano “espaço Moçambique” e o Sitar no cais de Gaia.
-Clube? Benfica
+
+
+**Livro que recomenda?**
+* Os livros do Token.
+
+  
+**Viagem?**
+* Moçambique
+
+  
+**Restaurante?**
+* Um moçambicano “espaço Moçambique” e o Sitar no cais de Gaia.
+
+
+**Clube?**
+* Benfica
