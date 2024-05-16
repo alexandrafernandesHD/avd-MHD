@@ -135,7 +135,7 @@ início à sua carreira. Eu gostaria que fosse possível
 aumentar o número de alunos que se envolve em investigação porque essa pode ser uma das saídas profissionais e também é importante para a área de EGI.
 
 
-*O que caracteriza este curso da UMinho relativamente aos cursos de Engenharia e Gestão 
+**O que caracteriza este curso da UMinho relativamente aos cursos de Engenharia e Gestão 
 Industrial de outras universidades?**
 
 Alguns cursos das outras universidades são muito focados por exemplo na engenharia mecânica, isto porque evoluíram a partir dela, outros cursos têm um foco 
