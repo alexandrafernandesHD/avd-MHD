@@ -7,7 +7,7 @@ place_bith: Famalicão
 date_birth: 3 de julho de 1992
 ---
 
-!(https://github.com/alexandrafernandesHD/avd-MHD/blob/main/Arquivo_UMSombra/EntrevistasAVD/CristianaGomes/imagem_janine.jpg)
+![Fotografia](https://github.com/alexandrafernandesHD/avd-MHD/blob/main/Arquivo_UMSombra/EntrevistasAVD/CristianaGomes/imagem_janine.jpg)
 
 ## Conta-me um bocadinho do teu percurso académico, em que ano é que foste para a universidade, qual o curso...
 Eu tirei a minha licenciatura noutra universidade, Psicologia, e depois fui parar à Uminho para fazer um mestrado. Fiz mestrado integrado em Psicologia Aplicada, juntei me à turma que já havia, e isto foi em 2014. Depois, terminei em 2016, e acabei sempre a praticar na Universidade do Minho. Fiz estágio curricular
