@@ -5,9 +5,12 @@ place: Centro Educativo Bamboo
 job: Psicóloga
 place_bith: Famalicão
 date_birth: 3 de julho de 1992
+notes: Com os 50 anos da Universidade do Minho é importante celebrar as pessoas que por aqui passaram, e que daqui levam ferramentas suficientes para traçar um caminho bonito. Uma dessas pessoas é Janine Dias.
 ---
 
 ![Fotografia](https://github.com/alexandrafernandesHD/avd-MHD/blob/main/Arquivo_UMSombra/EntrevistasAVD/CristianaGomes/imagem_janine.jpg)
+
+# Anos na Universidade
 
 ## Conta-me um bocadinho do teu percurso académico, em que ano é que foste para a universidade, qual o curso...
 Eu tirei a minha licenciatura noutra universidade, Psicologia, e depois fui parar à Uminho para fazer um mestrado. Fiz mestrado integrado em Psicologia Aplicada, juntei me à turma que já havia, e isto foi em 2014. Depois, terminei em 2016, e acabei sempre a praticar na Universidade do Minho. Fiz estágio curricular
@@ -47,8 +50,7 @@ Também havia aqueles que eram sempre os mais desinibidos, que já participavam 
 ## Como é que surgiram estes projetos ou o que te levou a integrá-los?
 Como fiz estágios com a professora Teresa Freire, fiz primeiro estágio curricular, depois estágio profissional.... Acabei por trabalhar sempre na equipa de investigação dela. Então, estes projetos surgiram um bocadinho nessa ligação. A equipa de investigação dela é muito focada no desenvolvimento positivo e no funcionamento ótimo. Sempre a pensar em desenvolver competências dos jovens, então é um pouco esta a minha ligação para os programas. Nos estágios, fazia programas de intervenção em grupo, e como as Tutorias por pares eram sempre em grupo, levou-me a manter-me interessada por estas questões. Trabalhar em grupo com os jovens, desenvolver competências deles e ajudar a criar estas relações de primeiro ano com o segundo. Eles acabavam sempre a ser acompanhados ao longo do tempo todo que estão na universidade
 
-## Como é que tu descreves um aluno que participa como tutor no
-Programa de Tutorias por Pares?
+## Como é que tu descreves um aluno que participa como tutor no Programa de Tutorias por Pares?
 Então, um aluno que participa como tutor tem de ser um aluno disponível, porque nós não podemos só demonstrar interesse. Nós temos de ter disponibilidade, compromisso e um aluno que goste e que queira ajudar o outro. Os tutores também desenvolvem competências, então têm de pensar nisto. Nós quando estamos responsáveis por alguém acabamos por desenvolver competências, mas temos de considerar que o nosso papel ali é ser tutor de alguém, ou seja, é alguém que nós vamos acompanhar, até porque quando chegamos à universidade é tudo muito confuso. 
 O papel do tutor tem de ser alguém que esteja ali, atento a estes pormenores, a ver o que é que o tutorando, (que é o aluno que vai receber a tutoria) precisa, que dúvidas é que ele tem, tentar tirar essas dúvidas, mesmo que não se saiba, tentar descobrir como... Ser responsável e, acima de tudo, ser uma pessoa proativa, que queira fazer algo mais para além de ir para a universidade estudar. 
 Coisa que eu acho que cai muito no esquecimento e é normal. Eu própria também cheguei a um ponto que estava na universidade só para estudar e vir embora. Mas acho importante que os alunos tentem aproveitar o período que estão na universidade para algo mais para além de estudar. 
@@ -75,6 +77,8 @@ E em relação aos alunos, notei algumas diferenças, até por causa da pandemia
 Eu acho que o formato online pode nos ajudar muito e facilita em muitas situações, mas não é de todo aquilo que nos ajuda a desenvolver competências de comunicação e socialização. Esta pandemia fez com que os estudantes perdessem um bocadinho estas capacidades.
 Eu lembro-me da minha professora dizer que elas estavam em turmas, com montes de alunos, e nem ligavam as câmaras. Era muito chato estarmos a falar e a dar uma aula, e nem câmaras abriam.
 Foi difícil para os alunos, mas também foi difícil para os professores. Posso dizer que com a pandemia viu-se uma diferença nos alunos, e que devemos ter sempre em mente tentar desenvolver estas competências com eles, que são muito importantes.
+
+# Presente: Centro Educativo, Bamboo
 
 ## Passando para o presente, o teu centro de Estudos, o Bamboo. Para quem não conhece, fala um bocadinho dele, qual a atividade que há aqui e qual o objetivo deste espaço. 
 O Bamboo é um centro educativo que tem como objetivo não só o acompanhamento escolar das crianças, mas também o desenvolvimento positivo das crianças. O que é isto do desenvolvimento positivo? O foco não é apenas a parte académica, onde nós vemos as crianças como um todo, e apostamos nas potencialidades delas. 
