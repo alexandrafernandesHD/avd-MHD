@@ -21,6 +21,7 @@ Ana Marques
 anac@sas.uminho.pt
 
 **Quem é Hélder Castro e qual a tua ligação ao Minho?**
+
 Hélder Castro é um habitante de Caldas das Taipas que estuda desde 2007 na Universidade do Minho. Com raízes na região sempre dedicou parte do seu tempo ao associativismo, procurando sempre ajudar os outros apoiando-se e sendo fiel aos valores que assume. Desde jovem que reconhece que a Universidade do Minho é uma instituição com um enorme destaque no panorama do Ensino Superior e por isso foi uma escolha simples a opção pelo Mestrado Integrado em Arquitectura. Acredita sobretudo nas pessoas e em projectos que possam contar com o envolvimento das mesmas, só assim poderemos encontrar soluções que melhor respondam às necessidades do nosso quotidiano. Numa aldeia cada vez mais global a interculturalidade é uma realidade e por isso temos que aprender a viver com este aspecto de opiniões diversificadas, na qual o respeito têm que ser a palavra-chave para um desenvolvimento sustentado.
 
 **Qual o teu percurso académico e desde quando estás ligado à AAUM?**
