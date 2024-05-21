@@ -66,8 +66,7 @@ Foi significativamente difícil. Tive de ultrapassar atletas com um nível quali
 Claro que sim, como se fosse hoje. Diria que foi o meu melhor momento até agora. Depois de ter passado uma qualificação muito difícil a nível mundial com 65 países a concorrer apenas para 6 vagas, foi fantástico. Depois chegar como outsider e eliminar atletas que se tinham qualificado à minha frente e pertencentes a seleções com grandes tradições na nossa modalidade, foi fenomenal. Para além disso ver a nossa bandeira a subir num evento tão importante foi magnífico. Nunca mais irei esquecer esse dia, assim como o momento em que desfilei como porta-bandeira da delegação portuguesa… foi uma mistura de sensações, responsabilidade, honra e orgulho.
 
 
-** Qual é o teu segredo para tantos sucessos desportivos?**
-
+**Qual é o teu segredo para tantos sucessos desportivos?**
 Não há segredos, apenas trabalho, dedicação e alegria naquilo que faço.  
 
 
