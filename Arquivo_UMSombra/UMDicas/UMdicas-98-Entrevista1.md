@@ -67,6 +67,7 @@ Claro que sim, como se fosse hoje. Diria que foi o meu melhor momento até agora
 
 
 **Qual é o teu segredo para tantos sucessos desportivos?**
+
 Não há segredos, apenas trabalho, dedicação e alegria naquilo que faço.  
 
 
