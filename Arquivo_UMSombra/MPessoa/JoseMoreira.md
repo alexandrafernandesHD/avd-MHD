@@ -65,7 +65,7 @@ A Livraria-Editorial era conhecida em várias zonas do país, tinha contactos co
 A livraria não abriu falência, nunca faliu. Primeiro acabou a tipografia e a encardenação, que eram onde é agora o Centro Comercial dos Garanjinhos. A Editota Pax era na Rua do Souto e as oficinas de tipografia e de encardenação estendiam-se para o lado de trás da Rua do Souto, que ia dar precisamente à zona do Centro Comercial dos Garanjinhos. Portanto, naquela altura, houve uma posse administrativa daqueles terrenos por parte da Câmara Municipal para levantar o centro comercial. Lembro-me de que, naquela altura, a tipografia e a encadernação iam deixar de existir, portanto, os empregados, os operários que eram cerca de 25 iriam para o desemprego. O meu pai dentro desta linha de orientação, de predisposição para a resolução dos problemas das pessoas, conseguiu resolver a situação dos funcionários e ao mesmo tempo a situação da sociedade em si, conseguindo fazer um acordo com a Câmara Municipal:
 
 
-- "Sim, senhor, vocês ficam com isto, nós acabamos com a actividade de tipografia e encardenação, mas a Câmara Municipal fica com as máquinas todas e com o pessoal todo para a Editora Correio do Minho."
+-"Sim, senhor, vocês ficam com isto, nós acabamos com a actividade de tipografia e encardenação, mas a Câmara Municipal fica com as máquinas todas e com o pessoal todo para a Editora Correio do Minho."
 
 
 Portanto, salvaguadou os postos de trabalho de todos os fucionários que iriam para o desemprego e salvaguardou os interesses da sociedade passando a maquinaria toda para a Câmara Municipal, evitando a venda ao desbarato, para a sucata, daquelas máquinas todas.
@@ -97,7 +97,7 @@ TAG: **casa**
 Da casa onde nasci, não guardo grandes recordações, sei que era cá em Braga, na Rua de S. Victor. Embora me contem episódios dos meus tempos de miúdo, com 2 anos, não tenhos grandes recordações. Aliás, na casa onde eu nasci vivemos muito pouco tempo. Eu nasci naquela casa, mas passado um ano já estávamos noutra. O irmão que nasceu a seguir a mim, que é mais novo que eu ano e meio, já nasceu noutro sítio. Portanto, a partir daí fomos sempre saltando de casa porque a família foi crescendo e a casa também tinha que crescer, senão não cabia lá ninguém. De modo que eu não me lembro da casa. Lembro-me de alguns episódios, como por exemplo, na Rua de S. Victor, há alguns anos, passava o eléctrico, vinha do Bom Jesus e ia até ao Turismo, ao Banco de Portugal, seguia para baixo, para Maximinos. Então, o meu pai, todos os dias, apanhava o eléctrico e ia para o trabalho. Eu não sabia onde é que era o trabalho dele, mas sabia que ele ia no eléctrico. Então, contam-me que eu um dia, tinha para aí ano e meio, tinha aprendido a andar há pouco tempo, e foram dar comigo junto à Arcada, ao Banco de Portugal. Eu tinha ido a pé pela rua do eléctrico fora e foi uma senhora, que depois veio a ser madrinha de uma das minhas irmãs, que me encontrou  no meio da linha do eléctrio e me disse:
 
 
-- "Ó Zé Manel, que estás aqui a fazer?"
+-"Ó Zé Manel, que estás aqui a fazer?"
 
 
 Eu disse que ia ter com o meu pai ao trabalho. Quer dizer, nunca mais lá chegava, mas ia ter com ele.
@@ -114,7 +114,7 @@ TAG: **costumes**
 Os momentos mais marcantes da minha família eram, sem dúvida, as reuniões de Natal e Páscoa, quando os meus avós estavam connosco. Os meus avós vinham de Cêtos passar uns dias connosco. Lembro-me de na altura da Páscoa o meu avô vir para nossa casa porque gostava de assistir às cerimónias da Semana Santa, já eu tinha feito a 4ª classe na aldeia com o meu avô, devia ter para aí 12/13 anos, e de trazer presentes. Houve um ano que trouxe um cabritinho e, então, Jesus! Aqueles meus irmãos mais novitos, ui minha Nossa Senhora, fizeram uma festa ao cabritinho:
 
 
-- "Ai, que cabritinho bonito!"
+-"Ai, que cabritinho bonito!"
 
 
 O meu avô tinha trazido o cabrito para o almoço do dia de Páscoa. Então a família costumava ver todos as procissões de Quinta-feira Santa e Sexta-feira Santa. Lembro-me que eu e o meu avô combinámos que não íamos à procissão porque ele estava doente. De maneira que foi toda a gente para a procissão e nós ficamos os dois sozinhos. O meu avô tinha experiência e eu estava sempre pronto a ajudar nessas coisas, de maneira que, matámos o cabrito e pusemo-lo no frigorífico. Quando eles chegaram o cabrito estava no frigorífico. Fizeram uma choradeira daquelas, zangaram-se connosco, mas aquilo passou.
@@ -166,7 +166,7 @@ Ia a pé para a escola. Aliás, o meu pai nunca teve carta, nunca quis tirar a c
 A escola era relativamente perto de casa, da Avenida da Liberdade à escola de S. Lázaro é perto, se bem que nós depois mudámos, mas eu sempre fui a pé para a escola. Aliás, quando eu passei a frequentar o liceu Sá de Miranda, nós morávamos na Rua Bernardo Sequeira, onde eram as antigas instalações da universidade, e eu sempre fui a pé. Sempre fui e vim a pé. Ia às 9h da manhã, almoçava às 12h30, tornava às 14h e ia para casa sempre a pé, quer chovesse quer fizesse sol.
 
 
-Entrei para a escola primária com 6 anos. Já sabia ler quando fui para a escola porque andava muito com meu pai e a minha mãe e de passarem camionetas, autocarros, eléctricos e de terem dísticos a dizer "Vai para a Ponte", "Vai para Monte d'Arcos" e eu perguntava ao meu pai e à minha mãe: - "Que é aquele eléctrico? O que é que diz ali?",  - "Diz isto, diz aquilo." Então fui aprendendo a juntar as letras, de modo que quando fui para a escola já sabia ler.
+Entrei para a escola primária com 6 anos. Já sabia ler quando fui para a escola porque andava muito com meu pai e a minha mãe e de passarem camionetas, autocarros, eléctricos e de terem dísticos a dizer "Vai para a Ponte", "Vai para Monte d'Arcos" e eu perguntava ao meu pai e à minha mãe: -"Que é aquele eléctrico? O que é que diz ali?",  -"Diz isto, diz aquilo." Então fui aprendendo a juntar as letras, de modo que quando fui para a escola já sabia ler.
 
 
 A escola a que me refiro é a Escola de S. Lázaro. As lembranças que tenho da escola referem-se, sobretudo, ao primeiro professor que tive, que foi o professor Vieira. Ainda há dias o vi. Ele agora está muito acabado. Mas tenho ideia que o professor Vieira era muito meu amigo. Também tenho ideia de alguns colegas, não muitos, mas de alguns, ainda me lembro deles. Mas do que me lembro melhor é daquele professor e da relação que eu tinha com ele, porque ele gostava muito de mim e eu gostava muito dele. Eu estava sempre muito atento nas aulas. Lembro-me de uma vez chegar a casa muito triste. Tinha feito a prova de passagem, já não sei se foi da 2ª para a 3ª, da 3ª para a 4ª e levei a prova para casa. Cheguei a casa muito triste. Dei a prova ao meu pai e disse:
@@ -196,7 +196,7 @@ Lembro-me que nessa 4ª classe, estive com o meu avô em Cêtos, lembro-me de al
 Eu fiz a primária, depois  fiz o secundário no liceu, depois cheguei a  frequentar o Instituto Superior de Engenharia. Portanto, eu estudei até à altura de ir para a tropa, até aos 22 anos. Depois fui para a tropa. Quando voltei ainda pensei em retomar os estudos. Ainda estive uns anitos matriculado na universidade, no curso de Sistemas Informáticos, mas acabei por desistir. Primeiro, porque já estava cheio de vícios, já era casado e depois porque os professores também não estavam muito interessados em que eu ingressasse no curso e lhes tirasse o lugar. Iriam dizer assim:
 
 
-- "Bolas, qualquer dia o Moreira é formado e depois fica ele a presidente, corre connosco, tira-nos o lugar, e é uma chatice."
+-"Bolas, qualquer dia o Moreira é formado e depois fica ele a presidente, corre connosco, tira-nos o lugar, e é uma chatice."
 
 
 Relativamente ao que queria ser quando crescesse, não me lembro de ter dito nunca o que gostava de ser ou o que é que queria ser. Eu lembro-me que tinha 14 anos, naquela altura fiz o 5º ano de liceu, corresponde agora ao 9º ano, e de ter de escolher a àrea que queria seguir. Lembro-me que nessa altura escolhi a área de Ciências para as Engenharias, mas tenho impressão que me enganei, eu tinha mais jeito para outra área qualquer que não fosse a área de Engenharia. Aliás, viu-se o resultado que deu, eu acabei por, a partir do 10º ano, antigamente era o 6º ano de liceu, escolher essa área. Eu era muito novo, naquela altura ainda não tinha idade suficiente para saber o que queria mesmo. Escolhi a área de Ciências e tenho a impressão que escolhi mal. Eu a partir do 6º ano, embora fosse aprovado, nunca mais fui aquele aluno que tinha sido até essa altura, talvez por erro meu.
@@ -219,22 +219,22 @@ TAG: **namoro**
 A minha mulher pelos vistos dáva-se muito bem com o irmão mais novo do meu pai, o meu tio, a quem eu chamava o meu irmão mais velho, que era o meu tio mais novo, dáva-se muito bem com ele. Ele dizia-lhe:
 
 
-- "Ó Teresa, tu ainda vais ser da minha família porque eu tenho um sobrinho."
+-"Ó Teresa, tu ainda vais ser da minha família porque eu tenho um sobrinho."
 
 
 A minha mulher só dizia assim:
 
 
-- "O quê? Os teus sobrinho? Eu não quero nada com eles, são todos uns reguilas."
+-"O quê? Os teus sobrinho? Eu não quero nada com eles, são todos uns reguilas."
 
 
 Ela a rogar, pensava que era como os meus irmãos,ela pensava 'se ele é igual, não quero nada com ele'. Pela boca morre o peixe. Eu não a conhecia, mas ela conhecia-me a mim, estava farta de ouvir falar em mim e eu não fazia a mínima ideia de quem ela era. Um belo dia, estava na livraria do meu pai  e ela apareceu com a mulher desse meu tio. Eu ainda não tinha estado com a minha tia, tinha acabado de chegar há pouco tempo. Andava todo empenado com os tratamentos, andava com os braços, as pernas... Comecei a fazer o tratamento e a pele por acaso... Na altura que eu devia regressar ainda não me tinha passado, ainda não estava completamente bom. Portanto, se eu tivesse ido para lá outra vez, não estava bom e ficava pior. Ao fim e ao cabo acabaram por ser umas aventuras. Estava eu na livraria, a minha tia chegou e vinha a Teresinha.
 
 
-- "Olha, este é que é o meu sobrinho de que a gente te falou. Lembras-te de a gente falar nele?"
+-"Olha, este é que é o meu sobrinho de que a gente te falou. Lembras-te de a gente falar nele?"
 
 
-- "Ai é este senhor?."
+-"Ai é este senhor?."
 
 
 Ela vivia com a avó dela, em casa da minha avó. Ela teve problemas com o pai e a madrasta e, então, acabaram por correr com a mãe dele e com a filha. Elas andaram por aí a viver em lares, depois acabaram por conhecer a minha avó, que lhes ofereceu a casa. A minha avó estava sozinha, nessa altura, numa casa mesmo em  frente à Sé e ela viveu ali uns tempos. Foi a partir daí que a gente se conheceu.
@@ -249,13 +249,13 @@ O namorar antigamente não era nada do que é agora. Como já disse, comecei a t
 Ela não podia sair da beira da avó, senão ai Jesus, que ela ... Da primeira vez que fomos ao cinema a avó dela foi connosco, não nos deixou ir sozinhos. A minha mulher ainda hoje diz, que a avó dela volta e meia dizia assim:
 
 
-- "Raio lá está ele outra vez a tocar à campainha. Não larga a porta de casa."
+-"Raio lá está ele outra vez a tocar à campainha. Não larga a porta de casa."
 
 
 É evidente que a partir de certa altura as coisas foram começando a mudar, quando o casamento estava mais ou menos em vista, já havia o anel de noivado. Então a partir daí já... brinca mas não abuses.
 
 
-- "Meninos, nada de ir fazer meninos ali atrás da Sé. Vocês vão sair, mas à meia-noite têm que estar em casa".
+-"Meninos, nada de ir fazer meninos ali atrás da Sé. Vocês vão sair, mas à meia-noite têm que estar em casa".
 
 
 E ai de nós se não estivessemos à meia-noite em casa, era o cabo dos trabalhos. Pronto, de maneira que foi assim, foi um namoro em que ao fim e ao cabo fomos criando uma relação, consolidando certos pontos. Hoje em dia é muito fácil, acho engraçado como é que se pode casar hoje e daqui a três meses descasar.
@@ -269,13 +269,13 @@ TAG: **casamento**
 O casamento é uma coisa muito séria. Ao aceitar casar com a minha mulher, o que é que eu tenho que pensar?
 
 
-- "Bom a partir de agora deixas de dormir num divã, deixas de poder pôr uma perna para cada lado, deixas de poder fazer aquilo que tu queres e passas a viver um tipo de vida em comum, em que cada um tem que ser o complemento do outro."
+-"Bom a partir de agora deixas de dormir num divã, deixas de poder pôr uma perna para cada lado, deixas de poder fazer aquilo que tu queres e passas a viver um tipo de vida em comum, em que cada um tem que ser o complemento do outro."
 
 
 Digamos, se a  mulher trabalha, tem o trabalho dela normal, como eu vou ter, e depois chego a casa e sento-me a ver televisão com o jornal aberto, àespera que ela vá fazer o jantar e depois vá arrumar a cozinha. Se não há uma cedência de parte a parte, em tudo aquilo que é o comodismo, o egoísmo da pessoa, o casamento não funciona. Sempre estive pronto a ajudar, a facilitar a vida de toda a gente o mais que posso. Eu não percebo como uma pessoa se pode casar hoje e descasar daqui a cinco semanas, daqui a três meses. Tem de haver uma moldura, nós temos que nos moldar um ao outro, porque é evidente que não há nenhum casal com feitios iguais, tem que haver uma moldura, quer dizer uma adaptação um ao outro, de maneira que cada um saiba até que ponto pode ir, sem estar a pôr a pata em cima do parceiro do lado. Tem que haver um entendimento, digamos um saber-perder às vezes. Isso é muito importante. O saber dizer:
 
 
-- "Pronto, deixa lá, agora vamos fazer qualquer coisa para ti, não sou só eu que tenho direito, tu também tens."
+-"Pronto, deixa lá, agora vamos fazer qualquer coisa para ti, não sou só eu que tenho direito, tu também tens."
 
 
 É muito isto que falta à juventude hoje em dia. Dizer assim: "Eu quero um carro", "E dinheiro?", "Corta-se aqui, corta-se ali." E ela´é que é a prejudicada porque não tem dinheiro para calçado, para vestir, para ir ao cabeleireiro, para poder comprar um microndas. Só porque eu quero um carro. Em vez de se comprar um carrito, quer-se um carro maior. Não pode ser assim. Primeiro conversa-se "É preciso um carro. Agora vamos ver se temos condições para ele, não é só cortar a torto e a direito." Portanto,  não podemos continuar naquela...
@@ -309,13 +309,13 @@ Relativamente ao tempos da tropa, primeiro estive nas Caldas da Rainha, estive e
 Lembro-me de alguns episódios engraçados do tempo que estava na tropa, por exemplo: nós tínhamos bastantes exercícios  físicos de corrida. Primeiro era passar o dia inteiro com uma metralhadora de 7kg em cima de nós, ou dependurada no braço ou então à tricote. Depois eu, a partir de uma certa idade, comecei a ter um problema na perna esquerda, na zona do joelho esquerdo, então havia exercícios, como por exemplo, de salto, que eu, devido à minha limitação física, não conseguia fazer. Mas lembro-me que nós tínhamos um exercício de corrida em que depois tínhamos uns obstáculos, um dos obstáculos era um grande buraco no chão, mas com uma amplitude de mais de 2 metros, eu não conseguia saltar aquilo de maneira nenhuma. Acontece que eram  as provas do tempo de recruta. Lembro-me de antes de fazer a prova ver aquilo e dizer:
 
 
-- "Bem, eu não vou conseguir saltar aquilo. O que é que eu vou fazer quando lá chegar?"
+-"Bem, eu não vou conseguir saltar aquilo. O que é que eu vou fazer quando lá chegar?"
 
 
 Pronto, comecei a correr e fiz a corrida no meu ritmo, no ritmo que conseguia aguentar, e quando cheguei à beira daquele obstáculo comecei a abrandar e o comandante da minha companhia, que sabia perfeitamente das limitações que eu tinha, gritou muito alto para mim:
 
 
-- "Salte lá para dentro."
+-"Salte lá para dentro."
 
 
 E eu saltei para dentro do buraco. Depois tiraram-me de lá. Portanto era uma coisa que eu não ia conseguir fazer, eles sabiam perfeitamente que eu não fazia.
@@ -357,22 +357,22 @@ Os militares não tinham actividades com a comunidade local, porque havia muita 
 Nessa altura as pessoas viviam de subsistência pura e simples. À parte de uma certa classe, já mais evoluída, a maior parte das pessoas não tinham cultura, não tinham instrução, não tinham nada. Quer dizer não tinham acesso a jornais, dedicavam-se à agricultura de subsistência, à criação do gadozinho, à "machamba" deles. O campinho que eles tinham à volta de casa era a "machamba". Era curioso, raparigas pretas com aqueles penteados que parecem rectângulozinhos. Eles chamavam a esses penteados a "machanba". Era tal e qual como eles faziam nos campos, que tinham à volta de casa. Era esse o tipo de vida que eles tinham.
 
 
-Quanto ao meu regresso de Moçambique, depois passado talvez meio ano deu-se o 25 de Abril, e a partir daí nós ficamos um bocado ao Deus dará, nem sabíamos o que é que eles nos iam fazer, se nos iam mandar embora, se nos iam deixar lá ficar sozinhos. Como gostava muito daquela terra, de Moçambique, decidi lá ficar, também devido às minhas características, à minha vontade de ajudar. Isto foi mais ou menos em Maio de 1975. Não ficou lá tropa nenhuma. Eu fiquei lá porque uns dias antes da data que tinha marcada para vir embora, porque não tinha outra alternativa, ouvi um anúncio na rádio a pedir professores para darem aulas de Electricidade, Físico- Química, que eram matérias relacionadas com aquilo que eu sabia. Eles pediam professores para os primeiros anos do Ensino Secundário. Eu disse assim:
+Quanto ao meu regresso de Moçambique, depois passado talvez meio ano deu-se o 25 de Abril, e a partir daí nós ficamos um bocado ao Deus dará, nem sabíamos o que é que eles nos iam fazer, se nos iam mandar embora, se nos iam deixar lá ficar sozinhos. Como gostava muito daquela terra, de Moçambique, decidi lá ficar, também devido às minhas características, à minha vontade de ajudar. Isto foi mais ou menos em Maio de 1975. Não ficou lá tropa nenhuma. Eu fiquei lá porque uns dias antes da data que tinha marcada para vir embora, porque não tinha outra alternativa, ouvi um anúncio na rádio a pedir professores para darem aulas de Electricidade, Físico-Química, que eram matérias relacionadas com aquilo que eu sabia. Eles pediam professores para os primeiros anos do Ensino Secundário. Eu disse assim:
 
 
-- "Ó pá, olha uma oportunidade para eu ficar aqui."
+-"Ó pá, olha uma oportunidade para eu ficar aqui."
 
 
 Aliás, eu sabia que em Portugal estava tudo de pernas para o ar. A partir do 25 de Abril de 1974 foi um pandemónio. Então o ano de 1975! Eu sabia disso porque o meu pai me dizia nas cartas as dificuldades que tinha. O meu pai chegou a passar amigos dele a monte para saírem do país porque eram apelidados fascistas. No meio daquela confusão, disse assim:
 
 
-- "Eis uma oportunidade para eu ficar aqui."
+-"Eis uma oportunidade para eu ficar aqui."
 
 
 Concorri, eles aceitaram e disse:
 
 
-- "Já não vou mais para Portugal. Fico cá."
+-"Já não vou mais para Portugal. Fico cá."
 
 
 A escola em que trabalhei era em Nampula. A tropa, a partir de Setembro de 1974, foi desactivada em Vila Cabral, e nós viemos todos para Nampula, que era o centro onde estava o quartel geral. Dali depois veio tudo embora. Eu acabei por ficar em Nampula mais uns tempos. Depois acabei por arranjar um apartamento para mim. Estava lá eu sozinho. Só que a independência de Moçambique foi em Junho, na altura do S. João, em Junho de 1975. A partir daí eu passei a ser estrangeiro em Moçambique porque eu era português. Até ali eu estava numa terra que pertencia a Portugal, depois a partir daquela altura passei a ser estrangeiro. E eu lembro-me que na noite da independência, dia 25 de Junho, e na noite de 24 para 25 de Junho, já eu não tinha nada a ver com a tropa, a tropa portuguesa já tinha deixado de existir, mas eles sabiam que eu tinha sido da "Xeque" que eu era militar e que estava metido nas transmissões, nos códigos, e meteu-se-lhes na cabeça... eu sei que passei a noite de 24 para 25 com dois gajos, lá dentro de minha casa, de metralhadora em punho que não me deixavam sair para lado nenhum. A partir daí eles começaram a andar um bocado em cima de mim. Embora, eu como sempre fazia ia de casa à escola, dava as aulas que tinha a dar, voltava para casa e pouco mais saía.
@@ -387,13 +387,13 @@ Eu sei que vim de lá em Dezembro, vim em princípio passar férias, aqui a Potu
 O dia 8 de Dezembro era um domingo. Bem mas, então, eu cheguei cá e trazia uma infecção, uma doença de pele, a pele saía-me toda aos bocados por falta de vitaminas da carne, do peixe, dos ovos, dos legumes frescos porque a única coisa que havia para comer era conservas e leite condensado, porque nem sequer leite fresco havia. Havia conservas tipo rações de combate, que ficaram lá da tropa, eram assim três rações de combate para a semana inteira. Era fominha daquela valente. Eu cheguei cá, a minha mãe ia-lhe dando um ataque quando me viu.
 
 
--  "Ei como tu vens!!!"
+- "Ei como tu vens!!!"
 
 
 Eu vinha com sapatos desapertados porque não conseguia meter os pés lá dentro, estava tudo em ferida. Depois pronto, cheguei aqui, comecei a ser tratado. Lembro-me do médico que me tratou o Dr. Sousa Bastos, que é muito conhecido como médico da pele aqui em Braga. Pronto, de maneira que eu vinha com 30 dias de licença, com viagem de ida e volta, da maneira que eu cheguei cá, os meus pais  mal me viram disseram: -
 
 
-- "Acabou, já não vais mais."
+-"Acabou, já não vais mais."
 
 
 E acabou. Comecei a  trabalhar em Janeiro de 1977 nos Serviços Médico Sociais aqui de Braga. Estive desde Janeiro de 1977 a Fevereiro de 1982, até ao dia 12 de Fevereiro, a trabalhar nos Serviços Médico Sociais. No dia 15 de Fevereiro de 1982 vim para a Universidade do Minho, para o Centro de Informática.
@@ -407,13 +407,13 @@ TAG: **episodio**
 Lembro-me de alguns episódios engraçados do tempo que estava na tropa, por exemplo: nós tínhamos bastantes exercícios  físicos de corrida. Primeiro era passar o dia inteiro com uma metralhadora de 7kg em cima de nós, ou dependurada no braço ou então à tricote. Depois eu, a partir de uma certa idade, comecei a ter um problema na perna esquerda, na zona do joelho esquerdo, então havia exercícios, como por exemplo, de salto, que eu, devido à minha limitação física, não conseguia fazer. Mas lembro-me que nós tínhamos um exercício de corrida em que depois tínhamos uns obstáculos, um dos obstáculos era um grande buraco no chão, mas com uma amplitude de mais de 2 metros, eu não conseguia saltar aquilo de maneira nenhuma. Acontece que eram  as provas do tempo de recruta. Lembro-me de antes de fazer a prova ver aquilo e dizer:
 
 
-- "Bem, eu não vou conseguir saltar aquilo. O que é que eu vou fazer quando lá chegar?"
+-"Bem, eu não vou conseguir saltar aquilo. O que é que eu vou fazer quando lá chegar?"
 
 
 Pronto, comecei a correr e fiz a corrida no meu ritmo, no ritmo que conseguia aguentar, e quando cheguei à beira daquele obstáculo comecei a abrandar e o comandante da minha companhia, que sabia perfeitamente das limitações que eu tinha, gritou muito alto para mim:
 
 
-- "Salte lá para dentro."
+-"Salte lá para dentro."
 
 
 E eu saltei para dentro do buraco. Depois tiraram-me de lá. Portanto era uma coisa que eu não ia conseguir fazer, eles sabiam perfeitamente que eu não fazia.
@@ -439,7 +439,7 @@ O horário de funcionamento era durante todo o dia. Nós, naquela altura, estáv
 Os funcionários que faziam os turnos eram eu e o Quintas. Éramos os dois responsáveis pelo CI. O outro nosso colega, que foi admitido ao mesmo tempo que nós, só se juntou a nós a partir de Outubro/Novembro de 1982, que foi a altura em que veio o primeiro computador da "Data General", já naquelas intalações, na Gulbenkian. Passámos para lá, mas isso foi só em Outubro. Em 1982, a Universidade concentrava-se na D.Pedro V, porque só ali  havia os pavilhões, depois havia também umas salas cá para baixo, para a Abade Loureiro, mas eram poucas. Saímos de D.Pedro V em Outubro de 1982, fomos para trás, para a Gulbenkian, que tinha boas instalações. Tinha uma sala grande com bastantes postos de trabalho para os alunos. O computador era uma coisa enorme, embora fosse um "micro computador gigante". Eu lembro-me que aí sim houve aventuras daquelas, por exemplo, eu estar a fazer o turno da noite, então nessa altura nós começámos a trabalhar até à meia-noite e fazíamos turnos das 8 da manhã até à meia-noite. Então o terceiro elemento começou a trabalhar connosco, fazíamos três turnos. E à meia-noite era hora de fechar, mas lembro-me de muitas noites que eu passei lá, que saía de lá às 3h30, 4h da manhã, porque precisamente nesse ano, e a partir desse ano, o curso de Sistemas Informática teve um grande incremento, houve uma entrada de muitos alunos. Também porque, a partir daí, as condições de acesso ao computador foram diferentes, porque havia muitos postos de trabalho, só que o computador, coitadinho, despachava um de cada vez. De maneira que eu lembro-me de aventuras como a de estarem 20 alunos a trabalharem ao mesmo tempo. Havia 20 terminais mas estavam todos ligados ao mesmo computador, que era um micro computador  gigante. E era assim, o aluno precisava de ver, fazia o trabalho, totalmente diferente do que é agora,  portanto, escrevia  o trabalho, depois tinha que fazer a compilação e a linkagem, para ver se o programa tinha erros de sintaxe e se estava a correr bem. E então, esse trabalho de compilação e linkagem tinha que ser um de cada vez. Portanto eu estava lá dentro a coordenar e dizia assim:
 
 
-- "Ó pá, agora vocês param todos para se pôr a andar o daquele. Senão não anda ninguém."
+-"Ó pá, agora vocês param todos para se pôr a andar o daquele. Senão não anda ninguém."
 
 
 Só andava um. Portanto para correr um trabalho os outros tinham que parar. A trabalheira que aquilo dava! Mas foram anos bons, muito bons, muito gratificantes. Eu tenho grandes amigos meus, daqueles que eu chamo hoje "os meus rapazes" e as "minhas meninas", que já são engenheiros desse tempo, e tenho grandes amigos com quem passei este tipo de episódios, neste tipo de colaboração.
@@ -460,7 +460,7 @@ Recordo-me de tantos episódios. Eu tenho bastantes coisas que eles me oferecera
 Estivemos 10 anos nas instalações na Gulbenkian. Só ao fim de 10 anos é que fomos para Gualtar, em 1992. Em Gualtar houve bastante evolução ao nível dos sistemas. A partir de 87/88 começámos a ter essa primeira máquina, o micro computador gigante. Teve que vir uma grua momumental, que veio dos estaleiros de Matosinhos de propósito, para o colocar, para o meter pela janela dentro. Foi metido pela janela e não pela porta porque não cabia. Não havia maneira nenhuma de fazê-lo subir as escadas, nem pensar nisso. Foi transportado num camião enorme. Veio de Lisboa, da sede da "Data General", que é ainda hoje a firma dos sistemas grandes que nós temos aqui, que hoje em dia já não são nada, são sistemas grandes que têm uma quarta parte do tamanho que tinha o outro, que era uma coisa descomunal. Quer dizer, depois tinha o computador que era uma coisa enormíssima, quer dizer do tamanho de um armário. Tinha duas coisas: onde estavam dois discos amovíveis, à parte. Achei curioso, uma das coisas engraçadas, havia lá uns miúdos que moravam na Gulbenkian, porque aquilo era um prédio de habitação, que foram ver aquelas coisas e disseram:
 
 
-- "Eh, que máquinas de lavar bonitas. Que lindas máquinas de lavar."
+-"Eh, que máquinas de lavar bonitas. Que lindas máquinas de lavar."
 
 
 Eles pensavam que aquilo era uma lavandaria. Foram bons tempos, tempos em que a gente fez de tudo: fez de mulher de limpeza, fez de guarda nocturno, eu fiz de tudo. No Centro de Informática fiz de tudo.
@@ -484,7 +484,7 @@ Relativamente ao meu quotidiano na Gulbenkian, era eu que praticamente fazia sem
 Entrava às 18h/18h30, e como lhe disse à um bocado saía às 3/3h30 da manhã. Trabalhar no duro. Era na altura que o computador exigia a nossa presença ali, em cima dele. Até quanto mais não seja  por causa daquela que lhe contei anteriormente, em que dizia:
 
 
-- "Ó pá, para aí todos, que agora põe-se este a andar."
+-"Ó pá, para aí todos, que agora põe-se este a andar."
 
 
 Então era preciso fazer ali um truque para o processo daquele andar mais depressa e o dos outros ficar sem "stand-by", depois quando aquele acabava, ficava ele em "stand-by" e ia outro qualquer. Ia um de cada vez. Cheguei a passar lá muitas noites até às 3h da manhã para facilitar a vida aos alunos.
@@ -505,7 +505,7 @@ Gosto do que faço, sempre gostei. A Informática foi uma coisa que me cativou, 
 Eu lembro-me de uma das primeiras definições que me deram do que é um computador: "um computador é uma máquina que comete erros a grande velocidade." Por exemplo, basta-lhe dizer que 2x2=5 e ele partindo deste princípio faz as contas todas erradas. Faz a grande velocidade, mas faz tudo mal. E foi uma coisa que sempre me fascinou. Eu lembro-me que nos primeiros tempos em que eu vim para a D.Pedro V, tínhamos esse tal computadorzinho, o grande. Comecei a fazer uns programitas. O meu pai tinha a livraria e disse-lhe assim:
 
 
--  "Deixa-me fazer uns programitas para eles fazerem os vencimentos do pessoal, organização de ficheiros para stock."
+- "Deixa-me fazer uns programitas para eles fazerem os vencimentos do pessoal, organização de ficheiros para stock."
 
 
 Assim na brincadeira fui fazendo, porque eu gostava de fazer, punha aquilo a funcionar e depois fazia experiências, e aquilo funcionava na maior. É evidente que nunca foi uma coisa que foi adoptada pelo meu pai, porque eles não tinham computador, faziam tudo à mão. Antigamente era tudo feito à mão. Havia máquinas daquelas de contabilidade, mas que ainda não eram nada de computador, porque não havia dinheiro para isso, o material era muito caro nessa altura. Mas foi uma coisa que eu sempre gostei.
@@ -583,31 +583,31 @@ Para lhe dizer quais são as minhas maiores preocupações vou usar uma frase da
 Eu posso-lhe contar algumas coisas que me aconteceram. Por exemplo, há uns anos, eu lembro-me que estava em casa e tinha para lá umas lâmpadas que estavam fundidas,  e então disse assim: "Bem, vou ali a uma loja e vou comprar as lâmpadas, trazer para casa e arranjar isto." Tinha lá um interruptor avariado e eu tinha que comprar umas coisas para substituir umas peças. Então saí de casa e fui à loja para comprar esse material que me fazia falta. Então cheguei à loja e passado um bocado entrou uma senhora de idade, muito aflita, porque tinha ficado sem luz em casa:
 
 
--  "Ai, eu vinha cá porque fiquei sem luz em casa, não tenho luz no meu quarto, tenho que me deitar às escuras. O rádio não toca. Precisava que um dos senhores electricistas fosse lá a minha casa ver o que se passa."
+- "Ai, eu vinha cá porque fiquei sem luz em casa, não tenho luz no meu quarto, tenho que me deitar às escuras. O rádio não toca. Precisava que um dos senhores electricistas fosse lá a minha casa ver o que se passa."
 
 
 O senhor da loja disse:
 
 
-- "Ó minha senhora, mas nós agora não temos hipótese. Hoje não temos hipótese de ir ver o que se passa."
+-"Ó minha senhora, mas nós agora não temos hipótese. Hoje não temos hipótese de ir ver o que se passa."
 
 
 Naquela altura disse assim:
 
 
-- "Bem, eu não percebo grande coisa de electricidade, mas vou tentar resolver o problema à senhora."
+-"Bem, eu não percebo grande coisa de electricidade, mas vou tentar resolver o problema à senhora."
 
 
 E falei com a senhora:
 
 
-- "Olhe, eu não percebo grande coisa de electricidade, mas  posso ir lá a sua casa ver o que se passa porque isso deve ser algum problema nos fusíveis ou qualquer coisa do género."
+-"Olhe, eu não percebo grande coisa de electricidade, mas  posso ir lá a sua casa ver o que se passa porque isso deve ser algum problema nos fusíveis ou qualquer coisa do género."
 
 
-- "Ah sim! Era uma grande favor que o senhor me fazia."
+-"Ah sim! Era uma grande favor que o senhor me fazia."
 
 
-- "Vamos lá, então."
+-"Vamos lá, então."
 
 
 Fui a casa da senhora e consegui resolver o problema, a senhora ficou... Oi Jesus! Foi uma alegria. E era a coisa mais simples do mundo resolver aquilo. O problema é que ela se fosse lá um electricista resolvia o problema e ia pagar um dinheirão. Eu fui lá e resolvi o problema à senhora. Mas ao resolver o problema à senhora fiquei sem poder resolver o meu. Eu assim "E agora? Já não vou poder resolver o problema!". Era um sábado e a loja de tarde estava fechada, e eu já não tinha hipóteses de resolver o meu problema. Quando cheguei a casa tinha o problema resolvido. Tinha lá estado uma pessoa de família que me tinha resolvido o problema. Portanto,  isto só prova aquilo que Deus diz no Envangelho "Dai e recebereis".
@@ -616,13 +616,13 @@ Fui a casa da senhora e consegui resolver o problema, a senhora ficou... Oi Jesu
 Há dias faleceu o meu sogro, e era preciso tratar dos papéis para a pensão de sobrevivência da viúva. Então, andei eu com o carro de um lado para o outro, para aqui e para acolá, a tratar da papelada para a senhora. Houve um dia que ela se virou para mim e disse:
 
 
-- "Ó Zé, obrigada e Deus te pague."
+-"Ó Zé, obrigada e Deus te pague."
 
 
 E disse-lhe eu assim:
 
 
-- "Pois podes ter a certeza que paga."
+-"Pois podes ter a certeza que paga."
 
 
 Passado uma semana recebi um cheque a devolver uns descontos de um dinheiro que eu tinha descontado a mais, há uma data de anos atrás. Digo eu assim: "Estás a ver, paga ou não paga?!". Portanto, tenho esta predisposição para estar ao serviço do outro desinteressadamente. Dar com a mão esquerda sem a direita saber, porque há muita gente que dá muita coisa, mas quer que apareça na primeira página do jornal, "Foi fulano de tal  que deu e que fez e que aconteceu". Dar para aparecer nas páginas dos jornais não tem grande valor.
@@ -636,31 +636,31 @@ TAG: **episodio**
 Eu posso-lhe contar algumas coisas que me aconteceram. Por exemplo, há uns anos, eu lembro-me que estava em casa e tinha para lá umas lâmpadas que estavam fundidas,  e então disse assim: "Bem, vou ali a uma loja e vou comprar as lâmpadas, trazer para casa e arranjar isto." Tinha lá um interruptor avariado e eu tinha que comprar umas coisas para substituir umas peças. Então saí de casa e fui à loja para comprar esse material que me fazia falta. Então cheguei à loja e passado um bocado entrou uma senhora de idade, muito aflita, porque tinha ficado sem luz em casa:
 
 
--  "Ai, eu vinha cá porque fiquei sem luz em casa, não tenho luz no meu quarto, tenho que me deitar às escuras. O rádio não toca. Precisava que um dos senhores electricistas fosse lá a minha casa ver o que se passa."
+- "Ai, eu vinha cá porque fiquei sem luz em casa, não tenho luz no meu quarto, tenho que me deitar às escuras. O rádio não toca. Precisava que um dos senhores electricistas fosse lá a minha casa ver o que se passa."
 
 
 O senhor da loja disse:
 
 
-- "Ó minha senhora, mas nós agora não temos hipótese. Hoje não temos hipótese de ir ver o que se passa."
+-"Ó minha senhora, mas nós agora não temos hipótese. Hoje não temos hipótese de ir ver o que se passa."
 
 
 Naquela altura disse assim:
 
 
-- "Bem, eu não percebo grande coisa de electricidade, mas vou tentar resolver o problema à senhora."
+-"Bem, eu não percebo grande coisa de electricidade, mas vou tentar resolver o problema à senhora."
 
 
 E falei com a senhora:
 
 
-- "Olhe, eu não percebo grande coisa de electricidade, mas  posso ir lá a sua casa ver o que se passa porque isso deve ser algum problema nos fusíveis ou qualquer coisa do género."
+-"Olhe, eu não percebo grande coisa de electricidade, mas  posso ir lá a sua casa ver o que se passa porque isso deve ser algum problema nos fusíveis ou qualquer coisa do género."
 
 
-- "Ah sim! Era uma grande favor que o senhor me fazia."
+-"Ah sim! Era uma grande favor que o senhor me fazia."
 
 
-- "Vamos lá, então."
+-"Vamos lá, então."
 
 
 Fui a casa da senhora e consegui resolver o problema, a senhora ficou... Oi Jesus! Foi uma alegria. E era a coisa mais simples do mundo resolver aquilo. O problema é que ela se fosse lá um electricista resolvia o problema e ia pagar um dinheirão. Eu fui lá e resolvi o problema à senhora. Mas ao resolver o problema à senhora fiquei sem poder resolver o meu. Eu assim "E agora? Já não vou poder resolver o problema!". Era um sábado e a loja de tarde estava fechada, e eu já não tinha hipóteses de resolver o meu problema. Quando cheguei a casa tinha o problema resolvido. Tinha lá estado uma pessoa de família que me tinha resolvido o problema. Portanto,  isto só prova aquilo que Deus diz no Envangelho "Dai e recebereis".
@@ -682,7 +682,7 @@ Aos fins de semana costumo estar em família, com os amigos, na minha grande fam
 
 TAG: **sonhos**
 
-O meu maior desejo é ver toda a gente em paz. Talvez o meu maior desejo fosse ver a paz no mundo, só que para isso é preciso dar muito. Nós não podemos fazer manifestações a pedir a paz, temos que a construir porque esse é que é o grande problema. A paz tem que ser construída por cada um de nós. E  a grande dificuldade para a paz universal é precisamente o homem ainda não ter percebido que o primeiro obreiro da paz é ele próprio e não as instituições, digamos, os governos que decretam a paz. Se eu não fizer a paz na minha casa com a família, com os filhos, com a mulher, não adianta eu andar para aí com bandeiras a pedir a paz ao governo. Se eu não crio a paz, não deixo de levantar problemazinhos, às vezes, mesquinhices, o puxar a brasa para a minha sardinha, em vez de deixar estar a brasa, dizer assim: - "Pronto, dá para a minha sardinha, mas também dá para a tua. E agora vamos ajeitar a coisa. Dámos a volta às sardinhas e ficam as duas.". Agora se eu quero só para mim e "agora a tua come-a crua" , eu não construo nada. Construo cada vez mais a divisão entre os homens, porque cada vez mais só trato dos meus interesses e não me preocupo com o interesse do próximo. Esse é que é o grande problema.
+O meu maior desejo é ver toda a gente em paz. Talvez o meu maior desejo fosse ver a paz no mundo, só que para isso é preciso dar muito. Nós não podemos fazer manifestações a pedir a paz, temos que a construir porque esse é que é o grande problema. A paz tem que ser construída por cada um de nós. E  a grande dificuldade para a paz universal é precisamente o homem ainda não ter percebido que o primeiro obreiro da paz é ele próprio e não as instituições, digamos, os governos que decretam a paz. Se eu não fizer a paz na minha casa com a família, com os filhos, com a mulher, não adianta eu andar para aí com bandeiras a pedir a paz ao governo. Se eu não crio a paz, não deixo de levantar problemazinhos, às vezes, mesquinhices, o puxar a brasa para a minha sardinha, em vez de deixar estar a brasa, dizer assim: -"Pronto, dá para a minha sardinha, mas também dá para a tua. E agora vamos ajeitar a coisa. Dámos a volta às sardinhas e ficam as duas.". Agora se eu quero só para mim e "agora a tua come-a crua" , eu não construo nada. Construo cada vez mais a divisão entre os homens, porque cada vez mais só trato dos meus interesses e não me preocupo com o interesse do próximo. Esse é que é o grande problema.
 
 
 Não tenho sonhos em termos pessoais, disponho-me a ajudar o mais possível na construção da paz e da harmonia entre os homens, esse sim, poderei dizer que é o meu grande sonho: a construção da paz e da harmonia.
@@ -702,19 +702,19 @@ Ao longo de minha vida não tive decepções. Tive vários percalços na vida ma
 Nós hoje somos muito exibicionistas, gostamos muito de dar nas vistas, gostamos de ser os maiores, se aquele tem eu quero ter maior. Quando não havia de ser assim. Uma das coisas melhores que a vida tem, que a vida proporciona a quem quiser, é precisamente a possibilidade de eu dar uma coisa com a mão direita e de não ficar à espera de receber outra na mão esquerda. Devemos dar por dar e não estar sempre à espera de se ter tudo, de termos aquela "cultura do ter". No movimento em que ando falamos muito nisto: ensina-se a "cultura do dar", que é contraposta à "cultura do ter". Portanto dar um apoio, dar uma ajuda, um simples sorriso, um carinho, uma atenção. Por exemplo, eu lembro-me de há tempos a minha mãe contratar uma empregada nova lá para casa dela. Depois a empregada foi dizer à minha mãe:
 
 
-- "Ai senhora, o seu filho mais velho é muito simpático. Olhe que ninguém me tratou assim como ele me tratou."
+-"Ai senhora, o seu filho mais velho é muito simpático. Olhe que ninguém me tratou assim como ele me tratou."
 
 
 Quer dizer, lá está, é aquela mania que eu tenho: sou superior ao parceiro do lado, mas essa superioridade não se deve manifestar porque, de facto, não o sou. Na medida em que eu sou capaz de ajudar, de procurar resolver o problema de um que é mais pequeno do que eu. Então, essa pessoa fica a dizer assim:
 
 
-- "Eh pá, aquele gajo tem mais do que eu, mas é um gajo porreiro. A gente pode contar com ele."
+-"Eh pá, aquele gajo tem mais do que eu, mas é um gajo porreiro. A gente pode contar com ele."
 
 
 Caso contrário, dizem assim:
 
 
--  "Aquele é maltratante."
+- "Aquele é maltratante."
 
 
 E isto foi sempre o tipo, a maneira como eu encarei, desde sempre, desde pequeno, as relações sociais. O grande mal da humanidade hoje em dia é precisamentes este: é o relacionamento. O problema a  nível mundial na sociedade não é tanto o problema dos ricos e dos pobres, mas é o problema dos ricos que querem ser cada vez mais ricos e que não sabem relacionar-se. Agora com estes problemas da imigração penso muito nos ucranianos e africanos que entram por aqui dentro e nos estão a tirar o trabalho a nós, e aos franceses, na Europa toda. E eu pergunto a mim próprio: "Qual será melhor? Será nós andarmos a gastar dinheiro para impedir que eles entrem cá dentro? Ou seria melhor nós darmos condições de desenvolvimento aos países deles?"
