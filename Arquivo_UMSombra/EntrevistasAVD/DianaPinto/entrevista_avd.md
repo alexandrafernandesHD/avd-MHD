@@ -9,9 +9,11 @@ note: Nelson Martins, estudante de Engenharia Biomédica no seu 5º ano e presid
   
 ---  
   
-<título>Desbravando Horizontes: A Jornada de Nelson Freitas na EpicJúnior</título>  
+Desbravando Horizontes: A Jornada de Nelson Freitas na EpicJúnior
+
 ![Nelson Martins](/Users/dianapinto/Desktop/Entrevista_AVD/WhatsApp Image 2024-05-03 at 00.34.03.jpeg)
-Nesta entrevista exclusiva, mergulhamos na trajetória inspiradora de <entrevistado>Nelson Freitas</entrevistado>, estudante de <curso>Engenharia Biomédica</curso> na <universidade> Universidade do Minho</universidade> e atual <cargo>presidente da EpicJúnior</cargo>. Descobrimos como a EpicJúnior não é apenas uma empresa júnior, mas sim um laboratório dinâmico que prepara os jovens universitários para o mundo profissional, ao mesmo tempo em que estreita laços valiosos entre a academia e o mercado. Nelson compartilha insights sobre liderança, inovação, desafios e recompensas, revelando os planos empolgantes da EpicJúnior para o futuro. A sua jornada é um testemunho vibrante de dedicação, aprendizado constante e visão estratégica para o sucesso coletivo  
+
+Nesta entrevista exclusiva, mergulhamos na trajetória inspiradora de Nelson Freitas, estudante de Engenharia Biomédica na Universidade do Minho e atual presidente da EpicJúnior. Descobrimos como a EpicJúnior não é apenas uma empresa júnior, mas sim um laboratório dinâmico que prepara os jovens universitários para o mundo profissional, ao mesmo tempo em que estreita laços valiosos entre a academia e o mercado. Nelson compartilha insights sobre liderança, inovação, desafios e recompensas, revelando os planos empolgantes da EpicJúnior para o futuro. A sua jornada é um testemunho vibrante de dedicação, aprendizado constante e visão estratégica para o sucesso coletivo  
   
 O meu nome é Nelson Martins, sou estudante de Engenharia Biomédica, sou estudante de mestrado, estou no meu 5º ano, e sou o atual presidente da EPIC Júnior. Júnior empresa da Universidade do Minho.  
   
