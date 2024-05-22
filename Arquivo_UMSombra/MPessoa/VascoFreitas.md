@@ -88,7 +88,7 @@ Eu desembarquei em Lisboa, no dia 11 de  Março de 1975. Foi nesse dia que ocorr
 
 termo: **acontecimento**
 
-onde: **Lisboa **
+onde: **Lisboa**
 
 quando: **1975-03-11**
 
