@@ -2,7 +2,7 @@
  
 interviewee: Maria Cecília Marado Moreira
 interviewer: Sónia Moreira
-job: Chefe de divisão do Centro de Informática - Gualtar
+job: Chefe de divisão do Centro de Informática -Gualtar
 place of birth: Braga
 date of birth: 16/Dezembro/1960
 date: 25/03/2002
@@ -41,7 +41,7 @@ Em relação aos meus avós maternos, a minha avó também morreu quando eu era 
 Pela parte do meu pai, a história é muito complicada porque o meu pai descende de uma família de italianos, os Cottinelli. O meupai chama-se José Moreira Rodrigues, mas não usa o Rodrigues, usaapenas o José Moreira. Ele era gerente da livraria PAX cá emBraga. Por isso é conhecido por José Moreira da PAX. Acontece que Rodrigues é um nome falso. É uma história de família complicada. O avô dele era um dos Cottinelli. Teve um problema qualquer,fugiu, despareceu, ninguém sabia dele. Supunha-se que ele tinha morrido, portanto, depois apareceu com o nome Rodrigues numa aldeia do Norte. Casou-se com a minha bisavó. Estamos a falar do meubisavô, que era uma pessoa bem formada, tocava piano, falavafrancês, começou por ser professor da aldeia. Vieram parar aBraga, não sei bem como. Depois, quando começou a envelhecer, foidando alguns indicadores de que pertencia à família dosCottinelli. O meu pai tinha uma relação muito forte com ele,digamos que ele era a referência cultural do meu pai, pois era umapessoa muito culta. Quando iam ao cinema ver o Leão da Estrela, o avô, de vez em quando, dizia fugazmente, ao aparecer o nome dorealizador Cottinelli Telmo:
 
 
-- "Aquele é teu primo."
+-"Aquele é teu primo."
 
 
 Até que o meu pai começou a desconfiar e quando ele estava quase amorrer acabou por confessar que era da família dos Cottinelli, efoi reconhecido pela irmã, portanto, chegou a estar com ele. O meu pai nunca conseguiu recuperar o nome dos Cottinelli, por isso Rodrigues é um nome falso que ele adoptou do companheiro com quemfugiu. Aquilo deve ter sido uma cena qualquer de boémia, deve ter   acontecido ali algum episódio mais dramático e ele fugiu para   Espanha. Depois para regressar, o companheiro morreu e ele para   regressar adoptou-lhe o nome. O meu pai não conseguiu recuperar o   nome porque havia, entretanto, um tio que já tinha empresas e era   muito complicado. O meu pai era uma pessoa muito pacífica, nunca   quis arranjar problemas com heranças e com coisas desse género,   porque havia também dinheiros e património em jogo. Acabou por desistir. Tenho pena porque, de facto, os   Cottinelli eram uma família interessante. Cottinelli é uma figura   conhecida do Estado Novo, era arquitecto, pintor, músico, etc.
@@ -132,13 +132,13 @@ Eu acompanhava as aulas e tinha a obecesão de preparar sempre a aula anterior. 
 Tanto que eu tirei 20 no exame da quarta classe e foi complicado   porque, naquela altura, eram os professores que iam fazer os   exames, e eles não queriam dar 20. Eu tinha a prova completa, sem   nenhuma falha de vírgulas. Eu lembro-me da minha professora dizer à   minha mãe:
 
 
-- "Eu obriguei-os a dar 20, porque eles não lhe queriam   dar 20, porque nunca deram 20 a ninguém."
+-"Eu obriguei-os a dar 20, porque eles não lhe queriam   dar 20, porque nunca deram 20 a ninguém."
 
 
 Lembro-me de olhar para   ela com muito desprezo e dizer:
 
 
-- "Finalmente reconheceu que eu era   melhor aluna da turma."
+-"Finalmente reconheceu que eu era   melhor aluna da turma."
 
 
 Ela nunca reconheceu isso, arranjava   sempre maneira de haver outra que tinha melhor nota que eu, que era   a preferidinha dela. Portanto, eu nunca fui a melhor aluna, eu   sempre fui e eu sabia que era, mas oficialmente nunca fui, até ao   exame da quarta classe em que eu tirei 20 e a outra tirou 16 ou 17. Mas,   pronto, talvez porque me ficou essa marca, eu tinha sempre aquela   coisa de preparar as aulas e depois dáva-me ao luxo de não estudar   para os teste porque não precisava. Estudar para os testes era   andar a ajudar os outros a tirar dúvidas e explicar-lhes   a matéria.
@@ -162,7 +162,7 @@ Os professores humilhavam os alunos. Aquilo era toda uma vivênca   humilhante, 
 Foi uma opção muito difícil, mas acho que foi a melhor coisa que   fiz na vida. Custou-me muito desistir porque era desistir de uma   vocação. E no meio dessa confusão não sabia o que havia de fazer   porque desisti de um curso e nunca tinha pensado em alternativa. Aquilo era a minha vocação. Então tinha que escolher um   curso e só me vinha à cabeça aquilo que me tinha dito o professor   do propedêutico que dizia:
 
 
-- "Tu vai mas é para Sistemas e   Informática."
+-"Tu vai mas é para Sistemas e   Informática."
 
 
 E, então, foi assim que eu vim parar a Sistemas e   Informática. Portanto, isto dois anos depois de ter entrado para   Medicina, talvez em 1980.
@@ -174,7 +174,7 @@ Eu vinha muito sofrida daquele ambiente todo. Eu detestava os meus   colegas, po
 Eu espero que o curso de Medicina ou Ciências da Saúde, que criaram   aqui na Universidade do Minho, cumpra aquilo que está no plano e   que, de facto, seja um curso diferente, seja um curso moderno e um   curso interessante porque, de facto, aquilo violenta qualquer um. Eu   costumo dizer que não há ninguém que saia dali com a cabeça no   sítio. Quando estava no senado e apresentaram o projecto, eu   disse por brincadeira:
 
 
-- "Finalmente vou acabar o curso de Medicina   aqui na Universidade do Minho!"
+-"Finalmente vou acabar o curso de Medicina   aqui na Universidade do Minho!"
 
 
 Porque, de facto, se o curso   cumprir os objectivos, se o programa for cumprido, eu acho que é um   curso que rompe com muita coisa que está mal no ensino da Medicina,   que é brutal.
@@ -189,7 +189,7 @@ Percebi que isto era um mundo completamente diferente e fui-me   adaptando, embo
 Lembro-me do professor Valença. A primeira aula que tive com o   professor Valença foi uma coisa alucinante. O professor Valença que   me perdoe, que eu tenho imenso respeito e imensa consideração por   ele, como ele sabe, mas a primeira vez que o vi achei que estava no   hospício. Isto foi logo nas primeiras aulas, ainda não conhecia bem   os espaços. Fui parar a uma sala, um sítio estranhíssimo, as   instalações eram péssimas, com muito pouca luz, a gente parecia que   percorríamos uns tunéis e depois íamos lá parar. De repente,   apareceu-me um professor gago que falava e batia com a mão na perna   a gaguejar. Era o professor Valença. O professor Valença é   assim: escrevia no quadro o algoritmo do pneu, e escrevia   "peneu" com "e". Eu estava a alucinar e a dizer:
 
 
-- "Eu vim parar a   uma universidade de malucos, isto é tudo gente maluca. Este homem é   completamente louco.  Onde é que eu estou? Onde é que eu vim   parar?"
+-"Eu vim parar a   uma universidade de malucos, isto é tudo gente maluca. Este homem é   completamente louco.  Onde é que eu estou? Onde é que eu vim   parar?"
 
 
 Lembro-me que a primeira aula que eu tive com o professor   Valença foi uma coisa horrível, um pânico absoluto, porque eu   achava que o homem era louco, ainda por cima com aqueles tiques   todos. Evidentemente que não foram precisas muitas aulas para   perceber que o professor Valença era o meu mestre. Era, de facto, uma   pessoa fantástica, com uma facilidade de comunicação incrível e, de   facto, tornou-se a minha referência na universidade.
@@ -228,7 +228,7 @@ Comigo as aulas são sempre participadas porque eu não deixo muito   que os pro
 O relacionamento entre professores e alunos acho que era bom. Havia   um ali um grupo de privilegiados que tinham muito acesso aos   professores, um acesso quase imediato aos professores. Éramos   muito poucos.
 
 
-Quanto a apoio bibliográfico para as cadeiras de tronco comum:   Físicas, Matemáticas, havia sempre livros recomendados, não me   lembro de haver sebentas. Nas cadeiras de especialidade, os   professores já faziam sebentas. Lembro-me das sebentas do   professor Valença, que as guardo com muito carinho, que eram   escritas à mão por ele, com uma letra pequenina. Ele escrevia os   apontamentos todos à mão e facultava, ia dando as aulas e fazendo   os apontamentos, aquilo era quase ao correr da pena. Eu costumava   dizer que os apontamentos do professor Valença se liam como quem lê   um romance. De facto, ele conseguia transformar aquilo que era   complexo e complicado em coisas simples. Ele simplificava tudo. Eu   acho que a Informática é um mito, toda a gente tem a mania que   Informática é complicada e o professor Valença mostrava- nos o   contrário. Ele desmistificava aquilo que parecia, à partida, muito   complicado. Tinha uma capacidade fantástica para ensinar. Era. de   facto, um professor de referência. O professor Mário Martins   também fazia sebentas, mas eu não gostava tanto porque eram   muito... e as do professor Valença era ao correr da pena, portanto,   era um discurso. As do professor Mário Martins era mais género guia   e eu já não gostava tanto. Mas era o nosso material de estudo, mais   os apontamentos que tirávamos nas aulas.
+Quanto a apoio bibliográfico para as cadeiras de tronco comum:   Físicas, Matemáticas, havia sempre livros recomendados, não me   lembro de haver sebentas. Nas cadeiras de especialidade, os   professores já faziam sebentas. Lembro-me das sebentas do   professor Valença, que as guardo com muito carinho, que eram   escritas à mão por ele, com uma letra pequenina. Ele escrevia os   apontamentos todos à mão e facultava, ia dando as aulas e fazendo   os apontamentos, aquilo era quase ao correr da pena. Eu costumava   dizer que os apontamentos do professor Valença se liam como quem lê   um romance. De facto, ele conseguia transformar aquilo que era   complexo e complicado em coisas simples. Ele simplificava tudo. Eu   acho que a Informática é um mito, toda a gente tem a mania que   Informática é complicada e o professor Valença mostrava-nos o   contrário. Ele desmistificava aquilo que parecia, à partida, muito   complicado. Tinha uma capacidade fantástica para ensinar. Era. de   facto, um professor de referência. O professor Mário Martins   também fazia sebentas, mas eu não gostava tanto porque eram   muito... e as do professor Valença era ao correr da pena, portanto,   era um discurso. As do professor Mário Martins era mais género guia   e eu já não gostava tanto. Mas era o nosso material de estudo, mais   os apontamentos que tirávamos nas aulas.
 
 
 Demorei muito tempo a acabar o curso porque parei dois   anos. Depois encontrei uma turma fantástica, que é a turma da Olga   Pacheco, a Alexandra, enfim, gente fantástica. Eu entrei na   especialidade, de especificação formal com o professor Zé   Nuno. Portanto, tínhamos um grupo fantástico. Era um grupo de gente   muito boa, com muito nível, não só bons alunos, mas uma maneira de   estar muito interessante. Eu acho que aí encontrei pessoas com quem   me identificava, porque eles eram todos muito bons. Eu estava   habituada a ser sempre a melhor da turma e, de facto, aí encontrei,   embora na universidade nunca tenha sido a melhor da turma, houve   sempre alunos melhores que eu. Na primeira turma com o Murta e o   Abílio, que eram aqueles que eu considerava muito bons... Essa   turma era, de facto, uma turma fantástica, com um nível fantástico   e depois gente muito boa, muito porreira, por quem eu tenho um   carinho muito grande. E eu estava com muito medo porque achava que   havia ali uma diferença de gerações muito grande, estava com medo   de não me enquadrar, mas, de facto, enquadrei-me muito bem. Com a   Nani e muita gente que eu já não vejo há muitos anos, tenho muita   pena.
@@ -240,7 +240,7 @@ Tenho muitos episódios engraçados para contar. Acho que não tive   propriamen
 Lembro-me que houve uma altura, depois do 25 de Abril, que o PCP   colocou a questão do aborto e esse professor era da UDP. Portanto,   de vez em quando introduzia assim umas questões políticas na aula e   falava da liberalização do aborto:
 
 
-- "E pelo menos deveria-se   discriminalizar o aborto quando há casos de anomalia e   deficiências físicas ou psíquicas."
+-"E pelo menos deveria-se   discriminalizar o aborto quando há casos de anomalia e   deficiências físicas ou psíquicas."
 
 
 E eu lembro-me de o ter   interrompido para lhe dizer:
@@ -255,7 +255,7 @@ Mas foi, de facto, uma galhofa fantástica e foi a anedota do ano porque   chame
 Depois havia muitos episódios engraçados, porque eu tinha um cão,   um serra da estrela enorme. Recordo-me de muitos episódios porque o   cão andava sempre atrás de mim e havia coisas muito engraçadas   porque o cão entrava nas aulas. O cão entrava pela sala dentro, procurava-me e eu já tinha um lugar fixo para o cão se   poder sentar ao lado. Havia alguns episódios engraçados porque   havia cadeiras de que eu depois desistia e deixava de ir às aulas e o   cão continuava a ir às aulas. Um dia a professora virou-se e disse:
 
 
-- "O cão é mais assíduo que a dona."
+-"O cão é mais assíduo que a dona."
 
 
 Eu faltava às aulas e o cão, de   vez em quando, andava à minha procura e ia lá.
@@ -325,7 +325,7 @@ TAG: **episodio**
 Depois havia muitos episódios engraçados, porque eu tinha um cão,   um serra da estrela enorme. Recordo-me de muitos episódios porque o   cão andava sempre atrás de mim e havia coisas muito engraçadas   porque o cão entrava nas aulas. O cão entrava pela sala dentro, procurava-me e eu já tinha um lugar fixo para o cão se   poder sentar ao lado. Havia alguns episódios engraçados porque   havia cadeiras de que eu depois desistia e deixava de ir às aulas e o   cão continuava a ir às aulas. Um dia a professora virou-se e disse:
 
 
-- "O cão é mais assíduo que a dona."
+-"O cão é mais assíduo que a dona."
 
 
 Eu faltava às aulas e o cão, de   vez em quando, andava à minha procura e ia lá.
