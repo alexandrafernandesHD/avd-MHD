@@ -7,7 +7,7 @@ title:  Yôga Antigo
 role:  Mestre de Yôga
 interviewer:  UMdicas
 ---
- Yôga Antigo: forte, bonito e eficiente.
+ **Yôga Antigo: forte, bonito e eficiente.**
 
  O nosso entrevistado é o  Mestre DeRose  (*), fundador da Universidade de Yôga, Presidente da primeira Confederação Nacional de Yôga e introdutor do Yôga nas Universidades Federais, Estaduais e Católicas de praticamente todo o país.
 
