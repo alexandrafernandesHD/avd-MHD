@@ -9,7 +9,9 @@ interviewee:  A ELSA (European Law Students Association)
 role:  ELSA UMinho
 interviewer:  Michael Ribeiro
 ---
- ELSA UMinho  a sua expansão e objectivos Em 2000, um grupo de estudantes juntou-se e formou a comissão instaladora da ELSA UMinho, sendo mais tarde (2002) reconhecida como núcleo efectivo da ELSA Portugal. Em 2003 este grupo notarialmente constituído, passou a ter personalidade jurídica, e, consequentemente, um maior grau de autonomia. A associação vai neste momento na sua VIII direcção e segundo Pedro Gonçalves, finalista do curso de Direito, “este um é ano lectivo decisivo para a ELSA UMinho, onde pretendemos ampliar e diversificar o âmbito das nossas actividades, de maneira a que a ELSA seja definitivamente reconhecida como uma das melhores associações desta academia”.
+ **ELSA UMinho  a sua expansão e objectivos**
+ 
+Em 2000, um grupo de estudantes juntou-se e formou a comissão instaladora da ELSA UMinho, sendo mais tarde (2002) reconhecida como núcleo efectivo da ELSA Portugal. Em 2003 este grupo notarialmente constituído, passou a ter personalidade jurídica, e, consequentemente, um maior grau de autonomia. A associação vai neste momento na sua VIII direcção e segundo Pedro Gonçalves, finalista do curso de Direito, “este um é ano lectivo decisivo para a ELSA UMinho, onde pretendemos ampliar e diversificar o âmbito das nossas actividades, de maneira a que a ELSA seja definitivamente reconhecida como uma das melhores associações desta academia”.
 
 **UMdicas: O que é a ELSA?**
 
