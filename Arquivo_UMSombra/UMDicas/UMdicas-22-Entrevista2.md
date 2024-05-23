@@ -7,7 +7,7 @@ title:  “Recolocar a RUM no mercado,
 role:  Novo Administrador Delegado da RUM
 interviewer:  UMdicas
 ---
- “Recolocar a RUM no mercado, lutar por audiências”
+ **“Recolocar a RUM no mercado, lutar por audiências”**
 
  O Novo Administrador Delegado da RUMfala-nos abertamente da sua nomeação para o cargo, bem como o que poderemos contar para o futuro da Rádio Universitária. Neste sentido, parece que a breve prazo haverá novidades no que concerne à estratégia da RUM, no sentido de sair do marasmo que parecia destinada nos últimos tempos.
 
@@ -61,9 +61,7 @@ interviewer:  UMdicas
 
  O que, provavelmente, poderá acontecer no futuro, sem entrar em rotura com o passado da rádio e mantendo o espírito da RUM, serão algumas alterações que terão de ser feitas no sentido de captar mais audiências. A rádio neste momento, poderá dizer-se, é quase toda ela de programas de Autor. O que pretendo é a realização nos horários nobres da manhã e final de tarde, de uma linha bem definida e coerente. Não vamos estar a ir para modelos como os da Rádio Comercial, Antena 3  ou RFM, temos a nossa forma de estar no mercado e vamos continuar assim, embora haja algumas alterações mas dentro daquilo que é o espírito da nossa Rádio Universitária do Minho. Estamos a preparar uma nova grelha para Março, ainda em fase de discussão interna, que trará boas novidades. Posso avançar que a RUM será mais interactiva com os ouvintes e apostará cada vez mais em eventos próprios, sozinha ou em parceria, fora dos estúdios.
 
- UMd UMd A rádio parece que não tem “imagem” junto do o curso de CS.
-
-**público. Há alguma estratégia para ser alterado este ponto negativo?**
+ **UMd A rádio parece que não tem “imagem” junto do o curso de público. Há alguma estratégia para ser alterado este ponto negativo?**
 
  VL Vai coincidir com a mudança da grelha uma nova  “imagem” associada à rádio.
 
@@ -83,9 +81,7 @@ interviewer:  UMdicas
 
  O que temos que fazer é conseguir essas receitas para cobrir o défice de funcionamento e os apoios da AAUM e Universidade do Minho deverão ser canalizados para perspectivar o futuro. Isto porque, se tudo correr bem, no horizonte dos próximos três anos, teremos que mudar de instalações, quando a nova sede da AAUM estiver pronta, é há uma série de material novo que temos que adquirir, por isso esses apoios deverão estar destinados para isso. O nosso material tem mais de uma década, na altura em que foi adquirido era de ponta e agora não o é e dá muitos problemas, por isso temos que investir, reequipar a rádio, para programá-la para os próximos 10 ou 20 anos. É para isto que os apoios da AAUM e da UM se devem destinar.
 
- UMd Em relação ao Curso de Comunicação Social.
-
-**A UM tem este curso que pode ser um “balão de oxigénio” em termos de recursos humanos. Há alguma estratégia prevista com o departamento deste curso?**
+ **UMd Em relação ao Curso de Comunicação Social.A UM tem este curso que pode ser um “balão de oxigénio” em termos de recursos humanos. Há alguma estratégia prevista com o departamento deste curso?**
 
  VL Há e deverá ser cada vez mais forte e isto porque é bom para a rádio e para o curso de Comunicação Social (CS). É bom para a RUM porque tem recursos humanos que podem ser aproveitados e é bom para CS que tem na rádio um laboratório prático para os estudantes. Sou da opinião que isto também serve para o «Semanário Académico». Eu considero que este tipo de política é boa para as duas partes. A ideia é estreitar mais relações com o departamento de Ciências de Comunicação da UM, quer ao nível de docentes, quer ao nível de estudantes. Obviamente que tudo isto será mais fácil quando a rádio estiver mais próxima da Universidade, como se prevê nos próximos três anos.
 
