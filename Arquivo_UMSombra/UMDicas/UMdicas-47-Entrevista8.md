@@ -9,7 +9,9 @@ interviewee:  A Azeituna Tuna de Ciências da Universidade do Minho
 role:  Azeituna
 interviewer:  Michael Ribeiro
 ---
- Uma viagem à história da Azeituna A Azeituna Tuna de Ciências da Universidade do Minho, dá-nos a conhecer o seu historial, as suas raízes e os seus sonhos. Numa pequena viagem na sua história, e no Celta Certame Lusitano de Tunas Académicas, organizado pela Azeituna, podemos conhecer e sentir o espírito que reina em cada uma das suas actuações e o que é fazer parte de uma das Tunas mais emblemáticas da Academia minhota.
+ **Uma viagem à história da Azeituna**
+ 
+A Azeituna Tuna de Ciências da Universidade do Minho, dá-nos a conhecer o seu historial, as suas raízes e os seus sonhos. Numa pequena viagem na sua história, e no Celta Certame Lusitano de Tunas Académicas, organizado pela Azeituna, podemos conhecer e sentir o espírito que reina em cada uma das suas actuações e o que é fazer parte de uma das Tunas mais emblemáticas da Academia minhota.
 
 **Onde, quando e porquê o nascimento da Azeituna Tuna de Ciências da Universidade do Minho?**
 
