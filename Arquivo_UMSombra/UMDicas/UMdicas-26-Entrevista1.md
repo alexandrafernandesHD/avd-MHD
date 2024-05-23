@@ -9,9 +9,9 @@ interviewee:  Roque Teixeira
 role:  Presidente da AAUM
 interviewer:   Nuno Gouveia
 ---
- AS MONUMENTAIS FESTAS DO ENTERRO DA GATA 
+ **AS MONUMENTAIS FESTAS DO ENTERRO DA GATA** 
 
- “ANIMAÇÃO, PROFISSIONALISMO E MELHORES CONDIÇÕES”
+ **“ANIMAÇÃO, PROFISSIONALISMO E MELHORES CONDIÇÕES”**
 
  O Enterro da Gata  é o maior evento da nossa academia. A escassas duas semanas do seu início, fomos ouvir Roque Teixeira, Presidente da AAUM, para saber se está tudo pronto, e saber algumas das novidades deste ano.
 
