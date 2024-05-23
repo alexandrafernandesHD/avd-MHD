@@ -1,5 +1,5 @@
 ### Arquivo da Entrevista a Deborah Perrota de Andrade (por Danielle Assis)
-Esta pasta é composta por 9 elementos:
+Esta pasta contém 9 elementos:
 
 Readme
 
