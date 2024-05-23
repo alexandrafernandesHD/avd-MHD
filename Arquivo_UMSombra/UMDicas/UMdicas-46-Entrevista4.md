@@ -9,7 +9,7 @@ interviewee:  António Freitas
 role:  Magistar Tunae da Afonsina
 interviewer:  Helder Miranda
 ---
- Entrevista com a Afonsina “O nosso maior desejo é que os nossos horizontes nunca se apaguem e que o sonho nunca termine”
+ **Entrevista com a Afonsina “O nosso maior desejo é que os nossos horizontes nunca se apaguem e que o sonho nunca termine”**
 
  A Afonsina Tuna de Engenharia da Universidade do Minho, fundada em Março de 1994 é uma das várias tunas académicas da Universidade do Minho.
 
