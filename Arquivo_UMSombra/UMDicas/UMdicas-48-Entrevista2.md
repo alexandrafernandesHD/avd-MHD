@@ -9,7 +9,7 @@ interviewee:  Comissão de Residentes
 role:  Comissão de Residentes
 interviewer:  Michael Ribeiro
 ---
- A Vida de uma Residência Universitária 
+ **A Vida de uma Residência Universitária** 
 
  “Viver na residência de Santa Tecla é viver numa grande família, onde, como em todas as famílias, há conflitos, grandes amizades, amor, ódio, compreensão, entreajuda e sobretudo Felicidade.” Estas são as palavras de Janine e Carla Coelho residentes da Residência S.Tecla, e que fazem parte da Comissão de Residentes. Regendo-se pelos Regulamentos das Residências Universitárias, esta comissão pretende tornar a residência um lar para os que lá residem.
 
