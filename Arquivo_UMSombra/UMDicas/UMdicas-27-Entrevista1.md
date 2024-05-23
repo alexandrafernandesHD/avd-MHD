@@ -3,14 +3,13 @@ university:   Universidade do Minho
 journal:   UMdicas
 issue:   Número 27
 date:   25 de Maio de 2005
-title:  entrevistas.com Bandas
+title:  Entrevistas curtas feitas nas noites do Enterro da Gata a diversas bandas que por lá actuaram...
 topic:  Enterro da gata
 interviewee:  Fábio, baterista da Banda Eva desde 1999;Lua e Chico “Boitezuleiza”;Fuse e Mase “Dealema”; Rui Reininho “GNR”; Lulla Bye; Simão Praça “Plaza”; Ivo Capa e Bruno Anastassakis
 role:  artistas
 interviewer:  UMdicas 
 ---
- Entrevistas curtas feitas nas noites do Enterro da Gata a diversas bandas que por lá actuaram...
-
+ **Entrevistas curtas feitas nas noites do Enterro da Gata a diversas bandas que por lá actuaram...**
  Entrevista com com Fábio, baterista  da Banda Eva desde 1999.
 
 **UMd – Qual a importância de Ivete Sangalo na vossa carreira?**
@@ -79,21 +78,15 @@ interviewer:  UMdicas
 
  Rui Reininho – Abramovich!
 
- UMd – “Do lado dos cisnes”, regresso às origens ou a virgindade, por exemplo.
+ **UMd – “Do lado dos cisnes”, regresso às origens ou a virgindade, por exemplo psicadélica?**
 
-**redefinição?**
+RR – Um pouco regresso, mas é mais uma experiência temem o risco de serem incompreendidos?
 
-**RR – Um pouco regresso, mas é mais uma experiência temem o risco de serem incompreendidos?**
+ **UMd – Futuro?**
 
- psicadélica.
+ RR - Um DVD é a nossa prioridade, a aceitação não nos importa tanto. Viva a caixa de pandora!
 
-**UMd – Futuro?**
-
- abertos, a aceitação não nos importa tanto. Viva a UMd – Um DVD é a nossa prioridade, até porque é a caixa de pandora!
-
- peça que falta.
-
-**Lulla Bye UMd – O que acharam do concerto?**
+ **UMd – O que acharam do concerto?**
 
  Lulla Bye. – No geral correu bem, o problema foi termos de acabar a meio.
 
@@ -121,9 +114,13 @@ interviewer:  UMdicas
 
  S. – O ancore é a única coisa que muda.
 
- UMd – O branco inspira-vos?  S. – O branco é um princípio, é um ponto de partida Os Beatles quando quiseram renascer fizeram um  álbum branco.
+**UMd – O branco inspira-vos?** 
 
- UMd – Como te sentes na terra da tua mãe?  S. – Estamos sempre na nave mãe. Braga é um pouco a nossa (irmãos Praça) terra mãe, foi cá que perdemos a virgindade, por exemplo.
+S. – O branco é um princípio, é um ponto de partida Os Beatles quando quiseram renascer fizeram um  álbum branco.
+
+**UMd – Como te sentes na terra da tua mãe?**  
+ 
+ S. – Estamos sempre na nave mãe. Braga é um pouco a nossa (irmãos Praça) terra mãe, foi cá que perdemos a virgindade, por exemplo.
 
 **UMd – Com tanto eclectismo na vossa música, não  temem o risco de serem incompreendidos?**
 
@@ -133,7 +130,7 @@ interviewer:  UMdicas
 
  S. – A pirataria não me preocupa, interessa-me é que as pessoas ouçam a nossa música. Os Plaza ao vivo são convincentes.
 
-**Ivo Capa e Bruno Anastassakis  “Red Beating Toy”  UMd – Que perspectivas tem para o futuro?**
+**UMd – Que perspectivas tem para o futuro?**
 
  Ivo Capa ( Guitarra e Voz ) – Sabemos que precisamos de sorte e que temos de conquistar o público nos concertos. Actuar em grandes palcos num futuro próximo é muito difícil.
 
@@ -145,7 +142,7 @@ interviewer:  UMdicas
 
  Bruno Anastassakis ( Baixo ) – Já existe uma maqueta (New sounds on the radio) que vai ser novamente martirizada e pode ser encontrada em http://redbeatingtoy.no.sapo.pt 
 
-**Nuno Gonçalves  “The Gift”  UMd- Que comentários fazes em relação a este concerto?**
+**UMd- Que comentários fazes em relação a este concerto?**
 
  Nuno Gonçalves – Foi forte e sereno na medida certa.
 
