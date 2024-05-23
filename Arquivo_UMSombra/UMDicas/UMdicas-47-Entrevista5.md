@@ -9,7 +9,9 @@ interviewee:   Pedro Nuno Vilaça Carvalho
 role:  presidente do CeSIUM
 interviewer:  Michael Ribeiro
 ---
- O Presente e o Futuro do CeSIUM Com a reeleição da direcção anterior, presidida por Pedro Nuno Vilaça Carvalho  de 22 anos, e a sua tomada de posse no dia 13 de Dezembro, o Centro de estudos de Engenharia de Sistemas e Informática (CeSIUM), aposta na continuidade dos seu trabalho e no lançamento de dois novos projectos que prometem, segundo Pedro Carvalho “vir a ser um grande trunfo para o curso e para a Universidade”.
+ **O Presente e o Futuro do CeSIUM**
+ 
+Com a reeleição da direcção anterior, presidida por Pedro Nuno Vilaça Carvalho  de 22 anos, e a sua tomada de posse no dia 13 de Dezembro, o Centro de estudos de Engenharia de Sistemas e Informática (CeSIUM), aposta na continuidade dos seu trabalho e no lançamento de dois novos projectos que prometem, segundo Pedro Carvalho “vir a ser um grande trunfo para o curso e para a Universidade”.
 
 **O que é a CeSIUM?**
 
