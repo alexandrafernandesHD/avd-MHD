@@ -9,7 +9,9 @@ interviewee:  Irene Montenegro
 role:  Pró-Reitora
 interviewer:  Ana Marques
 ---
- UMinho é “boa mestra” na Responsabilidade Social Em entrevista à Pró-Reitora Irene Montenegro, responsável pelo pelouro da Avaliação e Qualidade do Ensino, ficamos a saber que a Academia Minhota está não só adaptada  ao presente, como se prepara para o futuro, no sentido de preservar e aprofundar a sua autonomia gestora e renovar o seu compromisso e sua responsabilidade social.
+ **UMinho é “boa mestra” na Responsabilidade Social**
+ 
+ Em entrevista à Pró-Reitora Irene Montenegro, responsável pelo pelouro da Avaliação e Qualidade do Ensino, ficamos a saber que a Academia Minhota está não só adaptada  ao presente, como se prepara para o futuro, no sentido de preservar e aprofundar a sua autonomia gestora e renovar o seu compromisso e sua responsabilidade social.
 
 **UMdicas- Como Pró-Reitora responsável pelo pelouro da Avaliação e Qualidade do Ensino, considera a responsabilidade social essencial para a qualidade do ensino?**
 
