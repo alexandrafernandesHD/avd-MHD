@@ -9,13 +9,11 @@ interviewee:  Adriana Lago de Carvalho
 role:  responsável do Gabinete de Relações Internacionais (GRI)
 interviewer:  Ana Marques
 ---
- - Serviços UMinho 
-
- UM dicas 
+  UM dicas 
 
  17 de Novembro de 2005 
 
- GRI, o interface entre UMinho 
+ **GRI, o interface entre UMinho** 
 
  Entrevista com Adriana Lago de Carvalho, responsável do Gabinete de Relações Internacionais (GRI) 
 
