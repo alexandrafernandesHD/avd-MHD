@@ -9,7 +9,9 @@ interviewee:  Vânia Vieira
 role:  atleta de alta competição
 interviewer:  Nuno Gonçalves
 ---
- TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a - Vânia Vieira 13 de Janeiro de 2007 - 9h30min - Kartódromo de Baltar: Data e local de encontro para os 47 pilotos inscritos no primeiro GP UMKarting do novo ano. Dia com Sol radioso, o que permitiu 5 corridas bastante disputadas: 2 da divisão A, nos Comer 2T e 3 da divisão B, nos Honda 270 4T. A gestão do kartódromo já nos habituou a um serviço muito eficiente, o que permitiu que as 5 corridas se tivessem disputado a um ritmo bem cadenciado e permitiu um almoço a horas decentes.
+ **TUTORUM, mais que um apoio, sobretudo um merecimento**
+ 
+Entrevista a - Vânia Vieira 13 de Janeiro de 2007 - 9h30min - Kartódromo de Baltar: Data e local de encontro para os 47 pilotos inscritos no primeiro GP UMKarting do novo ano. Dia com Sol radioso, o que permitiu 5 corridas bastante disputadas: 2 da divisão A, nos Comer 2T e 3 da divisão B, nos Honda 270 4T. A gestão do kartódromo já nos habituou a um serviço muito eficiente, o que permitiu que as 5 corridas se tivessem disputado a um ritmo bem cadenciado e permitiu um almoço a horas decentes.
 
 **Com que idade é que iniciaste a prática competitiva do Pólo Aquático e onde?**
 
@@ -35,9 +37,7 @@ interviewer:  Nuno Gonçalves
 
  Infelizmente nunca competi a nível universitário.
 
-**O facto de jogares pelo Foca condicionou a tua escolha de Universidades quando concorreste?**
-
-**Porque?**
+**O facto de jogares pelo Foca condicionou a tua escolha de Universidades quando concorreste?Porque?**
 
  A minha escolha foi evidentemente condicionada pelo meu desejo de continuar a treinar no meu clube, optando por uma universidade mais próxima.
 
