@@ -9,7 +9,7 @@ interviewee:  Carla Machado, César Abreu
 role:  aluna do 4º ano de Direito da UMinho e actual campeã nacional de Taekwondo, aluno do 1º ano de Química Aplicada na UMinho e jogador sénior do ABC
 interviewer:  Nuno Gonçalves
 ---
- TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Carla Machado (Taekwondo) e César Abreu (Andebol) 
+ **TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Carla Machado (Taekwondo) e César Abreu (Andebol)**
 
  César Abreu, 19 anos, é aluno do 1º ano de Química Aplicada na UMinho.
 
@@ -41,9 +41,7 @@ interviewer:  Nuno Gonçalves
 
  Mas, vejo com bons olhos a competição universitária, porque dá a muitos atletas que se retiraram da competição federada, uma segunda oportunidade de competir na sua modalidade predilecta.
 
-**O facto de jogares pelo ABC condicionou a tua escolha de Universidades quando concorreste?**
-
-**Porque?**
+**O facto de jogares pelo ABC condicionou a tua escolha de Universidades quando concorreste?Porque?**
 
  Sim. Porque no ano passado não entrei no curso que realmente desejava e optei pela UMinho de forma a ser mais fácil conciliar os estudos com o Andebol.  
 
