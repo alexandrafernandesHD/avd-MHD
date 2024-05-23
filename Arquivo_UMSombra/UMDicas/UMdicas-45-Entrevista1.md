@@ -9,7 +9,7 @@ interviewee:  Ana Rodrigues e Márcia Cortinhas
 role:  aluna da Licenciatura em Engenharia Biológica e atleta TUTORUM, aluna da Licenciatura em Gestão bi-campeã nacional de equitação
 interviewer:  Nuno Gonçalves
 ---
- TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Ana Rodrigues (Hóquei Patins) e Márcia Cortinhas (Equitação) 
+ **TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Ana Rodrigues (Hóquei Patins) e Márcia Cortinhas (Equitação)** 
 
  Ana Rodrigues, aluna da Licenciatura em Engenharia Biológica, é mais umas das atletas TUTORUM  que através de muito suor e algumas lágrimas, alcançou os pincaros na sua modalidade. Vice-Campeã da Europa em 2004, Ana foi também considerada a melhor jogadora do Torneio  Internacional de Alverca, em representação da sua equipa na altura, o Patim Vigo (Espanha).  
 
@@ -67,7 +67,7 @@ interviewer:  Nuno Gonçalves
 
  Márcia Cortinhas, aluna da Licenciatura em Gestão, é bi-campeã nacional de equitação (juvenil e  posteriormente, junior), tendo sempre como fiel montada, o puro sangue “Quarto Ijzeren Lindenhof”.  Márcia apesar de jovem, conta já no seu curriculo com duas participações em Campeonatos da  Europa, bem como em prestigiadas provas interncaionais de equitação realizadas em Reims,  Morselle, Le Touquet, San Remo e Compiegne 
 
-**UMDicas - Com que idade é que iniciaste a prática  competitiva da Equitação e onde?**
+**U - Com que idade é que iniciaste a prática  competitiva da Equitação e onde?**
 
  Márcia Cortinhas - Iniciei com 10 anos de idade e foi no centro hípico de Sezim em Guimarães. Como esse centro hípico já não existe, actualmente monto no Regimento de Cavalariça nº6 no Quartel de Braga.
 
