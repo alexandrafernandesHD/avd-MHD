@@ -9,9 +9,8 @@ interviewee:   Engª. Maria Helena Campos
 role:  directora dos Serviços Técnicos da Universidade do Minho (ST)
 interviewer:  Ana Marques
 ---
- Entrevista – Serviços 
 
- Estudo dos Serviços Técnicos mostra a necessidade de se organizar de forma mais eficaz o uso das instalações.
+ **Estudo dos Serviços Técnicos mostra a necessidade de se organizar de forma mais eficaz o uso das instalações.**
 
   Engª. Maria Helena Campos  é a directora dos Serviços Técnicos da Universidade do Minho (ST) desde 17 de Janeiro de 2003.
 
