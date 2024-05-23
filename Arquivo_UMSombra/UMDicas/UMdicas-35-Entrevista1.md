@@ -9,7 +9,7 @@ interviewee:  Reitor da Universidade do Minho
 role:  Reitor da Universidade do Minho
 interviewer:  UMdicas
 ---
- Entrevista ao Reitor da Universidade do Minho 
+ **Entrevista ao Reitor da Universidade do Minho** 
 
 **Que balanço faz dos quase 4 anos como Reitor à frente da Universidade do Minho?**
 
