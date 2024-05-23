@@ -8,6 +8,7 @@ role: Administrador dos SASUM
 interviewer:  UMdicas
 ---
 **Entrevista.com Carlos Silva**
+
  Os Serviços de Acção Social da Universidade do Minho finalmente vão passar para o Campus de Gualtar. O Administrador dos SASUM,  Eng. Carlos Silva  fala-nos das dificuldades inerentes a esta passagem, ciente dos problemas, mas também entusiasmado com as novas valências que os SASUM vão passar a oferecer aos estudantes da UM. Esta longa entrevista serve para prever o futuro de uma área extremamente sensível na vida dos estudantes, mas que também tem alcançado excelentes resultados...
 
 **UMdicas O edifício dos SASUM aparentemente está pronto mas existem alguns problemas. O que se está a passar neste momento com a nova sede dos Serviços de Acção Social?**
