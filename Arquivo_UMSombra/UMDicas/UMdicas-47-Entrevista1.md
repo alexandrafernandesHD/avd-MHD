@@ -9,7 +9,7 @@ interviewee:  Humberto Gomes
 role:  Aluno de Eng. Civil da UMinho e guarda-redes de andebol do Belenenses
 interviewer:  Nuno Gonçalves
 ---
- TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Humberto Gomes 
+ **TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Humberto Gomes** 
 
  Se pudessemos eleger um atleta que representa o que de melhor existe em termos de desporto de alta competição e espirito universitário, esse seria certamente Humberto Gomes. Aluno de Eng. Civil da UMinho e guarda-redes de andebol do Belenenses, Humberto é um dos simbolos do programa TUTORUM. O seu curriculo em termos nacionais e internacionais fala por si: diversas vezes campeão nacional pelo ABC, 5 titulos de campeão nacional universitário pela UMinho e um vice-campeonato europeu universitário, fora as continuas chamadas à Selecção Nacional. Vamos então agora conhecer um pouco mais deste grande figura do desporto nacional e da UMinho.
 
