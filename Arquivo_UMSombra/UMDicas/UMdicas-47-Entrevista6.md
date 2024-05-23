@@ -9,7 +9,9 @@ interviewee:  comissão de residentes da Residência Universitária Loyd de Brag
 role: 
 interviewer:  Michael Ribeiro
 ---
- A Vida de uma Residência Universitária “Há mais na residência que o próprio quarto.” Este é o lema da comissão de residentes da Residência Universitária Loyd de Braga. Esta comissão que procura dinamizar e criar laços entre todos os residentes, melhorando cada vez mais as condições de todos que usufruem da Residência Universitária.
+ **A Vida de uma Residência Universitária**
+ 
+“Há mais na residência que o próprio quarto.” Este é o lema da comissão de residentes da Residência Universitária Loyd de Braga. Esta comissão que procura dinamizar e criar laços entre todos os residentes, melhorando cada vez mais as condições de todos que usufruem da Residência Universitária.
 
 **Quem faz parte da comissão de residentes?**
 
@@ -43,7 +45,7 @@ interviewer:  Michael Ribeiro
 
 **Que tipo de apoios é que vocês têm?**
 
-**Pois, uma questão muito sensível. Apoios?**
+Pois, uma questão muito sensível. Apoios?
 
  Quase inexistentes. Temos alguns apoios dos serviços de acção social, e da Associação Académica.
 
