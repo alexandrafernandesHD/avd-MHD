@@ -9,7 +9,7 @@ interviewee:  Rui Gonçalves
 role:  Presidente do Núcleo de Estudos de Engenharia Biológica.
 interviewer:  Michael Ribeiro
 ---
- Entrevista com Rui Gonçalves Presidente do Núcleo de Estudos de Engenharia Biológica.
+ **Entrevista com Rui Gonçalves Presidente do Núcleo de Estudos de Engenharia Biológica.**
 
  Rui Gonçalves, aluno do 5ºano de Engenharia Biológica candidatou-se á presidência do Núcleo de Estudos com o grande objectivo de dar a conhecer o seu curso ao mundo empresarial. Com um projecto ambicioso e inovador prepara-se para realizar a I Feira de Biotecnologia do Minho.
 
