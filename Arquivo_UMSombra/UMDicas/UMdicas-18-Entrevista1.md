@@ -7,6 +7,7 @@ title:  Entrevista.com Carlos Silva
 role: Administrador dos SASUM
 interviewer:  UMdicas
 ---
+**Entrevista.com Carlos Silva**
  Os Serviços de Acção Social da Universidade do Minho finalmente vão passar para o Campus de Gualtar. O Administrador dos SASUM,  Eng. Carlos Silva  fala-nos das dificuldades inerentes a esta passagem, ciente dos problemas, mas também entusiasmado com as novas valências que os SASUM vão passar a oferecer aos estudantes da UM. Esta longa entrevista serve para prever o futuro de uma área extremamente sensível na vida dos estudantes, mas que também tem alcançado excelentes resultados...
 
 **UMdicas O edifício dos SASUM aparentemente está pronto mas existem alguns problemas. O que se está a passar neste momento com a nova sede dos Serviços de Acção Social?**
@@ -21,7 +22,7 @@ interviewer:  UMdicas
 
  C.S. Implica que não haja acordo entre o empreiteiro e os Serviços de Acção Social no sentido de resolver o problema em definitivo, ou seja, nós neste momento continuamos na tentativa de «recepção provisória do edifício» desde Março deste ano.
 
- UMd Mas os SASUM já mudaram para a nova sede...
+ **UMd Mas os SASUM já mudaram para a nova sede...**
 
  C.S. Assumimos que o edifício nos seria entregue no final de Junho e nessa data começamos a mudar os sectores internos dos Serviços Sociais, com o acordo do empreiteiro. Começamos a mudança, dos diferentes departamentos da Rua do Forno, de cima para baixo. O que falta mudar é aquilo que chamamos de «front office», ou seja, o atendimento aos alunos que é o departamento social, com mais incidência no primeiro piso do edifício.
 
@@ -49,7 +50,7 @@ interviewer:  UMdicas
 
  C.S. Nós queremos que o aluno quando aqui vier se sinta bem, tenha um espaço para estar sentado, para conversar, e não sinta que vai a um balcão e lhe estão a vender um serviço. Se o aluno quiser alguma privacidade não vai ser atendido num gabinete, o espaço será outro, já que nós criamos locais próprios para as entrevistas, pois as pessoas nem sempre gostam de se expor para falar dos seus problemas. Isto faz parte de uma orientação que temos mantido ao longo de um ano e iremos continuar com ela. Nós queremos saber se os nossos serviços satisfazem quem nos procura, quantas pessoas passaram por cada estrutura de apoio, qual é a qualidade do nosso atendimento, entre outras situações...no fundo é a política da “Loja do Cidadão” no que diz respeito ao atendimento.
 
- UMd Os funcionários dos Serviços acabam por ser uma peça importante nesta mudança.
+ **UMd Os funcionários dos Serviços acabam por ser uma peça importante nesta mudança.**
 
  C.S. Sem dúvida, as pessoas são importantes em todo o processo de mudança. Por exemplo, os horários estão a mudar em todos as estruturas. Na alimentação temos as diferentes unidades abertas muito mais tempo do que no ano anterior, um dos bares está sempre aberto até ao final das aulas e o período de alimentação à noite foi estendido conforme as pretensões dos alunos. É este o nosso objectivo, há uma série de aspectos que estão a mudar nos diferentes serviços. Na nova sede isso também se vai fazer sentir, até no aspecto estrutural, pois passa a ser um espaço aberto onde toda gente se vê. É algo que as pessoas não estão habituadas, trabalhar num espaço aberto para toda a instituição.
 
@@ -57,7 +58,7 @@ interviewer:  UMdicas
 
  Sempre inconformado e descontente, pretende sempre atingir mais e melhor no seu trabalho. Carlos Silva ambiciona alcançar ainda patamares mais elevados de qualidade no serviço aos alunos, como é o caso da Alimentação, nas Bolsas e nas novas tecnologias.
 
- UMd Os alunos já sentem alguma mudança na alimentação...
+**UMd Os alunos já sentem alguma mudança na alimentação...**
 
  C.S. Sentem e transmitem-nos isso, mas ainda não chega...ainda não estamos satisfeitos, pois procuramos melhorar continuamente.
 
@@ -91,7 +92,7 @@ interviewer:  UMdicas
 
  C.S. Não. A questão da desinformação não existe ou existe na cabeça de alguns, pode existir dificuldade no acesso à informação. Nós temos uma política de informar as pessoas na altura devida e nunca estaremos condicionados por qualquer pressão exterior. Existem variáveis que não podemos controlar, que neste caso tem haver com o facto do edifício não estar nas nossas mãos. Mantemos a estrutura interna dos serviços informada, as circulares internas dos SASUM estão escritas para que todos os funcionários tenham a mesma informação.
 
- UMd Mas os alunos queixam-se de alguma falta de informação dos SASUM...
+ **UMd Mas os alunos queixam-se de alguma falta de informação dos SASUM...**
 
  C.S. Nós temos locais fixos para afixação da informação e em locais ao qual a informação diz respeito, se diz respeito às residências é nas residências, se diz respeito às propinas é nos serviços académicos ou serviços sociais, ou placares de curso, etc. O que defendo é uma informação personalizada, e temos feito esforço nesse sentido, através do uso do correio electrónico mas nem toda gente tem ou utiliza. Penso que o projecto campus virtual vai resolver isto em definitivo. Se as pessoas souberam onde estão os avisos, em vez de ir lá fisicamente, vão virtualmente e criam-se hábitos importantes, pois todos vão saber o que se passa. No ano passado, enviava email´s para cerca de 8000 alunos, o que anda na cota dos 50% dos alunos, o que é muito bom mas só estarei satisfeito quando chegarmos a todos. Acho que todos alunos devem estar informados, independentemente de serem ou não bolseiros. Tem sido feito um esforço de comunicação nesse sentido, além dos jornais, rádios, etc., temos de personalizar o contacto. Também é verdade que podemos ter avisos por todo o lado e as pessoas não os vêm, com a quantidade de informação que há é normal.
 
@@ -101,7 +102,7 @@ interviewer:  UMdicas
 
  C.S. Esta sede teve sorte. No ano passado houve aprovação do PIDDAC para fechar esta obra. Temos outros problemas este ano. O investimento forte dos SASUM para este ano será nas residências e na vertente alimentar, em Azurém. Recebemos zero euros de PIDDAC, às vezes não entendemos as regras de como são atribuídas algumas verbas, nem a sua afectação “geográfica”...
 
- UMd Deve criar um sentimento de frustração porque, de uma maneira geral, as pessoas olham para a Universidade do Minho como um exemplo em termos de gestão e quando chega altura de receber mérito...
+ **UMd Deve criar um sentimento de frustração porque, de uma maneira geral, as pessoas olham para a Universidade do Minho como um exemplo em termos de gestão e quando chega altura de receber mérito...**
 
  C.S. Quando chega altura de mostrar ou reconhecer o mérito nada acontece. Foi o que se passou em relação às residências. As residências universitárias têm necessidades acumuladas de intervenção, e embora não haja garantia de PIDDAC, nós vamos avançar com algumas alterações nas residências, no próximo ano.
 
@@ -115,7 +116,7 @@ interviewer:  UMdicas
 
  C.S. As condições de acesso à bolsa não são definidas por nós, são definidas pela lei...
 
- UMd Mas existem alunos que apontam o dedo aos SASUM...
+ **UMd Mas existem alunos que apontam o dedo aos SASUM...**
 
  C.S. Atribuição da bolsa é o resultado da aplicação de uma lei em que os serviços sociais são o “intermediário”
 
@@ -147,7 +148,7 @@ interviewer:  UMdicas
 
  C.S. Vejo serviços de qualidade e certificados em quase todas as áreas, se não todas.
 
- UMd Mas isso vai obrigar a mudar muita coisa nos serviços.
+ **UMd Mas isso vai obrigar a mudar muita coisa nos serviços.**
 
  C.S. - Esta certificação obriga à reorganização completa de processos e requalificação de recursos humanos. Vai ser um serviço orientado para os alunos e de um modo geral para toda a comunidade académica que tem interacção com os serviços.
 
@@ -165,7 +166,7 @@ interviewer:  UMdicas
 
  Acredito na equipa que trabalha comigo, e, hoje em dia, é difícil constituir equipas grandes e coesas. O que estamos aqui a fazer é construir, precisamente, uma equipa grande e isso não faço sozinho. Faço-o, na primeira linha, com os responsáveis de departamento, desde o gabinete do administrador, administrativo e financeiro, alimentar, desporto, social e sem esquecer todos aqueles que dedicam os possíveis e impossíveis para que tudo funcione, por exemplo o sector do armazém/compras, informática e manutenção, entre outros. É uma equipa muito boa, que me acompanha nos sucessos e nos problemas e que dedicam mais do que seria de esperar em muito horas semanais nas reuniões de trabalho. Estamos ao longo do tempo a espalhar a motivação, métodos de trabalho, responsabilidade a todos os funcionários dos serviços pois é muito importante que todas as equipas trabalhem para os mesmos objectivos.
 
- UMd E faz um acompanhamento rigoroso...
+ **UMd E faz um acompanhamento rigoroso...**
 
  C.S. Sim, mas às vezes é difícil. A questão de ser exigente é complicado, conheço as pessoas a outros níveis, e às vezes é difícil porque há situações que não são fáceis para todos e existem vidas pessoais que têm aspectos complicados. Mas tem sido uma experiência fabulosa em todos os aspectos, esta equipa merece tudo.
 
