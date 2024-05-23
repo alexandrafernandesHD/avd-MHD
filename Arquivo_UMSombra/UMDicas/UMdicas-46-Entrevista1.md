@@ -9,7 +9,7 @@ interviewee:  Diogo Antunes
 role:  aluno do 1º ano de Arquitectura
 interviewer:  Nuno Gonçalves
 ---
- “TUTORUM, mais que um apoio, sobretudo um merecimento”  “Entrevista a Diogo Antunes, atleta do Vitória de Guimarães”
+ **“TUTORUM, mais que um apoio, sobretudo um merecimento”  “Entrevista a Diogo Antunes, atleta do Vitória de Guimarães”**
 
  Diogo Antunes, aluno do 1º ano de Arquitectura, é actualmente atleta do Vitória de Guimarães, tendo se sagrado Vice-Campeão Nacional de Voleibol em 2006. Apesar da sua juventude, Diogo conta já com 62 internacionalizações nos diversos escalões da Selecção, tendo vencido de Quinas ao peito o Torneio Internacional da Galiza.
 
