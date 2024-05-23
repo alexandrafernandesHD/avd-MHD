@@ -3,13 +3,13 @@ university:  Universidade do Minho
 journal:  UMdicas
 issue:  Número 37
 date:  25 de Fevereiro de 2006
-title:  Universidade do Minho Um lugar de investigação, um motor de desenvolvimento
+title:  Universidade do Minho Um lugar de investigação, um motor de desenvolvimento.
 topic:  vertentes da Investigação, Internacionalização e Extensão Universitária
 interviewee:   Prof. Manuel Mota
 role:   Vice-Reitor da Universidade do Minho
 interviewer:  Ana Marques
 ---
- Universidade do Minho Um lugar de investigação, um motor de desenvolvimento 
+ **Universidade do Minho Um lugar de investigação, um motor de desenvolvimento.** 
 
  O UMdicas conversou com o Professor Manuel Mota, Vice-Reitor da Universidade do Minho responsável pelas  vertentes da Investigação, Internacionalização e Extensão Universitária. Da conversa, apesar curta, resultou uma  visão geral da estratégia que, ao longo dos últimos anos, a Universidade tem vindo a desenvolver para estas áreas.
 
