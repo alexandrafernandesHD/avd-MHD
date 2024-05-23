@@ -9,7 +9,9 @@ interviewee:  Miguel Araújo Rodrigues
 role:  residente
 interviewer:  Michael Ribeiro
 ---
- AEDUM, a voz dos alunos de direito A Associação de Estudantes de Direito da Universidade do Minho (AEDUM) tem um papel importante no curso de Direito e na própria Universidade do Minho, sendo a voz de todos os alunos junto da Escola de Direito, esta associação é presidida por Miguel Araújo Rodrigues que frequenta o 5º ano da Licenciatura de Direito.
+ **AEDUM, a voz dos alunos de direito**
+ 
+ A Associação de Estudantes de Direito da Universidade do Minho (AEDUM) tem um papel importante no curso de Direito e na própria Universidade do Minho, sendo a voz de todos os alunos junto da Escola de Direito, esta associação é presidida por Miguel Araújo Rodrigues que frequenta o 5º ano da Licenciatura de Direito.
 
 **UMDicas -O que é a AEDUM?**
 
