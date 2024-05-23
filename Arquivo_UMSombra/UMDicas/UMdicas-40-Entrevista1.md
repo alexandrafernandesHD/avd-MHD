@@ -9,7 +9,9 @@ interviewee:  Nádia Franco, Jéssica Augusto
 role:  aluna do 2º ano de Matemática e atleta de Futebol de 11 do C.D. Vinhós, aluna do 1º ano de Enfermagem e atleta do SCBraga
 interviewer:  Nuno Gonçalves
 ---
- A entrevista com Nádia Franco (Futebol) e Jéssica Augusto (Atletismo) Nádia Franco, 19 anos, aluna do 2º ano de Matemática, é atleta de Futebol de 11 do  C.D. Vinhós, representando no entanto a AAUMinho em Futsal. Após ter  representado a Selecção Distrital de Braga (Sub-17 e Sénior), participou no Torneio  Inter-Associações de Futebol de 7 Feminino, onde ganhou o prémio de melhor  jogadora. A nível Sénior, esteve presente por dois anos consecutivos no Vigo Cup  (Torneio Internacional de Futebol de 7), ganhando o torneio na última. Nas  Selecções Nacionais (sub-18 e 19) participou no 1º Torneio de Apuramento para o  Campeonato da Europa, bem como em alguns jogos de preparação.
+ **A entrevista com Nádia Franco (Futebol) e Jéssica Augusto (Atletismo)**
+ 
+ Nádia Franco, 19 anos, aluna do 2º ano de Matemática, é atleta de Futebol de 11 do  C.D. Vinhós, representando no entanto a AAUMinho em Futsal. Após ter  representado a Selecção Distrital de Braga (Sub-17 e Sénior), participou no Torneio  Inter-Associações de Futebol de 7 Feminino, onde ganhou o prémio de melhor  jogadora. A nível Sénior, esteve presente por dois anos consecutivos no Vigo Cup  (Torneio Internacional de Futebol de 7), ganhando o torneio na última. Nas  Selecções Nacionais (sub-18 e 19) participou no 1º Torneio de Apuramento para o  Campeonato da Europa, bem como em alguns jogos de preparação.
 
  No seu palmarés destaca-se a atribuição do titulo de Atleta do Ano de 2005 da cidade  de Fafe. Vamos conhecer um pouco melhor a Nádia, que é uma das pedras basilares  da actual equipa Campeã Nacional Universitária de Futsal Feminino, a AAUMinho.
 
