@@ -3,13 +3,15 @@ university:  Universidade do Minho
 journal:  UMdicas
 issue:  Número 44
 date:  18 de Outubro de 2006
-title:  Director do SDUM em entrevista
+title:  Director do SDUM 
 topic:  os Serviços de Documentação da Universidade do Minho e qual a sua importância
 interviewee:  Eloy Rodrigues
 role:  Director do SDUM
 interviewer:  Ana Marques
 ---
- Director do SDUM em entrevista Eloy António dos Santos Cordeiro Rodrigues, é desde 2002 o Director dos Serviços de Documentação da Universidade do Minho (SDUM) uma das mais importantes  estruturas de apoio ao trabalho do conjunto da comunidade académica e da instituição universitária. Licenciado em História, variante em Arqueologia, pela Faculdade  de Letras da Universidade do Porto, especializou-se em Ciências Documentais, opção de Biblioteca e Documentação.
+ **Director do SDUM**
+ 
+Em entrevista Eloy António dos Santos Cordeiro Rodrigues, é desde 2002 o Director dos Serviços de Documentação da Universidade do Minho (SDUM) uma das mais importantes  estruturas de apoio ao trabalho do conjunto da comunidade académica e da instituição universitária. Licenciado em História, variante em Arqueologia, pela Faculdade  de Letras da Universidade do Porto, especializou-se em Ciências Documentais, opção de Biblioteca e Documentação.
 
 **UMDicas - O que são os Serviços de Documentação da Universidade do Minho e qual a sua importância?**
 
@@ -57,11 +59,10 @@ interviewer:  Ana Marques
 
  E.R. – Decidimos, há alguns anos atrás reunir no nosso Website, sob a designação de biblioteca digital, o conjunto de documentos, recursos informativos e serviços que disponibilizamos através da rede da U.M.
 
- e da Internet.
 
- Queríamos reunir o conjunto de revistas em acesso e formato electrónico, os livros electrónicos (e-books), as bases de dados e recursos de informação que a U.M. adquiria ou assinava. Ao mesmo tempo, queríamos colocar também aí documentos, “nascidos digitais”, ou digitalizados, produzidos ou editados no interior da Universidade do Minho.
+Queríamos reunir o conjunto de revistas em acesso e formato electrónico, os livros electrónicos (e-books), as bases de dados e recursos de informação que a U.M. adquiria ou assinava. Ao mesmo tempo, queríamos colocar também aí documentos, “nascidos digitais”, ou digitalizados, produzidos ou editados no interior da Universidade do Minho.
 
- Presentemente, a secção biblioteca digital do Website dos SDUM (www.sdum.uminho.pt), reúne o Portal de Pesquisa, o Catálogo Bibliográfico, a lista das revistas electrónicas disponíveis, a lista de outros recursos (bases de dados, etc.) acessíveis na U.M., as Edições Digitais dos SDUM, e o RepositóriUM, que tem sido um dos projectos e serviços em que mais temos investido.
+Presentemente, a secção biblioteca digital do Website dos SDUM (www.sdum.uminho.pt), reúne o Portal de Pesquisa, o Catálogo Bibliográfico, a lista das revistas electrónicas disponíveis, a lista de outros recursos (bases de dados, etc.) acessíveis na U.M., as Edições Digitais dos SDUM, e o RepositóriUM, que tem sido um dos projectos e serviços em que mais temos investido.
 
 **UMDicas - Porque consideram o RepositóriUM como um dos projectos prioritários? O que é exactamente o RepositóriUM e quais são os seus objectivos?**
 
@@ -107,7 +108,7 @@ interviewer:  Ana Marques
 
  Tal como acontece na generalidade das bibliotecas, o número de empréstimos de publicações tem decrescido nos últimos anos, ao mesmo tempo que cresce o acesso e utilização aos recursos e serviços disponibilizados na biblioteca digital. Em 2005 registamos 157.000 visitas (mais 35% que em 2004) ao Website dos SDUM, com 896.000 páginas consultadas, 358.162 sessões no catálogo bibliográfico (mais 70% que em 2004), mais de 227.000 downloads de artigos de revistas e outros recursos disponíveis na B-on.
 
- UMDicas – Sabemos que os SDUM não podem ter tudo o que o seu público necessita. O que fazem quando procuram algo que não existe nos E.R. – Em primeiro lugar tentamos perceber se o documento que o nosso leitor procura será um documento que tem apenas um interesse pontual para ele, ou se é um documento que irá ser procurado por muitos utentes.
+ **UMDicas – Sabemos que os SDUM não podem ter tudo o que o seu público necessita. O que fazem quando procuram algo que não existe nos E.R. – Em primeiro lugar tentamos perceber se o documento que o nosso leitor procura será um documento que tem apenas um interesse pontual para ele, ou se é um documento que irá ser procurado por muitos utentes.**
 
  Neste último caso, tentaremos adquirir o documento, com os nossos meios limitados, ou através do(s) departamento(s) que poderão ter maior interesse na aquisição da obra.
 
