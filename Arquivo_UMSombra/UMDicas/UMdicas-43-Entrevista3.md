@@ -9,7 +9,9 @@ interviewee:  António Guimarães Rodrigues
 role:  Reitor da UMinho
 interviewer:  Ana Marques
 ---
- Entrevista ao Sr. Reitor da UMinho Guimarães Rodrigues afirma “…a UMinho é hoje reconhecida como uma Universidade afirmativa,  interventiva e de referência”. Sendo o seu principal projecto até 2010 a implementação do Modelo  de Bolonha. Sobre o futuro diz “ O que é preciso é ambicionar. Temos futuro a escrever o futuro. O  mais grave é não tentar”.
+ **Entrevista ao Sr. Reitor da UMinho** 
+ 
+ Guimarães Rodrigues afirma “…a UMinho é hoje reconhecida como uma Universidade afirmativa,  interventiva e de referência”. Sendo o seu principal projecto até 2010 a implementação do Modelo  de Bolonha. Sobre o futuro diz “ O que é preciso é ambicionar. Temos futuro a escrever o futuro. O  mais grave é não tentar”.
 
 **UMdicas- Porque resolveu recandidatar-se para mais um mandato como reitor à frente da UMinho?**
 
