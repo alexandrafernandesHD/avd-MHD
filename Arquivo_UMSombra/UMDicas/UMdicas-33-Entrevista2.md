@@ -9,7 +9,7 @@ interviewee:  António Carneiro
 role:  Papa da Uminho
 interviewer:  Michael Ribeiro
 ---
- Papa da UMinho faz balanço da praxe e projecta o futuro.
+ **Papa da UMinho faz balanço da praxe e projecta o futuro.**
 
  António Carneiro, “Papa” da, academia defende que a Tradição Académica é o motor de toda a nossa história da academia e faz disso a sua bandeira. Com o objectivo de fomentar e enraizar ainda mais essa tradição propõe-se a realizar o III Congresso Nacional de Tradições Académicas.
 
