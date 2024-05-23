@@ -9,7 +9,7 @@ interviewee:  Eva Sousa
 role:  Directora Departamento Comercial e Relações Externas
 interviewer:  Michael Ribeiro
 ---
- Tradição e história do 1º de Dezembro 
+ **Tradição e história do 1º de Dezembro** 
 
  Numa a conversa com Eva Sousa, Directora Departamento Comercial e Relações Externas, sobre o 1º de Dezembro, a sua importância na Academia, a sua história e tradição. Eva Sousa, defende o 1º de Dezembro como uma das grandes tradições da Academia Minhota, tradições que são a alma de toda uma história que se constrói ao longo dos tempos.
 
