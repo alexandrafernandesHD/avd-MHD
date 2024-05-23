@@ -21,7 +21,9 @@ interviewer:  Ana Marques
 
  Era um sonho já muito antigo fazer uma viagem de longa duração, algo que me perseguia, não sei bem a altura em que surgiu, apenas que ganhou muita mais força depois de algum tempo a trabalhar numa  empresa onde passava os dias preso, e depois do desemprego ser uma realidade na minha vida. Com a confluência destas e outras condições pensei “é altura de me aventurar” e daí a preparar tudo para a viagem foi um pequeno passo. Experiências passadas levaraminteriorme me a vários países mas nada como uma longa viagem para nos proporcionar o  conhecimento do m u n d o , q u e pequenas viagens de férias nunca nos  d a r i a m a  possibilidade de  conhecer ou levaria uma eternidade. A base foi o sonho “um sonho tem a  força de transformar uma ideia em  algo imperativo”, ao que se aliou a  paixão pela fotografia e jornalismo, que depois de um acordo com o jornal “O Público”, em que acordei enviar  para a redacção do PÚBlico  fotografias e textos elaborados com a  matéria-prima proporcionada por cada  semana "na estrada", reportagens que  o jornal faria publicar, todos os sábados, no suplemento de viagens  Fugas. Por isso a hora certa era esta, a oportunidade para as pôr em prática o meu sonho.  
 
- Dicas- Qual o objectivo com esta viagem?  Principalmente com esta viagem quis abrir horizontes, sentia a necessidade  de explorar o mundo, descobrir novas  realidades, contactar com culturas  diferentes, conhecer novas gentes e  lugares inimagináveis, necessitava de  dar asas à liberdade, viver fora da  nossa realidade. Mas o que realmente  me levou a esta viagem foi o pensar que um dia mais tarde me iria arrepender de não a ter feito e seria difícil demais conviver com o  pensamento "quem me dera ter feito  aquela viagem...".  
+ **Dicas- Qual o objectivo com esta viagem?**  
+ 
+ Principalmente com esta viagem quis abrir horizontes, sentia a necessidade  de explorar o mundo, descobrir novas  realidades, contactar com culturas  diferentes, conhecer novas gentes e  lugares inimagináveis, necessitava de  dar asas à liberdade, viver fora da  nossa realidade. Mas o que realmente  me levou a esta viagem foi o pensar que um dia mais tarde me iria arrepender de não a ter feito e seria difícil demais conviver com o  pensamento "quem me dera ter feito  aquela viagem...".  
 
 **Dicas- O que podemos entender por  viagem à volta do mundo?**
 
@@ -37,7 +39,9 @@ interviewer:  Ana Marques
 
  Toda a viagem foi extraordinária, vivências únicas e maravilhosas, mas  também dias maus. Pode com esta viagem concluir que quanto mais viajo, melhor vejo o quão pouco conhecemos do mundo, tudo foi  fantástico demais, uma experiência  que me tornou diferente pelo menos interiormente. Cada  dia que passava mais tinha  a noção do quanto havia para conhecer, o mundo é uma caixa” de surpresas.  
 
- Dicas- Quais os locais que mais gostaste?  Conheci lugares espectaculares, mas aqueles de que me lembro com mais admiração, que relembro com mais estupefacção são a Mongólia, Vietname e Bolívia. Não porque sejam mais bonitos, mas talvez pela diferença, somos atraídos pela diferença, e nestes países tudo é  muito diferente da nossa realidade, foi o que mais me fascinou. As experiências que vivi, as pessoas  nestes países, tudo inesquecível.
+**Dicas- Quais os locais que mais gostaste?** 
+ 
+Conheci lugares espectaculares, mas aqueles de que me lembro com mais admiração, que relembro com mais estupefacção são a Mongólia, Vietname e Bolívia. Não porque sejam mais bonitos, mas talvez pela diferença, somos atraídos pela diferença, e nestes países tudo é  muito diferente da nossa realidade, foi o que mais me fascinou. As experiências que vivi, as pessoas nestes países, tudo inesquecível.
 
  Passei por cidades muito bonitas e desenvolvidas, mas já estamos habituados e já não nos fascinam. São os locais que aliam as paisagens e gentes diferentes, a beleza dos lugares, às minorias étnicas que depois recordamos com mais carinho.
 
