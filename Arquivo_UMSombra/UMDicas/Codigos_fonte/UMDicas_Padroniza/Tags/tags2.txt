@@ -1,0 +1,3296 @@
+TAG	VALOR_TAG
+university	Universidade do Minho
+journal	UMdicas
+issue	195
+date	Novembro/2023
+title	Os grupos culturais têm como missão inspirar a Universidade e os universitár
+topic	Cultura. Cultura, Sina-Grupo de Fados, AAUMinho
+interviewee	Sina-Grupo de Fados
+role	Frupo de Fados
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	18
+date	Outubro/2004
+title	Entrevista.com Carlos Silva
+role	Administrador dos SASUM
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	22
+date	Fevereiro/2005
+title	Yôga Antig
+role	Mestre de Yôg
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	22
+date	Fevereiro/2005
+title	Recolocar a RUM no mercado,
+role	Novo Administrador Delegado da RUM
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	23
+date	Março/200
+title	A dan�a � uma
+role	estagiarias de Educação Físi
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	26
+date	Maio/2005
+title	ANIMA��O,
+topic	Enterro da Gata
+interviewee	Roque Teixeira
+role	Presidente da AAUM
+interviewer	Nuno Gouveia
+university	Universidade do Minho
+journal	UMdicas
+issue	27
+date	Maio/2005
+title	Entrevistas curtas feitas nas noites do Enterro da Gata a diversas bandas que por lá actuaram..
+topic	Enterro da gata
+interviewee	"Fábio, baterista da Banda Eva desde 1999;Lua e Chico “Boitezuleiza”;Fuse e Mase “Dealema”; Rui Reininho “GNR”; Lulla Bye; Simão Praça “Plaza”; Ivo Capa e"
+role	artistas
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	29
+date	Setembro/2005
+title	Entrevista com Fernando Parente
+topic	Universíada
+interviewee	Fernando Parente
+role	Membro do secretariado da FADU
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	29
+date	Setembro/2005
+title	Entrevista com Pedro Dias
+topic	Universíadas de Izmi
+interviewee	Pedro Dias
+role	membro do Comité Executivo da Federação Internacional do Desporto Universitário (F
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	29
+date	Setembro/2005
+title	Entrevista com Carlos Santos
+topic	Universíada
+interviewee	Carlos Santos
+role	Presidente da FADU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	31
+date	Outubro/2005
+title	Antigo Aluno da UMinho de volta a casa
+topic	Volta ao mundo
+interviewee	Filipe Morato Gomes
+role	antigo aluno de LESI da UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	32
+date	Outubro/2005
+title	GSI avalia o uso da tecnologia pelos alunos da UMinho
+topic	
+interviewee	Engenheiro José Fernande
+role	director do Gabinete de Sistemas de Informação (GS
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	33
+date	Novembro/2005
+title	GRI, o interface entre UMinho
+topic	Projectos e iniciativas de cooperação e mobilidade académ
+interviewee	Adriana Lago de Carvalho
+role	responsável do Gabinete de Relações Internacionais (G
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	33
+date	Novembro/2005
+title	Papa da UMinho faz balanço da praxe e projecta o futur
+topic	Praxe
+interviewee	António Carneir
+role	Papa da Uminho
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	33
+date	Novembro/2005
+title	Entrevista com Rui Gonçalves Presidente do Núcleo de Estudos de Engenharia Biológi
+topic	I Feira de Biotecnologia do Minho.
+interviewee	Rui Gonçalve
+role	Presidente do Núcleo de Estudos de Engenharia Biológic
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	34
+date	Dezembro/2005
+title	A entrevista, antes das eleições, com Rui Cruz (Lista A) e Roque Teixeira (Lista B) candidatos à presidência da 
+topic	Eleiçõ
+interviewee	"Rui Cruz; Roque Teixeira"
+role	Candidatos à associação Académica da Universidade do Mi
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	35
+date	Dezembro/2005
+title	Entrevista ao Reitor da Universidade do Minho
+topic	balanço dos quase 4 anos como Reito
+interviewee	Reitor da Universidade do Minho
+role	Reitor da Universidade do Minho
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	35
+date	Dezembro/2005
+title	Entrevista ao Administrador dos SASUM
+topic	Acção Soci
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	37
+date	Fevereiro/2006
+title	Universidade do Minho Um lugar de investigação, um motor de desenvolviment
+topic	vertentes da Investigação, Internacionalização e Extensão Universi
+interviewee	Prof. Manuel Mota
+role	Vice-Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	40
+date	Abril/2006
+title	A entrevista com Nádia Franco (Futebol) e Jéssica Augusto (Atletism
+topic	TUTORUM
+interviewee	Nádia Franco, Jéssica Augus
+role	aluna do 2º ano de Matemática e atleta de Futebol de 11 do C.D. Vinhós, aluna do 1º ano de Enfermagem e atleta do SCB
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	40
+date	Abril/2006
+title	UMinho é “boa mestra” na Responsabilidade S
+topic	pelouro da Avaliação e Qualidade do Ensi
+interviewee	Irene Montenegro
+role	Pró-Reitor
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	41
+date	Maio/2006
+title	TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Carla Machado (Taekwondo) e César Abreu (Andebol
+topic	TUTORUM
+interviewee	Carla Machado, César Abre
+role	aluna do 4º ano de Direito da UMinho e actual campeã nacional de Taekwondo, aluno do 1º ano de Química Aplicada na UMinho e jogador sénior d
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	43
+date	Agosto/2006
+title	Entrevista ao Sr. Reitor da UMinho
+topic	mandato como reitor
+interviewee	António Guimarães Rodrigu
+role	Reitor da UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	44
+date	Outubro/2006
+title	Director do SDUM
+topic	os Serviços de Documentação da Universidade do Minho e qual a sua importâ
+interviewee	Eloy Rodrigues
+role	Director do SDUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	45
+date	Novembro/2006
+title	TUTORUM, mais que um apoio, sobretudo um merecimento
+topic	TUTORUM
+interviewee	Ana Rodrigues e Márcia Cortinha
+role	aluna da Licenciatura em Engenharia Biológica e atleta TUTORUM, aluna da Licenciatura em Gestão bi-campeã nacional de equita
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	46
+date	Dezembro/2006
+title	TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Diogo Antunes, atleta do Vit�ria de Guimar�es
+topic	Cultura. conhecer um pouco mais deste atleta de alta competiç�
+interviewee	Diogo Antunes
+role	aluno do 1º ano de Arquitectur
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	46
+date	Dezembro/2006
+title	AEDUM, a voz dos alunos de direito
+topic	Academia. Associação de Estudantes de Direito da Universidade do Minho (AEDU
+interviewee	Miguel Araújo Rodrigue
+role	residente
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	46
+date	Dezembro/2006
+title	O nosso maior desejo � que os nossos horizontes nunca se apaguem e que o sonho nunca termine
+topic	Acção Social. conhecer a história, os projectos e sonhos desta Mui Nobre e Trovadora T
+interviewee	António Freita
+role	Magistar Tunae da Afonsina
+interviewer	Helder Miranda
+university	Universidade do Minho
+journal	UMdicas
+issue	46
+date	Dezembro/2006
+title	Tradição e história do 1º de Deze
+topic	Acção Social. o 1º de Dezem
+interviewee	Eva Sousa
+role	Directora Departamento Comercial e Relações Extern
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	47
+date	Dezembro/2006
+title	TUTORUM, mais que um apoio, sobretudo um merecimento Entrevista a Humberto Gomes
+topic	Acção Social. programa TUTOR
+interviewee	Humberto Gomes
+role	Aluno de Eng. Civil da UMinho e guarda-redes de andebol do Belenenses
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	47
+date	Dezembro/2006
+title	Estudo dos Serviços Técnicos mostra a necessidade de se organizar de forma mais eficaz o uso das instalaç�
+topic	Acção Social. Serviços Técn
+interviewee	Engª. Maria Helena Campo
+role	directora dos Serviços Técnicos da Universidade do Minho (S
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	47
+date	Dezembro/2006
+title	Roque Teixeira, últimos dias à frente da AA
+topic	Academia. 2 anos à frente da AAU
+interviewee	Roque Teixeira
+role	presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	47
+date	Dezembro/2006
+title	O Presente e o Futuro do CeSIUM
+topic	Academia. CeSIUM
+interviewee	Pedro Nuno Vilaça Carvalh
+role	presidente do CeSIUM
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	47
+date	Dezembro/2006
+title	A Vida de uma Residência Universitár
+topic	Acção Social. A Vida de uma Residência Universit�
+interviewee	comissão de residentes da Residência Universitária Loyd de Br
+role	
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	47
+date	Dezembro/2006
+title	ELSA UMinho a sua expansão e objectivo
+topic	Acção Social. expansão e objectivos da ELSA UMi
+interviewee	A ELSA (European Law Students Association)
+role	ELSA UMinho
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	47
+date	Dezembro/2006
+title	Uma viagem à história da Azeitu
+topic	Cultura. Azeituna, historial, as suas raízes e os seus sonho
+interviewee	A Azeituna Tuna de Ciências da Universidade do Minh
+role	Azeituna
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	48
+date	Janeiro/2007
+title	TUTORUM, mais que um apoio, sobretudo um merecimento
+topic	Academia. Entrevista a Vânia Vieir
+interviewee	Vânia Vieir
+role	atleta de alta competiç�
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	48
+date	Janeiro/2007
+title	A Vida de uma Residência Universitár
+topic	Cultura. A Vida de uma Residência Universitár
+interviewee	Comissão de Residente
+role	Comissão de Residente
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	49
+date	Fevereiro/2007
+title	Serviço de Consult
+topic	Acção Social. Serviço de Consu
+interviewee	Rui Gomes
+role	coordenador da Unidade de Psicologia do Desporto
+interviewer	Ana Coimbra
+university	Universidade do Minho
+journal	UMdicas
+issue	49
+date	Fevereiro/2007
+title	Núcleo de Estudantes de Medicina da Universidade do Minh
+topic	Academia
+interviewee	Sónia Duart
+role	aluna do 3º ano da Licenciatura em Medicina e presidente da direcção do NE
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	49
+date	Fevereiro/2007
+title	TUM Teatro Universitário de Brag
+topic	Cultura. Teatro Universitário do Minho (TUM
+interviewee	Teatro Universitário de Braga (TUB
+role	Teatro Universitário de Brag
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	51
+date	Abril/2007
+title	Pró-Reitor Luís Amaral em entrevis
+topic	Academia
+interviewee	Luís Amara
+role	Professor Associado do Departamento de Sistemas de Informação da Escola de Engenharia da Universidade do Min
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	51
+date	Abril/2007
+title	Roboparty - um sucesso
+topic	Cultura. Roboparty
+interviewee	Fernando Ribeiro
+role	Prof. de Electrónica Industria
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	51
+date	Abril/2007
+title	Entrevista a Pedro Dias
+topic	Cultura.
+interviewee	Pedro Dias
+role	comissão organizadora da RoboPart
+interviewer	Ana Coimbra
+university	Universidade do Minho
+journal	UMdicas
+issue	51
+date	Abril/2007
+title	Dinâmica e expansão são palavras-chave para C
+topic	Academia. Centro de Estudos de Administração Publi
+interviewee	CEAP
+role	CEAP
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	51
+date	Abril/2007
+title	Historial do Coro Académico da Universidade do Minho (CAUM
+topic	Cultura
+interviewee	Coro Académico da Universidade do Minho (CAUM
+role	CAUM
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	52
+date	Junho/2007
+title	Entrevista com o Administrador dos SASUM, Engº Carlos Silv
+topic	Acção Social. A Reabilitação da Residência Universitária Lloyd
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	53
+date	Julho/2007
+title	UMinho garante componente nacional recorrendo a suas receitas própria
+topic	Acção Social. perceber toda a problemática em que se encontra o Ensino Superior em Portugal e em particular a situação da UMinho face ao quadro de financiamento por parte do go
+interviewee	Prof. Sérgio Machado dos Santo
+role	Reitor Honorário da Universidade do Minho e Presidente da Fundação Carlos Lloyd Br
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	53
+date	Julho/2007
+title	NECLUM Núcleo de Estudante dos Cursos de Letras da Universidade do Minh
+topic	Academia
+interviewee	NECLUM
+role	aluno do 3º ano de Estudos Portugueses e Ingleses, actual presidente do NECLU
+interviewer	Helder Miranda
+university	Universidade do Minho
+journal	UMdicas
+issue	53
+date	Julho/2007
+title	Entrevista às vencedoras do Prémio Nacional de Inovação Ambie
+topic	Academia. Prémio Nacional de Inovação Ambien
+interviewee	Teresa Tavares, Isabel Neves
+role	vencedoras do Prémio Nacional de Inovação Ambien
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	53
+date	Julho/2007
+title	ARCUM Balanço de uma Temporad
+topic	Academia. ARCUM
+interviewee	Helder Dias
+role	Presidente da ARCUM
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	54
+date	Outubro/2007
+title	Jéssica Augusto medalha de ouro em Banguecoqu
+topic	Desporto. medalha de ouro em Banguecoque
+interviewee	Jessica Augusto
+role	aluna de Enfermagem da UMinho e actual campeã nacional de corta-mat
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	54
+date	Outubro/2007
+title	 A melhor de sempre Entrevista a Paulo Ferreira Presidente da FADU
+topic	Academia. Universíada
+interviewee	Paulo Ferreira
+role	presidente da FADU
+interviewer	Ana Coimbra
+university	Universidade do Minho
+journal	UMdicas
+issue	54
+date	Outubro/2007
+title	SASUM operam revolução para melhoria dos serviços à comunidade com vista à certificação de qu
+topic	Ação Social. SASUM operam revolução para melhoria dos serv
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	54
+date	Outubro/2007
+title	UMinho abre portas aos novos alunos
+topic	Academia. processo de inscriçõ
+interviewee	Dra. Carla Lavrador
+role	responsável dos Serviços Académicos da UMinho (SA
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	55
+date	Novembro/2007
+title	António Paisana 20 anos de futsa
+topic	Desporto. uma das figuras mais carismáticas do desporto universitário dentro da Academia Minho
+interviewee	António Paisan
+role	docente do Departamento de Produção e Sistem
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	56
+date	Janeiro/2008
+title	Passadiço de Azurém, uma ligação entre dois mu
+topic	Cultura. O simbolismo do Passadiç
+interviewee	João Monteir
+role	Pró-Reito
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	56
+date	Janeiro/2008
+title	Passadiço de Azurém, uma ligação entre dois mu
+topic	Cultura. O simbolismo do Passadiç
+interviewee	Ivo Silva
+role	estudante de Arquitectura
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	57
+date	Abril/2008
+title	TUTORUM - José Fernandes um campeão de Taekwon
+topic	Desporto. um campeão de Taekwond
+interviewee	José Fernande
+role	aluno de Engenharia Biomédic
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	57
+date	Abril/2008
+title	Interesse Público reconhecido ao Mundial Universitário de Badmint
+topic	Desporto. O 10º Campeonato Mundial Universitário de Badminton (CMU
+interviewee	Roque Teixeira
+role	Presidente do Comité Organizador do CMU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	57
+date	Abril/2008
+title	Opum Dei - Os profetas da Ordem
+topic	Cultura. A Ordem Profética da Universidade do Minho, mais conhecida por Opum De
+interviewee	João Gonçalv
+role	profeta Zézinh
+interviewer	Carlos Daniel Rego
+university	Universidade do Minho
+journal	UMdicas
+issue	58
+date	Junho/2008
+title	TUTORUM Fernando Ribeiro
+topic	Desporto
+interviewee	Fernando Ribeiro
+role	aluno de Enfermagem
+interviewer	Alexandre Carvalho
+university	Universidade do Minho
+journal	UMdicas
+issue	59
+date	Julho/2008
+title	TUTORUM Sara Bernardo
+topic	Desporto.
+interviewee	Sara Bernardo
+role	aluna do 2º ano de Medicina, Bi-campeão nacional universitá
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	59
+date	Julho/2008
+title	Prof. Doutor António Guimarã
+topic	Academia. o futuro da academia
+interviewee	António Guimarães Rodrigu
+role	Sr. Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	59
+date	Julho/2008
+title	Universidade do Minho estabelece protocolos de cooperação com instituições de Ensino Superior de Maputo (Moçamb
+topic	Academia. protocolos de cooperação com instituições de Ensino Superior de Ma
+interviewee	Prof. Leandro Almeida
+role	Vice-reitor
+interviewer	Redaç�
+university	Universidade do Minho
+journal	UMdicas
+issue	60
+date	Setembro/2008
+title	Entrevista ao Administrador dos Serviços de Acção Social, Eng.º Carlos S
+topic	Ação Social. apresentação dos SASUM aos al
+interviewee	Eng.º Carlos Silv
+role	Administrador dos Serviços de Acção Soc
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	61
+date	Outubro/2008
+title	Entrevista ao Vice-reitor da Universidade do Minho, Prof. Manuel Mota
+topic	Academia. os projectos, percepções e novidades para a área da internacionaliza
+interviewee	Prof. Manuel Mota
+role	Vice-reitor para a Investigação, a Internacionalização e a Extensão Universitária da Universidade do
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	61
+date	Outubro/2008
+title	Novos estudantes chegam à UMinh
+topic	Academia. processo de inscriçõ
+interviewee	Dr.ª Carla Lavrado
+role	Directora dos Serviços Académic
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	61
+date	Outubro/2008
+title	Entrevista ao Vice-presidente da AAUM para o Dep. Pedagógic
+topic	Academia. melhor perceber e dar a conhecer o funcionamento da AAUM neste momento de recepção aos novos membros da Academ
+interviewee	Eduardo Rodrigues
+role	Vice-presidente da AAUM para o Dep. Pedagógic
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	62
+date	Novembro/2008
+title	Jogos Galaico-Durienses uma ponte entre culturas
+topic	Desporto. 23ª Edição dos Jogos Galaico Durien
+interviewee	Carlos Silva
+role	Presidente do Comité Organizador dos Jogos Galaico Duriense
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	62
+date	Novembro/2008
+title	Emanuel Silva, o melhor canoísta portugues da actualidad
+topic	Desporto. o seu dia-a-dia e o seu futuro promissor
+interviewee	Emanuel Silva
+role	atleta/aluno de enfermagem
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	62
+date	Novembro/2008
+title	Portal AlumniUM, ligação ao passado e ao futu
+topic	Academia. O portal AlumniUM
+interviewee	Irene Montenegro
+role	Pró-reitor
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	64
+date	Dezembro/2008
+title	Universitat Autònoma de Barcelona de visita à UMin
+topic	Academia. colegas da Universitat Autònoma de Barcelona de visita à Universidade do Min
+interviewee	Mercè Masno
+role	serviços desportivos da UA
+interviewer	Paulo Ferreira
+university	Universidade do Minho
+journal	UMdicas
+issue	64
+date	Dezembro/2008
+title	� um orgulho para mim defender as cores nacionais
+topic	Desporto. conhecer agora um pouco mais deste estudante atleta
+interviewee	Tiago Monteiro
+role	aluno da Licenciatura em Gestão, é um dos muitos nomes que figuram entre a lista de atletas de alta competi�
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	64
+date	Dezembro/2008
+title	José Fernandes é o primeiro campeão portug
+topic	Desporto. a primeira medalha de ouro para Portugal num Europeu Universitário na modalidade de Taekwond
+interviewee	José Fernande
+role	aluno da Universidade do Minho conquistou a primeira medalha de ouro para Portugal
+interviewer	José Carlos Bragan�
+university	Universidade do Minho
+journal	UMdicas
+issue	64
+date	Dezembro/2008
+title	UMinho com uma das melhores infra-estruturas de Acção Social do pa
+topic	Acção Social. infra-estruturas de Acção So
+interviewee	Eng.º Carlos Silv
+role	Administrador dos Serviços de Acção Soc
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	64
+date	Dezembro/2008
+title	GSI obtém certificação de qualidade ISO 9001 2
+topic	Academia. GSI
+interviewee	José Fernande
+role	Director do Gabinete de Sistemas de Informação (GS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	64
+date	Dezembro/2008
+title	UMinho no topo da investigação nacion
+topic	Academia. resultados da avaliação das Unidades de I
+interviewee	Prof. Manuel Mota
+role	responsável pela área da investigação da UM
+interviewer	Redacç�
+university	Universidade do Minho
+journal	UMdicas
+issue	64
+date	Dezembro/2008
+title	TecMinho a Associaç�
+topic	Academia. A TecMinho
+interviewee	Eng.ª Manuela Neve
+role	responsável pelo Departamento de Formação Cont�
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	64
+date	Dezembro/2008
+title	NAMGE Núcleo de Alunos em Marketing e Gestão Estratég
+topic	Academia. linhas gerais deste recente núcleo de alunos de mestrad
+interviewee	responsável do NAMG
+role	NAMGE
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	65
+date	Janeiro/2009
+title	Armando Rocha - o senhor do desporto universitári
+topic	Desporto. desporto universtári
+interviewee	Armando Rocha
+role	referência incontornável da história do desporto universitário naci
+interviewer	Paulo Ferreira
+university	Universidade do Minho
+journal	UMdicas
+issue	65
+date	Janeiro/2009
+title	Prémio de Excelência reconhece o trabalho desenvolvi
+topic	Academia. O Instituto Confúcio da Universidade do Minh
+interviewee	Prof. Dr. Acílio Rocha, Prof. Dr.ª Sun L
+role	Presidente do Instituto Confúcio, Directora do Instituto Confúc
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	65
+date	Janeiro/2009
+title	UMinho desenvolve Portal Repositório Científico de Acesso Aberto de Portug
+topic	Academia. O Repositório Científico de Acesso Aberto de Portugal (RCAA
+interviewee	Dr. Eloy Rodrigues
+role	responsável dos SDU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	65
+date	Janeiro/2009
+title	Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenki
+topic	Academia. objectivos desta Associação de Estudant
+interviewee	Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenki
+role	AEESECG
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	65
+date	Janeiro/2009
+title	A minha vida é viajar e descobrir novos mundo
+topic	Cultura. couch-surfing
+interviewee	Luís Garci
+role	couch-surfer
+interviewer	José Carlos Bragan�
+university	Universidade do Minho
+journal	UMdicas
+issue	66
+date	Fevereiro/2009
+title	Pedro Póvoa, o sr. Olímpico do Taekwondo nacion
+topic	Desporto. atleta de Taekwondo da UMinho
+interviewee	Pedro Póvo
+role	aluno de Psicologia
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	66
+date	Fevereiro/2009
+title	Entrevista ao Reitor da Universidade do Minho
+topic	Academia. temas que afectam o ensino superior em geral e o dia-a-dia da Academia Minhota em particular
+interviewee	Prof. Dr. António Guimarães Rodrigu
+role	Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	67
+date	Março/200
+title	Prof. Jorge Silvério nomeado Provedor do Adept
+topic	Desporto. Jorge Silvéri
+interviewee	Jorge Silvéri
+role	mestre em psicologia do Desporto e Prof. na UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	68
+date	Abril/2009
+title	Entrevista a José Carvalho, VP AAUM para o Desportiv
+topic	Academia. entrada para a Associação Académica da Universidade do Mi
+interviewee	José Carvalh
+role	Vice-presidente da Associação Académica da Universidade do Minho (AAUM) para o departamento desport
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	68
+date	Abril/2009
+title	Citius, Altius, Fortius... se dúvidas houvesse
+topic	Desporto. O Campeonato Nacional Universitário de Pista ao Ar livr
+interviewee	Miguel Caldas
+role	técnico da modalidad
+interviewer	Paulo Ferreira
+university	Universidade do Minho
+journal	UMdicas
+issue	70
+date	Junho/2009
+title	Entrevista ao Administrador dos SASUM, Eng. Carlos Silva
+topic	Acção Social. SAS
+interviewee	Eng. Carlos Silva
+role	Administrador dos SASUM
+interviewer	Redacç�
+university	Universidade do Minho
+journal	UMdicas
+issue	70
+date	Junho/2009
+title	Filipa Martins, Vice-Presidente da AAUM para as Saídas Profissionai
+topic	Academia. mercado de trabalho
+interviewee	Filipa Martins
+role	Vice-Presidente da AAUM para as Saídas Profissionai
+interviewer	José Carlos Bragan�
+university	Universidade do Minho
+journal	UMdicas
+issue	71
+date	Julho/2009
+title	Entrevista a Eng. Celeste Pereira Responsável do Departamento Alimenta
+topic	Acção Social. O Departamento Alimentar (DA) dos Serviços de Acção S
+interviewee	Eng. Celeste Pereira
+role	responsável do D
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	71
+date	Julho/2009
+title	Entrevista aos responsáveis dos bares 1 e 
+topic	Acção Social. bares 1 e
+interviewee	Sr. Sá, Sr. Antón
+role	responsáveis dos bares 1 e 
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	71
+date	Julho/2009
+title	Entrevista à Prof. Irene Montenegro, responsável pelo Projecto Alumni
+topic	Academia. Portal AlumniUM
+interviewee	Prof. Irene Montenegro
+role	responsável do project
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	71
+date	Julho/2009
+title	Invenção do DEM protegida por patente Entrevista ao Prof. Jorge Marti
+topic	Academia. um projecto patenteado direccionado para a área de mecâni
+interviewee	Jorge Martins
+role	professor e investigador
+interviewer	José Carlos Bragan�
+university	Universidade do Minho
+journal	UMdicas
+issue	72
+date	Setembro/2009
+title	Apresentação das Unidades de serviço Alimentar Bar IV (EEng/ICS) Br
+topic	Acção Social. Bar
+interviewee	responsável do ba
+role	responsável do ba
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	72
+date	Setembro/2009
+title	UMinho abriu portas das residências em Agosto e proporcionou férias ao resto do Pa
+topic	Cultura. “Férias Low Co
+interviewee	Drª. Luísa Sant
+role	Chefe de Divisão do Departamento Social dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	72
+date	Setembro/2009
+title	Plano de Contingência da UMinho contra a gripe, informa-te e previne-t
+topic	Acção Social. Plano de Contingência para a pandemia da Gr
+interviewee	João Monteir
+role	Pró-reito
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	73
+date	Outubro/2009
+title	Apresentação das Unidades de serviço Alimentar Bar V (ECS) - Br
+topic	Acção Social. bar da Escola de Ciências da Sa
+interviewee	Sr. Américo Jorge Cost
+role	responsável do Ba
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	73
+date	Outubro/2009
+title	Entrevista a Madalena Alves, distinguida com Doutoramento Honóris Causa “Temos que ir à procura de novos desafios e sonhar um bocadin
+topic	Academia. sua carreira e interesses
+interviewee	Madalena Alves
+role	docente do departamento de Engenharia Biológica da Universidade do Minh
+interviewer	Francisca Fidalgo
+university	Universidade do Minho
+journal	UMdicas
+issue	74
+date	Novembro/2009
+title	Apresentação das Unidades de serviço Alimentar Bar de Engenharia I – Guim
+topic	Acção Social. Bar de Engenharia
+interviewee	Sr. Albano Conde
+role	responsável do Ba
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	74
+date	Novembro/2009
+title	Luísa Machado dos Santos, responsável do Departamento de Apoio Soci
+topic	Acção Social. O Departamento de Apoio Soci
+interviewee	Luísa Santo
+role	responsável do Departamento de Apoio Socia
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	74
+date	Novembro/2009
+title	Entrevista ao Vice-Presidente do Departamento Desportivo da AAUMinho, José Carvalh
+topic	desporto
+interviewee	José Carvalh
+role	Vice-Presidente do Departamento Desportivo da AAUM
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	74
+date	Novembro/2009
+title	Engenharia para o Futuro�
+topic	Academia. As Jornadas de Engenharia Biológic
+interviewee	Tiago Correia
+role	um dos responsáveis pela organização das XII Jornadas de Engenharia Bioló
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	75
+date	Dezembro/2009
+title	Apresentação das Unidades de serviço Alimentar Bar dos Congregados - Br
+topic	Acção Social. Bar dos Congregad
+interviewee	Sr. José Pereir
+role	responsável do Ba
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	75
+date	Dezembro/2009
+title	Atleta hoje, um médico amanh
+topic	Desporto. conhecer um pouco melhor este jovem lutador que irá representar a UMinho no I Campeonato Europeu Universitário de Taekwon
+interviewee	Rui Braganç
+role	aluno do 1º ano de medicina e atleta TUTORU
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	76
+date	Janeiro/2010
+title	SASUM alcançam dupla certificaç
+topic	Acção Social. ISO 220
+interviewee	Carlos Silva
+role	cargo de administrador para a Acção Soci
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	76
+date	Janeiro/2010
+title	Entrevista ao Prof. Doutor António M. Cunh
+topic	Academia. anseios, visões e projectos para o futuro da Academi
+interviewee	António M. Cunh
+role	Reitor da UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	77
+date	Fevereiro/2010
+title	Sector de Economato e Aprovisionamento dos SASUM
+topic	Academia. Sector de Economato e Aprovisionamento dos SASUM
+interviewee	José Saavedr
+role	responsável do Sector de Economato e Aprovisionamento dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	77
+date	Fevereiro/2010
+title	Jorge Castro, o homem do leme
+topic	Desporto. canoagem
+interviewee	Jorge Castro
+role	aluno do 2º ano de Psicologia, uma das grandes figuras da canoagem naciona
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	77
+date	Fevereiro/2010
+title	Entrevista com Luís Rodrigues recentemente eleito Presidente da AAU
+topic	Academia. direcção da AA
+interviewee	Luís Miguel Rodrigue
+role	presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	77
+date	Fevereiro/2010
+title	ARCUM, sonhos, projectos e vivência
+topic	Cultura. Associação Recreativa e Cultural Universitária do Minho (ARC
+interviewee	Nuno Pinto
+role	presidente da direcção da ARC
+interviewer	João Dia
+university	Universidade do Minho
+journal	UMdicas
+issue	78
+date	Fevereiro/2010
+title	Apresentação das Unidades de serviço Alimentar Cantina de Gualtar- Br
+topic	Acção Social. Cantina de Gualt
+interviewee	Sr. Abílio Fernande
+role	responsável desta unidade alimenta
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	78
+date	Fevereiro/2010
+title	Sector de Recursos Humanos dos SASUM
+topic	Academia. SRH
+interviewee	Carla Caçot
+role	responsável do Sector de Recursos Humano
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	78
+date	Fevereiro/2010
+title	Pedro Póvoa O Olímpico da UMin
+topic	Desporto. Taekwondo nacional e da UMinho
+interviewee	Pedro Póvo
+role	aluno do 2º ano de Psicologi
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	79
+date	Março/201
+title	Apresentação das Unidades de serviço Alimentar Cantina de Sta Tecla- Br
+topic	Acção Social. Cantina de Sta Tec
+interviewee	Sr. Manuel Rocha
+role	responsável pela Cantina de Sta Tecl
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	79
+date	Março/201
+title	Fiscalização e Manutenção dos S
+topic	Ação Social. pormenores sobre o S
+interviewee	Carlos Vieira
+role	responsável do Sector de Fiscalização e Manutenção dos 
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	79
+date	Março/201
+title	António Paisana Provedor do Estudante da Universidade do Minh
+topic	Academia. Ser Provedor do Estudante
+interviewee	Prof. António Maria Vieira Paisan
+role	Provedor do Estudante da Universidade do Minho
+interviewer	José Carlos Bragan�
+university	Universidade do Minho
+journal	UMdicas
+issue	79
+date	Março/201
+title	NITERUM - a união de forças Pró Energias Renová
+topic	Academia. NITERUM e TER
+interviewee	Renato Morgado e José Carlos Teixeir
+role	membros da Direcção do NITER
+interviewer	José Carlos Bragan�
+university	Universidade do Minho
+journal	UMdicas
+issue	79
+date	Março/201
+title	Elsa The European Law Students' Association
+topic	Academia. ELSA
+interviewee	Estudantes de Direito
+role	ELSA
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	Apresentação das Unidades de serviço Alimentar - Grill de Gual
+topic	Acção Social. o Gri
+interviewee	Sr. Carlos Cerqueira
+role	responsável do Gril
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	Sector de Informática dos SASU
+topic	Ação Social. pormenores sobre o SI, como é o seu dia-a-
+interviewee	José Pedro Ferreir
+role	responsável do Sector de Informática dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	Sector de Informática dos SASU
+topic	Ação Social. pormenores sobre o SI, como é o seu dia-a-
+interviewee	José Pedro Ferreir
+role	responsável do Sector de Informática dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	Dinamismo. O segredo da Escola de Direito
+topic	Academia. escola de Direito
+interviewee	Prof. Dr. Heinrich Ewald Horster
+role	presidente da escola de Direito
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	Dinamismo. O segredo da Escola de Direito
+topic	Academia. escola de Direito
+interviewee	Prof. Dr. Heinrich Ewald Horster
+role	presidente da escola de Direito
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	Os estudantes est�o todos os dias em primeiro lugar
+topic	Academia. balanço dos primeiros meses à frente do Departamento Pedagóg
+interviewee	Andreia Ferreira
+role	Vice-presidente do Departamento Pedagógico AAU
+interviewer	José Carlos Bragan�
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	Os estudantes est�o todos os dias em primeiro lugar
+topic	Academia. balanço dos primeiros meses à frente do Departamento Pedagóg
+interviewee	Andreia Ferreira
+role	Vice-presidente do Departamento Pedagógico AAU
+interviewer	José Carlos Bragan�
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	NEMUM e o Desporto
+topic	Desporto. desporto no NEMUM
+interviewee	Ricardo Jorge Fernandes e Joel Monteiro
+role	os responsávei
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	80
+date	Abril/2010
+title	NEMUM e o Desporto
+topic	Desporto. desporto no NEMUM
+interviewee	Ricardo Jorge Fernandes e Joel Monteiro
+role	os responsávei
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	81
+date	Maio/2010
+title	Apresentação das Unidades de serviço Alimentar - Bar de Engenharia II – Guim
+topic	Acção Social. o Bar de Engenharia 
+interviewee	Sr. Jorge Rodrigues
+role	responsável do Ba
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	81
+date	Maio/2010
+title	Apresentação das Unidades de serviço Alimentar - Bar de Engenharia II – Guim
+topic	Acção Social. o Bar de Engenharia 
+interviewee	Sr. Jorge Rodrigues
+role	responsável do Ba
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	81
+date	Maio/2010
+title	Sector de Alojamento dos SASUM
+topic	Acção Social. Sector de Alojamen
+interviewee	Ana Gabriela Osóri
+role	responsável do Sector de Alojamento dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	81
+date	Maio/2010
+title	Sector de Alojamento dos SASUM
+topic	Acção Social. Sector de Alojamen
+interviewee	Ana Gabriela Osóri
+role	responsável do Sector de Alojamento dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	81
+date	Maio/2010
+title	Entrevista com José F. Mendes, Vice-Reitor da UMinho “Os Campi são duas pequenas cidades que é preciso g
+topic	Academia. José F. Mendes, Vice-Reitor da UMinh
+interviewee	José F. Mende
+role	Vice-reitor para a Infra-estrutura, Inovação e Projectos Especia
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	81
+date	Maio/2010
+title	Entrevista com José F. Mendes, Vice-Reitor da UMinho “Os Campi são duas pequenas cidades que é preciso g
+topic	Academia. José F. Mendes, Vice-Reitor da UMinh
+interviewee	José F. Mende
+role	Vice-reitor para a Infra-estrutura, Inovação e Projectos Especia
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	81
+date	Maio/2010
+title	Humanismo da Escola de Arquitectura permite fazer mais e melhor
+topic	Academia. Escola de Arquitectura
+interviewee	Paulo Cruz
+role	docente da Universidade do Minho
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	81
+date	Maio/2010
+title	Humanismo da Escola de Arquitectura permite fazer mais e melhor
+topic	Academia. Escola de Arquitectura
+interviewee	Paulo Cruz
+role	docente da Universidade do Minho
+interviewer	Luciana Silva
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	O Departamento Alimentar tem evolu�do muito
+topic	Acção Social. Bar da Residência de Santa Te
+interviewee	Victor Peixoto
+role	responsável pelo Bar da Residência de Santa Tec
+interviewer	Maria João Quinta
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	O Departamento Alimentar tem evolu�do muito
+topic	Acção Social. Bar da Residência de Santa Te
+interviewee	Victor Peixoto
+role	responsável pelo Bar da Residência de Santa Tec
+interviewer	Maria João Quinta
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	Sector de Bolsas dos SASUM
+topic	Acção Social. mais pormenores sobre o 
+interviewee	Ana Paula Machado
+role	responsável do Sector de Bolsas (SB) dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	Sector de Bolsas dos SASUM
+topic	Acção Social. mais pormenores sobre o 
+interviewee	Ana Paula Machado
+role	responsável do Sector de Bolsas (SB) dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	A qualidade da investiga��o � o nosso emblema
+topic	Academia. ser presidente de uma escola
+interviewee	Estelita Rodrigues Vaz
+role	presidente da Escola
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	A qualidade da investiga��o � o nosso emblema
+topic	Academia. ser presidente de uma escola
+interviewee	Estelita Rodrigues Vaz
+role	presidente da Escola
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	Mestres no Troféu Reito
+topic	Academia. mestrado a participar no Troféu Reito
+interviewee	João Sineir
+role	aluno de mestrado
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	Mestres no Troféu Reito
+topic	Academia. mestrado a participar no Troféu Reito
+interviewee	João Sineir
+role	aluno de mestrado
+interviewer	Michael Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	Dep. Saídas Profissionais e Empreendedorismo da AAU
+topic	Academia. Departamento de Saídas Profissionais e Empreendedorimo da AAU
+interviewee	Eduardo Couturela Pereira
+role	aluno de Administração Públ
+interviewer	Ana Paula Magalhãe
+university	Universidade do Minho
+journal	UMdicas
+issue	82
+date	Junho/2010
+title	Dep. Saídas Profissionais e Empreendedorismo da AAU
+topic	Academia. Departamento de Saídas Profissionais e Empreendedorimo da AAU
+interviewee	Eduardo Couturela Pereira
+role	aluno de Administração Públ
+interviewer	Ana Paula Magalhãe
+university	Universidade do Minho
+journal	UMdicas
+issue	83
+date	Julho/2010
+title	Sector de Gestão Técnica e Desportiva do D
+topic	Academia. pormenores sobre o GTD
+interviewee	Pedro Miguel Dias
+role	responsável do Sector de Gestão Técnica e Desportiva do Departamento de Desportivo e Cultural (DDC) dos SA
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	83
+date	Julho/2010
+title	Sector de Gestão Técnica e Desportiva do D
+topic	Academia. pormenores sobre o GTD
+interviewee	Pedro Miguel Dias
+role	responsável do Sector de Gestão Técnica e Desportiva do Departamento de Desportivo e Cultural (DDC) dos SA
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	83
+date	Julho/2010
+title	Entrevista com Rui Vieira de Castro, Vice-Reitor da UMinho
+topic	Academia. Vice-reitor para a Investigação e Ensi
+interviewee	Rui Vieira de Castro
+role	Vice-reitor para a Investigação e Ensi
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	83
+date	Julho/2010
+title	Entrevista com Rui Vieira de Castro, Vice-Reitor da UMinho
+topic	Academia. Vice-reitor para a Investigação e Ensi
+interviewee	Rui Vieira de Castro
+role	Vice-reitor para a Investigação e Ensi
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	83
+date	Julho/2010
+title	Entrevista à Presidente do Instituto de Letras e Ciências Humanas (ILC
+topic	Academia. Instituto de Letras e Ciências Humanas (ILCH
+interviewee	Maria Eduarda Keating
+role	Presidente do Instituto de Letras e Ciências Humanas (ILCH
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	83
+date	Julho/2010
+title	Entrevista à Presidente do Instituto de Letras e Ciências Humanas (ILC
+topic	Academia. Instituto de Letras e Ciências Humanas (ILCH
+interviewee	Maria Eduarda Keating
+role	Presidente do Instituto de Letras e Ciências Humanas (ILCH
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	83
+date	Julho/2010
+title	Luzia Carmo, 34 anos e gestora de loja
+topic	Academia. maiores de 23
+interviewee	Luzia Carmo
+role	gestora de loja
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	83
+date	Julho/2010
+title	Luzia Carmo, 34 anos e gestora de loja
+topic	Academia. maiores de 23
+interviewee	Luzia Carmo
+role	gestora de loja
+interviewer	UMdicas
+university	Universidade do Minho
+journal	UMdicas
+issue	84
+date	Setembro/2010
+title	SASUM, “a tua família na Universida
+topic	Acção Social. conhecer melhor os Serviços de Acção Social da Universidade do Minho (S
+interviewee	Eng. Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	84
+date	Setembro/2010
+title	SASUM, “a tua família na Universida
+topic	Acção Social. conhecer melhor os Serviços de Acção Social da Universidade do Minho (S
+interviewee	Eng. Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	84
+date	Setembro/2010
+title	UMinho foi pioneira neste tipo de iniciativas
+topic	Academia. o Acolhimento aos novos alunos
+interviewee	António Cunha, Andreia Ferreir
+role	Reitor da UMinho, Vice-Presidente do Departamento Pedagógico da AAUMinh
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	84
+date	Setembro/2010
+title	UMinho foi pioneira neste tipo de iniciativas
+topic	Academia. o Acolhimento aos novos alunos
+interviewee	António Cunha, Andreia Ferreir
+role	Reitor da UMinho, Vice-Presidente do Departamento Pedagógico da AAUMinh
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	84
+date	Setembro/2010
+title	Entrevista à Presidente da Escola Superior de Enfermagem da Universidade do Minh
+topic	Academia. Escola Superior de Enfermagem
+interviewee	Maria Isabel Gomes de Sousa Lage
+role	Presidente da ESSE
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	84
+date	Setembro/2010
+title	Entrevista à Presidente da Escola Superior de Enfermagem da Universidade do Minh
+topic	Academia. Escola Superior de Enfermagem
+interviewee	Maria Isabel Gomes de Sousa Lage
+role	Presidente da ESSE
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	84
+date	Setembro/2010
+title	FESTIVAL DE OUTONO PROMOVE CULTURA
+topic	Cultura. Festival de Outono
+interviewee	Ana Gabriela Macedo
+role	presidente do Conselho Cultural da Universidade do Minho
+interviewer	João Nogueira Dia
+university	Universidade do Minho
+journal	UMdicas
+issue	84
+date	Setembro/2010
+title	FESTIVAL DE OUTONO PROMOVE CULTURA
+topic	Cultura. Festival de Outono
+interviewee	Ana Gabriela Macedo
+role	presidente do Conselho Cultural da Universidade do Minho
+interviewer	João Nogueira Dia
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	Bar das Residências de Azur�
+topic	Acção Social. Bar das Residências de Azu
+interviewee	Sílvia Net
+role	responsável pelo Bar da Residência de Azur
+interviewer	Laura Camacho
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	Bar das Residências de Azur�
+topic	Acção Social. Bar das Residências de Azu
+interviewee	Sílvia Net
+role	responsável pelo Bar da Residência de Azur
+interviewer	Laura Camacho
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	Sector da Tesouraria dos SASUM
+topic	Acção Social. mais pormenores sobre o 
+interviewee	Cristina Sousa
+role	responsável do Sector da Tesouraria (ST) dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	Sector da Tesouraria dos SASUM
+topic	Acção Social. mais pormenores sobre o 
+interviewee	Cristina Sousa
+role	responsável do Sector da Tesouraria (ST) dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	O Taekwondo tornou-me mais organizado e disciplinado
+topic	Desporto. conhecer um pouco melhor um dos grandes campeões do Taekwondo da UMinh
+interviewee	Eduardo Rodrigues
+role	Atleta Masculino do Ano da UMinho
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	O Taekwondo tornou-me mais organizado e disciplinado
+topic	Desporto. conhecer um pouco melhor um dos grandes campeões do Taekwondo da UMinh
+interviewee	Eduardo Rodrigues
+role	Atleta Masculino do Ano da UMinho
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	Entrevista com Luís Rodrigues, Presidente da AAU
+topic	Academia. presidência da AAU
+interviewee	Luís Rodrigue
+role	Presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	Entrevista com Luís Rodrigues, Presidente da AAU
+topic	Academia. presidência da AAU
+interviewee	Luís Rodrigue
+role	Presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	Inova��o. A palavra-chave que caracteriza a ECS
+topic	Academia. A Escola de Ciências da Saúde (EC
+interviewee	Cecília Le�
+role	actual presidente da Escola
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	85
+date	Outubro/2010
+title	Inova��o. A palavra-chave que caracteriza a ECS
+topic	Academia. A Escola de Ciências da Saúde (EC
+interviewee	Cecília Le�
+role	actual presidente da Escola
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	86
+date	Novembro/2010
+title	Entrevista Vice-Reitora Graciete Dias
+topic	Academia. Entrevista Vice-Reitora Graciete Dias
+interviewee	Graciete Dias
+role	Vice-reitora para a Qualidade, Avaliação e Ética Acadé
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	86
+date	Novembro/2010
+title	Entrevista Vice-Reitora Graciete Dias
+topic	Academia. Entrevista Vice-Reitora Graciete Dias
+interviewee	Graciete Dias
+role	Vice-reitora para a Qualidade, Avaliação e Ética Acadé
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	86
+date	Novembro/2010
+title	A empregabilidade dos nossos alunos � de 100%
+topic	Academia. Escola de Engenharia (EEUM)
+interviewee	Paulo Pereira
+role	presidente da Escola de Engenharia (EEUM)
+interviewer	Claudia Fernandes
+university	Universidade do Minho
+journal	UMdicas
+issue	86
+date	Novembro/2010
+title	A empregabilidade dos nossos alunos � de 100%
+topic	Academia. Escola de Engenharia (EEUM)
+interviewee	Paulo Pereira
+role	presidente da Escola de Engenharia (EEUM)
+interviewer	Claudia Fernandes
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Sector de Higiene e Segurança Alimentar dos SASU
+topic	Acção Social. mais pormenores sobre este sect
+interviewee	Celeste Pereira
+role	responsável do Sector de Higiene e Segurança Alimentar dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Sector de Higiene e Segurança Alimentar dos SASU
+topic	Acção Social. mais pormenores sobre este sect
+interviewee	Celeste Pereira
+role	responsável do Sector de Higiene e Segurança Alimentar dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Nuno Costa, a “máquina” de combate da U
+topic	Desporto. Taekwondo
+interviewee	Nuno Costa
+role	aluno da Licenciatura em Arquitectura e atleta TUTORUM
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Nuno Costa, a “máquina” de combate da U
+topic	Desporto. Taekwondo
+interviewee	Nuno Costa
+role	aluno da Licenciatura em Arquitectura e atleta TUTORUM
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Entrevista com a Vice-reitora Margarida Proenç
+topic	Academia. Vice-reitora para a área Administrativa e Financeir
+interviewee	Margarida Proenç
+role	Vice-reitora para a área Administrativa e Financeir
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Entrevista com a Vice-reitora Margarida Proenç
+topic	Academia. Vice-reitora para a área Administrativa e Financeir
+interviewee	Margarida Proenç
+role	Vice-reitora para a área Administrativa e Financeir
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Plano de actividades dos SASUM para 2011, Qualidade na presta��o dos servi�os e aposta nos Recursos Humanos
+topic	Ação Social. as grandes linhas estratégias do Plano de Actividades dos SASUM para 2
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Plano de actividades dos SASUM para 2011, Qualidade na presta��o dos servi�os e aposta nos Recursos Humanos
+topic	Ação Social. as grandes linhas estratégias do Plano de Actividades dos SASUM para 2
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Entrevista ao Presidente Escola de Economia e Gestão (EEG
+topic	Academia. Escola de Economia e Gestão da Universidade do Minh
+interviewee	José António Oliveira Roc
+role	presidente da Escola de Economia e Gestão (EEG
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	87
+date	Dezembro/2010
+title	Entrevista ao Presidente Escola de Economia e Gestão (EEG
+topic	Academia. Escola de Economia e Gestão da Universidade do Minh
+interviewee	José António Oliveira Roc
+role	presidente da Escola de Economia e Gestão (EEG
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	88
+date	Janeiro/2011
+title	Sector de Contabilidade e Gestão de Stocks SASU
+topic	Ação Social. Sector de Contabilidade e Gestão de Stocks SA
+interviewee	Filipa Oliveira
+role	responsável do Sector de Contabilidade e Gestão de Stoks dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	88
+date	Janeiro/2011
+title	Sector de Contabilidade e Gestão de Stocks SASU
+topic	Ação Social. Sector de Contabilidade e Gestão de Stocks SA
+interviewee	Filipa Oliveira
+role	responsável do Sector de Contabilidade e Gestão de Stoks dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	88
+date	Janeiro/2011
+title	Entrevista com a Pró-reitora Felisbela Lope
+topic	Academia. Entrevista com a Pró-reitora Felisbela Lope
+interviewee	Felisbela Lopes
+role	Pró-reitora para a Comunicação e Ima
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	88
+date	Janeiro/2011
+title	Entrevista com a Pró-reitora Felisbela Lope
+topic	Academia. Entrevista com a Pró-reitora Felisbela Lope
+interviewee	Felisbela Lopes
+role	Pró-reitora para a Comunicação e Ima
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	88
+date	Janeiro/2011
+title	Entrevista ao Presidente do Instituto de Educação (I
+topic	Academia. O Instituto de Educação (I
+interviewee	Leandro Almeida
+role	presidente do Instituto de Educação (I
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	88
+date	Janeiro/2011
+title	Entrevista ao Presidente do Instituto de Educação (I
+topic	Academia. O Instituto de Educação (I
+interviewee	Leandro Almeida
+role	presidente do Instituto de Educação (I
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	89
+date	Fevereiro/2011
+title	Nasci e cresci aqui, não fazia sentido escolher outra universidad
+topic	Desporto. conhecer um pouco melhor esta atleta TUTORUM
+interviewee	Mariana Falcã
+role	aluna de Medicina do 1º ano e atleta de voleibol do SCBrag
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	89
+date	Fevereiro/2011
+title	Nasci e cresci aqui, não fazia sentido escolher outra universidad
+topic	Desporto. conhecer um pouco melhor esta atleta TUTORUM
+interviewee	Mariana Falcã
+role	aluna de Medicina do 1º ano e atleta de voleibol do SCBrag
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	89
+date	Fevereiro/2011
+title	Entrevista com o Prof. António Cunh
+topic	Academia. A UMinho
+interviewee	Prof. Doutor António M. Cunh
+role	Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	89
+date	Fevereiro/2011
+title	Entrevista com o Prof. António Cunh
+topic	Academia. A UMinho
+interviewee	Prof. Doutor António M. Cunh
+role	Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	89
+date	Fevereiro/2011
+title	Entrevista ao Presidente do Instituto de Ciências Sociais (ICS
+topic	Academia. ICS
+interviewee	Miguel Bandeira
+role	presidente do Instituto de Ciências Sociais (ICS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	89
+date	Fevereiro/2011
+title	Entrevista ao Presidente do Instituto de Ciências Sociais (ICS
+topic	Academia. ICS
+interviewee	Miguel Bandeira
+role	presidente do Instituto de Ciências Sociais (ICS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	90
+date	Março/201
+title	Sector de Segurança (SEG) dos SASU
+topic	Acção Social. Sector de Seguran
+interviewee	Adelino Silva
+role	responsável do Sector de Segurança (SEG) dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	90
+date	Março/201
+title	Sector de Segurança (SEG) dos SASU
+topic	Acção Social. Sector de Seguran
+interviewee	Adelino Silva
+role	responsável do Sector de Segurança (SEG) dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	90
+date	Março/201
+title	Bar dos Professores de Gualtar
+topic	Acção Social. trabalhar no Departamento Aliment
+interviewee	Teresa Soares
+role	responsável pelo Bar dos Professore
+interviewer	Iolanda Lima
+university	Universidade do Minho
+journal	UMdicas
+issue	90
+date	Março/201
+title	Bar dos Professores de Gualtar
+topic	Acção Social. trabalhar no Departamento Aliment
+interviewee	Teresa Soares
+role	responsável pelo Bar dos Professore
+interviewer	Iolanda Lima
+university	Universidade do Minho
+journal	UMdicas
+issue	90
+date	Março/201
+title	Entrevista ao Presidente do Conselho Geral da UMinho – Eng.º Luís Braga da 
+topic	Academia. Luís Braga da Cru
+interviewee	Eng.º Luís Braga da Cr
+role	Presidente do Conselho Geral da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	90
+date	Março/201
+title	Entrevista ao Presidente do Conselho Geral da UMinho – Eng.º Luís Braga da 
+topic	Academia. Luís Braga da Cru
+interviewee	Eng.º Luís Braga da Cr
+role	Presidente do Conselho Geral da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	90
+date	Março/201
+title	Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenki
+topic	Academia. AEESECG
+interviewee	Paula Alves
+role	Presidente da direcç�
+interviewer	Mika Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	90
+date	Março/201
+title	Associação de Estudantes da Escola Superior de Enfermagem Calouste Gulbenki
+topic	Academia. AEESECG
+interviewee	Paula Alves
+role	Presidente da direcç�
+interviewer	Mika Ribeiro
+university	Universidade do Minho
+journal	UMdicas
+issue	91
+date	Abril/2011
+title	Sector de Património dos SASU
+topic	Ação Social. Sector de Património dos SA
+interviewee	Maria Vaz Saleiro Lima
+role	responsável do Sector de Património dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	91
+date	Abril/2011
+title	Sector de Património dos SASU
+topic	Ação Social. Sector de Património dos SA
+interviewee	Maria Vaz Saleiro Lima
+role	responsável do Sector de Património dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	91
+date	Abril/2011
+title	Bar do Grill de Gualtar
+topic	Acção Social. Bar do Gri
+interviewee	Maria Aurora Costa
+role	colaboradora do Bar do Grill de Gualtar
+interviewer	�ngela Coelho
+university	Universidade do Minho
+journal	UMdicas
+issue	91
+date	Abril/2011
+title	Bar do Grill de Gualtar
+topic	Acção Social. Bar do Gri
+interviewee	Maria Aurora Costa
+role	colaboradora do Bar do Grill de Gualtar
+interviewer	�ngela Coelho
+university	Universidade do Minho
+journal	UMdicas
+issue	91
+date	Abril/2011
+title	Entrevista a André Pinheiro, Vice-Presidente da AAU
+topic	Academia. como se deu a sua entrada no meio associativo, quais as suas responsabilidades e objectivos
+interviewee	André Pinheir
+role	aluno da Licenciatura em Estudos Portugueses e Lusófonos, actual Vice-Presidente do Departamento Desportivo da AAU
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	91
+date	Abril/2011
+title	Entrevista a André Pinheiro, Vice-Presidente da AAU
+topic	Academia. como se deu a sua entrada no meio associativo, quais as suas responsabilidades e objectivos
+interviewee	André Pinheir
+role	aluno da Licenciatura em Estudos Portugueses e Lusófonos, actual Vice-Presidente do Departamento Desportivo da AAU
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	91
+date	Abril/2011
+title	Entrevista com a Pró-reitora Paula Cristina Martin
+topic	Academia. Pró-reitora para o Ensin
+interviewee	Paula Cristina Martins
+role	Pró-reitora para o Ensin
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	91
+date	Abril/2011
+title	Entrevista com a Pró-reitora Paula Cristina Martin
+topic	Academia. Pró-reitora para o Ensin
+interviewee	Paula Cristina Martins
+role	Pró-reitora para o Ensin
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	92
+date	Maio/2011
+title	Sector de Secretariado Departamento Alimentar dos SASUM
+topic	Acção Social. Sector de Secretariado Departamento Alimentar dos SAS
+interviewee	Lídia Parent
+role	a responsável do Sector de Secretariado Departamento Alimentar dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	92
+date	Maio/2011
+title	Sector de Secretariado Departamento Alimentar dos SASUM
+topic	Acção Social. Sector de Secretariado Departamento Alimentar dos SAS
+interviewee	Lídia Parent
+role	a responsável do Sector de Secretariado Departamento Alimentar dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	92
+date	Maio/2011
+title	Bar do CP3 «as pessoas são sempre bem atendida
+topic	Acção Social. bar do C
+interviewee	Manuel S�
+role	responsável pelo bar do CP
+interviewer	Maria João Quinta
+university	Universidade do Minho
+journal	UMdicas
+issue	92
+date	Maio/2011
+title	Bar do CP3 «as pessoas são sempre bem atendida
+topic	Acção Social. bar do C
+interviewee	Manuel S�
+role	responsável pelo bar do CP
+interviewer	Maria João Quinta
+university	Universidade do Minho
+journal	UMdicas
+issue	92
+date	Maio/2011
+title	Entrevista com Vasco Teixeira, Pró-reitor para a Investigaç
+topic	Academia. Vasco Teixeira
+interviewee	Vasco Teixeira
+role	Pró-reitor para a Investigaç
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	92
+date	Maio/2011
+title	Entrevista com Vasco Teixeira, Pró-reitor para a Investigaç
+topic	Academia. Vasco Teixeira
+interviewee	Vasco Teixeira
+role	Pró-reitor para a Investigaç
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	93
+date	Julho/2011
+title	Restaurante Panorâmico da Universidade do Minh
+topic	Acção Social. O Restaurante Panorâmico da UMi
+interviewee	Fernando Silva, Manuel Cerqueira
+role	cozinheiro do restaurante Panorâmico, chefe de sala do Restaurante Panorâmi
+interviewer	Ana Paula Magalhãe
+university	Universidade do Minho
+journal	UMdicas
+issue	93
+date	Julho/2011
+title	Restaurante Panorâmico da Universidade do Minh
+topic	Acção Social. O Restaurante Panorâmico da UMi
+interviewee	Fernando Silva, Manuel Cerqueira
+role	cozinheiro do restaurante Panorâmico, chefe de sala do Restaurante Panorâmi
+interviewer	Ana Paula Magalhãe
+university	Universidade do Minho
+journal	UMdicas
+issue	93
+date	Julho/2011
+title	Entrevista com Cláudia Viana, Pró-reitora Jurídico-institucio
+topic	Academia. Cláudia Vian
+interviewee	Cláudia Vian
+role	Pró-reitora Jurídico-institucion
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	93
+date	Julho/2011
+title	Entrevista com Cláudia Viana, Pró-reitora Jurídico-institucio
+topic	Academia. Cláudia Vian
+interviewee	Cláudia Vian
+role	Pró-reitora Jurídico-institucion
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	93
+date	Julho/2011
+title	Entrevista a António Paisana - Provedor do Estudante da UMinh
+topic	Academia. António Paisan
+interviewee	António Maria Vieira Paisan
+role	Provedor do Estudante da UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	93
+date	Julho/2011
+title	Entrevista a António Paisana - Provedor do Estudante da UMinh
+topic	Academia. António Paisan
+interviewee	António Maria Vieira Paisan
+role	Provedor do Estudante da UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	94
+date	Julho/2011
+title	Cantina de Azuré
+topic	Acção Social. cantina de Azur
+interviewee	Zeferino Magalhãe
+role	responsável pela cantina de Azur�
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	94
+date	Julho/2011
+title	Cantina de Azuré
+topic	Acção Social. cantina de Azur
+interviewee	Zeferino Magalhãe
+role	responsável pela cantina de Azur�
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	94
+date	Julho/2011
+title	Sector Apoio Técnico ao Responsável do DAF dos SAS
+topic	Acção Social. mais pormenores sobre este sect
+interviewee	Amélia Sofia Cost
+role	responsável do Sector Apoio Técnico ao Responsável do DAF dos SA
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	94
+date	Julho/2011
+title	Sector Apoio Técnico ao Responsável do DAF dos SAS
+topic	Acção Social. mais pormenores sobre este sect
+interviewee	Amélia Sofia Cost
+role	responsável do Sector Apoio Técnico ao Responsável do DAF dos SA
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	94
+date	Julho/2011
+title	Entrevista com o Eng. Carlos Silva, Administrador dos SASUM
+topic	Acção Social. pormenores sobre Planeamento Estratégico dos SA
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	94
+date	Julho/2011
+title	Entrevista com o Eng. Carlos Silva, Administrador dos SASUM
+topic	Acção Social. pormenores sobre Planeamento Estratégico dos SA
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	95
+date	Outubro/2011
+title	Grill de Azuré
+topic	Acção Social. Grill de Azur
+interviewee	Manuel Sampaio Oliveira
+role	responsável pelo Grill de Azuém Grill de Azur
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	95
+date	Outubro/2011
+title	Grill de Azuré
+topic	Acção Social. Grill de Azur
+interviewee	Manuel Sampaio Oliveira
+role	responsável pelo Grill de Azuém Grill de Azur
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	95
+date	Outubro/2011
+title	Carlos Lucas, diretor de competições e eventos da LP
+topic	Desporto. conhecer um pouco melhor aquele que foi o primeiro português a trabalhar na UEF
+interviewee	Carlos Lucas
+role	diretor de competições e eventos da LP
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	95
+date	Outubro/2011
+title	Carlos Lucas, diretor de competições e eventos da LP
+topic	Desporto. conhecer um pouco melhor aquele que foi o primeiro português a trabalhar na UEF
+interviewee	Carlos Lucas
+role	diretor de competições e eventos da LP
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	95
+date	Outubro/2011
+title	Reitor da Universidade do Minho em grande entrevista
+topic	Academia. fazer um balanço do ano transacto, sentimentos, convicções e pontos de vista sobre alguns temas que afectam o ensino superior em geral e a Academia Minhota em particu
+interviewee	Prof. Dr. António M. Cunh
+role	Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	95
+date	Outubro/2011
+title	Reitor da Universidade do Minho em grande entrevista
+topic	Academia. fazer um balanço do ano transacto, sentimentos, convicções e pontos de vista sobre alguns temas que afectam o ensino superior em geral e a Academia Minhota em particu
+interviewee	Prof. Dr. António M. Cunh
+role	Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	96
+date	Novembro/2011
+title	Rampa B - Cantina de Azuré
+topic	Acção Social. trabalhar no Departamento Aliment
+interviewee	José Amori
+role	responsável pela Rampa B da Cantina de Azur�
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	96
+date	Novembro/2011
+title	Rampa B - Cantina de Azuré
+topic	Acção Social. trabalhar no Departamento Aliment
+interviewee	José Amori
+role	responsável pela Rampa B da Cantina de Azur�
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	96
+date	Novembro/2011
+title	Presidente da AAUM em grande entrevista
+topic	Academia. trajeto pela AAUM
+interviewee	Luís Miguel Rodrigue
+role	presidente da Associação Académica da Universidade do Mi
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	96
+date	Novembro/2011
+title	Presidente da AAUM em grande entrevista
+topic	Academia. trajeto pela AAUM
+interviewee	Luís Miguel Rodrigue
+role	presidente da Associação Académica da Universidade do Mi
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	96
+date	Novembro/2011
+title	&a grande maioria dos alunos entram neste Curso porque querem, e n�o por n�o terem vaga noutros&
+topic	Academia. Engenharia Mecânic
+interviewee	Professor Joaquim Barbosa
+role	diretor do Curso de Engenharia Mecânic
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	96
+date	Novembro/2011
+title	&a grande maioria dos alunos entram neste Curso porque querem, e n�o por n�o terem vaga noutros&
+topic	Academia. Engenharia Mecânic
+interviewee	Professor Joaquim Barbosa
+role	diretor do Curso de Engenharia Mecânic
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	97
+date	Dezembro/2011
+title	Bar do Auditório de Azur�
+topic	Acção Social. Bar do Auditório de Azu
+interviewee	Bertina Leite
+role	responsável pelo Bar do Auditório de Azur
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	97
+date	Dezembro/2011
+title	Bar do Auditório de Azur�
+topic	Acção Social. Bar do Auditório de Azu
+interviewee	Bertina Leite
+role	responsável pelo Bar do Auditório de Azur
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	97
+date	Dezembro/2011
+title	Pedro Ribeiro, Departamento Comercial da Companhia de Eletricidade de Macau
+topic	Academia. ex-aluno relembra a altura de estudante/atleta da UMinho
+interviewee	Pedro Ribeiro
+role	licenciado em Engenharia Mecânica, Departamento Comercial da CE
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	97
+date	Dezembro/2011
+title	Pedro Ribeiro, Departamento Comercial da Companhia de Eletricidade de Macau
+topic	Academia. ex-aluno relembra a altura de estudante/atleta da UMinho
+interviewee	Pedro Ribeiro
+role	licenciado em Engenharia Mecânica, Departamento Comercial da CE
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	97
+date	Dezembro/2011
+title	Tem uma abrang�ncia muito grande dentro da engenharia e n�o est� focado numa tecnologia
+topic	Academia. Mestrado Integrado em Engenharia e Gestão Industrial (MIEGI
+interviewee	Professor Rui M. Lima
+role	diretor de curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	97
+date	Dezembro/2011
+title	Tem uma abrang�ncia muito grande dentro da engenharia e n�o est� focado numa tecnologia
+topic	Academia. Mestrado Integrado em Engenharia e Gestão Industrial (MIEGI
+interviewee	Professor Rui M. Lima
+role	diretor de curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	N�o h� segredos, apenas trabalho&
+topic	Desporto. Taekwondo
+interviewee	Mário Silv
+role	aluno de Enfermagem, recente Campeão Europeu Universitário de Taekwondo da UMin
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	N�o h� segredos, apenas trabalho&
+topic	Desporto. Taekwondo
+interviewee	Mário Silv
+role	aluno de Enfermagem, recente Campeão Europeu Universitário de Taekwondo da UMin
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	José António Silva, Microsoft Portug
+topic	Academia. José António Sil
+interviewee	José António Sil
+role	ex-atleta de Alta Competição na modalidade de Canoag
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	José António Silva, Microsoft Portug
+topic	Academia. José António Sil
+interviewee	José António Sil
+role	ex-atleta de Alta Competição na modalidade de Canoag
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	Carlos Silva, Administrador dos Serviços de Acção Social da UMi
+topic	Ação Social. objetivos estratégicos dos SASUM, orçamento, planos, prioridades e dificuldades previstas para o novo
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	Carlos Silva, Administrador dos Serviços de Acção Social da UMi
+topic	Ação Social. objetivos estratégicos dos SASUM, orçamento, planos, prioridades e dificuldades previstas para o novo
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	Ao contr�rio de outras �reas h� falta de profissionais neste setor de atividade. Os nossos graduados podem esperar, como j� referi EMPREGO em Portugal e no mundo e, MUITOS DESAFIOS!
+topic	Academia. Mestrado Integrado em Engenharia Têxti
+interviewee	Rosa Maria Vasconcelos
+role	Diretora de curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	Ao contr�rio de outras �reas h� falta de profissionais neste setor de atividade. Os nossos graduados podem esperar, como j� referi EMPREGO em Portugal e no mundo e, MUITOS DESAFIOS!
+topic	Academia. Mestrado Integrado em Engenharia Têxti
+interviewee	Rosa Maria Vasconcelos
+role	Diretora de curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	A AAUM e a UMinho t�m um elevado prest�gio nas suas organiza��es desportivas
+topic	Academia. balanço deste seu último manda
+interviewee	André Pinheir
+role	Vice-Presidente do Departamento Desportivo da AAUMinho
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	98
+date	Dezembro/2011
+title	A AAUM e a UMinho t�m um elevado prest�gio nas suas organiza��es desportivas
+topic	Academia. balanço deste seu último manda
+interviewee	André Pinheir
+role	Vice-Presidente do Departamento Desportivo da AAUMinho
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	99
+date	Fevereiro/2012
+title	A minha fam�lia sempre foi o meu grande suporte
+topic	Desporto. conhecer um pouco melhor este atleta TUTORUM
+interviewee	Miguel Sarmento
+role	atleta do ABC
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	99
+date	Fevereiro/2012
+title	A minha fam�lia sempre foi o meu grande suporte
+topic	Desporto. conhecer um pouco melhor este atleta TUTORUM
+interviewee	Miguel Sarmento
+role	atleta do ABC
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	99
+date	Fevereiro/2012
+title	Os melhores anos da minha vida
+topic	Academia. ex-atletas da UMinho
+interviewee	Nuno Caetano
+role	ex-aluno de LESI e Licenciado em Gestã
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	99
+date	Fevereiro/2012
+title	Os melhores anos da minha vida
+topic	Academia. ex-atletas da UMinho
+interviewee	Nuno Caetano
+role	ex-aluno de LESI e Licenciado em Gestã
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	99
+date	Fevereiro/2012
+title	Ir� haver certamente uma maior descentraliza��o nas decis�es acompanhada por uma correspondente responsabiliza��o
+topic	Academia. saber quais as ideias, projetos e ações da AAUM para o próximo 
+interviewee	Hélder Castr
+role	Presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	99
+date	Fevereiro/2012
+title	Ir� haver certamente uma maior descentraliza��o nas decis�es acompanhada por uma correspondente responsabiliza��o
+topic	Academia. saber quais as ideias, projetos e ações da AAUM para o próximo 
+interviewee	Hélder Castr
+role	Presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	99
+date	Fevereiro/2012
+title	Pedro Gomes - Diretor de curso
+topic	Academia. Biologia-Geologia
+interviewee	Pedro Gomes
+role	diretor de curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	99
+date	Fevereiro/2012
+title	Pedro Gomes - Diretor de curso
+topic	Academia. Biologia-Geologia
+interviewee	Pedro Gomes
+role	diretor de curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	100
+date	Fevereiro/2012
+title	Rita Lírio, Managing Director do Programa Harvard Medical School Portuga
+topic	Academia. ex-atletas da UMinho
+interviewee	Rita Líri
+role	Managing Director do Programa Harvard Medical School Portugal
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	100
+date	Fevereiro/2012
+title	Reitor da UMinho em grande entrevista
+topic	Academia. vida da Academia
+interviewee	Prof. Dr. António Cunh
+role	Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	100
+date	Fevereiro/2012
+title	UM VINTAGE CHAMADO “AZEITUN
+topic	Cultura. 20 anos da Azeituna
+interviewee	Emanuel Gouveia
+role	presidente deste grupo cultural
+interviewer	JOÃO NOGUEIRA DIA
+university	Universidade do Minho
+journal	UMdicas
+issue	101
+date	Março/201
+title	A press�o e a ansiedade s�o partes integrantes do jogo
+topic	Desporto
+interviewee	Entrevista a Jean-Michel Fernandes
+role	atleta de taekwondo da UMinho
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	101
+date	Março/201
+title	Casos de Sucesso de ex-atletas da UMinho Alberto Abreu
+topic	desporto
+interviewee	Alberto Abreu
+role	figura histórica do andebol da UMinh
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	101
+date	Março/201
+title	Bruno Barracosa, Presidente da FADU
+topic	Desporto
+interviewee	Bruno Barracosa
+role	Presidente da FADU
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	101
+date	Março/201
+title	Cristina Flores- Diretora de curso
+topic	Academia
+interviewee	Cristina Flores
+role	Diretora de curso
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	102
+date	Maio/2012
+title	Estruturo todos os meus dias, de modo, a que tenha tempo para estudar, para treinar e me divertir.
+topic	Desporto
+interviewee	Ana Coelho
+role	atleta de taekwondo da UMinho e atleta TUTORUM
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	102
+date	Maio/2012
+title	Rui Gomes
+topic	Desporto
+interviewee	Rui Gomes
+role	engenheiro de produção, empresário, dirigente desport
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	102
+date	Maio/2012
+title	Paulo J. Ramísio, Pró-Reitor da UMin
+topic	Academia
+interviewee	Paulo J. Ramísi
+role	Pró-Reitor da UMinh
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	102
+date	Maio/2012
+title	João Cerejeira - Diretor de curs
+topic	Academia
+interviewee	João Cerejeir
+role	Diretor de curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	103
+date	Junho/2012
+title	Antonio Nestor Ribeiro - Diretor de curso
+topic	Academia
+interviewee	Antonio Nestor Ribeiro
+role	diretor de curso de LEI
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	104
+date	Agosto/2012
+title	UMinho recebe Mundiais de Futsal e Xadrez em Agosto
+topic	Desporto
+interviewee	Luís Rodrigue
+role	Presidente do Comité Organizador dos mundiai
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	105
+date	Outubro/2012
+title	O desporto coletivo � uma met�fora daquilo que encontrei na sociedade e no mercado de trabalho
+topic	Desporto
+interviewee	Hugo Triunfante
+role	licenciado em Engenharia de Sistemas e ex-capitão da equipa de Futsal da AAUMinh
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	105
+date	Outubro/2012
+title	Administrador dos SASUM em grande entrevista
+topic	Academia
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	106
+date	Novembro/2012
+title	Setor Alimentar dos SASUM Números, objetivos e novidades..
+topic	Academia
+interviewee	Eng. Celeste Pereira
+role	responsável do Setor Alimenta
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	106
+date	Novembro/2012
+title	Somos todos amigos e todos sabemos as nossas fun��es
+topic	Desporto
+interviewee	Gabriel Oliveira
+role	Treinador
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	106
+date	Novembro/2012
+title	A UMinho foi a minha primeira e �nica op��o
+topic	Desporto
+interviewee	Miguel Mesquita
+role	licenciado em Eng. Civil, dirigente associativo e capitão de equip
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	106
+date	Novembro/2012
+title	Hélder Castro, Presidente da AAU
+topic	Academia
+interviewee	Hélder Castr
+role	Presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	107
+date	Novembro/2012
+title	Departamento Administrativo e Financeiro dos SASUM
+topic	Academia
+interviewee	Dr.ª Susana Silv
+role	responsável do Departamento Administrativo e Financeir
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	107
+date	Dezembro/2012
+title	Hoje, todos reconhecer�o haver maior transpar�ncia na presta��o de contas e um n�vel mais elevado de participa��o respons�vel na vida da institui��o.
+topic	Academia
+interviewee	Luís Braga da Cru
+role	Presidente do Conselho Geral
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	108
+date	Dezembro/2012
+title	Servimos este ano cerca de 700 000 refei��es, devemos ficar pr�ximo dos 1 500 000 atendimentos nos bares
+topic	Accção Soci
+interviewee	Eng. Celeste Pereira
+role	Departamento Alimentar (DA) dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	108
+date	Dezembro/2012
+title	O Desporto e a atividade f�sica fazem parte da forma��o integral do estudante
+topic	Desporto
+interviewee	Fernando Parente
+role	Departamento Desportivo e Cultural (DDC) dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	108
+date	Dezembro/2012
+title	...toda a equipa do DS est� sempre dispon�vel para apoiar os alunos...
+topic	Academia
+interviewee	Departamento Social dos SASUM
+role	Departamento Social dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	109
+date	Janeiro/2013
+title	R.I. deu-me as ferramentas necess�rias para voar e facilmente enquadrar-me neste mundo cada vez mais complexo, heterog�neo e din�mico
+topic	Desporto
+interviewee	Elias Bene
+role	Licenciado em Relações Internacionais pela UMin
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	109
+date	Janeiro/2013
+title	Acredito que quem decide abra�ar um desafio destes s� o deve fazer se tiver a predisposi��o para marcar e para ser marcado. A predisposi��o de trazer o seu tempo, as suas capacidades e o dinamismo para construir algo de novo e melhor.
+topic	Academia
+interviewee	Carlos Alberto Videira
+role	Presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	109
+date	Janeiro/2013
+title	Fernando Duarte - Diretor de Curso
+topic	Academia
+interviewee	Fernando Duarte
+role	diretor do Mestrado Integrado em Engenharia de Polímero
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	109
+date	Janeiro/2013
+title	Serviços avançados para gestão de informação e preservação 
+topic	Academia
+interviewee	um dos fundadores da KEEP SOLUTIONS
+role	KEEP SOLUTIONS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	109
+date	Janeiro/2013
+title	Se gostas de cantar e queres aprender a tocar um instrumento, aparece aqui, aprendemos uns com os outros
+topic	Cultura
+interviewee	Ana S�
+role	Presidente do grupo
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	110
+date	Fevereiro/2013
+title	� importante que se sintam fazendo parte de uma equipa, e mais do que isso de uma fam�lia como s�o os SASUM
+topic	Academia
+interviewee	Dr. José Saavedr
+role	Setor de Economato e Aprovisionamento (ECAP)
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	110
+date	Fevereiro/2013
+title	Entrevista ao Reitor da UMinho, Prof. António M. Cunh
+topic	Academia
+interviewee	Prof. António M. Cunh
+role	Reitor da UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	110
+date	Fevereiro/2013
+title	Thomas Kahl - Diretor de Curso
+topic	Academia. Licenciatura em Matemátic
+interviewee	Thomas Kahl
+role	diretor da Licenciatura em Matemátic
+interviewer	Ana Marques
+university	Universidade do Minho
+issue	110
+date	Fevereiro/2013
+title	UMdicas
+title	Sob o lema “Veste outra pele” empresa promove experiências pessoais �
+topic	Acção Soci
+interviewee	Pedro Vieira
+role	ex-aluno da Universidade do Minho
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+issue	111
+date	Março/201
+title	UMdicas
+title	� para mim um privil�gio fazer o que gosto e trabalhar com colegas que primam por prestar um servi�o de efici�ncia e qualidade
+topic	Academia
+interviewee	Dr.ª Carla Caço
+role	Setor de Recursos Humanos (SRH) dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	111
+date	Março/201
+title	Entrevista a Carlos Videira, Presidente da AAUM
+topic	Cultura
+interviewee	Carlos Videira
+role	Presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	111
+date	Março/201
+title	Pedro Patrício - Diretor de Curs
+topic	Acaademia
+interviewee	Pedro Patríci
+role	Diretor de Curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	112
+date	Maio/2013
+title	&quando trabalhamos em equipa e sentimos que o resultado do nosso trabalho � considerado e valorizado, d�-nos �nimo para continuar&
+topic	Academia
+interviewee	Adélia Pereir
+role	Setor de Património dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	112
+date	Maio/2013
+title	Assegurada a manuten��o do n�vel de exig�ncia, o futuro da UMinho s� poder� ser melhor
+topic	Academia
+interviewee	Prof. Pedro Camõe
+role	Administrador da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	113
+date	Junho/2013
+title	&apesar da conjuntura social e econ�mica e das restri��es or�amentais&s�o cada vez mais prementes e vis�veis as car�ncias dos estudantes ao n�vel do apoio social escolar&
+topic	Acção Soci
+interviewee	Isabel Rêg
+role	dietora do Setor de Apoio Clínico dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	113
+date	Junho/2013
+title	António Vicente - Diretor de Curs
+topic	Academia
+interviewee	António Vicent
+role	Diretor de Curso
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	113
+date	Junho/2013
+title	Acho que um empreendedor n�o escolhe ser empreendedor, vai sendo ao longo da sua vida, mesmo sem saber nada de empreendedorismo.
+topic	Academia
+interviewee	um dos fundadores do Weadapt
+role	Weadapt
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	114
+date	Agosto/2013
+title	Os recursos humanos s�o, nos dias que correm e cada vez mais, os recursos mais valiosos das organiza��es. Uma organiza��o que n�o tenha esta vis�o dificilmente ter� sucesso na sua �rea de atividade.
+topic	Acção Soci
+interviewee	Eng. Celeste Pereira
+role	Setor de Higiene e Segurança Alimenta
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	114
+date	Agosto/2013
+title	Entrevista com o Administrador dos SASUM
+topic	Academia
+interviewee	Carlos Silva
+role	Administrador dos Serviços de Ação Soc
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	114
+date	Agosto/2013
+title	Madalena Lira - Diretora da Curso
+topic	Academia
+interviewee	Madalena Lira
+role	Diretora da Licenciatura em Optometria e Ciências da Vis�
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	115
+date	Setembro/2013
+title	Setores de Tesouraria e Faturação e Controlo de Senhas dos SAS
+topic	Academia
+interviewee	Cristina Sousa
+role	Setores de Tesouraria e Faturação e Controlo de Senhas dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	115
+date	Setembro/2013
+title	Guardo mais as amizades do que as medalhas e as vit�rias
+topic	Desporto
+interviewee	André Moreir
+role	Licenciado em Engenharia Electrónic
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	115
+date	Setembro/2013
+title	Desporto da UMinho e OVS aproveitam sinergias
+topic	Desporto
+interviewee	Open Village Sports Hotel & SPA Club
+role	Open Village Sports Hotel & SPA Club
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	115
+date	Setembro/2013
+title	Penso que globalmente, e pelo que se alcan�ou at� ao momento, trata-se de um posto relevante.
+topic	Academia
+interviewee	António Paisan
+role	Provedor do estudante da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	115
+date	Setembro/2013
+title	Sara Reis da Silva - Diretora da Curso
+topic	Academia
+interviewee	Sara Reis da Silva
+role	Diretora da Licenciatura em Educação Bás
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	116
+date	Outubro/2013
+title	Movimento “Menos olhos do que barrig
+topic	Acção Soci
+interviewee	Eng. Celeste Pereira
+role	Diretora do Departamento Alimentar
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	116
+date	Outubro/2013
+title	Trabalho todos os dias com o objetivo de chegar o mais longe poss�vel
+topic	Desporto
+interviewee	Hugo Rosári
+role	aluno de Economia da UMinho
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	116
+date	Outubro/2013
+title	Sou uma pessoa que vive o dia-a-dia e tento dar o meu melhor constantemente
+topic	Desporto
+interviewee	José Soare
+role	licenciado em Engenharia Biomédica pela UMinho e ex-atleta internacional de Hóquei Pati
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	116
+date	Outubro/2013
+title	Penso que globalmente, e pelo que se alcan�ou at� ao momento, trata-se de um posto relevante.
+topic	Cultura
+interviewee	Gabriela Macedo
+role	Presidente do Conselho Cultural da UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	116
+date	Outubro/2013
+title	Muitos s�o chamados, poucos verdadeiramente escolhidos
+topic	Cultura
+interviewee	Augustuna – Tuna Mista da Universidade do Min
+role	Augustuna – Tuna Mista da Universidade do Min
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	117
+date	Novembro/2013
+title	Os estudantes podem sempre contar com a fam�lia dos SASUM como sua fam�lia na UMinho, acolhendo-os, apoiando-os e acompanhando-os no seu percurso acad�mico
+topic	Academia
+interviewee	Ana Paula Machado
+role	Setor de Bolsas de Estudo dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	117
+date	Novembro/2013
+title	Sem d�vida que o antigo aluno � o melhor embaixador da UM
+topic	Academia
+interviewee	Francisco Torres
+role	Presidente da AAEUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	117
+date	Novembro/2013
+title	GEOJUSTIÇA - Soluções Geográficas de Apoio à Ju
+topic	Academia
+interviewee	fundadores da GEOJUSTIÇ
+role	GEOJUSTIÇ
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	118
+date	Dezembro/2013
+title	...o grau de empregabilidade � elevad�ssimo, praticamente 100%
+topic	Acção Soci
+interviewee	Sérgio Lope
+role	Diretor do Mestrado Integrado em Engenharia Eletrónica Industrial e Computadore
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	118
+date	Dezembro/2013
+title	SilicoLife - Computational Biology Solutions for the Life Sciences
+topic	Academia
+interviewee	fundadores da SilicoLife
+role	SilicoLife
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	119
+date	Janeiro/2014
+title	A atividade permanente dos servi�os e a sua dimens�o exigem a operacionalidade a 100% da infraestrutura tecnol�gica dos SASUM...
+topic	Acção Soci
+interviewee	Setor de Informática dos SASU
+role	Setor de Informática dos SASU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	119
+date	Janeiro/2014
+title	Estou a trabalhar com a ambi��o de ser Manager da equipa de engenheiros
+topic	Sucesso Desportivo
+interviewee	Eduardo Rodrigues
+role	licenciado em Engª de Gestão Industri
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	119
+date	Janeiro/2014
+title	Carlos Alberto Videira, Presidente da AAUM
+topic	Academia AAUM
+interviewee	Carlos Alberto Videira
+role	Presidente da AAUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	119
+date	Janeiro/2014
+title	Ana Maria Brandão - Diretora de Curs
+topic	Academia
+interviewee	Ana Maria Brandã
+role	Diretora da Licenciatura em Sociologia
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	119
+date	Janeiro/2014
+title	Ecoticket
+topic	Spin-Off
+interviewee	fundador da Ecoticket
+role	Ecoticket
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	119
+date	Janeiro/2014
+title	Tun’ao Minho, uma tuna mais tradicionalis
+topic	Cultura
+interviewee	Tuna Académica Feminina da Universidade do Minh
+role	Tuna Académica Feminina da Universidade do Minh
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	119
+date	Janeiro/2014
+title	� preciso haver paix�o pelo desporto
+topic	Sucesso Desportivo
+interviewee	Júlio Ferreir
+role	aluno de Arquitetura da UMinho
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	120
+date	Fevereiro/2014
+title	O impacto do primeiro contacto no atendimento dos utentes � vital para a imagem dos Servi�os
+topic	Acção Soci
+interviewee	Setor de Secretariado do Departamento de Apoio Social dos SASUM
+role	Setor de Secretariado do Departamento de Apoio
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	120
+date	Fevereiro/2014
+title	Tentei escolher a melhor universidade para o curso que sempre quis
+topic	Sucesso Desportivo
+interviewee	Diogo Figueiredo
+role	futuro engenheiro mecânic
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	120
+date	Fevereiro/2014
+title	Vivemos uma era de competitividade extrema, com cada vez mais indiv�duos especializados, pelo que para ter sucesso h� que ser agressivo e mais esfor�ado do que nunca.
+topic	Sucesso Desportivo
+interviewee	Nuno Moura
+role	Digital Brand Manager da Nike Football
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMdicas
+issue	120
+date	Fevereiro/2014
+title	António M. Cunha, Reitor da UMinho “Apesar das dificuldades do momento atual, a UMinho deve apostar, de forma clara, no seu cresciment
+topic	Academia
+interviewee	António M. Cunh
+role	Reitor da UMinho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	120
+date	Fevereiro/2014
+title	Emprego garantido, em Portugal e no estrangeiro!
+topic	Academia
+interviewee	Luís Paulo Rei
+role	diretor do Mestrado Integrado em Engenharia e Gestão de Sistemas de Informaç
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	120
+date	Fevereiro/2014
+title	BETWEIEN, Challenge and Success
+topic	Spin-off
+interviewee	fundador da BETWEIEN
+role	BETWEIEN
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	120
+date	Fevereiro/2014
+title	Grupo Folclórico da UMinh
+topic	Cultura
+interviewee	Grupo Folclórico da UMinh
+role	Grupo Folclórico da UMinh
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMDicas
+issue	121
+date	Março/201
+title	O DDC est� forte. Somos reconhecidos, tanto a n�vel nacional como internacional, como um exemplo a seguir em termos de boas pr�ticas.
+topic	Desporto
+interviewee	Gabriel Oliveira
+role	Sector de Gestão Técnica e Desportiva do D
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	121
+date	Março/201
+title	Rui Reis, Vice-reitor da UMinho
+topic	Academia
+interviewee	Rui Reis
+role	Vice-reitor para a investigação da Universidade do Min
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	121
+date	Março/201
+title	Castro, Pinto & Costa – Qualidade e Inova�
+topic	Spin-off
+interviewee	um dos fundadores da Castro, Pinto & Costa, Lda
+role	Castro, Pinto & Costa, Lda
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	122
+date	Maio/2014
+title	� gratificante saber que, todos os dias, a equipa do SFM, d� o seu contributo para o conforto daqueles que utilizam as nossas instala��es.
+topic	Academia SMF
+interviewee	equipa do Sector de Fiscalização e Manutenção dos S
+role	Sector de Fiscalização e Manutenção dos S
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	122
+date	Maio/2014
+title	Ano ap�s ano, batalha ap�s batalha, o objetivo � sempre o da supera��o
+topic	Desporto
+interviewee	Hugo Sousa
+role	Vice-presidente do Departamento Desportivo da AAUM
+interviewer	Nuno Gonçalve
+university	Universidade do Minho
+journal	UMDicas
+issue	122
+date	Maio/2014
+title	Filipe Vaz, Pró-reitor da Uminh
+topic	Academia
+interviewee	Filipe Vaz
+role	Pró-reitor da UMinh
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	122
+date	Maio/2014
+title	"Os alunos de MIEMAT podem esperar um vasto mercado de trabalho"""
+topic	Academia
+interviewee	Carla Martins
+role	diretora do Curso Mestrado Integrado em Engenharia de Materiais
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	122
+date	Maio/2014
+title	DISPLR, exploração criativa dos ecrãs públ
+topic	Spin-Off
+interviewee	fundadores da DISPLR
+role	DISPLR
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	123
+date	Junho/2014
+title	&as novidades v�o acontecendo � medida que h� necessidade de novos reportes de informa��o. Vamo-nos moldando �s necessidades.
+topic	Academia
+interviewee	Filipa Oliveira
+role	Líder do Sector de Contabilidade e Gestão de Stocks dos SAS
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	123
+date	Junho/2014
+title	& queremos apoiar os nossos estudantes a adotar uma perspetiva do exerc�cio profissional de Psicologia em novos contextos&
+topic	Academia
+interviewee	Carla Martins
+role	Diretora de curso do Mestrado Integrado em Psicologia
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	123
+date	Junho/2014
+title	ESI - Engenharia, Soluções e Inova�
+topic	Spin-Off
+interviewee	fundadores da ESI
+role	ESI
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	124
+date	Agosto/2014
+title	UMinho recebe Mundial Universitário de Andebol de 3 a 10 de agost
+topic	Desporto
+interviewee	Carlos Videira
+role	Presidente do Comité Organizado
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	124
+date	Agosto/2014
+title	UMinho recebe Mundial Universitário de Andebol de 3 a 10 de agost
+topic	Desporto
+interviewee	Fernando Parente
+role	Secretário-geral do Event
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	124
+date	Agosto/2014
+title	UMinho recebe Mundial Universitário de Andebol de 3 a 10 de agost
+topic	Desporto
+interviewee	Pedro Sanches
+role	Representante da FADU
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	124
+date	Agosto/2014
+title	UMinho recebe Mundial Universitário de Andebol de 3 a 10 de agost
+topic	Desporto
+interviewee	Augusto Silva
+role	Federação Portuguesa de Andebol Representante da F
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	124
+date	Agosto/2014
+title	UMinho recebe Mundial Universitário de Andebol de 3 a 10 de agost
+topic	Desporto
+interviewee	Aníbal Roch
+role	Câmara Municipal de Guimarã
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	124
+date	Agosto/2014
+title	UMinho recebe Mundial Universitário de Andebol de 3 a 10 de agost
+topic	Desporto
+interviewee	João Gandal
+role	Vice-presidente para a Aceditaç�
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	124
+date	Agosto/2014
+title	UMinho recebe Mundial Universitário de Andebol de 3 a 10 de agost
+topic	Desporto
+interviewee	Zizina Cristino
+role	Vice-presidente para o Voluntariado
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	125
+date	Outubro/2014
+title	...a cultura de excel�ncia que se vive na, e pela organiza��o, � o aspeto mais relevante nos dias de hoje.
+topic	Academia
+interviewee	Carlos Silva
+role	Administrador dos SASUM
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	126
+date	Novembro/2014
+title	Filomena Costa, a enfermeira candidata aos jogos olímpico
+topic	Desporto
+interviewee	Filomena Costa
+role	enfermeira candidata aos jogos olímpico
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	126
+date	Novembro/2014
+title	Entrevista com Ricardo Rio Presidente da Câmara Municipal de Brag
+topic	Acção Soci
+interviewee	Ricardo Rio
+role	Presidente da Câmara Municipal de Brag
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMDicas
+issue	127
+date	Janeiro/2015
+title	Equipa que lidera os SASUM
+topic	Acção Soci
+interviewee	Carlos Silva, Fernando Parente, Susana Silva, Celeste Pereira, Isabel Rêg
+role	Administrador, Diretor do Departamento Desportivo e Cultural, Diretora do Departamento Financeiro, Diretora do Departamento Alimentar, Diretora do Departamento Apoio Social
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	128
+date	Fevereiro/2015
+title	Sou otimista porque antecipo grandes oportunidades para a Universidade enquanto institui��o de conhecimento.
+topic	Academia
+interviewee	Prof. Dr. António M. Cunh
+role	Reitor da Universidade do Minho
+interviewer	Ana Marques
+university	Universidade do Minho
+journal	UMdicas
+issue	128
+date	Fevereiro/2015
+title	Para mim fazer parte desta Instituição e deste sector é gratifican
+topic	Academia
+interviewee	Celina Machado
+role	responsável pelo Setor de Orçamento e Conta dos SAS
+interviewer	Ana Marques
