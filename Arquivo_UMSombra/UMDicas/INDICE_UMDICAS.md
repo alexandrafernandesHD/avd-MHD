@@ -3,7 +3,7 @@
 ### APRESENTACAO
 ### RELATORIO
 ### [ARQUIVOS DAS ENTREVISTAS]([url](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/ARQUIVOS%20DAS%20ENTREVISTAS))
-### ARQUIVOS ORIGINAIS EM PDF
+### [ARQUIVOS ORIGINAIS EM PDF]([url](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/ARQUIVOS%20ORIGINAIS%20EM%20PDF))
 ### CODIGOS FONTE
 ##### UMDicas_Padroniza_Analisa
 Código fonte utilizado para padronização dos quatro ranges de entrevistas extraídas e para análise de sentimentos
