@@ -94,23 +94,6 @@ Um passo crucial foi a limpeza dos dados, incluindo a remoção de stop words. U
   - `visualizations/`: Gráficos e mapas gerados.
   - `reports/`: Relatórios de análise de dados.
 
-## Diretórios Adicionais
-
-- **make_csv/**: Contém Makefile e scripts .py para criar CSVs separados por classe gramatical.
-- **csv_prontos/**: CSVs já separados e ordenados por frequência.
-- **SENTIMENTOS_correu_mal/**: Tentativa de análise de sentimento com nltk.
-- **mwe/**: Documentos para capturar multiple word expressions.
-- **categorizacao/**: Dicionários que agrupam expressões com os mesmos valores.
-- **datas_por_entrevista/**: Arquivo txt que separa as datas referidas por entrevista.
-- **stopwords/**: Percentagem no corpus da quantidade de stopwords vs restantes.
-- **umdicasXNos/**: CSV da extração feita ao jornal NOS e fotos com comparação ao UMDicas.
-- **sort.py**: Código para ordenar frequência de valores.
-- **verbs_plot/**: Código para realizar o gráfico de verbos.
-- **miscelaneas_organizadas_plot.py**: Código para realizar o gráfico de miscelâneas mais frequentes.
-- **organizacoes_organizadas_plot.py**: Código para realizar o gráfico de organizações mais frequentes.
-- **persons_plot/**: Código para realizar o gráfico das pessoas mais mencionadas no UMDicas.
-- **palavras_mais_comuns/**: Código para realizar um gráfico das palavras mais frequentes em todos os jornais.
-- **loc_organizadas_plot.py**: Código para realizar o gráfico das localidades mais mencionadas no UMDicas.
 
 ## Conclusão
 
@@ -131,9 +114,12 @@ O projeto foi uma oportunidade de aplicar e aprimorar nossos conhecimentos em pr
 ## Links Úteis
 
 - [Site do Jornal UMDicas](https://www.sas.uminho.pt/noticias/jornal-umdicas)
+- [Relatório Colab] (https://colab.research.google.com/drive/1w6UR06k5rBReySVqqhYhT4ShuJprow6m?usp=sharing)
+- [Apresentação Gamma] (https://gamma.app/docs/UMDicas-117wvtn1ybze7w3?mode=doc)
 
 ## Atualizações
 
 Mais informações e atualizações sobre o progresso do projeto serão adicionadas conforme necessário.
 
 ---
+
