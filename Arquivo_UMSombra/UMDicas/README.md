@@ -2,9 +2,11 @@
 
 Este README detalha o projeto de extração e tratamento de dados do jornal UMDicas, uma publicação da Universidade do Minho, como parte do curso de Mestrado em Humanidades Digitais na Escola de Letras, Artes e Ciências Humanas - ELACH.
 
+
 ## Descrição do Projeto
 
 O jornal UMDicas teve sua primeira publicação em abril de 2003 e é disponibilizado em formato impresso e PDF. Ele cobre temas relacionados à academia, cultura, desporto e ação social, oferecendo entrevistas, reportagens sobre eventos e anúncios da comunidade acadêmica. Todas as edições estão disponíveis para consulta online, exceto a primeira.
+
 
 ## Objetivo
 
@@ -18,10 +20,19 @@ O principal objetivo deste projeto é extrair e tratar o conteúdo das edições
 - **Diana Pinto - PG54507**
 - **Lívia Bettero - PG52762**
 
+
 ## Professores
 
 - **Alvaro Iriarte Sanromán**
 - **José João A. G. Dias de Almeida**
 
 
+## Arquivos
+
+#### APRESENTACAO ([url](https://gamma.app/docs/UMDicas-117wvtn1ybze7w3))
+#### [RELATORIO] ([url](https://colab.research.google.com/drive/1w6UR06k5rBReySVqqhYhT4ShuJprow6m?usp=sharing))
+#### [ARQUIVOS DAS ENTREVISTAS]([url](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/ARQUIVOS%20DAS%20ENTREVISTAS))
+#### [ARQUIVOS ORIGINAIS EM PDF]([url](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/ARQUIVOS%20ORIGINAIS%20EM%20PDF))
+#### [CODIGOS FONTE]([url](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/CODIGOS%20FONTE))
+#### [EXTRACOES E EXCEL]([url](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/EXTRACOES%20E%20EXCEL))
 ---
