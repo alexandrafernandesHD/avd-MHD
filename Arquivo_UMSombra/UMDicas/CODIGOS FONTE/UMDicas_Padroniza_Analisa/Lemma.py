@@ -1,6 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Aumenta o tamanho da fonte
+plt.rcParams.update({'font.size': 14})
+
 # Carrega o arquivo CSV
 caminho_arquivo = r"D:\Users\lfher\Dani\UMinho\Processamento de Linguagem  Prof João\UM_Dicas_Codes\corpus-anotado_4.csv"
 dados = pd.read_csv(caminho_arquivo)
@@ -23,7 +26,13 @@ cores = ['skyblue', 'salmon', 'lightgreen', 'orange']
 
 # Plotagem do gráfico de barras com cores diferentes para cada categoria
 plt.figure(figsize=(10, 6))
-plt.bar(contagem_categorias.keys(), contagem_categorias.values(), color=cores)
+barras = plt.bar(contagem_categorias.keys(), contagem_categorias.values(), color=cores)
+
+# Adiciona o número acima das barras
+for barra in barras:
+    yval = barra.get_height()
+    plt.text(barra.get_x() + barra.get_width()/2.0, yval, int(yval), va='bottom', ha='center') # va: vertical alignment
+
 plt.xlabel('Categorias')
 plt.ylabel('Contagem')
 plt.title('Contagem de Categorias (PER, LOC, ORG, MISC)')
