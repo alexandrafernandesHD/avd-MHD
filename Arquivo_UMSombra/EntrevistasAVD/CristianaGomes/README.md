@@ -8,4 +8,4 @@
 * Para eliminar esta numeração, o código utilizado encontra-se no documento **"extracao.py"**. Daqui nascem dois txt limpos, **"texto_extraido.txt"** e **"texto_extraido2.txt"**.
 * A partir daqui, de forma manual, a entrevista foi copiada para um docx **"entrevista_editada"**; o mesmo processo para a entrevista em formato Markdown, **"entrevista.md"**
 * Um jpg com fotografia tirada à entrevistada, **"imagem_janine.jpg"**.
-
+* Link para a versão digital do **e-book**: ([url](https://issuu.com/cris_________________________________/docs/e-book_janine))
