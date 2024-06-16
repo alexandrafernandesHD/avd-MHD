@@ -13,3 +13,5 @@ Nesta pasta é possível encontrar os seguintes ficheiros relativos à entrevist
 **IMG_6382.JPG** - A imagem associada à entrevista.
 
 **EntrevistaJorgeLouro.pdf** - A versão da entrevista em PDF para oferecer ao entrevistado.
+
+**JorgeLouro.pptx** - Apresentação de Power Point 
