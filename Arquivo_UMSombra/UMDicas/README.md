@@ -35,7 +35,6 @@ O principal objetivo deste projeto é extrair e tratar o conteúdo das edições
 #### [ARQUIVOS ORIGINAIS EM PDF](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/ARQUIVOS%20ORIGINAIS%20EM%20PDF)
 #### [CÓDIGOS FONTE](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/CODIGOS%20FONTE)
 #### [EXTRAÇÕESES E EXCEL](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/EXTRACOES%20E%20EXCEL)
-#### [CSV](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/CSV)
 
 
 ---
