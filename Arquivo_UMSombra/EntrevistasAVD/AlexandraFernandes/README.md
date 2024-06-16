@@ -11,3 +11,5 @@ Nesta pasta é possível encontrar os seguintes ficheiros relativos à entrevist
 **versaofinal.md** - A versão final "limpa" e formatada. Possui metadados.
 
 **IMG_6382.JPG** - A imagem associada à entrevista.
+
+**EntrevistaJorgeLouro.pdf** - A versão da entrevista em PDF para oferecer ao entrevistado.
