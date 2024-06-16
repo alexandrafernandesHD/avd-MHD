@@ -1,0 +1,12 @@
+Entrevista 1: Positivas = 0, Negativas = 0
+Entrevista 2: Positivas = 157, Negativas = 293
+Entrevista 3: Positivas = 221, Negativas = 136
+Entrevista 4: Positivas = 89, Negativas = 120
+Entrevista 5: Positivas = 327, Negativas = 477
+Entrevista 6: Positivas = 280, Negativas = 371
+Entrevista 7: Positivas = 124, Negativas = 153
+Entrevista 8: Positivas = 81, Negativas = 136
+Entrevista 9: Positivas = 56, Negativas = 170
+Entrevista 10: Positivas = 87, Negativas = 100
+Entrevista 11: Positivas = 63, Negativas = 52
+Entrevista 12: Positivas = 197, Negativas = 166

@@ -1,0 +1,33 @@
+Entrevista 1:
+  Sentimento: Sentiment(polarity=0.08778822375989374, subjectivity=0.44161100165573325)
+
+Entrevista 2:
+  Sentimento: Sentiment(polarity=0.1399491568985815, subjectivity=0.44119642198126635)
+
+Entrevista 3:
+  Sentimento: Sentiment(polarity=0.09853229820066557, subjectivity=0.43745811930214235)
+
+Entrevista 4:
+  Sentimento: Sentiment(polarity=0.0502452822130788, subjectivity=0.4886880208303948)
+
+Entrevista 5:
+  Sentimento: Sentiment(polarity=0.11906319282058649, subjectivity=0.4339158585018212)
+
+Entrevista 6:
+  Sentimento: Sentiment(polarity=0.1399216651046548, subjectivity=0.4505386263221318)
+
+Entrevista 7:
+  Sentimento: Sentiment(polarity=0.12800294527146389, subjectivity=0.4631883677022563)
+
+Entrevista 8:
+  Sentimento: Sentiment(polarity=0.14292232388823306, subjectivity=0.4636542576741441)
+
+Entrevista 9:
+  Sentimento: Sentiment(polarity=0.06621697909168639, subjectivity=0.3790285423657786)
+
+Entrevista 10:
+  Sentimento: Sentiment(polarity=0.19904211413586415, subjectivity=0.4694892329892334)
+
+Entrevista 11:
+  Sentimento: Sentiment(polarity=0.11038676687895431, subjectivity=0.37481275215169424)
+

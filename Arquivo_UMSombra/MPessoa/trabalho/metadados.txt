@@ -1,0 +1,110 @@
+---
+interviewee: Alberto José Gonçalves de Carvalho Proença
+interviewer: Rui Miguel Oliveira Marques, Sandra Cristina Andrade Carvalho e Susana Braga
+job: docente universitário
+place of birth: Nampula-Moçambique
+date of birth: 01/07/1954
+date: 27/9/2000
+notes:
+---
+
+---
+interviewee: Aníbal Augusto Alves
+interviewer: Alzira Azevedo Alves
+job: docente universitário
+place of birth: Pinhal do Norte Carrezeda d'Ansiães-Alto Douro
+date of birth: 10/07/1940
+date: //
+notes:
+---
+
+---
+interviewee: António de Mota Gonçalves
+interviewer:
+job: Panificação; funcionário público
+place of birth: Caires-Amares
+date of birth: 30/09/1947
+date: //
+notes: Há uma série de nomes incompletos que é preciso confirmar junto do depoente
+---
+
+---
+interviewee: Maria Cecília Marado Moreira
+interviewer: Sónia Moreira
+job: Chefe de divisão do Centro de Informática - Gualtar
+place of birth: Braga
+date of birth: 16/Dezembro/1960
+date: 25/03/2002
+notes:
+---
+
+---
+interviewee: José Manuel Branco Marado Moreira
+interviewer:
+job:
+place of birth:
+date of birth: //
+date: 13/03/2002
+notes:
+---
+
+---
+interviewee: Lúcio Craveiro da Silva
+interviewer: Sónia Moreira
+job: Professor Catedrático; Reitor
+place of birth:
+date of birth: //
+date: //
+notes:
+---
+
+---
+interviewee: Manuel Domingues de Sá
+interviewer: Clarisse Almeida Araújo; Ana Alice de Castro Martins; Sónia Adriana Fernandes e Fátima Carvalho Dias
+job: Hotelaria; ajudante de cozinha; gerente
+place of birth: Lordelo-Amares
+date of birth: 08/02/1952
+date: 27/09/2000
+notes:
+---
+
+---
+interviewee: Paula Maria da Silva Anjo
+interviewer: Lurdes Abreu, Angelina Pinho e Susana Silva
+job: secretária; assistente administrativa
+place of birth: Luanda-Angola
+date of birth: 02/06/1968
+date: 07/09/2000
+notes:
+---
+
+---
+interviewee: Vasco Luís Freitas
+interviewer: Elisabete Carvalho, Carla Araújo e Denise Camposinhos
+job: docente universitário
+place of birth: Lisboa
+date of birth: 20/07/1948
+date: 29/09/2000
+notes:
+---
+
+---
+interviewee: Deborah Perrota de Andrade
+interviewer: Danielle Pinto Assis
+job: engenheira de software
+place of birht: Rio de Janeiro, no Brasil
+date of birth: 17/09/1984
+date: 03/04/2023
+notes:
+---
+
+---
+interviewee: Maria Filomena Louro
+interviewer: Maurício Barbosa
+job: docente universitário
+place of birth: Cantanhede, Coimbra
+date of birth:
+date: 03/04/2024
+notes:
+---
+

@@ -1,0 +1,968 @@
+Column1;Column2
+grande;242
+bom;194
+primeiro;173
+novo;92
+diferente;65
+pequeno;64
+difícil;50
+segundo;47
+velho;47
+pronto;46
+mesmo;41
+próprio;39
+preciso;33
+único;29
+português;28
+importante;27
+último;26
+capaz;25
+forte;25
+materno;25
+fantástico;25
+livre;24
+normal;24
+alto;22
+superior;22
+engraçado;22
+primário;21
+interno;21
+académico;21
+interessante;21
+público;20
+enorme;20
+profissional;19
+principal;18
+quarto;18
+cultural;18
+primária;16
+mau;16
+comum;16
+social;16
+possível;15
+igual;15
+junto;15
+simples;15
+antigo;15
+francês;15
+terceiro;14
+presente;14
+inglês;13
+positivo;13
+bastante;13
+má;13
+complicado;13
+próximo;12
+universitário;12
+sozinho;12
+duro;12
+evidente;12
+pessoal;12
+militar;12
+passado;12
+técnico;12
+alemão;12
+africano;11
+familiar;11
+geral;11
+paterno;11
+engraçar;11
+curioso;11
+bonito;10
+seguinte;10
+fácil;10
+afectivo;10
+político;9
+prático;9
+imenso;9
+tradicional;9
+actual;9
+certo;9
+natural;9
+esquerdo;9
+europeu;8
+seguro;8
+quinto;8
+administrativo;8
+pequeninho;8
+longo;8
+satisfeito;8
+excelente;8
+sério;8
+extraordinário;8
+piores;8
+moderno;8
+físico;8
+4ª;8
+obrigatório;7
+local;7
+médico;7
+doméstico;7
+parecido;7
+melhor;7
+claro;7
+externo;7
+aberto;7
+habituado;7
+japonês;7
+comigo;7
+interior;7
+humano;7
+ligado;7
+convencido;7
+meio;7
+horrível;7
+teórico;7
+", 7
+12º, 7
+rico, 6
+preto, 6
+agradável, 6
+típico, 6
+degradante, 6
+escolar, 6
+anterior, 6
+completo, 6
+pedagógico, 6
+final, 6
+assistente, 6
+louco, 6
+pequenino, 6
+casado, 6
+monitora, 6
+sossegado, 6
+cheio, 6
+zangado, 6
+secundário, 6
+irlandês, 6
+equivalente, 5
+suficiente, 5
+pleno, 5
+clássico, 5
+negativo, 5
+perigoso, 5
+impossível, 5
+feliz, 5
+rural, 5
+permanente, 5
+pacífico, 5
+ideal, 5
+habitual, 5
+definitivo, 5
+simpático, 5
+pobre, 5
+chamado, 5
+médio, 5
+complexo, 5
+liberal, 5
+docente, 5
+atrasado, 5
+10º, 5
+inteiro, 5
+vermelho, 5
+necessário, 5
+atual, 5
+autêntico, 4
+lateral, 4
+sétimo, 4
+gracioso, 4
+misto, 4
+pior, 4
+económico, 4
+amig, 4
+lectivo, 4
+quente, 4
+catedrático, 4
+relacionado, 4
+fascista, 4
+correcto, 4
+crítico, 4
+chato, 4
+estável, 4
+particular, 4
+masculino, 4
+íntimo, 4
+disposto, 4
+breve, 4
+psicológico, 4
+religioso, 4
+violento, 4
+oral, 4
+razoável, 4
+fresco, 4
+abrangente, 4
+privilegiado, 4
+rápido, 4
+espantado, 4
+civil, 4
+dramático, 4
+formal, 4
+cansadíssimo, 4
+cansado, 4
+confortável, 4
+doente, 4
+informático, 4
+comercial, 4
+passar, 4
+aéreo, 4
+estrangeiro, 4
+condicionado, 4
+medieval, 4
+provisório, 4
+nono, 4
+hoteleira, 4
+incompleto, 4
+eventual, 4
+doutoramento, 4
+vago, 3
+amplo, 3
+urbano, 3
+todo, 3
+famoso, 3
+independente, 3
+curto, 3
+instalado, 3
+inicial, 3
+moçambicano, 3
+específico, 3
+extra, 3
+nocturno, 3
+verde, 3
+electrónico, 3
+infantil, 3
+largo, 3
+notável, 3
+matricial, 3
+3º, 3
+diverso, 3
+interessar, 3
+jovem, 3
+contente, 3
+dependente, 3
+honesto, 3
+enriquecedor, 3
+humilde, 3
+fugaz, 3
+rígido, 3
+total, 3
+óptimo, 3
+determinado, 3
+saudável, 3
+sincero, 3
+italiano, 3
+estranhíssimo, 3
+fraco, 3
+conhecido, 3
+miúda, 3
+impecável, 3
+terrível, 3
+bestial, 3
+fixo, 3
+psicotécnico, 3
+transversal, 3
+intelectual, 3
+vivo, 3
+existente, 3
+reformado, 3
+sexto, 3
+eléctrico, 3
+5º, 3
+sul, 3
+gigante, 3
+gratificante, 3
+popular, 3
+fechado, 3
+maravilhoso, 3
+pacato, 3
+sozinha, 3
+histórico, 3
+laboratorial, 3
+estranho, 3
+germânico, 3
+espanhol, 3
+auxiliar, 3
+contemporâneo, 3
+curricular, 3
+crescido, 2
+estendido, 2
+sinónimo, 2
+protege-nos, 2
+ferroviário, 2
+inferior, 2
+barato, 2
+general, 2
+massacre, 2
+preparatório, 2
+seco, 2
+pós-revolução, 2
+visto, 2
+científico, 2
+contínuo, 2
+posterior, 2
+generalizado, 2
+sensato, 2
+desanimado, 2
+durar, 2
+vestido, 2
+folclórico, 2
+disponível, 2
+experimental, 2
+atento, 2
+XVIII, 2
+esporádico, 2
+leve, 2
+calmo, 2
+judaico, 2
+agrícola, 2
+fisicamente, 2
+escasso, 2
+delicado, 2
+carinhoso, 2
+amoroso, 2
+vigilante, 2
+raríssimo, 2
+só, 2
+térreo, 2
+problemático, 2
+ordenado, 2
+célebre, 2
+frio, 2
+vizinho, 2
+correspondente, 2
+firme, 2
+pesado, 2
+recente, 2
+aprofundado, 2
+grupal, 2
+bibliográfico, 2
+duplo, 2
+delineado, 2
+unificador, 2
+brilhante, 2
+relativo, 2
+adequado, 2
+regular, 2
+autoritário, 2
+rudimentar, 2
+pequenito, 2
+inscrito, 2
+feminino, 2
+licenciado, 2
+grosso, 2
+errado, 2
+inserido, 2
+falso, 2
+7º, 2
+revolucionário, 2
+americano, 2
+mal, 2
+exigente, 2
+mental, 2
+maluco, 2
+absoluto, 2
+incrível, 2
+más, 2
+penalizante, 2
+esquisito, 2
+global, 2
+oportunista, 2
+prepotente, 2
+justo, 2
+tímido, 2
+pouco, 2
+porreiro, 2
+assíduo, 2
+divorciado, 2
+significativo, 2
+financeiro, 2
+besta, 2
+ingrato, 2
+decepcionante, 2
+grave, 2
+programado, 2
+baixo, 2
+genial, 2
+portugês, 2
+tecnológico, 2
+privado, 2
+diversificado, 2
+pertinho, 2
+marcante, 2
+connosco, 2
+espantoso, 2
+triste, 2
+interessado, 2
+6º, 2
+partidário, 2
+belo, 2
+desempregado, 2
+Pronto, 2
+direito, 2
+fabuloso, 2
+recolhíamo, 2
+puro, 2
+micro, 2
+lindo, 2
+nacional, 2
+caro, 2
+voluntário, 2
+importantíssimo, 2
+fundir, 2
+avariado, 2
+aflito, 2
+electricista, 2
+unido, 2
+recto, 2
+inconcebível, 2
+basco, 2
+doloroso, 2
+aborrecido, 2
+isolado, 2
+belga, 2
+arrependido, 2
+colonialista, 2
+oficial, 2
+barcharelato, 2
+limpinho, 2
+descansado, 2
+sensibilizado, 2
+distingo, 2
+solteiro, 2
+gratuíta, 2
+monótono, 2
+sobrecarregado, 2
+horroso, 2
+espectacular, 2
+espaçoso, 2
+artificial, 2
+apertado, 2
+fresquinhas, 2
+é.com, 2
+terço, 2
+primo, 2
+naútico, 2
+boa, 2
+dividido, 2
+norte, 2
+utente, 2
+divertido, 2
+futuro, 2
+arriscar, 2
+constante, 2
+especial, 2
+acolhido, 2
+3D, 2
+burocrático, 2
+visível, 2
+efetivo, 2
+estagiária, 2
+grato, 2
+literário, 2
+norte-americano, 2
+XX, 2
+internacional, 2
+noivo, 1
+desastrado, 1
+feitio, 1
+delicioso, 1
+branco, 1
+apara, 1
+parecir, 1
+coronário, 1
+cardiologista, 1
+genérico, 1
+queneste, 1
+operário, 1
+automáticamental, 1
+multi-racial, 1
+baralhar, 1
+infeliz, 1
+insignificante, 1
+mesmoao, 1
+inteirinho, 1
+motivador, 1
+extremanente, 1
+baralhado, 1
+actuarmos, 1
+desaparecíamos, 1
+finito, 1
+complicar, 1
+monótona, 1
+ingrata, 1
+aceitararia, 1
+morno, 1
+tropical, 1
+conjunto, 1
+podre, 1
+pedregoso, 1
+conversa, 1
+habitacional, 1
+preocupado, 1
+compacto, 1
+plano, 1
+tipo, 1
+suposto, 1
+alfaiate, 1
+provável, 1
+caçador, 1
+originário, 1
+pequenina, 1
+rústico, 1
+exterior, 1
+gordinho, 1
+brincalhão, 1
+consciente, 1
+cordial, 1
+portuense, 1
+forçar, 1
+extremo, 1
+disciplinar, 1
+ilustre, 1
+sacerdote, 1
+violentíssimo, 1
+longamente, 1
+previsto, 1
+chave, 1
+consistente, 1
+avesso, 1
+alheio, 1
+saudoso, 1
+optimista, 1
+exímio, 1
+interpessoal, 1
+escolástico, 1
+parcial, 1
+reduzido, 1
+repetitiva, 1
+raso, 1
+especializar, 1
+audiovisual, 1
+ú;tel, 1
+notório, 1
+estreito, 1
+acalorado, 1
+sr.professor, 1
+sr., 1
+grávido, 1
+domingueiro, 1
+festivo, 1
+simultâneo, 1
+imediato, 1
+acadêmico, 1
+filosóico, 1
+curtinhas, 1
+certifico, 1
+radical, 1
+satisfatório, 1
+criativo, 1
+primordial, 1
+emperrado, 1
+aperfeiçoável, 1
+nuclear, 1
+patriarcal, 1
+sagrado, 1
+disciplinador, 1
+manda-, 1
+individualista, 1
+cômodo, 1
+simplório, 1
+mesmíssimo, 1
+quartilho, 1
+baratucho, 1
+aminhar, 1
+jáfui, 1
+danova, 1
+sossegadinho, 1
+normalíssimo, 1
+inibido, 1
+fériazinha, 1
+depanificação, 1
+nãofui, 1
+agrande, 1
+militare, 1
+ogosto, 1
+marítimo, 1
+incluivé, 1
+asmentira, 1
+maisdaquele, 1
+deTombali, 1
+tornado, 1
+escuro, 1
+dezminutos, 1
+deguerra, 1
+semanasinteiro, 1
+cidadesem, 1
+nenhumchoque, 1
+espantar, 1
+dominante, 1
+secretário, 1
+legislativo, 1
+irrequieto, 1
+contestatário, 1
+linear, 1
+certinho, 1
+nisto, 1
+noutro, 1
+meu, 1
+descrito, 1
+nosvisitam, 1
+positivoé, 1
+paradesenvolver, 1
+ninguémdesmente, 1
+assente, 1
+muitomau, 1
+porsinal, 1
+paraela, 1
+estavaem, 1
+mestre, 1
+filho, 1
+sobrevivo, 1
+nestemur, 1
+podemospré-destinar, 1
+afectivosquerio, 1
+coma, 1
+lógico, 1
+estápéssimo, 1
+Desaúde, 1
+desaúde, 1
+estãoentregue, 1
+estabilizado, 1
+emgeral, 1
+hobbiezinho, 1
+danatureza, 1
+dá-me, 1
+chegoà, 1
+todosjunto, 1
+trupedeado, 1
+evoluí, 1
+envolvido, 1
+egoísta, 1
+fino, 1
+vivido, 1
+gozado, 1
+formidável, 1
+antropológico, 1
+usaapena, 1
+culto, 1
+Dorealizador, 1
+amorrer, 1
+2º, 1
+paralelo, 1
+literária, 1
+nenhumas, 1
+caótico, 1
+desorganizado, 1
+política, 1
+pós-laboral, 1
+livreiro, 1
+solidário, 1
+proibido, 1
+Forçei-a, 1
+grandessíssimo, 1
+cabolona, 1
+repetente, 1
+estranhíssima, 1
+fraquíssima, 1
+propedêutico, 1
+metódico, 1
+orgulhoso, 1
+horroroso, 1
+indiscritível, 1
+racional, 1
+múltiplo, 1
+humilhante, 1
+suporto, 1
+compatível, 1
+brutal, 1
+mediano, 1
+alucinante, 1
+gago, 1
+peneu, 1
+umbilical, 1
+fracote, 1
+incomportável, 1
+marginalizar, 1
+competente, 1
+irreverente, 1
+ping-pong, 1
+diplomático, 1
+mútuo, 1
+psíquico, 1
+sofisticado, 1
+preferível, 1
+11º, 1
+sonho, 1
+insatisfeito, 1
+súbito, 1
+trabalhador, 1
+comunitário, 1
+distribuído, 1
+noticioso, 1
+obsoleto, 1
+anual, 1
+variado, 1
+tenho, 1
+madrinha, 1
+novito, 1
+empregado, 1
+agnóstico, 1
+queridinho, 1
+marginal, 1
+craniano, 1
+cuidadoso, 1
+pré-primário, 1
+acabado, 1
+3ª, 1
+reservado, 1
+cauteloso, 1
+retrair, 1
+raro, 1
+juvenis, 1
+extra-escola, 1
+encurvado, 1
+distraído, 1
+9º, 1
+commuito, 1
+vítima, 1
+socialista, 1
+comunista, 1
+chumbei, 1
+durinho, 1
+farto, 1
+abuse, 1
+torto, 1
+amigo, 1
+esplêndido, 1
+ansioso, 1
+desejoso, 1
+individual, 1
+patente, 1
+corregueiros, 1
+evoluída, 1
+rectângulozinho, 1
+metido, 1
+condensado, 1
+desapertado, 1
+magnético, 1
+fazer, 1
+momumental, 1
+descomunal, 1
+enormíssimo, 1
+amovível, 1
+gráfico, 1
+deficiente, 1
+homem-a-dias, 1
+corrido, 1
+bizarro, 1
+destinado, 1
+exemplar, 1
+profundo, 1
+quotidiano, 1
+suspeito, 1
+perfeito, 1
+parado, 1
+aselho, 1
+aconteçacomigo, 1
+deatitude, 1
+fisico, 1
+empresarial, 1
+espalhado, 1
+interssantíssimo, 1
+semelhante, 1
+miúdo, 1
+ocupado, 1
+fulano, 1
+universal, 1
+cruo, 1
+exibicionista, 1
+maltratante, 1
+precisamente, 1
+mundial, 1
+essencial, 1
+indústrial, 1
+espalhar, 1
+empreendedor, 1
+XIX, 1
+formaçãovem, 1
+tocavama, 1
+disperso, 1
+lobo, 1
+tolerante, 1
+republicano, 1
+monárquico, 1
+escrito, 1
+compria, 1
+dizia:Isso";1
+catalão;1
+gordo;1
+portuguesa;1
+desenvolvido;1
+fechadote;1
+alemã;1
+fundamental;1
+responsável;1
+pequeníssimo;1
+solene;1
+XVI;1
+admirar;1
+rapaz;1
+bracarense;1
+pobríssima;1
+jubilado;1
+erradaé;1
+miserável;1
+excepcional;1
+asfixiado;1
+intaladora;1
+precário;1
+idêntico;1
+analfabeto;1
+primeira;1
+desiludido;1
+pacatar;1
+refugio;1
+distante;1
+adulto;1
+sujeito;1
+digno;1
+desportivo;1
+vestia-a;1
+chateado;1
+aeróbico;1
+preguiçoso;1
+pico;1
+lenvantar;1
+irritado;1
+trabalhito;1
+stressado;1
+stressante;1
+remoto;1
+acampado;1
+marcado;1
+campo;1
+filha;1
+prática;1
+organizativo;1
+acompanhei;1
+vazio;1
+folgado;1
+acto;1
+aventureiro;1
+sociável;1
+directo;1
+componente;1
+alusivo;1
+lexical;1
+linguístico;1
+qualitativo;1
+quantitativo;1
+comparável;1
+pós-doutoramento;1
+prestativo;1
+quentinhas;1
+solitário;1
+respondido;1
+aplicável;1
+inesquecível;1
+ilustr;1
+suave;1
+tranquilo;1
+venezuelano;1
+brasileiro;1
+legal;1
+brasileira;1
+moroso;1
+exclusivo;1
+estabelecer;1
+relevante;1
+facilitadora;1
+filológico;1
+proletária;1
+proletário;1
+divertidíssimo;1
+paradigmático;1
+marcelista;1
+complementar;1
+anquilosado;1
+germânica;1
+volumoso;1
+atrativo;1
+circundante;1
+apelativo;1
+diferentes;1
+divergente;1
+profissionalizante;1
+Universitário;1
+qualificado;1
+chamar;1
+oriental;1
+demográfico;1
+metodóloga;1
+estimo;1
+interiorizado;1
+instalador;1
+estagiário;1
+automático;1
+glorioso;1
+graduado;1
+falador;1
+designado;1
+isabelino;1
+contigo;1
+polaco;1
+shakespeariano;1
+subliminar;1
+perturbador;1
+panfletário;1
+programático;1
+verdadeiro;1
+stirrer;1
+privilegiadíssimo;1
+determinante;1
+prévio;1
+intrínseco;1
+verificável;1
+péssimo;1
+décimo;1
+televisivo;1
+encantado;1
+concretizado;1
+agradecido;1
+cimeiro;1
+mulher;1
+telefónico;1
+penoso;1
+democrático;1
+impedido;1
+hilariante;1
+fria;1
+eleitoral;1
+ocidental;1
+avançar;1
+professora;1
+eminente;1
+criadora;1
+desiludidíssima;1
+oportuno;1
+demográfica;1
+anunciado;1
+clandestino;1
+reprodutivo;1
+quanto;1
+contabilizado;1
+diferenciador;1
+russo;1
+elevado;1
+característico;1
+autodidata;1
+apaixonadíssima;1
+poder;1
+intercalar;1
+penalizador;1
+asiático;1
+paritário;1
+feito;1
+sentado;1
+empoderador;1
+preparado;1
+laboral;1
