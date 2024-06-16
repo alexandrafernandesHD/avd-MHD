@@ -29,12 +29,12 @@ O principal objetivo deste projeto é extrair e tratar o conteúdo das edições
 
 ## Arquivos
 
-#### [APRESENTACAO](https://gamma.app/docs/UMDicas-117wvtn1ybze7w3)
-#### [RELATORIO](https://colab.research.google.com/drive/1w6UR06k5rBReySVqqhYhT4ShuJprow6m?usp=sharing)
+#### [APRESENTAÇÃO](https://gamma.app/docs/UMDicas-117wvtn1ybze7w3)
+#### [RELATÓRIO](https://colab.research.google.com/drive/1w6UR06k5rBReySVqqhYhT4ShuJprow6m?usp=sharing)
 #### [ARQUIVOS DAS ENTREVISTAS](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/ARQUIVOS%20DAS%20ENTREVISTAS)
 #### [ARQUIVOS ORIGINAIS EM PDF](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/ARQUIVOS%20ORIGINAIS%20EM%20PDF)
-#### [CODIGOS FONTE](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/CODIGOS%20FONTE)
-#### [EXTRACOES E EXCEL](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/EXTRACOES%20E%20EXCEL)
+#### [CÓDIGOS FONTE](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/CODIGOS%20FONTE)
+#### [EXTRAÇÕESES E EXCEL](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/EXTRACOES%20E%20EXCEL)
 #### [CSV](https://github.com/alexandrafernandesHD/avd-MHD/tree/main/Arquivo_UMSombra/UMDicas/CSV)
 
 
